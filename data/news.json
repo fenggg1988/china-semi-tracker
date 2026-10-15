@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-15 15:01:29",
- "count": 257,
+ "updated": "2026-10-15 15:03:45",
+ "count": 260,
  "items": [
   {
    "id": "1f122ad9d5a757e69122ecd54b299da8d1a841ee",
@@ -878,6 +878,19 @@
    "co": [
     "华虹"
    ]
+  },
+  {
+   "id": "86be7d37aa11a2dbd2b1bd6474407f6f170e320b",
+   "title": "三星DRAM路线图大变天！混合键合扶正为首个亚10nm节点：HBM5量产时间锁定",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kdDFzM1ZYNkN5c2RDT29yZGNHclpzLXRJekVGdFpJbTh1TUx0VjlzRm9HVDctd2d3aFh5MEdtSjktR19mcXpGRmNORmxOX09mS2pv?oc=5",
+   "source": "GoogleNews·搜狐网",
+   "domain": "memory",
+   "published": "2026-09-29",
+   "summary": "",
+   "first_seen": "2026-10-15",
+   "last_seen": "2026-10-15",
+   "bt": 2,
+   "co": []
   },
   {
    "id": "4db690b1ce3bc5f53cf1e367330f8e5b85e5aa62",
@@ -3181,6 +3194,32 @@
    "source": "GoogleNews·证券之星",
    "domain": "logic",
    "published": "2026-10-12",
+   "summary": "",
+   "first_seen": "2026-10-15",
+   "last_seen": "2026-10-15",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "0014df93d935ce51e17c1c18789be608d1e5dbd1",
+   "title": "中国光刻机买少了，ASML想出新招：维修涨价10%",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5jZERzd3NJNlE3bXBSbzhFRV9LdE9VYVY1Q3pnbDlJX2pLQmFvOUpvSGZXVHd0ZkZsTWs4QVFUWjJfalp2NlR6VTdla0ROSUN5VEFVWlZ6TGd3Sll2eW5qXw?oc=5",
+   "source": "GoogleNews·搜狐网",
+   "domain": "litho_machine",
+   "published": "2026-10-13",
+   "summary": "",
+   "first_seen": "2026-10-15",
+   "last_seen": "2026-10-15",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "02e65dee024b024e40acbdb55dc567f76e06a7e2",
+   "title": "瞄准先进封装，尼康发布新款光刻机",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQLWRvYUJfaTFDYzBmTnBuY0QtSldmMTI1N2ZEMlp0MV9Hc2lPUG94bXZUcmNXS1FoQWl1a0swQWV3VUhCNjZoc1hFcU9TdFdoNFhET3p2dmNCcTBfU2VoSlZFajlISGZtb1kyRmdQUzFzVGFfb0FoeU9IQ01HU0lnQ3M5UnBZWFE2OExmag?oc=5",
+   "source": "GoogleNews·搜狐",
+   "domain": "litho_machine",
+   "published": "2026-10-14",
    "summary": "",
    "first_seen": "2026-10-15",
    "last_seen": "2026-10-15",
