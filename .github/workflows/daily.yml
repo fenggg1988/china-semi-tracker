@@ -1,0 +1,41 @@
+name: Daily Semiconductor Breakthrough Scrape
+
+on:
+  schedule:
+    # 09:10 Beijing time (UTC+8) == 01:10 UTC
+    - cron: "10 1 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install --no-cache-dir -r requirements.txt
+
+      - name: Run scraper
+        run: python scrape_news.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/news.json data/news.csv index.html
+          if git diff --cached --quiet; then
+            echo "No data changes to commit"
+          else
+            git commit -m "chore: daily semiconductor news update $(date -u +%F)"
+            git pull --rebase --autostash origin "$(git branch --show-current)" || true
+            git push
+          fi
