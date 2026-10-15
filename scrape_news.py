@@ -408,7 +408,8 @@ def parse_gnews(name: str = "Google News"):
             pub = ""
             if d:
                 try:
-                    pub = datetime.strptime(d.group(1).strip()[:25], "%a, %d %b %Y %H:%M:%S").strftime("%Y-%m-%d")
+                    _dt = datetime.strptime(d.group(1).strip()[:25], "%a, %d %b %Y %H:%M:%S")
+                    pub = _dt.replace(tzinfo=timezone.utc).astimezone(BJ).strftime("%Y-%m-%d")
                 except Exception:  # noqa: BLE001
                     pub = ""
             if len(title) < 8:
@@ -542,6 +543,9 @@ def build_dashboard(items):
     payload = []
     for it in items:
         d = DOMAIN_BY_KEY.get(it.get("domain", ""))
+        src = it.get("source", "")
+        if src.startswith("GoogleNews·"):
+            src = src.split("·", 1)[1] + " ·G"
         payload.append({
             "t": it.get("title", ""),
             "u": it.get("url", ""),
