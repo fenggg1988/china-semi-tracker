@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-15 15:03:45",
- "count": 260,
+ "updated": "2026-10-15 15:06:29",
+ "count": 261,
  "items": [
   {
    "id": "1f122ad9d5a757e69122ecd54b299da8d1a841ee",
@@ -212,6 +212,19 @@
    "source": "GoogleNews·zqrb.cn",
    "domain": "memory",
    "published": "2026-10-11",
+   "summary": "",
+   "first_seen": "2026-10-15",
+   "last_seen": "2026-10-15",
+   "bt": 4,
+   "co": []
+  },
+  {
+   "id": "894bf3479b3ec8a94957f765ef55471cc0d4f13c",
+   "title": "万集光电开放晶圆级异质集成平台，助力硅光企业快速实现产品验证和落地- 头条",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9WNldnVWZHWm1nZHdwOEMydmRnaDBBbXlUUGtSalFMLUVUTkFPWTJQbXpCTnlOdGxSZXBUQmtmZFJHdGM2djRHbFRpR0hfbVFrVlNnTlJaOXo?oc=5",
+   "source": "GoogleNews·光通信Pro",
+   "domain": "optical_comm",
+   "published": "2026-10-10",
    "summary": "",
    "first_seen": "2026-10-15",
    "last_seen": "2026-10-15",
