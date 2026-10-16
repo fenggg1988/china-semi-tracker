@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-16 13:31:00",
- "count": 359,
+ "updated": "2026-10-16 13:49:02",
+ "count": 360,
  "items": [
   {
    "id": "1d950ee5c96582fbd960b76bd899a7c5946530d3",
@@ -1215,6 +1215,19 @@
    "domain": "memory",
    "published": "2026-10-16",
    "summary": "",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "db1d933c5ec5f82726fc4653390024e3b35baa63",
+   "title": "SK海力士展示HBM之外的下一代AI内存技术",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1582458.htm",
+   "source": "cnBeta",
+   "domain": "memory",
+   "published": "2026-10-16",
+   "summary": "SK海力士周五表示，已展示了其下一代人工智能（AI）内存技术，旨在将AI基础设施的边界扩展到传统高带宽内存（HBM）之外。该公司在当地时间周二至周四于美国加州举行的OCP全球峰会2026上发布了这些技术。该峰会是由开放计算项目基金会（OCP Foundation）组织的年度会议，汇聚了工程师和行业领袖。 阅读全文",
    "first_seen": "2026-10-16",
    "last_seen": "2026-10-16",
    "bt": 0,
