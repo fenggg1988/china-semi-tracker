@@ -5,9 +5,15 @@ on:
     # 09:10 Beijing time (UTC+8) == 01:10 UTC
     - cron: "10 1 * * *"
   workflow_dispatch:
+    inputs:
+      chain:
+        description: "内部使用：链式调度传来的标记，勿手动填写"
+        required: false
+        default: "0"
 
 permissions:
   contents: write
+  actions: write
 
 jobs:
   scrape:
