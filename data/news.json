@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-16 09:26:04",
- "count": 324,
+ "updated": "2026-10-16 09:29:15",
+ "count": 331,
  "items": [
   {
    "id": "1d950ee5c96582fbd960b76bd899a7c5946530d3",
@@ -216,6 +216,32 @@
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA3Z1Bob1FWVDV2VWw3MHptdlBpTVJFWjBLRkFUbHNqOW85eThXckNkVjNDUlFJMWVJcUdGRWV2OVU3MDJLZm1rZjBmSzloOE85aTFtN1J1X3V1VmxxbURDR002aDltUQ?oc=5",
    "source": "GoogleNews·万维读者网",
    "domain": "litho_machine",
+   "published": "2026-10-16",
+   "summary": "",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "d60e5864bfad859354fd2c31f5ea1eef0f857be2",
+   "title": "若是哪天我们搞定了EUV光刻机，领先世界20年，请不要觉得惊讶",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKWVE3OVpfYThxVlZUQUJlRkJNZVczb1ZYVzEyNXE3U0VlZWxkd1I0QnludFNFQnVhVVlSakNCMnRyWl9CajNCeWpDZzEtbnJDYWEzSU1CbGNUMVg0NnZjNA?oc=5",
+   "source": "GoogleNews·搜狐网",
+   "domain": "litho_machine",
+   "published": "2026-10-14",
+   "summary": "",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "b74e63ff0363d93ed272fca9006bdb0e722605fd",
+   "title": "首展LPDDR6、官宣G5平台量产 长鑫科技新品与“豆包手机”一同亮相",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9lVEtXWFNXLV9nZWJaUGhodnVaSmxPbkw5d3lmUlI5SUEyZ21NZ0t6TmhkT2VZSXNMTnBsWHdiYkxFWUExT0lGNA?oc=5",
+   "source": "GoogleNews·财联社",
+   "domain": "memory",
    "published": "2026-10-16",
    "summary": "",
    "first_seen": "2026-10-16",
@@ -796,6 +822,77 @@
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRNFo4ZkdHOHBLa0lOZjNFSGs4SFN5MUUySXo2TS10OVI0SUFTSzZqQUZQQlI5U1MxZC1MZ0toaWR4OUU5aUlRMDVncTVEME1JMTZn?oc=5",
    "source": "GoogleNews·搜狐网",
    "domain": "litho_machine",
+   "published": "2026-10-15",
+   "summary": "",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "0139262e04df437bc1474ffc21f103e694d1db76",
+   "title": "彤程新材港交所挂牌：A+H时刻助力国产光刻胶加速突围",
+   "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5TeFJKMzZYZWoxTXBfY041LW9QNzJaQktiWENfREsxUG5YeEZDWXZ6S00wczFxVFdGbXhZTVJyRFRLMHc?oc=5",
+   "source": "GoogleNews·集微网",
+   "domain": "photoresist",
+   "published": "2026-09-29",
+   "summary": "",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "bt": 0,
+   "co": [
+    "彤程新材"
+   ]
+  },
+  {
+   "id": "74a7cb7e0bd850e289ed74f87f13cde296d2b0bc",
+   "title": "中信证券：光模块温控正由“配套环节”升级为“性能决定环节”_证券要闻",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE90WXlDSmNSdVVZdklydDJxZ1NCaXJUTXBSOF9hOFZyUmFpYllxaDFOTXBjYjVRZUFhcW9WSEIyb1MtUGt3Y1J0TXlVR19GUnV1OWFOQ0pHWTJoZVVMTjZLV0Nn?oc=5",
+   "source": "GoogleNews·证券之星",
+   "domain": "optical_comm",
+   "published": "2026-09-30",
+   "summary": "",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "bb79e403c5864b2f50208c34009bb4fdb2b8fb5e",
+   "title": "韩国股民爆买中国科技股，标的曝光|中芯国际公司|中际旭创|澜起科技|奥士康|德明利",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNlcwUlQ3ZTg2UlJMdzVCbUxhb0xHSXJfNWNYTXpvUTNWS1ZHdVJIX1VCVGlHQ1ZpRnJmTDdwRm04MDlydE9XNno0RU5rc3ItcndFaGxaRzJkQjVwUWwzZFU4YlhnMEdZVzZwemZ3TVk3LW1OeHMyd29UX0g3YTMwbnI1QnotMXhLM2R6TDY2cUZCLUJqWUl1UVFsaUhBSnVtYVVCQmw5SW1fZ1QzRFpULXluaktGVEd0TmtYTUdCaGFhWnNBZTV0X0Nudi1xT000bEdiV1FSV1dDWjNTbmU3Rlh0ZVUzcEtId0ZHUTd3?oc=5",
+   "source": "GoogleNews·新浪新闻",
+   "domain": "logic",
+   "published": "2026-10-14",
+   "summary": "",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "bt": 0,
+   "co": [
+    "中际旭创",
+    "澜起科技",
+    "中芯国际"
+   ]
+  },
+  {
+   "id": "9fa2510f7fd3412c415304e35a427f0d553dee66",
+   "title": "长鑫科技新型架构撼动存储市场 海外龙头垄断壁垒面临重估",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ONTVkMDNoOXEwOG5RR3pGQ280WEhXTFdkTkw3dDlPSG1GeDczZHZacGx5YVBPNXdyd2tHeU5xRU5jOVR3R09IcGNKQUFsazBwTmpDeVVrX1hoOENLVFlCcksxNDROYkU?oc=5",
+   "source": "GoogleNews·东方财富",
+   "domain": "memory",
+   "published": "2026-10-14",
+   "summary": "",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "cf3d119cf639091269b43ce3731797693d044c29",
+   "title": "韩国股市7天蒸发5.8万亿，中国长鑫新技术引发的惨剧？",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1MQzJwZkJZSEVxajBpR1FlclFpamp1U1k0S0NWdy1HdG9LLUFYeVlHSE9XLWJrZjNsZl85a3pJRkg1bnBQMFdDamFZLWJzd2oza3RDUlhGNzlhenZpUTIwRng2Z0VrM2IyZlFVVDY5Zw?oc=5",
+   "source": "GoogleNews·finance.sina.com.cn",
+   "domain": "memory",
    "published": "2026-10-15",
    "summary": "",
    "first_seen": "2026-10-16",
@@ -1689,7 +1786,7 @@
    "published": "2026-10-13",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "bt": 2,
    "co": []
   },
@@ -2035,7 +2132,7 @@
    "published": "2026-10-07",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "bt": 0,
    "co": [
     "华为"
@@ -3895,7 +3992,7 @@
    "published": "2026-10-02",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "bt": 0,
    "co": []
   },
@@ -3947,7 +4044,7 @@
    "published": "2026-10-10",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "bt": 0,
    "co": []
   },
@@ -3960,7 +4057,7 @@
    "published": "2026-10-13",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "bt": 0,
    "co": []
   },
@@ -3973,7 +4070,7 @@
    "published": "2026-10-11",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "bt": 0,
    "co": [
     "长鑫存储"
