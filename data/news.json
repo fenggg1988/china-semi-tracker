@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-16 13:19:00",
- "count": 352,
+ "updated": "2026-10-16 13:31:00",
+ "count": 359,
  "items": [
   {
    "id": "1d950ee5c96582fbd960b76bd899a7c5946530d3",
@@ -332,6 +332,19 @@
    "co": [
     "长江存储"
    ]
+  },
+  {
+   "id": "0ead0b8bc12631645ac4a81252fac57acd1a6c35",
+   "title": "国产极紫外光源工博会首秀，光刻机“心脏”国产化率达90%",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzdXpfNlpiMlN3WnBlTmt0X0x4XzZwYURjNldQSl8yYzNrd21Qd3J1VjhpVF9uSHY2allhUHN1T2dPRHdoTUFPY043dXNoWDA5cFRzaVdB?oc=5",
+   "source": "GoogleNews·QQ News",
+   "domain": "litho_machine",
+   "published": "2026-10-14",
+   "summary": "",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "bt": 2,
+   "co": []
   },
   {
    "id": "b03172034b75eb625efa8f38d946f64c747dc99c",
@@ -1121,6 +1134,84 @@
    "title": "存储大战新筹码！SK海力士用赴美建厂 换大连NAND厂设备出口",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwX3ZXQi16aXU2SXYySy1PVEc1bXMtTzZVVU9TdlNGRkFzVUVJQWdnbXRRWi1CdU9EUjFqUGRRcy1GdHBuNFREWXhheDdUYmZlV2ZMVTV1YVM?oc=5",
    "source": "GoogleNews·驱动之家",
+   "domain": "memory",
+   "published": "2026-10-16",
+   "summary": "",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "e246baa37e0e86f52a1f547c3151e14fe0d32e94",
+   "title": "当所有人都去挖金矿时，真正稳赚不赔的是卖铲子的人。 光模块设备，就是AI算力时代",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JTTAxRURMV01xZW52ajN6N0VodDQwalhsamF3ajhJRDlLVTFwNjRWU1BTQnctdTJmRkJFNE5lc0pfRFh1OHBUWUlQaUlpRnRjbWZJZldFN0ZHdmtNcXlIU0FzNmlfRGlHMWh3?oc=5",
+   "source": "GoogleNews·财富号",
+   "domain": "optical_comm",
+   "published": "2026-10-07",
+   "summary": "",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "ac86123b10bbf015cbe28b5cc5454e0749e6e12b",
+   "title": "光芯片股大跌，东山精密董事长袁永刚回应“研报冲击”",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5oQVZuby0wa3ZtamtGWGxDV0FiYnJSYi1WbXV6Y0ptcjZDSHRyXzUyS0w1QW5WRk40Slg5VHM4UFhkNnJxbXpvRDhMR1cwT0Y2ME91RjhWaG1FdzNIS3NLdkl0LXE2Q0U3VGo0?oc=5",
+   "source": "GoogleNews·财富号",
+   "domain": "optical_comm",
+   "published": "2026-10-09",
+   "summary": "",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "87a2d5e017d68edb4e52ae3099ad4cce29356795",
+   "title": "如何看待光模块、PCB限制传闻？券商最新权威解读",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5VE5DdW9SUnNhTnFnSVBTSUd5aGFhWmN0aThyV3pCTDZCbTdfbDJqcDhadExmQS1EMTJTbVZ2UUotYU5CWExveElYOHdjcUF3aEZZ?oc=5",
+   "source": "GoogleNews·36Kr",
+   "domain": "optical_comm",
+   "published": "2026-10-15",
+   "summary": "",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "fc45d9133a507c36b2fb44b5c3db8ca9237d4f58",
+   "title": "加速布局光模块市场，长江证券：维持鹏鼎控股“买入”评级",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jbFlOMXZFMGRidG9LZHQ3WVhYa010cHZIWjcwYnNOSnd0b3g3b3lDQW5kVFpCT3g3MktnOFlNZGlDWE5FNldvZGVGelY5bnZTdWRlMkxn?oc=5",
+   "source": "GoogleNews·搜狐网",
+   "domain": "optical_comm",
+   "published": "2026-09-29",
+   "summary": "",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "bad191ee8cc6865e99cc5cc66b6b730b469f9039",
+   "title": "长鑫宣布：巨额投资！",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA2U21xemdKTWthQ3ZCU0hTR2dTZGFfbWFzNXBnd0hnZjM1YU1QM0xVVk1pLTFsdi01VDluaG9mbWd0NkhNRjNDckh5UEYtRFZhZTFZ?oc=5",
+   "source": "GoogleNews·电子工程专辑",
+   "domain": "memory",
+   "published": "2026-09-29",
+   "summary": "",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "350a28bba7b7155aa2b1bc38dd5d5d965397f9cb",
+   "title": "从全面普涨到双轨分化，如何用基金布局存储芯片？",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdlBNV2hMcTRHcVNXcVVZZnk1Mkkyay1yS3RjLXlUWVpxODVvVW04VVFHZGNQYVZzNzhQaklWQ1BpemRzT0VqaHhOWmZiSHdXbDR4RXRKdFRBQURHUWpTZzdyMzN5aHZSSkpPZUxOclNCS0NnWFZqbEFhUVhmcF8wT2luTFZCVmh5?oc=5",
+   "source": "GoogleNews·搜狐",
    "domain": "memory",
    "published": "2026-10-16",
    "summary": "",
