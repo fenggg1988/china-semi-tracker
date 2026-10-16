@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-16 14:42:47",
- "count": 364,
+ "updated": "2026-10-16 20:55:14",
+ "count": 381,
  "items": [
   {
    "id": "8ab059cde1040e077b234d0bdb1079a4b454c22e",
@@ -63,6 +63,34 @@
    "source": "GoogleNews·凤凰网科技",
    "domain": "memory",
    "published": "2026-10-10",
+   "summary": "",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "bt": 4,
+   "co": []
+  },
+  {
+   "id": "143b1fce511f255ea91d5b3b0e50c7289b341940",
+   "title": "国产光刻机杀入欧洲！江苏海思第17台设备通过验收：马上发运|Micro LED|江苏省|半导体|微米|晶圆",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVUt2YTA2WHEtMmN2VjZrc0EwT2J3dzJrR0dIZzhfckdUc3Njd0VYZFRyb1FLYWM1dDljSUE1Y3A5Y2ZVVmh0cWJLdGJ2bXg1Ukx2NkxOelZVcnIyQ2pMRDRLU3hPSFNlMUVlbk55ME1OZ2VTWE5WTjVSR0hrTHF2X0lkNkxrbzZlNC1OaG9jY3ZwQVhoWUlhMG01c2JMMkoyZFdrSWpjVjdndkRmdjNzQlR3?oc=5",
+   "source": "GoogleNews·finance.sina.com.cn",
+   "domain": "litho_machine",
+   "published": "2026-10-16",
+   "summary": "",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "bt": 4,
+   "co": [
+    "海思"
+   ]
+  },
+  {
+   "id": "a5abb7ec7ff788b54f5a8499e28227a514671c00",
+   "title": "从“点状突破”到“体系化升级”，长鑫G5量产不只是技术突破",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qZ2l0aWhMaEY5ckM5RkprUmN1b01qWlR2cVNfdW5CU0VPOGk1SnliRndndFNSX1lDMGpIemtFZGNLc2U3ang4THlfX1RmUVU4eWc?oc=5",
+   "source": "GoogleNews·搜狐网",
+   "domain": "memory",
+   "published": "2026-09-30",
    "summary": "",
    "first_seen": "2026-10-16",
    "last_seen": "2026-10-16",
@@ -358,6 +386,49 @@
    "last_seen": "2026-10-16",
    "bt": 2,
    "co": []
+  },
+  {
+   "id": "26fcab9cefa1f3a41bb1c64db9b6fd1c1b5313c0",
+   "title": "鼎龙股份(300054.SZ)：下游客户需求旺盛，公司产品订单实现较快增长_公司新闻_财经",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yS09KdGZ0NkJYbHZyRGpWcEFVeTNtbEVCdUlKVG1yaF9rVExEamhxSmoyX1VEZVE2YmhMbTRGeEJiRnVTZWlJV2hlR1NRRG9zcXVKSUdZeW4xZU5PUmtOTQ?oc=5",
+   "source": "GoogleNews·证券之星",
+   "domain": "photoresist",
+   "published": "2026-10-16",
+   "summary": "",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "bt": 2,
+   "co": [
+    "鼎龙股份"
+   ]
+  },
+  {
+   "id": "04f1cecf67df6ca24d1d222e297fd138e6c0c69b",
+   "title": "智立方亮相 2026 湾芯展，深耕IC封测，赋能CPO&硅光先进封装量产",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1LVVVUU1VFcXZpTnBYcWVPbWxFMC1SU0ZXUXBlTklaR0VsU3RaeGY4Q1FiUU5Od0hSU3dsODduRWpfT2lfMHFIMVg1b1JNajdvX3R4eGx1R0ZBelFUeDZsbDd3?oc=5",
+   "source": "GoogleNews·同花顺",
+   "domain": "optical_comm",
+   "published": "2026-10-15",
+   "summary": "",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "306beaf513dad7ac81323fe4b2ce6b391d8b6bc7",
+   "title": "存储格局生变！长江存储eSSD出货狂飙：两年暴增8倍",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iME1GMWtaaEM0WDVRaS1JZG1WTmF2UzJwLWtwaDkwMHhRc1lYeUJCYUlTQlozUEtXZmlydkR4MkVIUnFHNjZKbzVkb2RKdXJyMWs5a3kxNTBZandsU3hNejBTeE5sUHZoZ2x0dW9HdlFxT1VOM0FKd1pMbW53ejg?oc=5",
+   "source": "GoogleNews·新浪财经",
+   "domain": "memory",
+   "published": "2026-10-16",
+   "summary": "",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "bt": 2,
+   "co": [
+    "长江存储"
+   ]
   },
   {
    "id": "b03172034b75eb625efa8f38d946f64c747dc99c",
@@ -1288,6 +1359,105 @@
    "co": []
   },
   {
+   "id": "87dace0305e61cce14f9d5194bd5285b62a07b8f",
+   "title": "消息称字节跳动洽谈采购联发科数据中心定制AI芯片",
+   "url": "https://www.chinaflashmarket.com/a/184342",
+   "source": "闪存市场",
+   "domain": "logic",
+   "published": "",
+   "summary": "",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "48b232c8f1f663d4eeb24dfda2123381725ca833",
+   "title": "日本让出九成市场：一篇文章读懂光刻胶上下游及其堵点（上游）",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE12SF94cVRQWEF4OVEwdUszNWxaWkxaNTAtVUY0V1FYejJrWE5vWU5WVmRoNEM2ZjFuSFBHSWw3U0FabFQ0UmhYeENqb3M2WU56UFNHcUF5ejJmZUhCQ0o4c1RwZmpFb2RBQWdN?oc=5",
+   "source": "GoogleNews·财富号",
+   "domain": "photoresist",
+   "published": "2026-10-03",
+   "summary": "",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "03e2bde0a8078effbd52e3c0b993f1596749699c",
+   "title": "光电通信| AI光互连迭代提速！三大激光芯片巨头对比：Coherent、Lumentum、源杰科技的差异化赛道",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fM1l0ZF83OXVkUlBRVXd2empUVlBxVllsLWhFYXNpeFlydmpBQ2VPNGxSOUlfN1F0NUJjOTFXSG9paFkwdjhZQ213VlBKNHpOamZB?oc=5",
+   "source": "GoogleNews·电子工程专辑",
+   "domain": "optical_comm",
+   "published": "2026-10-10",
+   "summary": "",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "bt": 0,
+   "co": [
+    "源杰科技"
+   ]
+  },
+  {
+   "id": "24327ed82445da9e6b99e899f086bf8f61a58694",
+   "title": "【今日分享】光模块“含美量”深度拆解：从400G到1.6T，速率越高，依赖越深",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pQzBoY0FpMGlRSWU1WDhDd3ZPNWFkWEVxcGNOMjlKUTZRU3JaeVVqdmljZlgteERNNnduTmZXemstMEdaZFJVb3RsSk1VVlBRelhv?oc=5",
+   "source": "GoogleNews·电子工程专辑",
+   "domain": "optical_comm",
+   "published": "2026-10-09",
+   "summary": "",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "b8760a006fdad31a2fd6b9a0f7ce17b0322ac013",
+   "title": "长江存储副总裁李刚曾在紫光集团任职职位是什么？|陈南翔|IPO|科创板|破产|国资",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTV084al9uNnlPNUtrbmtxbUZVSjNBbXZGclBkQWVmTkJsOXlvYUYxVnVqTnA0MUNCZmxBWlhQLXdUb2MyUm1QMFBDWUl4MEVLbTFzMks0OG1KMGNGTnROalFhOXJoR3MycWtoU1ZLQTk0MlV5a1VhWlhWRXBndFE?oc=5",
+   "source": "GoogleNews·finance.sina.com.cn",
+   "domain": "memory",
+   "published": "2026-10-16",
+   "summary": "",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "bt": 0,
+   "co": [
+    "长江存储"
+   ]
+  },
+  {
+   "id": "8d13a4702caf733db3ed111a5bdc3fc211b03058",
+   "title": "存储半导体回调后迎强支撑，AI驱动HBM重估|长江存储|供应链|三星|需求|报告",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPc1Z3S0FfWlRMWmxCNkJlYTJtVjYwTEZTSzJBWHhCLTBoVklmdkxuQWM3Y3ZqcmtUU0NqaUxoSVk5TG5RNVVCaldYNXY1UFg2NTFxSmNGVTZWRFoyOGY4N1c5VVhicWZFQ0ljdkJrMlRoQUdickx2ZGJrdWRHVjZ4QWln?oc=5",
+   "source": "GoogleNews·新浪网",
+   "domain": "memory",
+   "published": "2026-10-16",
+   "summary": "",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "bt": 0,
+   "co": [
+    "长江存储"
+   ]
+  },
+  {
+   "id": "60f46eafd9250f8f8bb96f17041ddc5736d6d46b",
+   "title": "马斯克回应长鑫存储技术进步",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPa2JXSFhpTGc5RFBmazJ6NDNOaEV3ekxkczFfZmJzRHlhT3ZCWHJrR2pCUWFxY25RcnQ4QjVoNHhoTVdzZXZIaXVicjRCTnFhSjlsY0tfNU5seWlmeUlISjV0TDFCZXZJVk9DaWJ6OXJ0STd1THllRDVTWmdqcTgwZUxUZVM?oc=5",
+   "source": "GoogleNews·新浪网",
+   "domain": "memory",
+   "published": "2026-10-16",
+   "summary": "",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "bt": 0,
+   "co": [
+    "长鑫存储"
+   ]
+  },
+  {
    "id": "17cca12ac4ded51fe3f82fc071464f38fbf30356",
    "title": "AI算力驱动光模块景气度上行 光库科技前三季度净利预增超1.4倍｜财报解读",
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5hRUJpWmYxUVJMdTh2cGlORmktbmNIQ2g3Nkw1eW1wV2JhdXRtclRrdEZQYkpvZXI5bWVfUXRMeFk4M052WHdJdQ?oc=5",
@@ -1400,6 +1570,71 @@
    "title": "长鑫科技市值重回3万亿，重返A股市值第一",
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9oZjF5a0pXOUJWQ1JpSnowLWMyODBLNHJ0amsweHJHZWg3VjNtQldJN2Flb0FMM2I3OWRUM2ZYT0FpczR2NGtJcENqcjQ?oc=5",
    "source": "GoogleNews·凤凰网科技",
+   "domain": "memory",
+   "published": "2026-10-16",
+   "summary": "",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "bt": -3,
+   "co": []
+  },
+  {
+   "id": "b9fc76f2aa2074d04601ed6bc65992ecb51647d8",
+   "title": "大中华区半导体：台积电财报回顾、中国存储、CPO与量子安全",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc2tIRVlJMjBhV0NWYUlnQzdWLTlnZTVsMTBkNFhtc2VQS0V4a2RJX1R6RXAxWVJpYmtIYWFjdm9vYzJ5Qk5EdFVDeVNoWm1NdDhTZHBfOG11T2VFdmFlWEhYWmJ3cmFOZWVxc3JIeHlhZmN5dVdUNWFrQkpKNjJSR283S3VsX3B6TEg1Z1d6V1VmVGgyT3ZxSWxOYm1fVGtRZTktUi0xcjBMb19vOS1WV2c3WUNGZDYzYVZj?oc=5",
+   "source": "GoogleNews·富途牛牛",
+   "domain": "optical_comm",
+   "published": "2026-10-16",
+   "summary": "",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "bt": -3,
+   "co": []
+  },
+  {
+   "id": "972d119690f85d509c4e45d7609b453fc1b754b9",
+   "title": "长鑫科技重返A股市值第一，国产存储产业仍获青睐",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcTBYbFdsek9McW5kck1RSHNoc1QtVXc4V0pUajhYQkpnMEN2cm00Y0hiYXdyS0pzUUlUUWRrRnROZ3AwTzBPUHcwdFFhaWgzTmxBU1Y4cjdod3JJcEZNbWIwa01va0Z0b2tGbTFqdVhjR3RtdFc3OWxtTEdnVmE1ZXJUV1FhdjM0Z2pZTw?oc=5",
+   "source": "GoogleNews·搜狐",
+   "domain": "memory",
+   "published": "2026-10-16",
+   "summary": "",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "bt": -3,
+   "co": []
+  },
+  {
+   "id": "01827b3a9dc3d4e4b4e88d0b8d1bc09542236f07",
+   "title": "长鑫科技，重回A股市值第一",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9pZG5nLUV1QjdqTzg1VkVsR3VYbWRsaGZaeUxYNGdzdW9Sa1dOUWM0VUptU1FQOHllUElMbGdWY0IyUmpUbFpyWnNYM1hSejY4Z0VpdkpobFY5VnBmRkRaSzI2elZxUjE0Ym9mSExNX0tIRV8zVEw5bA?oc=5",
+   "source": "GoogleNews·finance.sina.com.cn",
+   "domain": "memory",
+   "published": "2026-10-16",
+   "summary": "",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "bt": -3,
+   "co": []
+  },
+  {
+   "id": "1559e3ac01f3b274dd92334600f893166870ac87",
+   "title": "长鑫科技涨超5% 重回A股总市值第一",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9oUFVlSV9LbE1JU2ZzMVlCZy1wanYtN0pvVjNVNmZWaU5PWUxBMlFKeWU4UHhiekRrTC01TDVkdjlRRWJTMzA5ZHdsVHNQWkVxQm5TRU04STRhZlp2ZURyUWh3?oc=5",
+   "source": "GoogleNews·观点网",
+   "domain": "memory",
+   "published": "2026-10-16",
+   "summary": "",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "bt": -3,
+   "co": []
+  },
+  {
+   "id": "bb98628076341b06abd5b6deb6c1dfdef0013ee2",
+   "title": "存储芯片概念震荡反弹 长鑫科技总市值重上3万亿",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00aG83VzVHa1d0T2E2NzN4NUJmLWxTT2dpOHZZUkNiY242cGRwOHFXZTR0Y254d2x3YXgzNk1HOVNRWWZiR0hBUkVPSUZkc0dqOHZGcEFZOTF0a3cyQmM2Xw?oc=5",
+   "source": "GoogleNews·东方财富",
    "domain": "memory",
    "published": "2026-10-16",
    "summary": "",
@@ -2238,7 +2473,7 @@
    "published": "2026-10-14",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "bt": 2,
    "co": []
   },
@@ -4563,7 +4798,7 @@
    "published": "2026-10-09",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "bt": 0,
    "co": []
   },
