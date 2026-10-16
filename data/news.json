@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-16 09:21:39",
- "count": 322,
+ "updated": "2026-10-16 09:26:04",
+ "count": 324,
  "items": [
   {
    "id": "1d950ee5c96582fbd960b76bd899a7c5946530d3",
@@ -774,6 +774,34 @@
    "co": [
     "长鑫存储"
    ]
+  },
+  {
+   "id": "bb5f3c0cea0b2ff6ef42a532c9303caa46a71143",
+   "title": "江苏海思半导体出口的那台光刻机，跟ASML的光刻机不是一回事",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42Y0psSEY4LUx1cmZSelljQXY3YjVWa1VLZEU1V29qb0RnWXJKeF9aMDNmZjgxdkFUdFdEMEd1dWw2bjhoMGE3OFlyaHY3YTN0UTV4X1hRaC1FS0dkeU40UlkwbzY4c1FDQmxVY0cyMVZVcnJJSDR2WHQtcm9nQ00?oc=5",
+   "source": "GoogleNews·搜狐",
+   "domain": "litho_machine",
+   "published": "2026-10-14",
+   "summary": "",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "bt": 0,
+   "co": [
+    "海思"
+   ]
+  },
+  {
+   "id": "05e46cde525c338cec3a6e97eaf543cc2662007b",
+   "title": "光刻机卡不住就卡电容！日本暗枪刚出手，中国产业链已换弹药？",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRNFo4ZkdHOHBLa0lOZjNFSGs4SFN5MUUySXo2TS10OVI0SUFTSzZqQUZQQlI5U1MxZC1MZ0toaWR4OUU5aUlRMDVncTVEME1JMTZn?oc=5",
+   "source": "GoogleNews·搜狐网",
+   "domain": "litho_machine",
+   "published": "2026-10-15",
+   "summary": "",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "bt": 0,
+   "co": []
   },
   {
    "id": "17cca12ac4ded51fe3f82fc071464f38fbf30356",
@@ -3450,7 +3478,7 @@
    "published": "2026-10-12",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "bt": 0,
    "co": [
     "长鑫存储"
