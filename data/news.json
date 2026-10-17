@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-17 13:22:17",
- "count": 412,
+ "updated": "2026-10-17 13:33:36",
+ "count": 414,
  "items": [
   {
    "id": "dfbfd20ad4aab89119f93ad597a1ce71e4f25224",
@@ -102,6 +102,21 @@
    "source": "GoogleNews·凤凰网",
    "domain": "memory",
    "published": "2026-10-15",
+   "summary": "",
+   "first_seen": "2026-10-17",
+   "last_seen": "2026-10-17",
+   "bt": 2,
+   "co": [
+    "长江存储"
+   ]
+  },
+  {
+   "id": "5c3ec99b9818b087d6a32d14b5da5b1df83945e1",
+   "title": "长江存储NAND出货量升至全球第三 超越铠侠美光",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5kelpYTmprbkpsUzJoenlMOXA5TUM4Vy1GZ0h5dlNSU0RVRjV2VS1DeVU5S0FKNFhqLWtUZ3FVc045Qy1seTlfOU1YUmtIRWh1U3BRZUZIWGZCakQ3YjE0UTB3?oc=5",
+   "source": "GoogleNews·QQ News",
+   "domain": "memory",
+   "published": "2026-10-14",
    "summary": "",
    "first_seen": "2026-10-17",
    "last_seen": "2026-10-17",
@@ -340,6 +355,22 @@
    "last_seen": "2026-10-17",
    "bt": 0,
    "co": [
+    "长鑫存储"
+   ]
+  },
+  {
+   "id": "1adf9fbb734c3df32d468bbed1b21911c4798a3e",
+   "title": "马斯克说2028 年内存会过剩，但 HBM 才是最难翻越的高山|马斯克|SpaceX|特斯拉|xAI|长鑫存储|长江存储|HBM_新浪新闻",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1mMW5vTEFURnEyTHlOWUttcUhQTElUUTZOeGxPc3lidm1aNE9rM01lc0FDREpYUDB4Vjl0ZTB6azZrYl9Ca3pVV01lSTJoa0tBVnRPanBRMmV0bUNtQXdTWkFyVQ?oc=5",
+   "source": "GoogleNews·手机新浪网",
+   "domain": "memory",
+   "published": "2026-10-17",
+   "summary": "",
+   "first_seen": "2026-10-17",
+   "last_seen": "2026-10-17",
+   "bt": 0,
+   "co": [
+    "长江存储",
     "长鑫存储"
    ]
   },
@@ -1466,7 +1497,7 @@
    "published": "2026-09-30",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-16",
+   "last_seen": "2026-10-17",
    "bt": 0,
    "co": []
   },
@@ -1693,7 +1724,7 @@
    "published": "2026-10-15",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-16",
+   "last_seen": "2026-10-17",
    "bt": 0,
    "co": []
   },
