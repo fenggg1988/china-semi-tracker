@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-17 13:13:55",
- "count": 408,
+ "updated": "2026-10-17 13:22:17",
+ "count": 412,
  "items": [
   {
    "id": "dfbfd20ad4aab89119f93ad597a1ce71e4f25224",
@@ -94,6 +94,21 @@
    "last_seen": "2026-10-17",
    "bt": 2,
    "co": []
+  },
+  {
+   "id": "b6aab9a8545c270a77b3759013866e7607b0bc88",
+   "title": "长江存储跃居全球NAND出货量第三 布局DRAM领域",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE45TERhSTdVQW9BN0I4ZkFUdDZQNGdETGwzWThNMmREUzYycWVjcXdBcXFHLTNHWERvWFB0Si1mNUtyR2stNVJ0TA?oc=5",
+   "source": "GoogleNews·凤凰网",
+   "domain": "memory",
+   "published": "2026-10-15",
+   "summary": "",
+   "first_seen": "2026-10-17",
+   "last_seen": "2026-10-17",
+   "bt": 2,
+   "co": [
+    "长江存储"
+   ]
   },
   {
    "id": "53e753058fce7c0befadaecd2c1e359fe26146d9",
@@ -314,6 +329,21 @@
    ]
   },
   {
+   "id": "ee250904e578271c939e62c0ef6544e9b3f9e01a",
+   "title": "存储芯片价格飙升，中国长鑫存储扭亏为盈",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZkhkaUxVUml4ZUpWVWQ3eTl5Qkt2R2NZbWpLTkdEZTZJT3NYaU9scmM1M2l2R2Zva2Zhc0g1MmZ5ZXlwQzlldU1yVTBGOGhsUVZiZnBhdkNrMUc1ZkNaR09ZNlBSNzJoTVNoaEd1SEJPZm9lVlpJNmF5U25CTERxbVIxWlpOZ0dVWGhWWWZBb2IzTnBpb0pCS0xyaGR4RFdvQ3JaYk1ZZlVxRGo4VE9mM2FIdHlSRWZWNGdWNlFQejBSSGt6?oc=5",
+   "source": "GoogleNews·Binance",
+   "domain": "memory",
+   "published": "2026-10-16",
+   "summary": "",
+   "first_seen": "2026-10-17",
+   "last_seen": "2026-10-17",
+   "bt": 0,
+   "co": [
+    "长鑫存储"
+   ]
+  },
+  {
    "id": "e7d050501769ca6858252e0071384379a5565f70",
    "title": "直击2026湾芯展｜订单超全年营收两倍，国产半导体测试机厂商密集扩产|SOC|存储芯片|精智达|深圳市|GPU",
    "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPYkdIekxETVJ2bFRWSjljYy1fX21xM0NtZEVZN0lFR2ljcmdTV3RZYWxTTmdSRXdYY09EZUtqNWJ6cWJQcHZya1luMGJld05DUENUNkgyc0hXQTJEbm1iRHhQTElWQVhucHEtcFlmdm9veURhN3FmeHhhdDFOS21iakNRNVF1NDU5VUhMNDVLY25pOG9aX2JzNWVZbzZVU05SNmc2ZTh6MGhlbVZ4ZVcwN0ZoSHROdmwwRTJralAyMW5XNnBDaTdSN09mYXBzVGJsMFoyMU40M1NVTlJsWWR0Z1daeU9ldFhDNmVLZDB1MFNDZDdtUFFETy1BeW1vSlU1bnZxMkpTOVlOUVVITmlMWGZVYw?oc=5",
@@ -372,6 +402,32 @@
    "source": "GoogleNews·证券之星",
    "domain": "memory",
    "published": "2026-10-17",
+   "summary": "",
+   "first_seen": "2026-10-17",
+   "last_seen": "2026-10-17",
+   "bt": -3,
+   "co": []
+  },
+  {
+   "id": "e6526debbc0ed32782520cbab74c6f390b400512",
+   "title": "超92亿元！融资客爆买长鑫科技",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaFJtWVc1WDFyRkhrT0Y4REJnWXhvUG1zZXVzVmxudk1uVHp6WWlFYVJYRDdZOVZ0eFFlLWp0MGN1QklXRjR1dnd5X2JNT2hjdV9Sa1BMTVBXeW8xcmVyTkU2QnM5VXpxV2EwWloydDM1M3A2NXpaUU1WMlFzZ3lxdXlnZURYNWJLdWUxZ0VMdw?oc=5",
+   "source": "GoogleNews·21财经",
+   "domain": "memory",
+   "published": "2026-10-02",
+   "summary": "",
+   "first_seen": "2026-10-17",
+   "last_seen": "2026-10-17",
+   "bt": -3,
+   "co": []
+  },
+  {
+   "id": "03d7ea9d98d1b967255ec8dc99f4e250aaf0e94b",
+   "title": "长鑫科技市值重回3万亿，再次超越工行登顶A股第一",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kX1VZU0JwVDdJSG9lMGo4bTFxNGRvQXI2Q3JlWGZnbmN1cm9uTmJnaGVWMGYzWU95MkdXdFpTNjY5ZzJNdzMtTnB4UFVYeWJPUlA5QjNhNkhaak8z?oc=5",
+   "source": "GoogleNews·Moomoo",
+   "domain": "memory",
+   "published": "2026-10-16",
    "summary": "",
    "first_seen": "2026-10-17",
    "last_seen": "2026-10-17",
@@ -550,7 +606,7 @@
    "published": "2026-10-13",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-16",
+   "last_seen": "2026-10-17",
    "bt": 2,
    "co": []
   },
@@ -1227,7 +1283,7 @@
    "published": "2026-09-28",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-16",
+   "last_seen": "2026-10-17",
    "bt": 0,
    "co": []
   },
@@ -1663,7 +1719,7 @@
    "published": "2026-09-29",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-16",
+   "last_seen": "2026-10-17",
    "bt": 0,
    "co": []
   },
@@ -1937,7 +1993,7 @@
    "published": "2026-10-16",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-16",
+   "last_seen": "2026-10-17",
    "bt": -3,
    "co": []
   },
@@ -2823,7 +2879,7 @@
    "published": "2026-10-08",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-16",
+   "last_seen": "2026-10-17",
    "bt": 2,
    "co": []
   },
@@ -2836,7 +2892,7 @@
    "published": "2026-10-13",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-16",
+   "last_seen": "2026-10-17",
    "bt": 2,
    "co": []
   },
@@ -3664,7 +3720,7 @@
    "published": "2026-10-11",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-16",
+   "last_seen": "2026-10-17",
    "bt": 0,
    "co": []
   },
@@ -4707,7 +4763,7 @@
    "published": "2026-10-10",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-16",
+   "last_seen": "2026-10-17",
    "bt": 0,
    "co": [
     "长鑫存储"
@@ -4890,7 +4946,7 @@
    "published": "2026-10-14",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-16",
+   "last_seen": "2026-10-17",
    "bt": 0,
    "co": [
     "长川科技",
