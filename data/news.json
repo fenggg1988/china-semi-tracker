@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-17 13:33:36",
- "count": 414,
+ "updated": "2026-10-17 14:31:06",
+ "count": 417,
  "items": [
   {
    "id": "dfbfd20ad4aab89119f93ad597a1ce71e4f25224",
@@ -372,6 +372,47 @@
    "co": [
     "长江存储",
     "长鑫存储"
+   ]
+  },
+  {
+   "id": "bc9a52c6b2b5a01436cfe6da699160e0df412f7d",
+   "title": "长鑫科技前三季度预盈超1310亿元 同比扭亏为盈",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1582612.htm",
+   "source": "cnBeta",
+   "domain": "memory",
+   "published": "2026-10-17",
+   "summary": "10月16日，长鑫科技发布2026年前三季度业绩预告。公司预计实现营业总收入2650亿元至2700亿元，同比增长725.96%至741.54%；预计归母净利润1310亿元至1325亿元，同比扭亏为盈，上年同期为净亏损52.8亿元。 阅读全文",
+   "first_seen": "2026-10-17",
+   "last_seen": "2026-10-17",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "70b6e5ee26db1a9417a2e62b738d8d5ad3b8c96e",
+   "title": "新规生效！光模块要变天？",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zQktkTGtia1JPREFMZUltMGFsOExaUG9xem9uMkVQQUlhUVRtSDRNQzR3Z2hOQmxsa25DUFhxcDVuYkxlTDByQzBmTV9fLXhQeHR4ZU1n?oc=5",
+   "source": "GoogleNews·QQ News",
+   "domain": "optical_comm",
+   "published": "2026-10-13",
+   "summary": "",
+   "first_seen": "2026-10-17",
+   "last_seen": "2026-10-17",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "699c263a7c303586fc367aaa6e0fb5d11e00a034",
+   "title": "长江存储科创板IPO拟募资330亿，武汉芯片产业二十年布局迎来兑现",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxUVJkcWRRZ09FQndJWG5MR1pnd25lTElUR1Q2clJXbmlNZjlKZkpESEtNazhrYk1QVUhrMWZISXJXc2ZCaXBuZTk0MVFDUHE5WlE?oc=5",
+   "source": "GoogleNews·虎嗅网",
+   "domain": "memory",
+   "published": "2026-10-03",
+   "summary": "",
+   "first_seen": "2026-10-17",
+   "last_seen": "2026-10-17",
+   "bt": 0,
+   "co": [
+    "长江存储"
    ]
   },
   {
@@ -967,7 +1008,7 @@
    "published": "2026-10-09",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-16",
+   "last_seen": "2026-10-17",
    "bt": 0,
    "co": []
   },
@@ -4852,7 +4893,7 @@
    "published": "2026-10-10",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-16",
+   "last_seen": "2026-10-17",
    "bt": 0,
    "co": [
     "长鑫存储"
