@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-17 14:31:06",
- "count": 417,
+ "updated": "2026-10-17 19:54:54",
+ "count": 430,
  "items": [
   {
    "id": "dfbfd20ad4aab89119f93ad597a1ce71e4f25224",
@@ -124,6 +124,19 @@
    "co": [
     "长江存储"
    ]
+  },
+  {
+   "id": "19b2148e64da560852873a5688797283c1771b87",
+   "title": "长鑫突破三巨头护城河，马斯克说对了",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1DNG1rTkVCSTYzMDZsR1N2aTBZRTdIYy1BZC05SDhoQVJwN1I3WjE1MnFSRm9oS0xlcmdKXzE5czlxQWJpY01EYWFrWVFEelZuYnNLQ3lyS1dKTTlTMUhBQkRB?oc=5",
+   "source": "GoogleNews·QQ News",
+   "domain": "memory",
+   "published": "2026-10-16",
+   "summary": "",
+   "first_seen": "2026-10-17",
+   "last_seen": "2026-10-17",
+   "bt": 2,
+   "co": []
   },
   {
    "id": "53e753058fce7c0befadaecd2c1e359fe26146d9",
@@ -414,6 +427,168 @@
    "co": [
     "长江存储"
    ]
+  },
+  {
+   "id": "855e3d9a2ccc56e454461f81fcf6a1f62a03e0b5",
+   "title": "报告称中国已经囤积了343台深紫外光刻机，美国呼吁全面禁止出口",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pZ2xJNHVRXzFzdTBZb1FKZndZd3cxQUdxNExPRmtKbGZwU3hnOXUwTS1KU05DX0JFQUNWeE14MGkyVUxCdUJ6RTUxYVozMFlOOHZaWmNvcTdyRE92aHF5RWtaSHVRb0FJUzBGWDBB0gFzQVVfeXFMUE81VHBWbUhhTW9kS0ZiN01OMDhITDVsUFFXNEtIclBOMG1RQ0hCNEdleS1JZmJsN0pWT0tGNW53dGRVa3ZLczlsSWVGeE9HaDZFbW82QWhUQUVjY0YzcXU3VUdMOWFjRnBQQ2ZWZHp2empaUQ?oc=5",
+   "source": "GoogleNews·禁闻网",
+   "domain": "litho_machine",
+   "published": "2026-10-03",
+   "summary": "",
+   "first_seen": "2026-10-17",
+   "last_seen": "2026-10-17",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "4768d99a0464341f50bc4f19d9d38431cca296e1",
+   "title": "不起眼材料成AI光模块新瓶颈 行业发展关键制约点解析",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zODFlOC14OXFoYmhuZkVydm1JNHJ5ZnYtc1o0bjJxdkZpekVWMnk0aDMxWlN3bGtNNnhSZWptc3g0UVoza21ieDJrRW9xSjNxaHRv?oc=5",
+   "source": "GoogleNews·36Kr",
+   "domain": "optical_comm",
+   "published": "2026-10-08",
+   "summary": "",
+   "first_seen": "2026-10-17",
+   "last_seen": "2026-10-17",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "ed671b8ef379933212076b6702ac8cb4c26a64e9",
+   "title": "自主感知、自主决策、自主协同，他们讲述“制造现场”的故事|三菱电机（Mitsubishi Electric）|上观新闻|上海市|光模块|制造业",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBQMmU0YVZuV1NUM3NDYUdTRm1PSVI0d3BqOUtBRVpRQnoxbDhkVTdxZl93ckdXWHRHMjRqbl9hUEN2cTJLV0lLazBkaFpDaDJoeEE2dnhtNWJ4SDdtNjIxQ0F3TURCakctR0RjYlBFQjNxUUxyYU5ycQ?oc=5",
+   "source": "GoogleNews·finance.sina.com.cn",
+   "domain": "optical_comm",
+   "published": "2026-10-16",
+   "summary": "",
+   "first_seen": "2026-10-17",
+   "last_seen": "2026-10-17",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "3d8932a26c24bff30261682f9d556cca196e08c1",
+   "title": "光芯片热度飙升，莫非行情要起？",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zU05ZWmZmaHdHcVBGdC1hbWstd3ZwTlJ6SmMxR3BOWWt6cmhwYlpxeXpNVXZYZnZvZXN1OFdJbVJSQUpoREx1SGNyWnJtb05tS2h6LWlHRlpqRldTaExlcUYyUU4?oc=5",
+   "source": "GoogleNews·财经号",
+   "domain": "optical_comm",
+   "published": "2026-10-17",
+   "summary": "",
+   "first_seen": "2026-10-17",
+   "last_seen": "2026-10-17",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "147daa82d2a9e67ee5af1718c7e66340ef47c221",
+   "title": "日本正在争夺“光芯片时代”",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBET1U4aEdzeVFsRGE5eGQ5UjRCblpuU2xrOXUyMGRxenV0MXhRemEwdEJ6WmtXS1c3aGtDUm1DcWExT01BUVpSZmg3amhPNDBGSGtzdHF0MFRXeGkxN1Y5Zw?oc=5",
+   "source": "GoogleNews·cnBeta.COM",
+   "domain": "optical_comm",
+   "published": "2026-09-28",
+   "summary": "",
+   "first_seen": "2026-10-17",
+   "last_seen": "2026-10-17",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "b52a60445c429e895b2ad4386e0a0ef17b77258c",
+   "title": "产能售罄到2029年，FCC限制传闻发酵：全球光模块到底卡在哪里？",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qSndRMFNHRW5OU2ZSU1VMdld6WGFNXzM3c010aWpKQ2ZfMUUxUXJvemlkQUZIWEcxUGNNaXFCcWdXeGwwV3BlelVCSEJhdHpMV3c?oc=5",
+   "source": "GoogleNews·国际电子商情",
+   "domain": "optical_comm",
+   "published": "2026-10-10",
+   "summary": "",
+   "first_seen": "2026-10-17",
+   "last_seen": "2026-10-17",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "e4ea0db406aae98de20da70ed9aa36a428527b33",
+   "title": "光电通信｜薄膜铌酸锂 TFLN：3.2T 光模块的关键路径，放量节奏受哪些因素约束",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5sV3RGbml2UzBCaGRxamY1Q29rejR5cXdqNzF2T1pVWm90QW1VX0NTd1lWSmhSdHlULU1lc1ZINmpKLWpHaFN4dDJRSnhLb2JhTXJJ?oc=5",
+   "source": "GoogleNews·电子工程专辑",
+   "domain": "optical_comm",
+   "published": "2026-10-17",
+   "summary": "",
+   "first_seen": "2026-10-17",
+   "last_seen": "2026-10-17",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "84a883d04800c92a8b0b0cf211f534df3a2cc4db",
+   "title": "晚报：光模块放量 华为多端聚合与空中Wi-Fi合作",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5JVm1mOFRMTWpmc0ZTQlVTejcweXgzSk9VNFQ3anVvcGh6SVRtU0pzY0Q5aTROTjVISmloLUdJZUV6aGZmcUpOVW95ZHNGRlNx?oc=5",
+   "source": "GoogleNews·凤凰网财经",
+   "domain": "optical_comm",
+   "published": "2026-10-01",
+   "summary": "",
+   "first_seen": "2026-10-17",
+   "last_seen": "2026-10-17",
+   "bt": 0,
+   "co": [
+    "华为"
+   ]
+  },
+  {
+   "id": "0731ed69ccc97f65ac4f071f48224a8743ad7b94",
+   "title": "美光起诉长江存储：指控挖走核心工程师并利用相关技术建立专利组合- 硬件",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6MUJocC1IYnZsY29HXzVMVnVwQXF4bllYYVBYdy1DSkYxYklGbXdnYWhlMDc4Z3BWaUxPWEdzTEdtTWhCRGYyeVdzY293Ui1zVTZMQ0NEMzIwcWF5N2ZwRg?oc=5",
+   "source": "GoogleNews·cnBeta.COM",
+   "domain": "memory",
+   "published": "2026-10-01",
+   "summary": "",
+   "first_seen": "2026-10-17",
+   "last_seen": "2026-10-17",
+   "bt": 0,
+   "co": [
+    "长江存储"
+   ]
+  },
+  {
+   "id": "a5f4cb9aedef019f8e6a2449801d5f4ee5a19b7e",
+   "title": "美光起诉长江存储，指控窃取NAND机密与挖角工程师点燃全球专利战",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbnp5RG9uaUxJNXNNZm9DUmNHWGp3UnE3S1dzdHhKS3FhN1dvZko3aC1IVGt5OFJWa0ZOdG4xWUxFU2lQX3Zyb211Q3A4ZVVfNXI1VDZVU2VRbExUNnJyaDJCUnRadVozcVlvcDlWbHNycXA5VVM0dDNwMURTSUhhdzFnNVVZSVNvMkdYN2pKN1pRRFNGUDJaY1pJaUt6ZnZ1TldVUzNKbkt6c0JUYWFyMzV0OXgtbFZ4Sm43MFlDQm8xQk1OLXVjOUVuc01LbUk4LTFEVHg1eXNYQ1lxUGx0Y2F4cWVSbGpPdkpHRlpR?oc=5",
+   "source": "GoogleNews·news.lavx.hu",
+   "domain": "memory",
+   "published": "2026-10-01",
+   "summary": "",
+   "first_seen": "2026-10-17",
+   "last_seen": "2026-10-17",
+   "bt": 0,
+   "co": [
+    "长江存储"
+   ]
+  },
+  {
+   "id": "736019696e7fd37a84d68db92e1b86ed0015561d",
+   "title": "21:29:03【长鑫科技：拟241亿元、108亿元分别投建技术研发项目、存储器晶圆后道测试基地二期项目】",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5haHFqVTF4dGN4X1Z2dTFLNUJrX0dqZzJEOEswZ0pOYXhFX1dkd01NMmtXblRpeG14OGJRZENCOV94UHhHTjVnbw?oc=5",
+   "source": "GoogleNews·财联社",
+   "domain": "memory",
+   "published": "2026-09-28",
+   "summary": "",
+   "first_seen": "2026-10-17",
+   "last_seen": "2026-10-17",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "f42d4995120bde50e2dd66febc3c5c3e98439c31",
+   "title": "长鑫引发美存储股暴跌，马斯克：中国规模化制造能力往往超过全球其他地区总和",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zTXFoNS1TMTFodEJVaW5aTko4cU51N2k5UUhVaTRiNHk0RV9uNkJyQVQzSWRDTFFwazJzTDdDV0hCSndIcnRXSG1fcGNVcnB3UTFXVWFR?oc=5",
+   "source": "GoogleNews·QQ News",
+   "domain": "memory",
+   "published": "2026-10-13",
+   "summary": "",
+   "first_seen": "2026-10-17",
+   "last_seen": "2026-10-17",
+   "bt": 0,
+   "co": []
   },
   {
    "id": "e7d050501769ca6858252e0071384379a5565f70",
@@ -2742,7 +2917,7 @@
    "published": "2026-10-15",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-17",
    "bt": 2,
    "co": [
     "长江存储"
@@ -4670,7 +4845,7 @@
    "published": "2026-10-12",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-17",
    "bt": 0,
    "co": [
     "长江存储",
