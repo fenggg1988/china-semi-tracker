@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-18 13:51:20",
- "count": 462,
+ "updated": "2026-10-18 14:55:37",
+ "count": 466,
  "items": [
   {
    "id": "ca7046b72365642a07b9204e42e72955d6017508",
@@ -50,6 +50,19 @@
    "source": "GoogleNews·驱动之家",
    "domain": "memory",
    "published": "2026-10-17",
+   "summary": "",
+   "first_seen": "2026-10-18",
+   "last_seen": "2026-10-18",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "5f070502faee6eec171edd2e86dc0205b27f3f01",
+   "title": "长鑫科技G5平台及LPDDR6量产背后的长期业绩逻辑",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zZnh5T1pVbFlZWU81MEJKdG9YWUViVnZiNEYxRzVFV0w1SVhGUVpJZDVIbXNmLVNrTFBpZTZxV2R4dWZWZXNZYWduTTZNeWVyMU9wOWlBN0ZxcjNkd244S0lmY3p5dw?oc=5",
+   "source": "GoogleNews·东方财富",
+   "domain": "memory",
+   "published": "2026-10-08",
    "summary": "",
    "first_seen": "2026-10-18",
    "last_seen": "2026-10-18",
@@ -350,6 +363,45 @@
    "source": "GoogleNews·腾讯新闻",
    "domain": "litho_machine",
    "published": "2026-10-05",
+   "summary": "",
+   "first_seen": "2026-10-18",
+   "last_seen": "2026-10-18",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "215c4d9b09706131310a130377bc55dcf47c1c68",
+   "title": "报告称中国已储备343台浸没式DUV光刻机或具备持续推进7纳米芯片生产能力- 硬件",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByZFhDYjYxNmxZU0hjZDVHa2lDZjBVZlpIZm9XQURDeV9NNThnWndSSDNiVjRiZlo0cTVtN1JnRUtWNldTT21FMFctU1ZWb1llUXpQU2xmM3RkVnloU0ZJYw?oc=5",
+   "source": "GoogleNews·cnBeta.COM",
+   "domain": "litho_machine",
+   "published": "2026-10-05",
+   "summary": "",
+   "first_seen": "2026-10-18",
+   "last_seen": "2026-10-18",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "d6da46711645b419316c4fa0dafa7ae9758f5bfb",
+   "title": "报告发现，中国囤积了343台浸没式DUV光刻设备以规避EUV限制",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQME05bHVhSjVnbUJRampYUVN3OUpfRzZFR1RqcU1ZemFqdjR0Q04zSTZhcUgyWjVjQTJSeFVIZmpfSDg5T09lYWdjQWVhUDFrdEt0b1IyckFWcHNtZFp5RmpJcXE2ZUoxUXR3a1J0OWJsaEJjeEJ6Skt3MlR3YWJUelpyNHdCZG5mUXJiZkVQaDMxdzBSMHUtWU5QWEl4VmhGYnZfWTJnNTluam9IcE55cUtlQjFnc0ZQbU5WLXJNcE9ySGxBM3QxR09IT1FqdzB4?oc=5",
+   "source": "GoogleNews·news.lavx.hu",
+   "domain": "litho_machine",
+   "published": "2026-10-05",
+   "summary": "",
+   "first_seen": "2026-10-18",
+   "last_seen": "2026-10-18",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "a844d6d5065c778ae60abaf74efe96ebd031d61c",
+   "title": "光芯片概念：11家核心公司名单",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13aVdVR05lRVBPYVBuRTRUY0wyZFB3aXdJVmp4RjhJMjFkbXZ6a2tHREJWV2s4aDZUbXd6WUI4RUVVTndsekdDckZjSGhmdnJQS2pJOS1EVUNLbjd4NGVQQi1Wd1BWczdaQ0hJ?oc=5",
+   "source": "GoogleNews·财富号",
+   "domain": "optical_comm",
+   "published": "2026-09-30",
    "summary": "",
    "first_seen": "2026-10-18",
    "last_seen": "2026-10-18",
@@ -5751,7 +5803,7 @@
    "published": "2026-10-14",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-18",
    "bt": 0,
    "co": []
   },
