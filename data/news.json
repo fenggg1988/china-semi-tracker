@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-18 13:29:40",
- "count": 461,
+ "updated": "2026-10-18 13:51:20",
+ "count": 462,
  "items": [
   {
    "id": "ca7046b72365642a07b9204e42e72955d6017508",
@@ -342,6 +342,19 @@
    "co": [
     "长江存储"
    ]
+  },
+  {
+   "id": "4e397e50e28764baaa08ddd6a60521fe051aafda",
+   "title": "美国智库揭秘：除了光刻机，中国芯片竟偷偷依赖“隐形美国设备”！",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wbFlvVTRpSHVyNkRTVTMtSFNvMGpURVl1bURSYzBvOHN0cV9VWHVLRm0wenV5MUVJQ0R6QXJHQkFIUzBKeUZQSmx1Z3B0OEF5OG9pTGdn?oc=5",
+   "source": "GoogleNews·腾讯新闻",
+   "domain": "litho_machine",
+   "published": "2026-10-05",
+   "summary": "",
+   "first_seen": "2026-10-18",
+   "last_seen": "2026-10-18",
+   "bt": 0,
+   "co": []
   },
   {
    "id": "3184031aa4cd1a61bfc6fb6e1751eb94e11b380b",
