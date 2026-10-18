@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-18 14:55:37",
- "count": 466,
+ "updated": "2026-10-18 20:21:04",
+ "count": 477,
  "items": [
   {
    "id": "ca7046b72365642a07b9204e42e72955d6017508",
@@ -68,6 +68,60 @@
    "last_seen": "2026-10-18",
    "bt": 2,
    "co": []
+  },
+  {
+   "id": "cbff04ffaa3a7b0741d803c53de39af5913fc01e",
+   "title": "英特尔将硅光子视为下一代系统“黄金之锤” 独家量产300毫米磷化铟晶圆",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1582770.htm",
+   "source": "cnBeta",
+   "domain": "optical_comm",
+   "published": "2026-10-18",
+   "summary": "在2026年开放计算项目（OCP 2026）全球峰会上，英特尔展示了最新的硅光子技术发展蓝图，強調该技术将成为未来高性能计算（HPC）与人工智能（AI）数据中心的重要基础。英特尔数据中心系统与解决方案公司副总裁尼克·杜贝（Nic Dubé）在会上将硅光子形容为下一代系统架构的“黄金之锤”（Golden Hammer），",
+   "first_seen": "2026-10-18",
+   "last_seen": "2026-10-18",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "f145664abebccc603a9cf32be1138697e9923f84",
+   "title": "11月首批“双流造”光刻机交付！成都芯片产业链突然交卷，订单破亿",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Hb2s4VkxYdlM3ekVhTlFVR2pyU2I1Z2hZOXRQUDB1VUVRdzJ3WmNVNVJhTUJUMDRQa1g2cWhkNWFJb2hBTkZIcEUzNXU0WHBPN0RSSTZR?oc=5",
+   "source": "GoogleNews·QQ News",
+   "domain": "litho_machine",
+   "published": "2026-10-13",
+   "summary": "",
+   "first_seen": "2026-10-18",
+   "last_seen": "2026-10-18",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "01e6e324e5fd040a202a8d712d813fca42e66a0a",
+   "title": "海内外利好共振！光通信产业景气上行，国产替代迎来黄金窗口",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45TS00dVZvd09zWlk3ODB0YUVQQ181N083bFNrMW5IcEhVazVGTjNPV1VfVlRpM3JETElRd2Q3aDZqTGdROG5MaWxual9sQ0dlZlE?oc=5",
+   "source": "GoogleNews·文轩新闻",
+   "domain": "optical_comm",
+   "published": "2026-10-10",
+   "summary": "",
+   "first_seen": "2026-10-18",
+   "last_seen": "2026-10-18",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "a46ef406c832954869a9066fca4383ac84e0b205",
+   "title": "中国长鑫存储销售额激增8倍：存储三巨头2028年会否收到\"扩产账单\"？",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qb3BDRmNiUjdYcjBTSnVTUGJCM0I0Q3dISmZzWUFyZjdjMzNaOFlTUVRtOEMxSmlvTlBnMm1CbXFsanpPT015ZUJtTHRCZmNnemNDWUZacF9mZXFXR203TWRPbVFVaUpoekVsQw?oc=5",
+   "source": "GoogleNews·中央日报",
+   "domain": "memory",
+   "published": "2026-10-18",
+   "summary": "",
+   "first_seen": "2026-10-18",
+   "last_seen": "2026-10-18",
+   "bt": 2,
+   "co": [
+    "长鑫存储"
+   ]
   },
   {
    "id": "d271af48700218ffaebf33028694a54dbb00ee72",
@@ -402,6 +456,97 @@
    "source": "GoogleNews·财富号",
    "domain": "optical_comm",
    "published": "2026-09-30",
+   "summary": "",
+   "first_seen": "2026-10-18",
+   "last_seen": "2026-10-18",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "0ef38b69a1ceb8e6754fbf9521edbff1653f74f3",
+   "title": "英伟达定制HBM计划促成罕见合作 三星与台积电联手开发3纳米基底芯片",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1582766.htm",
+   "source": "cnBeta",
+   "domain": "memory",
+   "published": "2026-10-18",
+   "summary": "随着人工智能市场对高带宽内存（HBM）的需求不断攀升，英伟达正在推动一项前所未有的供应链整合计划。根据最新消息，英伟达为下一代AI加速器开发的定制高带宽内存NVHBM，将促使长期竞争的三星电子和台积电展开合作，共同打造基于3纳米工艺的基底芯片（Base Die）。 阅读全文",
+   "first_seen": "2026-10-18",
+   "last_seen": "2026-10-18",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "9cc11a806697a11f954a3721fbd05dca9160431b",
+   "title": "1.6T光模块迭代倒逼工艺升级，mSAP开启PCB千亿新赛道",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zUmo0b0tSSjR1bVQwU3hXNkJpM0VvLUFkZ2s0eUdOTnFQV0VJUHhEMkx2eFNXUTJ1ZlF6Ml9JOUNiZ3dLSV92ODFBazVPSG1SSG8w?oc=5",
+   "source": "GoogleNews·电子工程专辑",
+   "domain": "optical_comm",
+   "published": "2026-09-30",
+   "summary": "",
+   "first_seen": "2026-10-18",
+   "last_seen": "2026-10-18",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "9819c36010b36d0c53149456a109a5341275c402",
+   "title": "10倍大牛股崩了！苏州5000亿巨头东山精密跌去46%，曾是科技股大牛市“旗手”，多重利空传闻重创光通信",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qVFN2eEVDRC1YdElkX3ZjSTlBdzFpcUppQlVscnppVUxSdlFFWm5WWGZnVGJNSzd4VVE3LWhDdEZIck80dkNLVmx6eFFSRENxY3h2c1gxU05DTmp6bzFMV1BCRFVBd2hQcGRhaGpQcVYwSUlK?oc=5",
+   "source": "GoogleNews·金融界",
+   "domain": "optical_comm",
+   "published": "2026-10-08",
+   "summary": "",
+   "first_seen": "2026-10-18",
+   "last_seen": "2026-10-18",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "7ac0ac8c32da65911625f1413e813c8c8039ec8c",
+   "title": "国产GPU的四条路",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85TTVteWw1d2thZkhOUmJJUUZwdEJYY3hmd2pSN2RyRGtTcnNvaGZCZ2VQeThscGpQRG9nVE9PUDBPMGZwVXNWVER6Q21iWWtXbzNF?oc=5",
+   "source": "GoogleNews·搜狐网",
+   "domain": "logic",
+   "published": "2026-09-29",
+   "summary": "",
+   "first_seen": "2026-10-18",
+   "last_seen": "2026-10-18",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "96c020050165e559b088772fdbfc58e9c1983076",
+   "title": "刚刚！长鑫宣布：巨额投资！",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IaTdhNXpnYmRYMWVPRmI0LXB2T3poVnA5d0hRYkczVk5pcFU3Y1VvR1Q1dTB1TjFoX194c3hKYVhEazJpOFRITUNrbU8zd3JKRy1z?oc=5",
+   "source": "GoogleNews·电子工程专辑",
+   "domain": "memory",
+   "published": "2026-09-29",
+   "summary": "",
+   "first_seen": "2026-10-18",
+   "last_seen": "2026-10-18",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "4cba7f2017bcfb16e9a45fce6129cd1237ff8579",
+   "title": "长鑫科技长期成长路径清晰",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xcHU4THFsWFZiOWJ1ZjRqXzJKaFlKSHBDQ1A4S2x3LXd5SmVFWW9WZ1lvaVdZSHFyVFhZMDhtWkhQMVRRbncwci1sVGEzOTNWZ2psY19wS2tyN3d5NkIxOGlUamEydw?oc=5",
+   "source": "GoogleNews·东方财富",
+   "domain": "memory",
+   "published": "2026-10-08",
+   "summary": "",
+   "first_seen": "2026-10-18",
+   "last_seen": "2026-10-18",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "d86a42482ea7d1af714455b6bbdd1b4a02c528ea",
+   "title": "AI算力芯片行业深度：架构演进、产业链全景与相关公司深度梳理",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAybmtMdWFMNFhvdmN6cUhHOEp2VUdLMXVXSDBleHNrOWFGb2tXaVNrME1md1N1d090dEdONGpzT0NIdUJSZERiek5SOFhrZ0NxcW9ieDAtb0RNS1NPbEU0MmJRbmxMRFFCN3Rr?oc=5",
+   "source": "GoogleNews·财富号",
+   "domain": "logic",
+   "published": "2026-10-01",
    "summary": "",
    "first_seen": "2026-10-18",
    "last_seen": "2026-10-18",
@@ -763,7 +908,7 @@
    "published": "2026-10-17",
    "summary": "",
    "first_seen": "2026-10-17",
-   "last_seen": "2026-10-17",
+   "last_seen": "2026-10-18",
    "bt": 0,
    "co": [
     "长江存储"
@@ -936,7 +1081,7 @@
    "published": "2026-10-08",
    "summary": "",
    "first_seen": "2026-10-17",
-   "last_seen": "2026-10-17",
+   "last_seen": "2026-10-18",
    "bt": 0,
    "co": []
   },
@@ -1230,7 +1375,7 @@
    "published": "2026-10-10",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-17",
+   "last_seen": "2026-10-18",
    "bt": 4,
    "co": []
   },
@@ -1339,7 +1484,7 @@
    "published": "2026-10-13",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-17",
+   "last_seen": "2026-10-18",
    "bt": 2,
    "co": []
   },
@@ -3204,7 +3349,7 @@
    "published": "2026-10-11",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-17",
+   "last_seen": "2026-10-18",
    "bt": 2,
    "co": []
   },
@@ -3930,7 +4075,7 @@
    "published": "2026-10-14",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-16",
+   "last_seen": "2026-10-18",
    "bt": 0,
    "co": [
     "海思"
