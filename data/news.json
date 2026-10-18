@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-18 13:18:56",
- "count": 459,
+ "updated": "2026-10-18 13:29:40",
+ "count": 461,
  "items": [
   {
    "id": "ca7046b72365642a07b9204e42e72955d6017508",
@@ -316,6 +316,34 @@
    "co": []
   },
   {
+   "id": "a3006a31c01f6bb32dba822fc7a0127bf5fa7169",
+   "title": "光刻胶赛道：这10家公司盈利领跑",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBhQ1JHTEV0SkVsUGZ2MnZ6MWlTOHZVNzdiSHlhM1dmNHphMm5IZnBiSjl2cVpQd0dwS0NsYkVJNVg5NGNCSUllaDc3blNPNXVlNzctbW5ab1RreWg4WjdBbWpldVJ1WHpEVkp3?oc=5",
+   "source": "GoogleNews·财富号",
+   "domain": "photoresist",
+   "published": "2026-10-05",
+   "summary": "",
+   "first_seen": "2026-10-18",
+   "last_seen": "2026-10-18",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "44a178d686bb5f57f38ce3494aa51856a10895c0",
+   "title": "长江存储粤芯半导体规模领跑A股排队IPO十大半导体企业",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VQk5pVHBsSUNGWTJqWnNGVFBqX2tsVlFiY3JMSHpNLUpjQ2Nqdm85dWRKVkk1dXdwaURGdnRaV1BCU0VVMTc1YlF6VXhzSmZl?oc=5",
+   "source": "GoogleNews·凤凰网",
+   "domain": "memory",
+   "published": "2026-10-03",
+   "summary": "",
+   "first_seen": "2026-10-18",
+   "last_seen": "2026-10-18",
+   "bt": 0,
+   "co": [
+    "长江存储"
+   ]
+  },
+  {
    "id": "3184031aa4cd1a61bfc6fb6e1751eb94e11b380b",
    "title": "直击2026湾芯展｜订单超全年营收两倍，国产半导体测试机厂商密集扩产|存储芯片|精智达|深圳市|GPU|CPU",
    "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPX3RBTjAzMVRzTXBMbUlLUlFLQnpRb3Nwdk1namF3VEFPdkp0RnA2WTBjMDNRWEZURGR5bDBMNUI5OEp2UWxfSjluZWVzMHM1TF83X2ZRT1V1aURoNlVjQkpYMmozV3owVmozR09BSVB2QXBIcThCQXd4VXFzLWRwNnJIamUtRXdNc1RNTG5YYTdZR1FuYTJORW0tcngtcUdidDRya2Z0aV9oOGIyMTlPNzB2Vk1qcHFLeTVOdW5uRFpCb3lzNGdSWXRZY1BaUnNUT2hnZVVwbFNSeGJFYzZ6S3ppOVllVXd0WTFHWk5hTGFTMnBCRkxodVJNMTlVX2M3cUxXZF9fV1NNVUJiWFJhb29EY3A2RXJzM0p1UEkwVjJkN2xkQ1A1bDJhSXpJUTBRaGpRNDlHdmtSQXN0eDVOaWtaSkVTbVRaM0tUSmswM2E?oc=5",
@@ -553,7 +581,7 @@
    "published": "2026-10-10",
    "summary": "",
    "first_seen": "2026-10-17",
-   "last_seen": "2026-10-17",
+   "last_seen": "2026-10-18",
    "bt": 0,
    "co": []
   },
@@ -830,7 +858,7 @@
    "published": "2026-10-03",
    "summary": "",
    "first_seen": "2026-10-17",
-   "last_seen": "2026-10-17",
+   "last_seen": "2026-10-18",
    "bt": 0,
    "co": []
   },
@@ -1589,7 +1617,7 @@
    "published": "2026-10-07",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-17",
+   "last_seen": "2026-10-18",
    "bt": 0,
    "co": [
     "华为"
@@ -3098,7 +3126,7 @@
    "published": "2026-10-14",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-17",
+   "last_seen": "2026-10-18",
    "bt": 2,
    "co": []
   },
@@ -3977,7 +4005,7 @@
    "published": "2026-10-04",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-17",
+   "last_seen": "2026-10-18",
    "bt": 0,
    "co": []
   },
@@ -4003,7 +4031,7 @@
    "published": "2026-10-14",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-17",
+   "last_seen": "2026-10-18",
    "bt": 0,
    "co": []
   },
@@ -4068,7 +4096,7 @@
    "published": "2026-09-28",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-17",
+   "last_seen": "2026-10-18",
    "bt": 0,
    "co": []
   },
@@ -4133,7 +4161,7 @@
    "published": "2026-10-04",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-17",
+   "last_seen": "2026-10-18",
    "bt": 0,
    "co": []
   },
@@ -4159,7 +4187,7 @@
    "published": "2026-10-07",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-17",
+   "last_seen": "2026-10-18",
    "bt": 0,
    "co": []
   },
@@ -5079,7 +5107,7 @@
    "published": "2026-09-28",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-17",
+   "last_seen": "2026-10-18",
    "bt": 0,
    "co": []
   },
@@ -5935,7 +5963,7 @@
    "published": "2026-10-13",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-17",
+   "last_seen": "2026-10-18",
    "bt": 0,
    "co": []
   },
@@ -5948,7 +5976,7 @@
    "published": "2026-10-14",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-18",
    "bt": 0,
    "co": []
   },
