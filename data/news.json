@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-19 08:51:33",
- "count": 493,
+ "updated": "2026-10-19 08:57:59",
+ "count": 496,
  "items": [
+  {
+   "id": "76b1bb0f1e5778e1aa1145e0489d8dc26f36f054",
+   "title": "西方: 光刻机的核心技术，中国学不会！中国：点亮了，国产化率90%",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRdFYyc3ZJRjVpUkh4SVJkczloQi0xdmdiWE84V3JtTVRvdHlfZWFGNVFoWTZDYmpieGVGSHJzbGxBenBVakZsZzBqMkFWMHBaMnJLUkhB?oc=5",
+   "source": "GoogleNews·QQ News",
+   "domain": "litho_machine",
+   "published": "2026-10-16",
+   "summary": "",
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "bt": 4,
+   "co": []
+  },
   {
    "id": "54e25dde8a2b85d14277620908849a9e568575f1",
    "title": "订单破亿！首批“成都造”光刻机即将集中交付",
@@ -14,6 +27,21 @@
    "last_seen": "2026-10-19",
    "bt": 2,
    "co": []
+  },
+  {
+   "id": "634bd94e8405f4e96cdc1957f34822460f1d682d",
+   "title": "长江存储出货暴增800%！",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lbjJrTUttMHdFRDlhZV9ZU1puMDRpaUNENVIyOGNteExFY3Zoc2VVbDkzSE10bVdSZ2xJaTIzQTczYmVuajVrbDA5czNYU2g3WERkZjZWMjVVdXpKcHQ4Rg?oc=5",
+   "source": "GoogleNews·搜狐网",
+   "domain": "memory",
+   "published": "2026-10-17",
+   "summary": "",
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "bt": 2,
+   "co": [
+    "长江存储"
+   ]
   },
   {
    "id": "05514bb77fb46ea46f938c709fbf4438215d9f38",
@@ -219,6 +247,22 @@
    "last_seen": "2026-10-19",
    "bt": 0,
    "co": []
+  },
+  {
+   "id": "185da4804c30533760fa4b1817768c8afea734ba",
+   "title": "A股存储芯片股集体下挫，长鑫科技、中芯国际、北方华创跌超3%",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBiT3djV2JFdlZtdjg3N1hDN1BSc1YxQjBNX0x0THBTaDRiX2NhcXBCd1hheGxNc2NVNmdnbVJ3OEE0dVoxc1RiUlRGLVd6bWhqMVNZZkpWaElYU09NTUZGYUVsVUhMQS1KSFZTOXJ5cw?oc=5",
+   "source": "GoogleNews·新浪财经",
+   "domain": "memory",
+   "published": "2026-10-09",
+   "summary": "",
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "bt": 0,
+   "co": [
+    "北方华创",
+    "中芯国际"
+   ]
   },
   {
    "id": "ca7046b72365642a07b9204e42e72955d6017508",
@@ -1702,7 +1746,7 @@
    "published": "2026-10-13",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "bt": 2,
    "co": []
   },
@@ -1829,7 +1873,7 @@
    "published": "2026-10-16",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-17",
+   "last_seen": "2026-10-19",
    "bt": 2,
    "co": []
   },
@@ -3089,7 +3133,7 @@
    "published": "2026-10-16",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-17",
+   "last_seen": "2026-10-19",
    "bt": -3,
    "co": []
   },
@@ -3247,7 +3291,7 @@
    "published": "2026-10-10",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "bt": 4,
    "co": []
   },
@@ -5190,7 +5234,7 @@
    "published": "2026-10-12",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "bt": 0,
    "co": []
   },
@@ -5441,7 +5485,7 @@
    "published": "2026-10-08",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "bt": 0,
    "co": []
   },
