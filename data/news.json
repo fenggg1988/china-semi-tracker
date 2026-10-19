@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-19 14:09:31",
- "count": 517,
+ "updated": "2026-10-19 15:15:49",
+ "count": 523,
  "items": [
   {
    "id": "76b1bb0f1e5778e1aa1145e0489d8dc26f36f054",
@@ -72,6 +72,19 @@
    "co": [
     "长江存储"
    ]
+  },
+  {
+   "id": "c3aea0721874b6e999288ca24125230adbfe1c45",
+   "title": "英特尔阐述硅光时代自身优势：唯一 12 英寸 InP 硅光大规模量产晶圆厂",
+   "url": "https://www.ithome.com/1/014/791.htm",
+   "source": "IT之家",
+   "domain": "optical_comm",
+   "published": "2026-10-19",
+   "summary": "IT之家 10 月 19 日消息，Intel（英特尔）数据中心系统与解决方案业务企业副总裁 Nic Dubé 近日在 2026 OCP 全球峰会上阐述了英特尔在即将到来的硅光子学 (SiPh) 时代的独特优势。Nic Dubé 提到，现有的电互连在范围、带宽、能耗上正面临实际的瓶颈，光学互连 I/O 即将在未来数年内真",
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "bt": 2,
+   "co": []
   },
   {
    "id": "05514bb77fb46ea46f938c709fbf4438215d9f38",
@@ -452,6 +465,71 @@
    "source": "GoogleNews·Jiemian.com",
    "domain": "memory",
    "published": "2026-10-19",
+   "summary": "",
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "89ede69e8ffd96c9eadde5592cc5b3a7e70a6996",
+   "title": "腾讯 AI 管家 Marvis（马维斯）上架麒麟软件商店，深度适配国产操作系统",
+   "url": "https://www.ithome.com/1/014/832.htm",
+   "source": "IT之家",
+   "domain": "logic",
+   "published": "2026-10-19",
+   "summary": "IT之家 10 月 19 日消息，腾讯官方今天宣布，旗下人工智能管家 Marvis（马维斯）已上架麒麟软件商店，面向银河麒麟桌面操作系统版本：V10SP1（X86、ARM），支持多款国产 CPU 和主流计算平台。IT之家了解到，Marvis 是一款操作系统层级的个人 AI 管家，它可以直接操控电脑，执行调整屏幕亮度、切",
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "08e54fd569b41b0adeb53ea93cbbeab859b51f56",
+   "title": "FCC光模块禁令再生变，A股光通信板块影响几何？",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VNHpQbHlGQ3J5MEFPZmFNNE9UeER0OWhvQ3hnUnFoaVlhbkFpRkVKVEh4clhsaUJ3cTI0RXRSai0xSGVXN2t3Q0ZtOW9aTDY5R24zOW9R?oc=5",
+   "source": "GoogleNews·雪球",
+   "domain": "optical_comm",
+   "published": "2026-10-06",
+   "summary": "",
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "9648625b5bbbc3766b8f3374f8ee815a366e6733",
+   "title": "2026年全球光模块供应商TOP10",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWjNzVHhLX3piX1VWYk03dGxyeXB3eHJONjJYVzVQaGtpTDc2RFpQUUdQTEpUV0swelhjZHQzVVV4TUZCeG40Tm93bXBmTDAxQ1N0UmQ2d2FKOGRoTE5KRGZnVEFicFY5dEdvakdvUGJMQkxKVHZ3c0QtcnN2ekJyQVMtYVBkZ2ZXbG1uQw?oc=5",
+   "source": "GoogleNews·搜狐",
+   "domain": "optical_comm",
+   "published": "2026-10-19",
+   "summary": "",
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "f12561c904e66adb0110a9780bc374e7d2eb5978",
+   "title": "存储芯片供应紧张之际，长鑫科技预计收入将跃升逾八倍",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOElpc0RTTmlQZGFtTnV0U3ZFMXdyc2loZGllT2xBNzFGRVBvLWpraHdwUTJDekYyT19pUGdwckpucWE3U2ItOEFja2k4NWdDclZZTlhJVmdKdktoNUY0RHUtX000Q2hqOHJmblFRbGkzOWM0QnBHZkpDYXV1TjNjc19fMTRrZENuVXU2YzlVNXpscUNZcnotcnJ5cjR6M3JYNVJlOXkyOA?oc=5",
+   "source": "GoogleNews·华尔街日报中文网",
+   "domain": "memory",
+   "published": "2026-10-19",
+   "summary": "",
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "95387c8ab8a7ec2ddd1914f90ed192f28df655ca",
+   "title": "GPU、存储、光互连齐聚，国产工业算力进入落地深水区",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1nX1ZiUGhFRzJwakxPMDVaTElwSGtRWVZVRXlfWS1VTlB0bUdHMXlxREhvNmdjT3h0YmdDWW9RZ3Q0ZGM5S1FzVFN4SEVrd0U?oc=5",
+   "source": "GoogleNews·凤凰网",
+   "domain": "optical_comm",
+   "published": "2026-10-09",
    "summary": "",
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
@@ -2850,7 +2928,7 @@
    "published": "2026-10-14",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-16",
+   "last_seen": "2026-10-19",
    "bt": 0,
    "co": [
     "海思"
@@ -3325,7 +3403,7 @@
    "published": "2026-10-15",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "bt": -3,
    "co": [
     "光库科技"
