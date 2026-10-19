@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-19 13:49:05",
- "count": 515,
+ "updated": "2026-10-19 14:09:31",
+ "count": 517,
  "items": [
   {
    "id": "76b1bb0f1e5778e1aa1145e0489d8dc26f36f054",
@@ -446,6 +446,19 @@
    ]
   },
   {
+   "id": "6362b3a521492d14f435401e2de675521dc4a3fc",
+   "title": "三星携手台积电代工英伟达下一代HBM芯片，半导体ETF博时(159582)近10日合计“吸金”超8800万元",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Da0piMndHSUJfLVlqNkZPbW9tLUJHWW95Ml9TeE53d1ZWN1JqWUlPanU5aXlCQkthUm1iYTV4QmtENjBBTl9jUWl1OWw1LS1aQ0FPXzln?oc=5",
+   "source": "GoogleNews·Jiemian.com",
+   "domain": "memory",
+   "published": "2026-10-19",
+   "summary": "",
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "bt": 0,
+   "co": []
+  },
+  {
    "id": "4732c67bb8ab85dbe80d99ca83de86b5a9fa0def",
    "title": "长江存储闪存出货攀升，营收份额快速抬升",
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBzVDFfRkhmdmg2bVI3QXdNSDZXOUxETlRrUnMzZ1ljV2Q1VEItZmIwZGZqcDZHb0x6LVV5cHZ3VmZHVjBxeEM1b0duMUw?oc=5",
@@ -519,6 +532,19 @@
    "source": "GoogleNews·财富号",
    "domain": "memory",
    "published": "2026-10-17",
+   "summary": "",
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "bt": -3,
+   "co": []
+  },
+  {
+   "id": "93186d944b3c73e813ee8b8e320f8d0715f009b0",
+   "title": "ASML财报前瞻：AI芯片需求还在增长，真正决定设备景气度的是订单-yeeyi",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kYk05MklQV0lNb3JTLXlzRnlzeU80amlNdnItTFJnMVV3T1hTRmt0MHM3eGdPVU1rQ1FMTWx1VGY5aWZoRlJSSUpkeF85QjlyZC1FNzV3?oc=5",
+   "source": "GoogleNews·yeeyi",
+   "domain": "logic",
+   "published": "2026-10-14",
    "summary": "",
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
@@ -2766,7 +2792,7 @@
    "published": "2026-10-15",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-16",
+   "last_seen": "2026-10-19",
    "bt": 0,
    "co": [
     "长鑫存储"
@@ -4254,7 +4280,7 @@
    "published": "2026-10-11",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "bt": 2,
    "co": []
   },
@@ -6389,7 +6415,7 @@
    "published": "2026-10-14",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "bt": 0,
    "co": [
     "长鑫存储"
