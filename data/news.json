@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-19 13:29:40",
- "count": 514,
+ "updated": "2026-10-19 13:31:06",
+ "count": 515,
  "items": [
   {
    "id": "76b1bb0f1e5778e1aa1145e0489d8dc26f36f054",
@@ -429,6 +429,21 @@
    "last_seen": "2026-10-19",
    "bt": 0,
    "co": []
+  },
+  {
+   "id": "68acb4c20797f7e214ddc14bacc740273a424c25",
+   "title": "长鑫存储4F²架构引发全球存储股震荡，但韩股熔断并非单一因素所致",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zOVJWVmxSQmtkaXIteFprT2gyNTFvVHpzZUIwRUd3T1RLeDloQXpoeVRqaWNMQW4yWTk0YWNyTjZzM0dKYldRUjZ1YW9hem01SEhGYzRR?oc=5",
+   "source": "GoogleNews·QQ News",
+   "domain": "memory",
+   "published": "2026-10-16",
+   "summary": "",
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "bt": 0,
+   "co": [
+    "长鑫存储"
+   ]
   },
   {
    "id": "4732c67bb8ab85dbe80d99ca83de86b5a9fa0def",
@@ -2611,7 +2626,7 @@
    "published": "2026-10-15",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-17",
+   "last_seen": "2026-10-19",
    "bt": 0,
    "co": [
     "长江存储"
