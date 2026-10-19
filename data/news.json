@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-19 08:57:59",
- "count": 496,
+ "updated": "2026-10-19 13:29:40",
+ "count": 514,
  "items": [
   {
    "id": "76b1bb0f1e5778e1aa1145e0489d8dc26f36f054",
@@ -35,6 +35,36 @@
    "source": "GoogleNews·搜狐网",
    "domain": "memory",
    "published": "2026-10-17",
+   "summary": "",
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "bt": 2,
+   "co": [
+    "长江存储"
+   ]
+  },
+  {
+   "id": "f3b9f52dd07e13c36ac34af7a91c412cc9c0427e",
+   "title": "Counterpoint：长江存储跃居全球NAND出货量第三",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jaDkxOTFIblM5WDZYTkZISUphTTVhV2JlY3FqTE9ZeEF2REFCdXB6a3htVVJaZG52djBwZ2pqX3BhWVd1Y3RuSlpuZGUzeWRFbkJYQk5R?oc=5",
+   "source": "GoogleNews·QQ News",
+   "domain": "memory",
+   "published": "2026-10-15",
+   "summary": "",
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "bt": 2,
+   "co": [
+    "长江存储"
+   ]
+  },
+  {
+   "id": "8de9f08469a451cd17f2c836be9dea14bb0e73eb",
+   "title": "出货量暴增800%，长江存储争气了",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVE1JLUlOUzA2U0V2SWk4S0tVRlI4bVp4QVdBNkVMYlR0V2FWSVFoSFJOWTFUVkt5ZWxhWUI0UXVqYVFaOE1PeUIyZ3JIN2w1NHVlQ05xNjk0TnRYcmYzRUVHOUtqalQ3TWJHUnZHMlF6N3dIdGp0elg0NWVtUU1RckZmMC1uVFh0Q3FrQg?oc=5",
+   "source": "GoogleNews·搜狐",
+   "domain": "memory",
+   "published": "2026-10-19",
    "summary": "",
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
@@ -263,6 +293,222 @@
     "北方华创",
     "中芯国际"
    ]
+  },
+  {
+   "id": "3b9fead98ec923f1988d68f3f2a8bb9dacec1179",
+   "title": "全球独有WXP工艺加持，华辰芯光铸就半导体激光芯片“中国芯”",
+   "url": "https://www.laoyaoba.com/n/1119854",
+   "source": "集微网",
+   "domain": "optical_comm",
+   "published": "",
+   "summary": "",
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "f9edf8367e1a1774a060fecc5ade1f442e891c86",
+   "title": "张雪本人在广交会现场拉赞助，长江存储有望对接冠名合作",
+   "url": "https://www.ithome.com/1/014/694.htm",
+   "source": "IT之家",
+   "domain": "memory",
+   "published": "2026-10-19",
+   "summary": "IT之家 10 月 19 日消息，张雪机车创始人张雪日前晒出视频，在 2026 广交会（中国进出口商品交易会）现场公开拉赞助。视频显示，张雪本人在广交会现场表示，明年张雪机车参加达喀尔拉力赛还缺一个冠名赞助商，看是否有厂商愿意合作。一位身着长江存储品牌服装的参会者表示有意愿合作，双方添加了联系方式。张雪本人在视频中也晒",
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "bt": 0,
+   "co": [
+    "长江存储"
+   ]
+  },
+  {
+   "id": "73b53cdef1a5499ebcbeefd2f770f269cb8a63a9",
+   "title": "英特尔推出拥有最高480GB LPDDR5X的D系列数据中心GPU 主打大模型推理",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1582824.htm",
+   "source": "cnBeta",
+   "domain": "memory",
+   "published": "2026-10-19",
+   "summary": "英特尔在开放计算项目全球峰会上公布了面向AI推理的GPU D系列，代号Crescent Island，产品页面称为D270。该加速卡最高可配置480GB LPDDR5X显存，英特尔称单卡可承载最多3000亿参数的模型，八卡系统则可运行参数量超过1万亿的模型，目标是处理长上下文和多路并发推理，而非传统游戏图形渲染。 阅读",
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "e5030dc4c932e5301c64c438ebb6bd17648463c3",
+   "title": "中国造不出光刻机？中科大副院长：美国造不出，中国永远都不可能",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBsS3pPelA2M3BOa0RxekVxTERQRnh1VG9oSnpkVktyMDh3ZjljRkVudVJkMFR4ZjFYaGtMSWx4dGpiQmNBMGItSU1Mc2JJSDF6VUd4YnQzdUo0U0dDaDBIY0hB?oc=5",
+   "source": "GoogleNews·手机网易网",
+   "domain": "litho_machine",
+   "published": "2026-10-09",
+   "summary": "",
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "20d67e13c3cff8bca075ae29b4f732301cada5d7",
+   "title": "ASML & 蔡司：未来 Hyper NA EUV 光刻机主要挑战为更低的可用景深",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zdVBmaHFJX2RpYzlFaDMybnp3dFVMM2s3OTExRzFfdUFaWDNnaDlWN1hWZFhFb3VJNHByZjI2YTNDQ3VCS2tVaXVIdTlJYTlDMjFoQkRB?oc=5",
+   "source": "GoogleNews·腾讯新闻",
+   "domain": "litho_machine",
+   "published": "2026-10-09",
+   "summary": "",
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "8789ca9ea590ace140133ce1c55efb160d14405d",
+   "title": "一文看懂光模块（下）：光往芯片靠，AI数据中心到底如何提速？",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1OZWdVaWg3Y242X29Fb2ZOSnhZdHdRZjlBWHI3OGhJdG9vZ3k3dnl1WnRGdXhXYjlJdldjUVdSeV9DaXFtaVpMQVlzOUwwUQ?oc=5",
+   "source": "GoogleNews·36Kr",
+   "domain": "optical_comm",
+   "published": "2026-10-18",
+   "summary": "",
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "0d7777474a28aad9ef67664e0d8bf203e61cdab8",
+   "title": "脸皮要厚！张雪广交会现场拉赞助：长江存储有望冠名合作",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBUZlkwdFBUa0Y2R2VLRnowVHpZSFRkNk1uREwwYzhMUUJtNklVOG5DYVpDUWxLUTRmODJjdkVnNUpxdk9xWXJrS0ZVOV9Ubm8zM2RwMjFWekg?oc=5",
+   "source": "GoogleNews·驱动之家",
+   "domain": "memory",
+   "published": "2026-10-19",
+   "summary": "",
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "bt": 0,
+   "co": [
+    "长江存储"
+   ]
+  },
+  {
+   "id": "bdc4fffadffa622b7068e152d4f5e410c9c87918",
+   "title": "长江存储，也想学三巨头？既造NAND，也造DRAM",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdDlfU2p0TE42dk9VSHlmQmRNWG0xcVdxbkJVM0lGVnNDRHU4TjFpT2tfYlZ2UmZ2QWNwZ2xMdEg0VkhxMC1pS2JuMTBCdDBLTmpiTXEzSzNZcGV5R3dUb2hDcllSOWk1NWNwWEpETjVOeUJPLUJZa0JTZkw4eUlvcjltVHBnT3RiSW13Sg?oc=5",
+   "source": "GoogleNews·搜狐",
+   "domain": "memory",
+   "published": "2026-10-19",
+   "summary": "",
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "bt": 0,
+   "co": [
+    "长江存储"
+   ]
+  },
+  {
+   "id": "62d6a924d1552c138ea90d2219a0835d741187a3",
+   "title": "意外！长鑫科技，突然杀跌！发生了什么？",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE43MFdPY2k4eFN4Qk1tejZTZWs4VjNpb2pxMURKdV94S3YwR1hoUmViY243R2VNVVVpcHFhdktxeE9Sckl0VFUxdG1yNm9kN3lxVTRsVFZpY2VTUS1H?oc=5",
+   "source": "GoogleNews·证券时报网",
+   "domain": "memory",
+   "published": "2026-10-19",
+   "summary": "",
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "e5d0ddadf81ed6a1f4041241d9fb9a2d36da9f98",
+   "title": "业绩没爆雷，万亿长鑫怎么成了提款机？",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4yckVONzg2d25Qa0NqSm5leUhZN01fQUQ5VzVtc1h4RUlUTndOcGY1Nk00dGpSVDJkZnhxdTVqc3RqTFNQNGlXSXhpNzJzRkp1YlNKM3BhRzgtS3A3Rms5b2tkMnJnczZObnZ3?oc=5",
+   "source": "GoogleNews·财富号",
+   "domain": "memory",
+   "published": "2026-10-11",
+   "summary": "",
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "4732c67bb8ab85dbe80d99ca83de86b5a9fa0def",
+   "title": "长江存储闪存出货攀升，营收份额快速抬升",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBzVDFfRkhmdmg2bVI3QXdNSDZXOUxETlRrUnMzZ1ljV2Q1VEItZmIwZGZqcDZHb0x6LVV5cHZ3VmZHVjBxeEM1b0duMUw?oc=5",
+   "source": "GoogleNews·凤凰网",
+   "domain": "memory",
+   "published": "2026-10-15",
+   "summary": "",
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "bt": -1,
+   "co": [
+    "长江存储"
+   ]
+  },
+  {
+   "id": "9c05ae7aff2a27a75757562afaba0d560b03cf2d",
+   "title": "长鑫科技盘中市值蒸发超1900亿元 跌落到第三",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1582868.htm",
+   "source": "cnBeta",
+   "domain": "memory",
+   "published": "2026-10-19",
+   "summary": "存储厂商长鑫科技（688825.SH）发布三季度业绩预告后，10月19日早盘盘中股价大跌。截至上午10点40分，长鑫科技跌6.31%，市值蒸发1927亿元，总市值2.87万亿元，市值回到3万亿元以下，在A股市值排行榜中也从第一名滑落至第三名。 阅读全文",
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "bt": -3,
+   "co": []
+  },
+  {
+   "id": "c2755d8fc152f8f554e5f0dfe62984d24c22f2ce",
+   "title": "专注光互连和硅光通信技术，芯光界完成Pre-A和A轮融资",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvaGlOdXNXSXZKNzJvN1gwaDJtTG1zdV93VTVyX181Nmc1bWloRWt3el9yd21melBuYWJ0VHdVaFVQckEyMnhFcTZSbWxwU0xEalROaW93?oc=5",
+   "source": "GoogleNews·腾讯新闻",
+   "domain": "optical_comm",
+   "published": "2026-09-30",
+   "summary": "",
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "bt": -3,
+   "co": []
+  },
+  {
+   "id": "eb23a9b70153903f86bee6eb5b3cacebba8f52b0",
+   "title": "上会前突然取消6亿补流，羲禾科技IPO估值下调25%，硅光芯片的高增长该如何定价？",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PZUF0LXQ0aG9PVDBlUzZhMU8wSGJfdFNOVldpdzRxOHVNZGwwb2FhYmlCbF9qS3BjWllLcFlPOWtwMkp6bXVrbnRJZDhlQTFDeDZGNVpn?oc=5",
+   "source": "GoogleNews·QQ News",
+   "domain": "optical_comm",
+   "published": "2026-10-12",
+   "summary": "",
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "bt": -3,
+   "co": []
+  },
+  {
+   "id": "a8351e966b5cce938883fe7e1cd8ebb80ebeaab1",
+   "title": "【BT财报瞬析】净利暴增1310亿！长鑫科技三季报引爆，硬科技迈入盈利兑现期_公司新闻",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8wZ3UzRUFqNGR5VUp1V3hpcDdoYllGaVJQTzdKbE1PczJWMnpMN2U4NkZrTW9qNnp2NnFZRDdPWURZenV0WmRXTFRDS0hsdGxjY0RCYkdWSE41ZnQtZ0hqOVJn?oc=5",
+   "source": "GoogleNews·证券之星",
+   "domain": "memory",
+   "published": "2026-10-18",
+   "summary": "",
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "bt": -3,
+   "co": []
+  },
+  {
+   "id": "8d7bfc6447d40024cdcfbee02c7db1b9a7ebe86d",
+   "title": "国产存储赚麻了！长鑫前三季净赚1300亿同比扭亏为盈：营收增长近8倍！#长鑫#国产存储",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xemxtSzRkY190SDZYaENoZ3FGZFFNWlM3YmYwWUdYQkExYWE4Zi1WdURZMmd4bUFkMVJpZV8xSWV0czJlTG5NaTJRUUJ3d2JGUmJPc3REMm5GcFk0YWR5ZEhhVVJ5R1d5OUZJ?oc=5",
+   "source": "GoogleNews·财富号",
+   "domain": "memory",
+   "published": "2026-10-17",
+   "summary": "",
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "bt": -3,
+   "co": []
   },
   {
    "id": "ca7046b72365642a07b9204e42e72955d6017508",
@@ -1570,7 +1816,7 @@
    "published": "2026-10-16",
    "summary": "",
    "first_seen": "2026-10-17",
-   "last_seen": "2026-10-17",
+   "last_seen": "2026-10-19",
    "bt": -3,
    "co": []
   },
@@ -2393,7 +2639,7 @@
    "published": "2026-10-15",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-16",
+   "last_seen": "2026-10-19",
    "bt": 0,
    "co": [
     "长江存储"
@@ -2548,7 +2794,7 @@
    "published": "2026-10-15",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-17",
+   "last_seen": "2026-10-19",
    "bt": 0,
    "co": [
     "长鑫存储"
@@ -3094,7 +3340,7 @@
    "published": "2026-10-15",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-16",
+   "last_seen": "2026-10-19",
    "bt": -3,
    "co": []
   },
@@ -4032,7 +4278,7 @@
    "published": "2026-10-13",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-17",
+   "last_seen": "2026-10-19",
    "bt": 2,
    "co": []
   },
@@ -4925,7 +5171,7 @@
    "published": "2026-10-09",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-16",
+   "last_seen": "2026-10-19",
    "bt": 0,
    "co": []
   },
@@ -6184,7 +6430,7 @@
    "published": "2026-10-13",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-16",
+   "last_seen": "2026-10-19",
    "bt": 0,
    "co": []
   },
@@ -6223,7 +6469,7 @@
    "published": "2026-10-12",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-16",
+   "last_seen": "2026-10-19",
    "bt": 0,
    "co": [
     "长鑫存储"
@@ -6316,7 +6562,7 @@
    "published": "2026-10-11",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-16",
+   "last_seen": "2026-10-19",
    "bt": 0,
    "co": [
     "长鑫存储"
@@ -6666,7 +6912,7 @@
    "published": "2026-10-13",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-16",
+   "last_seen": "2026-10-19",
    "bt": -3,
    "co": [
     "长鑫存储"
@@ -6735,7 +6981,7 @@
    "published": "2026-10-15",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-19",
    "bt": -3,
    "co": []
   }
