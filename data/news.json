@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-20 13:42:53",
- "count": 582,
+ "updated": "2026-10-20 13:44:02",
+ "count": 586,
  "items": [
   {
    "id": "323c13ef6a2d4ea2235948d316034f2a404c3d78",
@@ -106,6 +106,19 @@
    "source": "GoogleNews·手机新浪网",
    "domain": "memory",
    "published": "2026-10-13",
+   "summary": "",
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "c990ad741d2d6490649537d67a843ae8458009eb",
+   "title": "美媒关注长鑫技术突破",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcnBWYTRMZjJvdmhQY3lEYU8wYXVGdFN5cE9fbVplNHVXUEJqbjNMYmFNaEhKS0RscnJSWkJHZVhPS0dJazBncktjV2RXVzJNTFQ3U0M4TEwxcC1iR19XRDRvVWlrcVNXbUJLanZpLWxQZDVGY3d6WUpJTmFOZDhhblNZNUVUc2xDYklGVQ?oc=5",
+   "source": "GoogleNews·搜狐",
+   "domain": "memory",
+   "published": "2026-10-14",
    "summary": "",
    "first_seen": "2026-10-20",
    "last_seen": "2026-10-20",
@@ -387,6 +400,47 @@
    "source": "GoogleNews·36Kr",
    "domain": "optical_comm",
    "published": "2026-10-14",
+   "summary": "",
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "254c39d02b905707b00fe2e74689d93957f4c9fb",
+   "title": "长鑫存储计划一年内新增超10万片DRAM月产能，缓解手机、PC等存储短缺",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNVJmRkc0VDExem1BVllzOEl4VW0wLWFsT1BlWGJYcVFtWUROM2w3TDQzY1VPdGxCeG5ETG1zX1lBRHBxbE9Wck15V3VDSFlYYkdPRGZTTXR1VEVrY0RDZXdGS0FSazVmZEI2aTNBOG55NWYtX082eVNNVklMNzZob2pmRlIyRVpK?oc=5",
+   "source": "GoogleNews·搜狐",
+   "domain": "memory",
+   "published": "2026-10-20",
+   "summary": "",
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
+   "bt": 0,
+   "co": [
+    "长鑫存储"
+   ]
+  },
+  {
+   "id": "a8b00ce70fd44184c1a12cba9fde53a3b99e290a",
+   "title": "长鑫科技：AI 驱动市场扩容，坚持跳代研发|长鑫科技|DRAM|AI 算力_新浪新闻",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1sMDBCQzZsVTQ4QWJ2WnlTbGVZMGEzRktRdVJqTkVEc2RuU20zdUFVVHpKUFNxdUNjZ2hrNnJfOHRYSFlVa3pyT1pDUHhyWHNUUFplVHlWNjlLRDVYR0JmNm9yOA?oc=5",
+   "source": "GoogleNews·手机新浪网",
+   "domain": "memory",
+   "published": "2026-10-19",
+   "summary": "",
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "1ae0ad3e91cbc022d3d28550724eb631de90fa76",
+   "title": "长鑫抢先落子4F²，内存巨头二十年技术护城河出现裂缝",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9CY2M1UW90emxLa2RnRmNYUlRmVlpKVEVTTlVicTNKWndOWnV5WDM2V1YyVjZjS3BqRThYQzlWTWFYeFk0?oc=5",
+   "source": "GoogleNews·OR新媒体",
+   "domain": "memory",
+   "published": "2026-10-13",
    "summary": "",
    "first_seen": "2026-10-20",
    "last_seen": "2026-10-20",
@@ -2377,7 +2431,7 @@
    "published": "2026-10-16",
    "summary": "",
    "first_seen": "2026-10-17",
-   "last_seen": "2026-10-19",
+   "last_seen": "2026-10-20",
    "bt": 0,
    "co": [
     "长鑫存储"
@@ -5207,7 +5261,7 @@
    "published": "2026-10-14",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-19",
+   "last_seen": "2026-10-20",
    "bt": 2,
    "co": []
   },
@@ -6673,7 +6727,7 @@
    "published": "2026-10-14",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-20",
    "bt": 0,
    "co": []
   },
@@ -7532,7 +7586,7 @@
    "published": "2026-10-09",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-19",
+   "last_seen": "2026-10-20",
    "bt": 0,
    "co": []
   },
