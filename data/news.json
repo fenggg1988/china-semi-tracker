@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-20 13:37:03",
- "count": 581,
+ "updated": "2026-10-20 13:42:53",
+ "count": 582,
  "items": [
   {
    "id": "323c13ef6a2d4ea2235948d316034f2a404c3d78",
@@ -374,6 +374,19 @@
    "source": "GoogleNews·东方财富",
    "domain": "memory",
    "published": "2026-10-20",
+   "summary": "",
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "32a2519fe997eff0179de9b0c2b5799ca7a2bc6c",
+   "title": "硅光集成芯片厂商羲禾科技科创板IPO过会-36氪",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PMDBaV1I0dXpmTy15UFdnbVM2OEpBbFVZSjZmbk41MHc0U1lEQ21KRTJVdWVlUXlVOXVQTVlmc293UWp2azd1cm5UR3R4V1ZhYldNNzFrMnU?oc=5",
+   "source": "GoogleNews·36Kr",
+   "domain": "optical_comm",
+   "published": "2026-10-14",
    "summary": "",
    "first_seen": "2026-10-20",
    "last_seen": "2026-10-20",
