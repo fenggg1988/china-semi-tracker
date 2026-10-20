@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-20 15:03:24",
- "count": 589,
+ "updated": "2026-10-20 21:12:44",
+ "count": 605,
  "items": [
   {
    "id": "323c13ef6a2d4ea2235948d316034f2a404c3d78",
@@ -24,6 +24,32 @@
    "source": "GoogleNews·QQ News",
    "domain": "litho_machine",
    "published": "2026-10-17",
+   "summary": "",
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
+   "bt": 4,
+   "co": []
+  },
+  {
+   "id": "9fb2c01e0ce2f45105c7a1587c0c677fdb1165e9",
+   "title": "港股概念追踪 | 重大突破！朗道燧岩EUV光源样机亮相工博会 国产化率达90%(附概念股)-证券之星",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBrN3B0cnJPTmx3WTF2LWxjblpTbDFUVkg5OEJTUzQwOGtNOUdINW85d3NDWEJIY0R4bnRhaGFmZzFfR0xxeEpYenBIalZtRGxtLUlCQ3ZfRXhONlV4U3c?oc=5",
+   "source": "GoogleNews·证券之星",
+   "domain": "litho_power",
+   "published": "2026-10-15",
+   "summary": "",
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
+   "bt": 4,
+   "co": []
+  },
+  {
+   "id": "a8896ea7b78c1cc669d5acafca3814c77e553a5a",
+   "title": "存储企业业绩炸裂，安靠149亿扩产、英特尔硅光量产、英伟达统一HBM基底",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdFQwdUFqZFoxdEZ5U1U0OU1HbFE4TjZQWlhBWXdQN18xaEtudGE0YjZxX1JySlYwZnVtNGNmM0lib3FwaVJCWENBQnh3MnFKb3M0RnFMOGhzUXcyRHNxTGVONk41TEtfZ0phTzJDdm9tcGwwR2doMVpxSXBKeEFQMWRaM3dpLTZPMjFncw?oc=5",
+   "source": "GoogleNews·搜狐",
+   "domain": "memory",
+   "published": "2026-10-20",
    "summary": "",
    "first_seen": "2026-10-20",
    "last_seen": "2026-10-20",
@@ -145,6 +171,32 @@
    "source": "GoogleNews·国际电子商情",
    "domain": "optical_comm",
    "published": "2026-10-14",
+   "summary": "",
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "5f43135d45e84db005c72f0617bfdc41fbb8c2ab",
+   "title": "首发价 9599 元：索尼 FE 50mm F1.4 GM 全画幅镜头 6259 元国补直降",
+   "url": "https://www.ithome.com/1/015/507.htm",
+   "source": "IT之家",
+   "domain": "optics",
+   "published": "2026-10-20",
+   "summary": "【京东活动可能随时变更，需以实付款为准】索尼全画幅大光圈定焦 G 大师镜头 FE 50mm F1.4 GM（型号名：SEL50F14GM）上架于 2023 年 3 月份，首发价 9599 元。京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 10% 国补后仅需 6259.45 元：满 100 元减 ",
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "1fe63a491ecefb4b7060ce3d2432e5629e4e92e2",
+   "title": "中国EUV光源样机亮相！国产化率90%！",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6bHZDQkljU3pzRmZ3UkR4Zm9ieXFDZWtaV09ibjgweTE5SFZBNy1sS1czOEdrbWl0MWVWZEFabmNXT25JTHVSTWsyazFoQlBqZl84?oc=5",
+   "source": "GoogleNews·电子工程专辑",
+   "domain": "litho_power",
+   "published": "2026-10-20",
    "summary": "",
    "first_seen": "2026-10-20",
    "last_seen": "2026-10-20",
@@ -487,6 +539,159 @@
    "co": []
   },
   {
+   "id": "b8157bc6dd7fe66ad7339e350d5a6a7fe2e572e8",
+   "title": "直饮水低至 0.08 元 / L：京东京造 800G 4.0 净水器 499 元再降价",
+   "url": "https://www.ithome.com/1/015/516.htm",
+   "source": "IT之家",
+   "domain": "optical_comm",
+   "published": "2026-10-20",
+   "summary": "京东京造 800G 4.0 净水器日常售价 848 元，今晚 20:00 直降至 599 元。下单立返 100 元红包，折合仅需 499 元破冰新低。京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次：点此抽取。京东京东京造 净水器 800G 白犀 4.020:00 599 元直达链接配备 6 年长效 ",
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "17eae53c2d5e332dcb11a09fdcbb76d6644f7147",
+   "title": "进迭时空发布 RISC-V 服务器级 CPU V100 ：6P + 40E 异构，8 通道 DDR5",
+   "url": "https://www.ithome.com/1/015/491.htm",
+   "source": "IT之家",
+   "domain": "memory",
+   "published": "2026-10-20",
+   "summary": "IT之家 10 月 20 日消息，进迭时空 (SpacemiT) 近日发布了基于 RISC-V 指令集的服务器级 CPU —— Vital Stone V100，号称“首颗完整符合 RISC-V 服务器规范的计算芯片”。V100 采用 6P + 40E 异构设计，拥有 6 个香山昆明湖 V2R2 性能核、40 个进迭时",
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "dbf85ca49e6545de6256ed28f5515a94288bf487",
+   "title": "三星提前锁定明年大部分内存产能 DRAM长期订单覆盖七成 HBM明年产量已全部预订",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583076.htm",
+   "source": "cnBeta",
+   "domain": "memory",
+   "published": "2026-10-20",
+   "summary": "全球人工智能基础设施建设持续推高内存需求，三星电子正在通过长期供应协议，提前锁定未来数年的销售规模。据韩国媒体援引证券分析报告称，三星已经与全球大型科技企业签订大规模内存供应协议，约70%的通用DRAM产能通过长期合同获得保障，而2027年计划生产的高带宽内存（HBM）则已全部获得订单。随着内存供应持续紧张，相关产品价",
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "8120b606e7a360f844543738e04075846135dc20",
+   "title": "光刻胶抗反射层在光刻工艺作用重要 我国企业布局速度加快",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAybVpXaWJSNmwwaVNZNGo3Y096WnhPcXRXMi0wM1BSVmo4eDZ0V3FtQnd5SEdlU3NodDJtX1ZyVWloNmNJeUoyYkZlVU5NS29ncHNEb2JmNUdxZVFpTVEzZTJ3YTFBT1ZqQWNRSm91WWYzR09nUWE1Tw?oc=5",
+   "source": "GoogleNews·新思界产业研究中心",
+   "domain": "photoresist",
+   "published": "2026-10-10",
+   "summary": "",
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "9304b2c66f08db5a73f9b37e8519974b28df0176",
+   "title": "韩股半导体迎来压力测试，韩国资金逆势配置A股中芯国际、德明利、中际旭创等标的",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ob0x2QWw0Rms2enliU09xV3AybmoyQmpZYWVORWYwTHlSSjdlV1lVX2lEMjZ5MFJrS3dhZi1fMGF4WUR3NFZBaTlvMlZETkVEQU9pS0R3?oc=5",
+   "source": "GoogleNews·腾讯新闻",
+   "domain": "logic",
+   "published": "2026-10-13",
+   "summary": "",
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
+   "bt": 0,
+   "co": [
+    "中芯国际",
+    "中际旭创",
+    "德明利"
+   ]
+  },
+  {
+   "id": "f6f67685cccbc12be05eaccacd032481fd34482c",
+   "title": "市场分歧，联讯仪器和源杰科技#联讯仪器#胡海洋#源杰科技#张欣刚、光模块、CW光芯片、CPO、硅光、800G、1.6T、AI算力、测试仪器#FCC_财富号_东方财富网",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03dXdEUFRYRWJZRlBKYS1xb2kwaEwteGpIWWFZdGNPcWJPYmVvTmdsR1pkQmwyMVlBeDJhM0Q5ZFdCeEZCZlU1SEk4S21xYldYX0ZZbWl5NGdWZEVacGRBSzl6azk2ajB2UDhR?oc=5",
+   "source": "GoogleNews·财富号",
+   "domain": "optical_comm",
+   "published": "2026-10-20",
+   "summary": "",
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
+   "bt": 0,
+   "co": [
+    "源杰科技"
+   ]
+  },
+  {
+   "id": "8944312c6b3addc87a1aab4fddd9e4859085de38",
+   "title": "鄂州市AI人工智能算力硅光芯片项目完成桩基施工",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB5TEhJQzZPMnlCWHFkc0N0dG4yYzN2RXZhaC1mMTZTRXhqOWZsTE5CTGtkc1hQNXhWcEhOLWZRSlJpVEhmSS1veA?oc=5",
+   "source": "GoogleNews·凤凰网",
+   "domain": "optical_comm",
+   "published": "2026-10-15",
+   "summary": "",
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "f6b0f19cbcf9be888c97ec1fe36bb326103e40ab",
+   "title": "光互联不再“配套”，OCP峰会定调：它已是AI算力的核心基建",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrZWlleWdBRTk0ZEtLTDY1V0hnT2d6VVJqcjh3ZlpDN3I2aGd6bHZmVXMtRElxbDRfbnRzVW9RTkRneE9TM3UxNkhsRE9sdHpiNnlZ?oc=5",
+   "source": "GoogleNews·维科号",
+   "domain": "optical_comm",
+   "published": "2026-10-20",
+   "summary": "",
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "f8e2f3baa833bfcc2c0950a58f6229870e81f5b5",
+   "title": "羲禾科技106天过会科创板：募资18.3亿，过半押注下一代硅光",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWGRLXzFZN0EwYnpVOGhhbm1kRlA1cW51TTgzNDRCck9wSnZWSFJCeGtKckJxQ3dLdkx6UlRtaTJyREJKaVNXZTQ2THFsMVl0cVJ4RFplN2hHQnQwYm1KUEt2Z2ZKQ1d6cjhIQW9JX25wakdibHpBZmJXN3ZkYUxTaHItRWhiSHlLSENvbg?oc=5",
+   "source": "GoogleNews·搜狐",
+   "domain": "optical_comm",
+   "published": "2026-10-19",
+   "summary": "",
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "389fb2b226cb9e928f914bed5488296f00057a5a",
+   "title": "中芯国际（688981.SH）脱水研报",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ES1hBT2tmbWRkVVYxMWVxVm93dVBnWUtNMkhjRUJDR1BRMFJvLXBMTVJvenVfSHJXSEs4bXEzSkpHcUhBSzN2VGd1SmJwM19KMjY1MEk5X1dpbWdvcjRqdA?oc=5",
+   "source": "GoogleNews·证券之星",
+   "domain": "logic",
+   "published": "2026-10-20",
+   "summary": "",
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
+   "bt": 0,
+   "co": [
+    "中芯国际"
+   ]
+  },
+  {
+   "id": "da897a6dcc753ce8479d7f1478d7ec51b9596b64",
+   "title": "LPDDR5X涨价100%被苹果秒接，长鑫存储被堵门外：消费级DRAM的定价权账该怎么拆",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nWUc0aVpPN3hLRWwxSmxqRmRyVGJxcERTU2xTd0w4dkMzVTlZOFRlTkpucmk0Zm1xcnNCTDBBbGdMajJoNWtibmZiSGpNNmRfMHJSNGJB?oc=5",
+   "source": "GoogleNews·雪球",
+   "domain": "memory",
+   "published": "2026-10-20",
+   "summary": "",
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
+   "bt": 0,
+   "co": [
+    "长鑫存储"
+   ]
+  },
+  {
    "id": "72aa4085399cbfbc6c45007f9eab7e5362127f89",
    "title": "长江存储NAND出货量全球第三 2026年营收增速预计达同行6倍",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1oaVVTblJZYzdXUVR6cVhXNTliQ1BCR0dMMV9YUkxSWUp2ekRUVWtlOGt6bHZBRDhXenFieEo2ZUlJWW9jR29tV0NfZS03NWdCeVhJYTBKTnZWNEZMZWZmZjRveFlNel92LWRiaXJn?oc=5",
@@ -500,6 +705,19 @@
    "co": [
     "长江存储"
    ]
+  },
+  {
+   "id": "9fa62d9f99caed129df526d8ccc80e97eb97e422",
+   "title": "高盛逆势唱多长鑫科技：Q3营收超预期30%，第五代DRAM量产全面打开增长空间",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1RWVp0NHY1cEd2UXdPWWJwY0QxSWJsSFN0a0Q3QUdPRTd1c0hPVi1Yb1lXU0RhakFwdzdCTTVTanZ3Yk03SGpkWlNJLVhGSnpIbEJJ?oc=5",
+   "source": "GoogleNews·华尔街见闻",
+   "domain": "memory",
+   "published": "2026-10-20",
+   "summary": "",
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
+   "bt": -1,
+   "co": []
   },
   {
    "id": "a3474963626332b7f39a0cb973e5e5162c21f0cc",
@@ -1675,7 +1893,7 @@
    "published": "2026-10-17",
    "summary": "",
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-19",
+   "last_seen": "2026-10-20",
    "bt": 0,
    "co": []
   },
@@ -2557,7 +2775,7 @@
    "published": "2026-10-13",
    "summary": "",
    "first_seen": "2026-10-17",
-   "last_seen": "2026-10-19",
+   "last_seen": "2026-10-20",
    "bt": 0,
    "co": []
   },
@@ -5758,7 +5976,7 @@
    "published": "2026-10-14",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-19",
+   "last_seen": "2026-10-20",
    "bt": 0,
    "co": []
   },
