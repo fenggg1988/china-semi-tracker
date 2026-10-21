@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-21 07:45:23",
- "count": 619,
+ "updated": "2026-10-21 13:33:01",
+ "count": 628,
  "items": [
   {
    "id": "b9f6a7b6fb3bb9a694ce417f148680369db970f3",
@@ -9,6 +9,19 @@
    "source": "GoogleNews·手机新浪网",
    "domain": "litho_machine",
    "published": "2026-10-13",
+   "summary": "",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "11deabf2a9a92440c9f8018eafdb21845b10b807",
+   "title": "朗道燧岩国产EUV光源系统样机2026工博会首秀：国产化率达90%|光刻机|上海市|芯片|等离子体|官网_手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT0M1cXZQdGFTRUF0V0Fza3RJV1g0alR5NGVEUXl2MEJjWExBSmJNOThBU1RRVXNfTXRyNk40Q2d6YjNUTURaYmJMNXpnV1lOSEw1UGlNNlhMNjBNczNNeUYwc3R6dTNZMUhRVDV5cXhacDhiVDY1ZWFQUXRGbU1fZlNQeHo1Z2lNT2tRN2lCQ0EwUQ?oc=5",
+   "source": "GoogleNews·新浪财经",
+   "domain": "litho_power",
+   "published": "2026-10-15",
    "summary": "",
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
@@ -178,6 +191,90 @@
    "co": []
   },
   {
+   "id": "633ed7e862a1dfd5d1c5af7588b9172b28755fb1",
+   "title": "消息称佳能计划到 2029 年将后端光刻机产能提升 50%",
+   "url": "https://www.ithome.com/1/015/780.htm",
+   "source": "IT之家",
+   "domain": "litho_machine",
+   "published": "2026-10-21",
+   "summary": "IT之家 10 月 21 日消息，日媒《日刊工业新闻》当地时间昨日报道称，Canon（佳能）计划到 2029 年将其面向半导体后端工艺的光刻机产能较当前水平提升 50%。▲ FPA-8000iW佳能正在开发用于先进封装工艺的 i 线光刻设备。该企业还开发了一种分辨率达 0.8μm (800nm) 的大尺寸基板光刻机台，",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "d569a01f8656e7a306db43fe3869fa8620a5aad8",
+   "title": "消息 NVIDIA 下代 Groq LPU 芯片转向 3D 堆叠 DRAM，放弃大 SRAM 方案",
+   "url": "https://www.ithome.com/1/015/760.htm",
+   "source": "IT之家",
+   "domain": "memory",
+   "published": "2026-10-21",
+   "summary": "IT之家 10 月 21 日消息，韩媒 ZDNET Korea 当地时间昨日报道称，NVIDIA（英伟达）的下代 Groq LPU AI 推理加速器芯片有望采用基于 TSV（硅通孔）工艺的 3D 堆叠 DRAM 方案。当前一代的 Groq LPU 采用了大容量 SRAM 的缓存设计，提供快速解码输出。但 SRAM 有着",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "00d9867d72ac813889cbdf03c769bfdff43fe689",
+   "title": "致态TiPro9000固态硬盘×吹雪联名版发售：融入华硕RO宝·吹雪姬视觉元素|长江存储|幻彩|散热片|螺丝刀|缓存_手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQlk4UjZvcjdpdXZZeGk1bnVpX1M3MVZERzcxMWxXWC0xUjlFZG9QTmRSdXlKTHpUS2w5d1RiOURZUWtfTGg3NHVWR3I0NFBIdy1UNlprVEVFQU5kV3p1b002cjZBLUN6LWFBVktuWTB6bTd1SzJwcmNnWkpQd3pQbm5IOGNvR2ROdjBWZHc0WXdFam5LeGhGMFZFRUw4QWt1VVd5cUxJMA?oc=5",
+   "source": "GoogleNews·新浪网",
+   "domain": "memory",
+   "published": "2026-10-21",
+   "summary": "",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "bt": 0,
+   "co": [
+    "长江存储"
+   ]
+  },
+  {
+   "id": "3db9bc008b507829747b818b34b9f25fc0391bd0",
+   "title": "致态|《凡人》动画联名PSSD礼盒发售：基于灵·潮流版|长江存储|数据线|冰箱贴|硬盘|磁吸_手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMlZuMy01d29WX1ZFaV9QMVpEYURuQzA5enBQeWlWZmVKaU9QYTJucTdLQnRpUnZXejlkYUZqTjZ5bjBkNTJfbzdsSDN1a29JZWlFRWFxeG5VQVIwTDJBYVhSX09QVmlsU09GT1MyZFJuS20waHVKakZzY08tRXVfOWRSYzAxcG9nb0NiOFRmVzR4NjBFQWE5RV9IWVpVSzBkMVpEV2ZKOA?oc=5",
+   "source": "GoogleNews·新浪财经",
+   "domain": "memory",
+   "published": "2026-10-21",
+   "summary": "",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "bt": 0,
+   "co": [
+    "长江存储"
+   ]
+  },
+  {
+   "id": "1bdeebab2885d3e8317e9e53ea22fc67cbbdd659",
+   "title": "10月16日：张雪广交会牵手长江存储谈达喀尔赞助，芯片龙头跨界赛事，预计年净利142",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3R2xDMHozUGR6anh0c1c4Z3F1eUdlVDhlQjhnWnByc1o5LWJSRDNSbzJWbEkxZ2dxV0t2YzlGUm9ucUdocGw0cnlUd05CeVc1OEpGYWhwcjJUNGFOXzVUc0d2VnJvYU9IM2ZB?oc=5",
+   "source": "GoogleNews·搜狐",
+   "domain": "memory",
+   "published": "2026-10-16",
+   "summary": "",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "bt": 0,
+   "co": [
+    "长江存储"
+   ]
+  },
+  {
+   "id": "5e7e040e5bc98d273afde48eeb21cc9e3ada3288",
+   "title": "全球DRAM+NAND芯片产能，中国大陆共占26%，长存+长鑫占14.5%",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5NamoyeElOTDV2R3RONUVITThEMUcta25Wbks1MW1jV1lZU25qU2VZQjVHYVg3eGZJVThqb3JkeTlIQ25GSkNUUW40RmFoQ3Rqa2xJQ2NiQzBzaks5aWZNdW50X0pUb3JSSW5r?oc=5",
+   "source": "GoogleNews·搜狐",
+   "domain": "memory",
+   "published": "2026-10-04",
+   "summary": "",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "bt": 0,
+   "co": []
+  },
+  {
    "id": "90d3e24a2ef6067154f6402f5f99307e0b393658",
    "title": "AI算力驱动光模块景气度上行 光库科技前三季度净利预增超1.4倍|财报解读",
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5hRUJpWmYxUVJMdTh2cGlORmktbmNIQ2g3Nkw1eW1wV2JhdXRtclRrdEZQYkpvZXI5bWVfUXRMeFk4M052WHdJdQ?oc=5",
@@ -191,6 +288,32 @@
    "co": [
     "光库科技"
    ]
+  },
+  {
+   "id": "cea6548fd8b4ac96642d8933b246c53c2b561f4a",
+   "title": "Counterpoint：26Q2全球晶圆代工2.0市场营收同比增长25%至966亿美元先进封装成为关注焦点提供者智通财经",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DUW0ycDVNeTVWMkhDd0k4MEJnejFMVVRHS0pKMkxUM1J0Y3pTZ3Q0Ry0zV2hDMjZJSFhuamxYWjItLUU3bDRnY0lfdzRKTU1acVB4ZENlOWdSXzRXY0VqLUpYejZEdkh2eVN4ZktKSTY?oc=5",
+   "source": "GoogleNews·英为财情 Investing.com",
+   "domain": "logic",
+   "published": "2026-10-08",
+   "summary": "",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "bt": -3,
+   "co": []
+  },
+  {
+   "id": "0cc9f81e07f14801b27b46b99c76e37809e70299",
+   "title": "长鑫科技大跌失“市值一哥”，工商银行又创新高，午后反转是有人“抄底”？丨川观解盘",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4wQndUN3JoSWdEcy1vMlhfYkUzd2xoem5YVXZyY1h5SXZwM29pM2plNWRhekszbUdVMXZra1FMZVRMb1RmdW9vZm0ybzFZc2RHTklxcmpQdFBYeFZEWkVQdnBDNA?oc=5",
+   "source": "GoogleNews·四川新闻",
+   "domain": "memory",
+   "published": "2026-10-19",
+   "summary": "",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "bt": -3,
+   "co": []
   },
   {
    "id": "323c13ef6a2d4ea2235948d316034f2a404c3d78",
@@ -229,7 +352,7 @@
    "published": "2026-10-15",
    "summary": "",
    "first_seen": "2026-10-20",
-   "last_seen": "2026-10-20",
+   "last_seen": "2026-10-21",
    "bt": 4,
    "co": []
   },
@@ -789,7 +912,7 @@
    "published": "2026-10-13",
    "summary": "",
    "first_seen": "2026-10-20",
-   "last_seen": "2026-10-20",
+   "last_seen": "2026-10-21",
    "bt": 0,
    "co": [
     "中芯国际",
@@ -2593,7 +2716,7 @@
    "published": "2026-10-17",
    "summary": "",
    "first_seen": "2026-10-17",
-   "last_seen": "2026-10-19",
+   "last_seen": "2026-10-21",
    "bt": 2,
    "co": []
   },
@@ -4470,7 +4593,7 @@
    "published": "2026-10-07",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-17",
+   "last_seen": "2026-10-21",
    "bt": 0,
    "co": []
   },
@@ -5261,7 +5384,7 @@
    "published": "2026-10-14",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-20",
+   "last_seen": "2026-10-21",
    "bt": 2,
    "co": []
   },
@@ -5352,7 +5475,7 @@
    "published": "2026-10-12",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-20",
+   "last_seen": "2026-10-21",
    "bt": 2,
    "co": []
   },
@@ -6166,7 +6289,7 @@
    "published": "2026-10-14",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-20",
+   "last_seen": "2026-10-21",
    "bt": 0,
    "co": []
   },
@@ -6631,7 +6754,7 @@
    "published": "2026-10-14",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-20",
+   "last_seen": "2026-10-21",
    "bt": 0,
    "co": [
     "鼎龙股份"
@@ -6897,7 +7020,7 @@
    "published": "2026-10-12",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-20",
+   "last_seen": "2026-10-21",
    "bt": 0,
    "co": []
   },
@@ -7107,7 +7230,7 @@
    "published": "2026-10-14",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-19",
+   "last_seen": "2026-10-21",
    "bt": 0,
    "co": [
     "华工科技"
@@ -7749,7 +7872,7 @@
    "published": "2026-10-14",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-19",
+   "last_seen": "2026-10-21",
    "bt": 0,
    "co": [
     "长川科技",
@@ -7778,7 +7901,7 @@
    "published": "2026-10-14",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-20",
+   "last_seen": "2026-10-21",
    "bt": 0,
    "co": []
   },
@@ -7832,7 +7955,7 @@
    "published": "2026-10-13",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-20",
+   "last_seen": "2026-10-21",
    "bt": 0,
    "co": [
     "长鑫存储"
@@ -8033,7 +8156,7 @@
    "published": "2026-10-09",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-20",
+   "last_seen": "2026-10-21",
    "bt": 0,
    "co": []
   },
