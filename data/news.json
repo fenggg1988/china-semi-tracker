@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-21 13:59:46",
- "count": 644,
+ "updated": "2026-10-21 14:56:40",
+ "count": 648,
  "items": [
   {
    "id": "b9f6a7b6fb3bb9a694ce417f148680369db970f3",
@@ -35,6 +35,32 @@
    "source": "GoogleNews·21财经",
    "domain": "optical_comm",
    "published": "2026-10-09",
+   "summary": "",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "320619e9d9cd56ea92f7bd27f3a5c971cd07822b",
+   "title": "是德科技扩展面向Scale-Out数据中心的1.6T有源与无源铜互连验证能力",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JR1V2OGR6MmhseUVpeUhvcmJHeXdFbE9KbGdMWHZkUENaU3d2RmxHeFZmSk8wQzEwaThQZFhwdmYtNVZiTXFTaWxaeGlxUWJlclRkRjBRT1BveEp5TE1uc29Fc0FkY0FUSXBFYVgwRDZhMzB5YVFGSA?oc=5",
+   "source": "GoogleNews·讯石光通讯网",
+   "domain": "optical_comm",
+   "published": "2026-10-21",
+   "summary": "",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "197d0a1bc626c336d0fff84534eb7308a00c05ef",
+   "title": "防中国对手崛起！三星、SK海力士紧急升级中国工厂：200层以上NAND量产",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Xdm03VFpKQnQ0M2RZcEtyWU9mMUhDTzNjaXlPU1VVejBxZ2RrN0RvQllqTkpyMHQ2X0dvdmFaMGRJYk5heU9RRXVfREU2Tkd0b0xTZ0VPZXk?oc=5",
+   "source": "GoogleNews·驱动之家",
+   "domain": "memory",
+   "published": "2026-10-21",
    "summary": "",
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
@@ -448,6 +474,36 @@
    "last_seen": "2026-10-21",
    "bt": 0,
    "co": []
+  },
+  {
+   "id": "e73d5c73023ee96d2277a0368957c67622a3c78a",
+   "title": "传三星、SK海力士(SKHY.US)寻求升级中国工厂：要抢AI订单，还要防长江存储抢份额_全球市场_财经",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01ZENQNjFIM0dMR0padUlaRFVlSWQzbXdPWGdPZFV0R1JaOE1md1hYTUd0Z0tLelpoa2hSRGI0RklLbzJ4UDZELWpJWlFfUW9POFJ2Tl9LU0FCN1IxUF9EcA?oc=5",
+   "source": "GoogleNews·证券之星",
+   "domain": "memory",
+   "published": "2026-10-21",
+   "summary": "",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "bt": 0,
+   "co": [
+    "长江存储"
+   ]
+  },
+  {
+   "id": "cb3ec99105e813ffcdd94298364a507d5bc04f6a",
+   "title": "韩媒披露三星海力士人才流向长鑫存储",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kejRJbi1IS0I1cGowRElxcnhINWNfR0c4UTBZOHV4ZERpX2p5LUNtWmU5ajBXUllQQmxlc1VUTE5ldWhYeFFFM3BaMTJVSWhNa3UzeC1yWkZSTVQwWDJ2U1lVOTVNcDhTOXpkR2J5MVZSbzR5eW5R?oc=5",
+   "source": "GoogleNews·QQ News",
+   "domain": "memory",
+   "published": "2026-10-06",
+   "summary": "",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "bt": 0,
+   "co": [
+    "长鑫存储"
+   ]
   },
   {
    "id": "90d3e24a2ef6067154f6402f5f99307e0b393658",
@@ -7678,7 +7734,7 @@
    "published": "2026-10-14",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-20",
+   "last_seen": "2026-10-21",
    "bt": 0,
    "co": [
     "长江存储"
