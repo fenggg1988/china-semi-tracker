@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-21 13:33:01",
- "count": 628,
+ "updated": "2026-10-21 13:46:39",
+ "count": 631,
  "items": [
   {
    "id": "b9f6a7b6fb3bb9a694ce417f148680369db970f3",
@@ -22,6 +22,19 @@
    "source": "GoogleNews·新浪财经",
    "domain": "litho_power",
    "published": "2026-10-15",
+   "summary": "",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "dd4a007dcd54996d12afa5128859371b3f46db8b",
+   "title": "东山精密回应传闻：光模块业务所用光芯片部分为自研自产，整体合规空间充足丨盘前线索",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUUtUeTZSeWVhUkF1NFBUVHVNRHlGUE5fUkExMWZFT0ZOWWFMV1U1R1BNMXg2YTRsTUtHRGlxZDlDZmlCcmJOdlRuMXA0Rld0aE1CTWM0VzgyeFlXRVB5ZlAtaERtd0l4T09fUWtSTWJGdFFtaG1PbXVZRVlwbmFYOU1rU0w4b0ZhMXVuN3VJQQ?oc=5",
+   "source": "GoogleNews·21财经",
+   "domain": "optical_comm",
+   "published": "2026-10-09",
    "summary": "",
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
@@ -268,6 +281,32 @@
    "source": "GoogleNews·搜狐",
    "domain": "memory",
    "published": "2026-10-04",
+   "summary": "",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "5df043d01bb022ee2191266c43f59836d62ced0e",
+   "title": "国防军工行业定期报告：光通信的简单题——InP的高斜率_行业研究_研报",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9VTEpUVHZhMkNBbkV2T3N5QVNmRlN5VzJsQkl0NVp3ZG1NTW43cFhFSVQzMkNXNnBhWG1DU3lGNjYwdE5HODNJRm1iZlBJc2lLVTJpQ2ZLSzZ3eER3N3MyOGRB?oc=5",
+   "source": "GoogleNews·证券之星",
+   "domain": "optical_comm",
+   "published": "2026-10-11",
+   "summary": "",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "9f86bc109c473096c4d8175547170c7baf1152da",
+   "title": "消息称三星、SK海力士升级中国工厂，生产更先进闪存芯片",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5qdzUyRkRmQ19KdnVqRzdfa2h5WHAza1NROVc1TldkX0dJY1N0bDBJZ3BvRGEzdHJCbHg1bnJ4aVp2SkQ2U0FhdUhzaFI?oc=5",
+   "source": "GoogleNews·凤凰网科技",
+   "domain": "memory",
+   "published": "2026-10-21",
    "summary": "",
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
@@ -970,7 +1009,7 @@
    "published": "2026-10-19",
    "summary": "",
    "first_seen": "2026-10-20",
-   "last_seen": "2026-10-20",
+   "last_seen": "2026-10-21",
    "bt": 0,
    "co": []
   },
@@ -1356,7 +1395,7 @@
    "published": "2026-10-06",
    "summary": "",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-10-20",
+   "last_seen": "2026-10-21",
    "bt": 0,
    "co": []
   },
@@ -3304,7 +3343,7 @@
    "published": "2026-10-16",
    "summary": "",
    "first_seen": "2026-10-17",
-   "last_seen": "2026-10-20",
+   "last_seen": "2026-10-21",
    "bt": -3,
    "co": []
   },
@@ -6912,7 +6951,7 @@
    "published": "2026-10-08",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-21",
    "bt": 0,
    "co": [
     "剑桥科技"
@@ -7717,7 +7756,7 @@
    "published": "2026-10-13",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-20",
+   "last_seen": "2026-10-21",
    "bt": 0,
    "co": [
     "长鑫存储"
