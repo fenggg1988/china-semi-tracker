@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-21 14:56:40",
- "count": 648,
+ "updated": "2026-10-21 21:22:52",
+ "count": 670,
  "items": [
+  {
+   "id": "5ecadfddf7f32d2ddf037ecee2bf94a45495ad8a",
+   "title": "英特尔独家量产12英寸InP硅光晶圆，光互连产能瓶颈有望突破",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUzJOMXdQWUN5LTktQ3k4blJlN18zN05OYUh1NkNRWkwzNk0wdFJ2am54THJwQ3RrekJOcTFNaUVUZzN3N01UVUxtYjlqZFlJYWp4TmJ5OWJtWVo0cXNIVnVZTXV0U28xSGFGdkQxOGZNSHZsM0lWcW9KM1BwdmV1VW40TUVCQ1pO?oc=5",
+   "source": "GoogleNews·搜狐",
+   "domain": "optical_comm",
+   "published": "2026-10-21",
+   "summary": "",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "bt": 4,
+   "co": []
+  },
   {
    "id": "b9f6a7b6fb3bb9a694ce417f148680369db970f3",
    "title": "11月首批“双流造”光刻机交付！成都芯片产业链突然交卷",
@@ -60,6 +73,19 @@
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Xdm03VFpKQnQ0M2RZcEtyWU9mMUhDTzNjaXlPU1VVejBxZ2RrN0RvQllqTkpyMHQ2X0dvdmFaMGRJYk5heU9RRXVfREU2Tkd0b0xTZ0VPZXk?oc=5",
    "source": "GoogleNews·驱动之家",
    "domain": "memory",
+   "published": "2026-10-21",
+   "summary": "",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "724d7bd55ab03ebcad9cb4c71ace94a6334e8296",
+   "title": "Fiber for AI｜国内首次！800G多芯光模块+四芯光纤，烽火通信解锁高密度光互联新方案",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5BbkFWTFNmV2hLeDNTZm5zOXFndXJ0Y01wYUVrUk9PaXdvTy1Pa1l0LWJLbS1XY25CMFhnQVBWVUJ2aFFWQjdWUzRMNThncjZ6ZGVTazlPZ2NacVBYOWwxeXVn?oc=5",
+   "source": "GoogleNews·同花顺财经",
+   "domain": "optical_comm",
    "published": "2026-10-21",
    "summary": "",
    "first_seen": "2026-10-21",
@@ -506,6 +532,281 @@
    ]
   },
   {
+   "id": "8fc867087ff3ec45d329fe0c730f70b907d54e0f",
+   "title": "消息称三星西安、SK海力士大连推进NAND产线升级",
+   "url": "https://www.chinaflashmarket.com/a/184360",
+   "source": "闪存市场",
+   "domain": "memory",
+   "published": "",
+   "summary": "",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "de05801953c4a65a5df12615f8140e849cb07d0a",
+   "title": "本周部分渠道DDR5内存条继续小涨，但近期个别资源价格出现松动涨价后劲存疑！",
+   "url": "https://www.chinaflashmarket.com/a/184352",
+   "source": "闪存市场",
+   "domain": "memory",
+   "published": "",
+   "summary": "",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "36e76e352e65ca8870fc8407998f3cf14c5ac7e5",
+   "title": "Synaptics 推出 Astra SR200 MCU：内置谷歌 Coral NPU，集成高带宽定制 DRAM",
+   "url": "https://www.ithome.com/1/016/027.htm",
+   "source": "IT之家",
+   "domain": "memory",
+   "published": "2026-10-21",
+   "summary": "IT之家 10 月 21 日消息，边缘 AI 芯片企业 Synaptics（新突思）美国当地时间 20 日宣布推出 Astra SR200 系列 xMCU。这批产品在常规微控制器的基础上提供了可运行多模态边缘 AI 的能力。Astra SR200 系列采用异构 AI 原生计算与加速架构，搭载 Synaptics Tor",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "063cfbd7920a94d95dcf90614a329a51ec506745",
+   "title": "三星电子、SK 海力士升级中国工厂，生产更先进闪存芯片",
+   "url": "https://www.ithome.com/1/015/996.htm",
+   "source": "IT之家",
+   "domain": "memory",
+   "published": "2026-10-21",
+   "summary": "IT之家 10 月 21 日消息，据路透社今日援引知情人士消息，三星电子、SK 海力士正在升级中国工厂，以生产更先进的闪存芯片。IT之家从原报道获悉，美国自 2022 年起限制部分芯片制造设备出口，因此这两家韩国半导体巨头，一直面临如何分配在华业务投资规模的棘手问题。三星电子和 SK 海力士每年需要向美国申请许可证，才",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "baf119482c6b865bdead17c41f56919b6db69b37",
+   "title": "SK海力士加速部署iHBM技术 新一代HBM散热能力提升30%",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583230.htm",
+   "source": "cnBeta",
+   "domain": "memory",
+   "published": "2026-10-21",
+   "summary": "韩国存储芯片巨头SK海力士正在推动新一代iHBM（Integrated High Bandwidth Memory）技术迈向量产阶段，并已开始讨论相关量产计划。面对人工智能产业快速发展带来的算力需求激增，高带宽存储器（HBM）的散热问题正成为影响性能提升的重要瓶颈，而iHBM被视为解决这一难题的重要技术路线。 阅读全文",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "000f07b0d6a1cd72494a16a923a8ee74ad203612",
+   "title": "英伟达旗下Groq下一代LPU架构转向3D堆叠DRAM 瞄准更大模型时代的容量需求",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583216.htm",
+   "source": "cnBeta",
+   "domain": "memory",
+   "published": "2026-10-21",
+   "summary": "已被英伟达纳入麾下的 AI 推理芯片公司 Groq 正计划在下一代 LPU（Language Processing Unit，语言处理单元）产品中引入 3D 堆叠 DRAM 技术，以替代当前广泛采用的 SRAM 方案。这一调整意味着该公司未来将更加侧重提升芯片存储容量，以适应不断膨胀的大型人工智能模型需求。 阅读全文",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "730d73d7d651c3a87d817446414cbf90b7e8e134",
+   "title": "韩媒：长鑫科技推进服务器DRAM新方案，韩国半导体行业直面国产追赶挑战",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZTU5DdDlTamtoXzk5X241dDRQZjF0MGxnYnZKSlJMU2o5U1RiWnVFMXJXMzdjLWM3cUVjQTRreVl0ZDZ4d0FZNlVQTVBacUMwMjJn?oc=5",
+   "source": "GoogleNews·搜狐网",
+   "domain": "memory",
+   "published": "2026-10-14",
+   "summary": "",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "e860fe836733961f7417abb16dce667d05a3efc1",
+   "title": "美专家:中国人并不可怕,可怕的是买光刻机，却不是用来生产芯片",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5PUzlwT3ZtLU1CTHE5S2h5NGxpZzZTM1g3bnM1ZTRpSVlfYTlTdE1UTm1NTDdfbkdXMG1lTWJpTmFVY1FDQ09UaFpXVlpIazYzWUNCZjdn?oc=5",
+   "source": "GoogleNews·QQ News",
+   "domain": "litho_machine",
+   "published": "2026-10-20",
+   "summary": "",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "119e8643b275dacbd5a9ecdaa25a22296c99a98e",
+   "title": "光刻机抢疯了！马斯克逼ASML加速交货：月产100万片叫板台积电",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAycGpCTjEwdG5lMlhTSGVUTndPTjBHSERUUkFvcWI1SHlqZWgxci0tbmV3M0s3R1pGbTlGN2ZUZld0ako0MHNud0ttNk1RdUVQeWVBQ0xwbHg?oc=5",
+   "source": "GoogleNews·驱动之家",
+   "domain": "litho_machine",
+   "published": "2026-10-21",
+   "summary": "",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "cc85d6a7eecde6633fb8d3e31a5106280c87cfa2",
+   "title": "茂莱光学：有知名机构聚鸣投资，盘京投资参与的多家机构于10月15日调研我司",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Bd3lkbGRTOEgxY1lWMFE1eU9DZzdqYjhBM3pwXzU0OExfMWxSWjVDcWF5SmlWRWdheFMzYUZpUTBzTk1jem4wRnRDX0R2NGhkc0lXYzFNNmxsS1pKeXYwdw?oc=5",
+   "source": "GoogleNews·证券之星",
+   "domain": "optics",
+   "published": "2026-10-21",
+   "summary": "",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "bt": 0,
+   "co": [
+    "茂莱光学"
+   ]
+  },
+  {
+   "id": "dc44fe69e99886e95d8176b5dedc29cc2d603f8e",
+   "title": "重磅！被“卡脖子”的光刻胶树脂，杭州这家企业把替代做进了Fab供应链",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00NGF5d19XUk0wcGRCbFZ6WWREUTlrQ1pITHpiajdNM0poT3JMdFNhSmlrbFIxSXotb0dSVzJKWG5WbXh2N2piT2k3Q2RqN2M?oc=5",
+   "source": "GoogleNews·凤凰网",
+   "domain": "photoresist",
+   "published": "2026-10-21",
+   "summary": "",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "a7acf72d0c043184b8ceb89946b777b92bde673f",
+   "title": "AI数据中心网络升级指南：400G与800G如何选择",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFTUZHbHc4c1FxQnBIb1Qza092NXFOelc3V01XWjRNWFU0YzdFYzJYTENGMnRLWkdOSUIwdXpMOXVGTlotbG43Y3ViRDlNOXNXcDNja3h2UEJ3NFJtZEJsTQ?oc=5",
+   "source": "GoogleNews·千家网",
+   "domain": "optical_comm",
+   "published": "2026-10-21",
+   "summary": "",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "a1c61d6117cabf410fbc82f5370da269c4f4baca",
+   "title": "CPO不只是光模块升级：AI算力背后的材料与封装新战场",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qdE9hbjlUbTI1OVhhNWpoblNZVjlJdmNFMk5QcHgtZmhuc1hJV1l5ay1NS3JQeExreEtaUFZ0SzNqeFhjNFpxdlN0cVVLM043WkxJ?oc=5",
+   "source": "GoogleNews·维科号",
+   "domain": "optical_comm",
+   "published": "2026-10-21",
+   "summary": "",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "05d45b95ce7a337bb914790455277467ab66e95b",
+   "title": "同样造芯片，台积电一块晶圆用电852度卖2.4万，而中芯、华虹呢？",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9EM2R3Q1AxVTVCQTJRM3BGREJNa3Y2cE1qcWNSdy13VlpST3Q2ZlNpREtpNTBLRGlOOGlMcUcxOHpqcXdQd3dyU2l1dWFDOFd5U3VoZlhjZlhVOEpxV1VNbmln?oc=5",
+   "source": "GoogleNews·QQ News",
+   "domain": "logic",
+   "published": "2026-10-06",
+   "summary": "",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "bt": 0,
+   "co": [
+    "华虹"
+   ]
+  },
+  {
+   "id": "955570829cd247aad3029b750bda7f5ecf15358a",
+   "title": "有2家中国芯片企业，超级暴利：一年赚中芯国际40年的钱",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5QdWdLcF9pNnNJNlJYM1VGdnFTYWNXOURYRXh2cHVuYXRlV3RtdEJlNjlFQl84SFVOZmJMdjJJWG1TRW9MSG5qV1M3bkVQY1g3N0F1M0p2cE9TQUgwQmwwSXJ3?oc=5",
+   "source": "GoogleNews·手机网易网",
+   "domain": "logic",
+   "published": "2026-10-21",
+   "summary": "",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "bt": 0,
+   "co": [
+    "中芯国际"
+   ]
+  },
+  {
+   "id": "fb1b212a9c33de10f68d026457b6b7f88946665c",
+   "title": "长江存储的“兑现时刻” 300亿耐心资本陪跑与周期大考",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUEo0VElfWmxWQWZ3Q3ZuLVc2Umt2ZmtaaHNkeENqTzRPY3FZQUo5Z1RKNUl3enlZQTVaZ1QzdkpUZ3ByZGZPdmQxVGpJdDE0dTYxTlg5cVlTMmo5Ukp4SG05SjNJamlYS05jUUItaGFxVnBEaE9pVlBjakZkdmpGYkNwQkZoVnVYN2w4?oc=5",
+   "source": "GoogleNews·搜狐网",
+   "domain": "memory",
+   "published": "2026-10-21",
+   "summary": "",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "bt": 0,
+   "co": [
+    "长江存储"
+   ]
+  },
+  {
+   "id": "fb9267c2b21696bba7ebedd77c3a3eb800178873",
+   "title": "长江存储份额已近40%，韩国存储双雄计划升级在华工厂",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQREZuTUwycGlQZUxJY1NFanF4VlpzVGUxV2tLLTdlNkVRMWw5N1B2NWVVb1dqOHdXSXZ2LW5nWFZjb3NfUTN6X05JcExCSFctajJsdFZXWXZTVXpOQTdHY2dtbU1XNXFnTjRFendDZzJoT1EwOXU3ZWRXRTRRRmxSOW5iOGhxcmo4?oc=5",
+   "source": "GoogleNews·搜狐",
+   "domain": "memory",
+   "published": "2026-10-21",
+   "summary": "",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "bt": 0,
+   "co": [
+    "长江存储"
+   ]
+  },
+  {
+   "id": "1a3ecf76bfd1f2e0626e94aa0ad8e8ecc206671e",
+   "title": "三星和SK海力士推动其中国大陆NAND闪存工厂升级：与长江存储竞争加剧",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1DeXVkVW5xNElPamE4ZGNVZjkwU3VXejhsWC1KVk1yR3VhSWpqSVVVQ3JBS1V1U0JFV2RKY3lrSGJRUTNIOWZyODZoYw?oc=5",
+   "source": "GoogleNews·超能网",
+   "domain": "memory",
+   "published": "2026-10-21",
+   "summary": "",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "bt": 0,
+   "co": [
+    "长江存储"
+   ]
+  },
+  {
+   "id": "1b5207415c2247272dda52b9c64f130fa8a7403d",
+   "title": "三星、SK海力士计划升级中国工厂 生产超过200层的NAND芯片",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLUZwVGVHcVc4N09PTGNvLTFyVm1pcWh1TFAzZkFpaWo0Y1ZUZDlnbkNvYTd4UTNwVm1VS2pvX0pwT2hQV0tZenFvd2pmUGlEcEZzOFNUWGlsdDAyM1NPQUpZWG10M3RGS05vT2pQb1E4emNpS0pjOFBlUEFvNll4QTFXMGxuVU4zdnZB?oc=5",
+   "source": "GoogleNews·搜狐网",
+   "domain": "memory",
+   "published": "2026-10-21",
+   "summary": "",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "445d65c6c438aa8b2028c6b782313e743e8f1325",
+   "title": "江波龙：与长鑫存储保持常态化商务合作与技术交流",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLVgzMnl5RnNadndZbWV2d3dYZFdZRV8tVGdId0lKdDBPaGlvMEJqZi1qdlg1dDY5RDNBVkxJV0ZIRlJjendzWFpmMDZDd2k2eVl4WVJTSTk0cExYVFhvM3VHSzcyRWgyS3BFUnhHMW1DYnZJMXJ3ZzBUT25nT2l1MlJnclZKZFVRZlJFTGVGT29lX3YtMDBJNDF1YVZFdlhHLUxyTw?oc=5",
+   "source": "GoogleNews·新浪财经",
+   "domain": "memory",
+   "published": "2026-10-20",
+   "summary": "",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "bt": 0,
+   "co": [
+    "长鑫存储",
+    "江波龙"
+   ]
+  },
+  {
    "id": "90d3e24a2ef6067154f6402f5f99307e0b393658",
    "title": "AI算力驱动光模块景气度上行 光库科技前三季度净利预增超1.4倍|财报解读",
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5hRUJpWmYxUVJMdTh2cGlORmktbmNIQ2g3Nkw1eW1wV2JhdXRtclRrdEZQYkpvZXI5bWVfUXRMeFk4M052WHdJdQ?oc=5",
@@ -717,7 +1018,7 @@
    "published": "2026-10-13",
    "summary": "",
    "first_seen": "2026-10-20",
-   "last_seen": "2026-10-20",
+   "last_seen": "2026-10-21",
    "bt": 2,
    "co": []
   },
@@ -899,7 +1200,7 @@
    "published": "2026-10-19",
    "summary": "",
    "first_seen": "2026-10-20",
-   "last_seen": "2026-10-20",
+   "last_seen": "2026-10-21",
    "bt": 0,
    "co": []
   },
@@ -3639,7 +3940,7 @@
    "published": "2026-10-15",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-16",
+   "last_seen": "2026-10-21",
    "bt": 6,
    "co": []
   },
@@ -5706,7 +6007,7 @@
    "published": "2026-10-15",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-20",
+   "last_seen": "2026-10-21",
    "bt": 2,
    "co": []
   },
@@ -8253,7 +8554,7 @@
    "published": "2026-10-14",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-20",
+   "last_seen": "2026-10-21",
    "bt": 0,
    "co": []
   },
