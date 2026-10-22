@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-22 15:01:20",
- "count": 703,
+ "updated": "2026-10-22 21:31:16",
+ "count": 719,
  "items": [
   {
    "id": "1616f9057ca5b553bf7bead286422e52d4caa9b1",
@@ -165,6 +165,32 @@
    "co": [
     "长江存储"
    ]
+  },
+  {
+   "id": "9bc96f20b466f348c979345f7e3a3487e48f3bd6",
+   "title": "光电智造｜EUV的下一档：数值孔径冲向0.75——Hyper-NA凭什么突破，又付出什么代价？",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9FU2NEUndPT19aWVZYdmVhNmdaNVBWZGdlb2MwNGJvNzVRTXZTM1ZkNUZGRlppUWE2WEdkc1QzSEpSSzBXeUU3SzlZZEhzMm9vS0Fr?oc=5",
+   "source": "GoogleNews·电子工程专辑",
+   "domain": "litho_machine",
+   "published": "2026-10-22",
+   "summary": "",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "a833467ce5a96ed6ea479b517a059a05384153fa",
+   "title": "长鑫宣布技术突破，美光提不同意见",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBlSkRqRllOR1NueVI0akNtNkk2eGhwa2FJVzdEMzVmZ0ZWdjhacWppNW54WjFWTW5aS0dJMUVpWTNOY1U0MHk3Q3JYQXk2cTNSaXhiYlozLTRCTENlcjNNVklLcGs?oc=5",
+   "source": "GoogleNews·观察者网",
+   "domain": "memory",
+   "published": "2026-10-22",
+   "summary": "",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "bt": 2,
+   "co": []
   },
   {
    "id": "867657a7c308690bd3a5c856a307320f77754a1d",
@@ -428,6 +454,192 @@
    "source": "GoogleNews·观点网",
    "domain": "memory",
    "published": "2026-10-22",
+   "summary": "",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "b3ffba6497d8287ccaf784ededb75f1d5dae0c40",
+   "title": "SK海力士启动iHBM供应链协作，意在锁定AI存储主导权",
+   "url": "https://www.chinaflashmarket.com/a/184364",
+   "source": "闪存市场",
+   "domain": "memory",
+   "published": "",
+   "summary": "",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "ad23160875b3758bcdc0c2501c0df80de52fc576",
+   "title": "三星电子在半导体研究所新设“核心团队”，加速DRAM、NAND新品研发",
+   "url": "https://www.chinaflashmarket.com/a/184363",
+   "source": "闪存市场",
+   "domain": "memory",
+   "published": "",
+   "summary": "",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "e0b49f6b16e75a1725a1ab5b83bf28449e660004",
+   "title": "从6F²到3D DRAM，Lam Research：技术路径分化不改设备需求扩张趋势",
+   "url": "https://www.chinaflashmarket.com/a/184362",
+   "source": "闪存市场",
+   "domain": "memory",
+   "published": "",
+   "summary": "",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "1d6d601e9cb4645345ba7aa5231e5ed5d2dc38d2",
+   "title": "4699 元，腾龙 20-40mm F2.8 全画幅变焦镜头尼康 Z 卡口版本发售",
+   "url": "https://www.ithome.com/1/016/658.htm",
+   "source": "IT之家",
+   "domain": "optics",
+   "published": "2026-10-22",
+   "summary": "IT之家 10 月 22 日消息，腾龙 20-40mm F2.8 Di III VXD 镜头尼康 Z 卡口版本今日发售，新品主打小型轻量设计，广角端的 20mm 视角可带来新焦段体验，定价 4699 元。据介绍，这款镜头专为全画幅无反相机设计，在便携性和成像性能之间取得平衡。具有特色的 20-40mm 焦距范围，从 2",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "71a1d86e69c2637b8a7ec47327767beef159ea7b",
+   "title": "三星将HBM基底芯片与2纳米工艺结合 或为高通提供台积电之外的新选择",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583392.htm",
+   "source": "cnBeta",
+   "domain": "memory",
+   "published": "2026-10-22",
+   "summary": "三星电子正在调整先进芯片制造业务的资源分配，将部分4纳米生产能力转向高带宽内存（HBM）基底芯片，同时计划采用更先进的2纳米工艺制造下一代5G调制解调器。这一调整不仅有助于三星提高先进存储产品的产能，也可能为其争取高通的先进芯片代工订单创造条件，使高通未来有机会减少对台积电的单一依赖。 阅读全文",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "94b68e88617010434cc3b491bca19ddee73c739c",
+   "title": "全球光刻胶显影液市场需求持续增长 我国主要布局企业分析",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE02WEs3dzk4SmJkbTZXNm9JMnlkMlZ1ZElZdnE1dEIzTUJFODhCM0htSzZZeUN4aW9pMGd2OWFIMTZxUmlSRXVEY2o1cTRiNjhmN1JhXzBkOVdjdHpLbG41ellDOFBCTHBqM1NwenVFOGU1NHhtRHpMVw?oc=5",
+   "source": "GoogleNews·新思界产业研究中心",
+   "domain": "photoresist",
+   "published": "2026-10-12",
+   "summary": "",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "db85c9bb2001c0e68d89933f0fe9f294fe990bfd",
+   "title": "机构：高速光模块迭代，热管理材料迎升级机遇",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS1pEdmFleDRmS2NfYU1zOWk4MW5pdHU3RDV0dGRhYjk4eUpYU3E1V3c5UnlKMWtjcEdidExLeTJsZmN6QVNaRG1CNmFMM21ZUHhCaHE1Mmw4c25jSmhMTE1ueTI5NER2dTdaM1RCYjE2Szh0bDE2OXFFLXhKSnF2YWY4aGM3d2k2YTRnWg?oc=5",
+   "source": "GoogleNews·搜狐",
+   "domain": "optical_comm",
+   "published": "2026-10-22",
+   "summary": "",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "4afc8c47171244444a8f32af8eaf32aa19c764f2",
+   "title": "一天拆解一家公司：中际旭创（300308）",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Mb3ZHZW1rbEx6dGdfRFE2cExZYmtndDR0dXJMMmZKNjdVYTZrdWtBaFNRRWJDUEtQT2ZSN1h1MUtBOWZCZFZRUFgyVk9WYnRxalhFVkZNRDBlRnJZTko2SzI3cERlakRyVFFR?oc=5",
+   "source": "GoogleNews·财富号",
+   "domain": "optical_comm",
+   "published": "2026-10-09",
+   "summary": "",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "bt": 0,
+   "co": [
+    "中际旭创"
+   ]
+  },
+  {
+   "id": "9b426f48da0601bbad91244daab0869d1ad6bf70",
+   "title": "默克张家港技改加码ALD前驱体，升级钽源提纯工艺",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObTIzYUk5X0E1cndkUjNnYVU2SjlkVUVWVWpLUlFrZm5wNzdTd2ZpdmJoTjB3T1h0TU5QVWJSc0JTd0IxbmJkdmdYM1JIWmJFWERUN0VfQXBIVUR0MG1DNmFNd0ZLOXpGUEpoalhZSUx5YzVLNGZHelBTUE9ZVTR4aW5sdXFaNzZ4ZnNYYw?oc=5",
+   "source": "GoogleNews·搜狐",
+   "domain": "photoresist",
+   "published": "2026-10-22",
+   "summary": "",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "19b8cd2a94516355905dd958d9fed20a7b917574",
+   "title": "长鑫、长存产能放量，中国“存储双雄”正改变市场供应格局",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2a3ozMTA1ZXl0ell2S3lwTjJsY2FyalZFUnVyc0UySHNrMVRxUU85YkRLSGcwRWNTNnVoaFhXZExOSXR0NEpXRjMwSkhkSkNTSVdN?oc=5",
+   "source": "GoogleNews·第一财经",
+   "domain": "memory",
+   "published": "2026-10-22",
+   "summary": "",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "28676f48a3e4cb3c0baeabaa3874f0965c2575ec",
+   "title": "三星和SK海力士推动其中国大陆NAND闪存工厂升级：与长江存储竞争加剧超能网",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1DeXVkVW5xNElPamE4ZGNVZjkwU3VXejhsWC1KVk1yR3VhSWpqSVVVQ3JBS1V1U0JFV2RKY3lrSGJRUTNIOWZyODZoYw?oc=5",
+   "source": "GoogleNews·超能网",
+   "domain": "memory",
+   "published": "2026-10-21",
+   "summary": "",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "bt": 0,
+   "co": [
+    "长江存储"
+   ]
+  },
+  {
+   "id": "2faabcd35fd4ec65a0ea5fae49aacfbb3c148434",
+   "title": "周期拐点之争升温，Q3环比增速骤降：长鑫科技落子何处",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95UTZ2YXJodUVSRzA0Y0pEVk5LZllnOXNHZ3RtU3dQZVVRbXh0ckNrUHBHa1RIclZqX3VxeTRZRGV6RzBrbTExRk16eHhmN2lSX1RxMjRwRkUtaTZEdmJHZ2ttSEFqSXFkcE9ZNGRPNVhmNUkwZmc?oc=5",
+   "source": "GoogleNews·新浪财经",
+   "domain": "memory",
+   "published": "2026-10-22",
+   "summary": "",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "a61f0ca176bbea4625d78bd694d98987286c69f9",
+   "title": "2021年拿2.25亿投资长鑫科技，如今复盘：半导体必须在低谷期投，现在投“会被灼伤”",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB3VE5oaENTbGNWM1RFZ3NhZXJYNEJTX1V1QXZiUGk4N1ZQTGpQQTRxaFBVS2JleUFKLWgwWXVtMmtOdUQweUFsdE5DdW9XYnRkY2hqZE1vUHNvc1hFbUtaY2pIN0FDTjJ2MFF5OE5HVkJtalh2LUZqYw?oc=5",
+   "source": "GoogleNews·新浪财经",
+   "domain": "memory",
+   "published": "2026-10-22",
+   "summary": "",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "78902419d1a202086ce9711e36ddae3c635ecf12",
+   "title": "长鑫科技遭遇“利好出尽”？",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5HXzhLOS1jU0prWHc2ZDY0ZHpvRWh4aFR2NV9tMFprQ1VPcktzaHRMVzVqS2lMMEhiQ1JKdFAyeWU0RU5UaGNRMjRSMng4MDUyOS0xTGhKRGEyWkVMV2ktbGdQUGFHa0dnSGQzRjNhWmo?oc=5",
+   "source": "GoogleNews·四川在线",
+   "domain": "memory",
+   "published": "2026-10-20",
    "summary": "",
    "first_seen": "2026-10-22",
    "last_seen": "2026-10-22",
@@ -793,7 +1005,7 @@
    "published": "2026-10-11",
    "summary": "",
    "first_seen": "2026-10-21",
-   "last_seen": "2026-10-21",
+   "last_seen": "2026-10-22",
    "bt": 0,
    "co": []
   },
@@ -1260,7 +1472,7 @@
    "published": "2026-10-16",
    "summary": "",
    "first_seen": "2026-10-21",
-   "last_seen": "2026-10-21",
+   "last_seen": "2026-10-22",
    "bt": -3,
    "co": [
     "光库科技"
@@ -3561,7 +3773,7 @@
    "published": "2026-10-08",
    "summary": "",
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-22",
    "bt": 0,
    "co": []
   },
@@ -5544,7 +5756,7 @@
    "published": "2026-10-16",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-22",
    "bt": 0,
    "co": []
   },
@@ -5855,7 +6067,7 @@
    "published": "2026-10-15",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-20",
+   "last_seen": "2026-10-22",
    "bt": -3,
    "co": [
     "长江存储"
@@ -5987,7 +6199,7 @@
    "published": "2026-10-16",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-19",
+   "last_seen": "2026-10-22",
    "bt": -3,
    "co": []
   },
@@ -6000,7 +6212,7 @@
    "published": "2026-10-16",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-21",
+   "last_seen": "2026-10-22",
    "bt": -3,
    "co": []
   },
@@ -8287,7 +8499,7 @@
    "published": "2026-10-08",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-19",
+   "last_seen": "2026-10-22",
    "bt": 0,
    "co": []
   },
