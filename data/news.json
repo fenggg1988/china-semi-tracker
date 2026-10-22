@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-22 14:05:57",
- "count": 699,
+ "updated": "2026-10-22 15:01:20",
+ "count": 703,
  "items": [
   {
    "id": "1616f9057ca5b553bf7bead286422e52d4caa9b1",
@@ -135,6 +135,36 @@
    "last_seen": "2026-10-22",
    "bt": 2,
    "co": []
+  },
+  {
+   "id": "9183489d72f31d4839f3dc790c23d6f28426feff",
+   "title": "行业需求预期持续向好，新易盛订单交付有序开展",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOd1AzbEgxS2xkb2JCaXdjODFpZDBjc2w4V2haOFRZMTc3VklqV2JrOFBRbDdvYnhyWGtoZTBta3JaNHRZOVV3bjRtLVhqTlRQdHZHeW5pVEhGbHlySGRqNWJUV0szVHRJMTl1UEhxenpkRUhuWm9EdUkydEdJQlVWdEoxZG40OHMwV3ZVZnM2TQ?oc=5",
+   "source": "GoogleNews·21财经",
+   "domain": "optical_comm",
+   "published": "2026-10-22",
+   "summary": "",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "bt": 2,
+   "co": [
+    "新易盛"
+   ]
+  },
+  {
+   "id": "014aeb52b341bf4f3c6a3e5b4519dc8edc50ca49",
+   "title": "与长江存储抢市场！韩国存储双雄紧急扩产！",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWWZCbTdJSmE3X203LVc5OGJTZGs0MzRRNnVfT0FhbXFqYXdFSUxNcEg5dEdFbzZpZklQUzJKRE9HODZteWZJcXB3d0dvdG00UHpQMnQ2SWR4U2R1Z2Z2TzFheXJ2dmY2aUM4M1Z5UzJfdFRYR0wwd0VOSEQxd1FSOGUzVDlHSGJKWFFSZQ?oc=5",
+   "source": "GoogleNews·搜狐",
+   "domain": "memory",
+   "published": "2026-10-22",
+   "summary": "",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "bt": 2,
+   "co": [
+    "长江存储"
+   ]
   },
   {
    "id": "867657a7c308690bd3a5c856a307320f77754a1d",
@@ -370,6 +400,32 @@
    "title": "存储架构之争：美光与长鑫的4F²与3D路线分径",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9MYzFyNnlrYmdYYkxORkl6RHJpWno1V25oSHR2LV9mMzRnN1k5cDJwQmI5OGRWUFRvcF9JNEhQVjh3QTcwOV92U2w5ZXFCYnUwekJZaVlNbi1NR3JK?oc=5",
    "source": "GoogleNews·电子工程专辑",
+   "domain": "memory",
+   "published": "2026-10-22",
+   "summary": "",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "d39d31a2c2e3f6a3c9d436dd16c3d8b466e6c021",
+   "title": "Samsung and SK Hynix are pushing to upgrade their NAND flash memory factories in mainland China",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1DeXVkVW5xNElPamE4ZGNVZjkwU3VXejhsWC1KVk1yR3VhSWpqSVVVQ3JBS1V1U0JFV2RKY3lrSGJRUTNIOWZyODZoYw?oc=5",
+   "source": "GoogleNews·超能网",
+   "domain": "memory",
+   "published": "2026-10-21",
+   "summary": "",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "990a8cce0f13b284e78b2666b9c28cf7c146c0d1",
+   "title": "长鑫集电存储技术有限公司工商变更 注册资本增至601.83亿元",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE05VElocEswVW45QmFYSUNTR2kxZjdPcDY0X2FyZEQyMmdVT0wtN2taZzh4aE9KT0M0aVZhUVZqQ3pPYlEyMWNKenZqOWMwZW9hb1JVMG5tR2NGQWhNd1NWWXhn?oc=5",
+   "source": "GoogleNews·观点网",
    "domain": "memory",
    "published": "2026-10-22",
    "summary": "",
@@ -3598,7 +3654,7 @@
    "published": "2026-10-14",
    "summary": "",
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-21",
+   "last_seen": "2026-10-22",
    "bt": -3,
    "co": []
   },
