@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-22 13:38:02",
- "count": 698,
+ "updated": "2026-10-22 13:49:13",
+ "count": 699,
  "items": [
   {
    "id": "1616f9057ca5b553bf7bead286422e52d4caa9b1",
@@ -376,6 +376,19 @@
    "first_seen": "2026-10-22",
    "last_seen": "2026-10-22",
    "bt": 0,
+   "co": []
+  },
+  {
+   "id": "8a4d93a8dc8ad78e46661868aa622702fc091f1a",
+   "title": "长鑫科技市值两月内跌去1万亿；阿里加码AI硬件品牌，天猫、速卖通联动；国行版苹果AI有望12月上线，百度、阿里参与合作丨雷峰早报",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yVjVrMmg2WW01UTF6dHZYbHlFTklGVG9UWXAwZjkxd3JhYmY1cDNRa2k4Sjc4YTBqdldxTWhrWTJWdWg1QTZqRXJZU0hoMlZoU3F6bjhCeUhHaVpnQmFqVlFNbWtMWmNhMzFPMGZjYw?oc=5",
+   "source": "GoogleNews·雷峰网",
+   "domain": "memory",
+   "published": "2026-10-16",
+   "summary": "",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "bt": -3,
    "co": []
   },
   {
@@ -2822,7 +2835,7 @@
    "published": "2026-10-13",
    "summary": "",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-10-21",
+   "last_seen": "2026-10-22",
    "bt": 0,
    "co": []
   },
@@ -5944,7 +5957,7 @@
    "published": "2026-10-16",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-20",
+   "last_seen": "2026-10-22",
    "bt": -3,
    "co": []
   },
