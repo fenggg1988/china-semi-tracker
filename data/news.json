@@ -1,12 +1,25 @@
 {
- "updated": "2026-10-22 07:34:04",
- "count": 681,
+ "updated": "2026-10-22 13:36:53",
+ "count": 698,
  "items": [
   {
    "id": "1616f9057ca5b553bf7bead286422e52d4caa9b1",
    "title": "CPO+光芯片+硅光！公司1.6T AWG产品实现小批量出货，Q3净利同比增超200%",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB6RDBZOWJWaGFpYXp5Nk5rRHZTNV9vYUl6Z2tyY0FNU2hvTTdlbE9jdmNpT1VONE5WLTNLcWxYZFQ3bGRlRWFQdnZ4LW40bVlnYjJWNmYxckVvOXN6Q1pUSllhZXE2d1owZGJLZS1ydDNNdGlVbGc?oc=5",
    "source": "GoogleNews·新浪财经",
+   "domain": "optical_comm",
+   "published": "2026-10-21",
+   "summary": "",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "bt": 4,
+   "co": []
+  },
+  {
+   "id": "3b0ac8da031e3ca5272e495e9b61d9707015bf45",
+   "title": "北京大学硅光芯片实现 3.2 Tbps，但实验室纪录并非可出货产品",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZGJ4aVJIWkp2WTBjYmdPS19NN0pFeHFTaHhQZ2RUMmhndEZuVGdpQTRFSVpOMEpDMHM4RzFSWXFYeHJHVHYxVl9LNmxEWkw4VDhrcFJhYXM1VDdUdHc2MU9UWnU1YzVaWGoxN2xaV2NkNl81QVlKc2dQS19OYmprd18tYlZtNkdjNUxzM2hVZG4tVTVKZlBlQWx5Q1NMcU9LM0R6M2Y5MDV3d2xY?oc=5",
+   "source": "GoogleNews·remio",
    "domain": "optical_comm",
    "published": "2026-10-21",
    "summary": "",
@@ -55,6 +68,73 @@
    "co": [
     "长鑫存储"
    ]
+  },
+  {
+   "id": "2ce8f9bb81c47ac891d7b6213982bc3aa48d1431",
+   "title": "别吹也别踩！EUV光源国产化90%，真实进度一次性讲透",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBfVFR2TXZOdHdKVjk0YlZXeWtHZUNkWmlTTU9mRjVIS3RVNjNNR18xY2lxellHbHdkVkpSaTlaNHpKYTIxOS1iUUVGNjd1TFJCSXQw?oc=5",
+   "source": "GoogleNews·搜狐网",
+   "domain": "litho_power",
+   "published": "2026-10-20",
+   "summary": "",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "818440426b190373466025fc4b71991ce581b478",
+   "title": "中国芯片设备国产化率越过35%，却卡在光刻机那不足1%",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5ySVBYNFQyejJQN1p4V3dnZHpfQ09GY0ZOWlFrMks5T0tCaEJqT2VLamE0SVJUU2hnNGoxZ04wZlJfWTVj?oc=5",
+   "source": "GoogleNews·www.or100.cc",
+   "domain": "litho_machine",
+   "published": "2026-10-22",
+   "summary": "",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "4a9c04af11e8c60a67b0f64acf052d3a927d2610",
+   "title": "公司如何保证1.6T光模块的稳定出货？立讯精密回应",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUXYzM3NQc2VRSUUwek15VXpQNWRERmZvTmotd24zM2FjMjhiQ0hvQjVOWHRYVHpSUEhUN2tMV0NqRDBTMUNnQVJGck01d2xjRmpGbm5fc1dvU1BINGVwMnhPc2NZNTVTTDFUcUpHNjJGeE9uZ0xqWkpqTnN1eVNLcmxId0RPalB1TUR0Wg?oc=5",
+   "source": "GoogleNews·搜狐",
+   "domain": "optical_comm",
+   "published": "2026-10-09",
+   "summary": "",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "eb80470986347402dba866b6a10c971692fb6f6d",
+   "title": "机构：长江存储次季NAND出货量升至全球第三 仅次三星、SK海力士",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LbTFxR2VzVzBLZ1o4elFJY3pIMHlPVUhoaDhHOVBqTnBoOEY1Q3ZzbGtXN00yQzFEQkFoVGZqMXBSazlJVEI1V3lRdGIweFRBb1FOV1Rn?oc=5",
+   "source": "GoogleNews·搜狐网",
+   "domain": "memory",
+   "published": "2026-10-15",
+   "summary": "",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "bt": 2,
+   "co": [
+    "长江存储"
+   ]
+  },
+  {
+   "id": "be6b1932adc2780925e974c4597751cb33531286",
+   "title": "正面回应长鑫4F2突破，美光CTO：3D DRAM“长期更可扩展和成本效益”",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fRlRvcFY0b3FCQnZCaEtnYUFaVHNLUV93ZjIzUzFTdzVldlNDamRubTZVVlFpZjZwR0VyWll3N25GcmNjdmp3TEwwSnZScGdweDdB?oc=5",
+   "source": "GoogleNews·华尔街见闻",
+   "domain": "memory",
+   "published": "2026-10-22",
+   "summary": "",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "bt": 2,
+   "co": []
   },
   {
    "id": "867657a7c308690bd3a5c856a307320f77754a1d",
@@ -145,6 +225,153 @@
    "source": "GoogleNews·阿波罗新闻网",
    "domain": "memory",
    "published": "2026-10-21",
+   "summary": "",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "42f246304ea24a49ecb56a25a62d75b29d29a76d",
+   "title": "美光预告 G11 NAND：超 400 层堆叠，双倍密度，2027H2 产能爬坡",
+   "url": "https://www.ithome.com/1/016/225.htm",
+   "source": "IT之家",
+   "domain": "memory",
+   "published": "2026-10-22",
+   "summary": "IT之家 10 月 22 日消息，Micron（美光）当地时间昨日举行了 2026 年度技术网络研讨会，对 DRAM、泛 HBM、NAND 与 SSD 进行了展望，本篇关注闪存类别。美光本次预告了其预计 2027H2 产能爬坡的 G11 NAND 闪存，这家企业似乎跳过了 G10 世代。G11 NAND 堆叠超过 40",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "2985172e5e1ef6e32839f03d4beaf5c5e6fce016",
+   "title": "美光预计 2028 年带来计算芯片垂直堆叠 vHBM 与边缘推理 vEIM",
+   "url": "https://www.ithome.com/1/016/214.htm",
+   "source": "IT之家",
+   "domain": "memory",
+   "published": "2026-10-22",
+   "summary": "IT之家 10 月 22 日消息，Micron（美光）当地时间昨日举行了 2026 年度技术网络研讨会，对 DRAM、泛 HBM、NAND 与 SSD 进行了展望，本篇聚焦于堆叠集成的泛 HBM 内存产品。美光预计在标准 HBM5 面世的 2028 年还有两种新型 3DS 内存也将到来，分别是 vHBM 和 vEIM。",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "e910cdc59c8c1aea28b08d3b9fbaffa8d96404c5",
+   "title": "美光认为 4F² DRAM 内存无可行扩展路径，1ε 用晶圆键合、 ζÅ 用 High NA EUV",
+   "url": "https://www.ithome.com/1/016/208.htm",
+   "source": "IT之家",
+   "domain": "litho_machine",
+   "published": "2026-10-22",
+   "summary": "IT之家 10 月 22 日消息，Micron（美光）当地时间昨日举行了 2026 年度技术网络研讨会，对 DRAM、泛 HBM、NAND 与 SSD 进行了展望，本篇聚焦于基础 DRAM 技术。美光认为在二十多年的技术探索后，4F² DRAM 由于复杂度和成本上的不足没有可行的规模化路径。在传统 2D 6F² DRA",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "8b50430c79daef1ee62368242be026f0178197d6",
+   "title": "《GTA 6》首支电视广告亮相 NBA 转播，删减淋浴亲密镜头",
+   "url": "https://www.ithome.com/1/016/205.htm",
+   "source": "IT之家",
+   "domain": "optics",
+   "published": "2026-10-22",
+   "summary": "IT之家 10 月 22 日消息，当地时间昨晚，即将发售的《侠盗猎车手 6》（Grand Theft Auto 6，简称 GTA 6）首支电视广告在几场 NBA 赛事转播中播出。这支广告大体上就是上周放出的首发预告片，但删掉了几段尺度较大的淋浴亲密镜头。IT之家注意到，当地时间 10 月 20 日，不少网友在社交平台发",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "b8e2e85411aeb2d796d7a6be073e13422b4c82bb",
+   "title": "通信设备概念盘中走弱，AI基建扩张、加速光通信锁定高增长预期|异动情报-证券之星",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVbV9xNHRweWlOLXE2RE51SkJHTVhJTzNibmZXOVl0dDFwOTVjUGJBZUxqRmlid0tESVpKS2ZpTHdOWks3S2FjSjN2SUhHUFoyS2xyZEVpLUcyNFdVZ0E?oc=5",
+   "source": "GoogleNews·证券之星",
+   "domain": "optical_comm",
+   "published": "2026-10-22",
+   "summary": "",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "cb5e80ee481915ed842c04c7e98d77d75b738e35",
+   "title": "AI基建扩张加速，光通信锁定高增长预期-36氪",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBKVk5VblprdUVSRkZKcURjUGZvVGNVTjJFbVNHazhXWW56N1ZVMzN0VkZGQndvdk5ObGlPRHdQTUlCbTVwU3BRbzluUXB3eWlyWWJpOERSM0s?oc=5",
+   "source": "GoogleNews·36kr.com",
+   "domain": "optical_comm",
+   "published": "2026-10-22",
+   "summary": "",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "d5fbe10082712f73cead8fb29f756d25c0aedbcf",
+   "title": "长江存储在中国本土的份额逼近四成，韩国双雄在华工厂的升级被许可证框住了",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE4wTUVsd2htcWNsVjZPNWN4QVhIN2ZRWFE1a0pMOEZWNHl3dTIwU2RVSnJkUE1GYmNTcGRwVEdYS3BNenNN?oc=5",
+   "source": "GoogleNews·www.or100.cc",
+   "domain": "memory",
+   "published": "2026-10-22",
+   "summary": "",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "bt": 0,
+   "co": [
+    "长江存储"
+   ]
+  },
+  {
+   "id": "0727de27e674c7a0fb4f8f053a84e148e285f731",
+   "title": "长江存储加速追赶全球巨头 NAND闪存市场份额瞄准20%",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zVTJxSFRoUXRiNGhwdVhidVk4OUpWZTdsa0wydHViOVF3WXZvYzl5dE1ySmxIeGhQS3Z4LVpXT3hkRURYN09jUFpoa3VySU9sSDNieV8xZkRVNTg?oc=5",
+   "source": "GoogleNews·亚洲日报",
+   "domain": "memory",
+   "published": "2026-10-22",
+   "summary": "",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "bt": 0,
+   "co": [
+    "长江存储"
+   ]
+  },
+  {
+   "id": "c1606315ed5bb583bf942e7a181da631f5d229b7",
+   "title": "三星、SK 海力士拟引入韩本土尖端 NAND 技术至国内工厂！",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeVNQVmtlZmdGQUF1ZHBFREtjRUhyMEQ1bWRqQTd4YlVkS3BIS3h4bS15bm92cXRVQzVTQjdJQTdUUTdoTTRicXYzRnlFb1ZJZWNCMjR3OWRMZFlXUDRaQ1NsUngwcWdqRmVkSjNHR0xVYVk1WFMtZ2NLTTB6bUFmaTJrTFRsVnVSZXpxSg?oc=5",
+   "source": "GoogleNews·搜狐",
+   "domain": "memory",
+   "published": "2026-10-22",
+   "summary": "",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "85558919493039f1e42f59e30ec50377de0a1483",
+   "title": "三星、SK海力士升级中国工厂至先进NAND",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX3IwM0NCZFhVMXR0LUJCWkF6UnRDay12UWYxLVJWbElzVzUyRnpkQVNhdnlVQ3AyTDZUWEVFQXZtcnJGUl9vaVNZRUdqT0VMVFQ2NENXdVU5VTh2aXdWY1NzNXRHV1lJdUttby1WSjZFcU9iSEVuTmVTUTdGUDZJOEtic2h1TnJN?oc=5",
+   "source": "GoogleNews·Cryptopolitan",
+   "domain": "memory",
+   "published": "2026-10-21",
+   "summary": "",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "1ad17d138b001d4dca8e24cb8d06ec3c09b2ea36",
+   "title": "存储架构之争：美光与长鑫的4F²与3D路线分径",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9MYzFyNnlrYmdYYkxORkl6RHJpWno1V25oSHR2LV9mMzRnN1k5cDJwQmI5OGRWUFRvcF9JNEhQVjh3QTcwOV92U2w5ZXFCYnUwekJZaVlNbi1NR3JK?oc=5",
+   "source": "GoogleNews·电子工程专辑",
+   "domain": "memory",
+   "published": "2026-10-22",
    "summary": "",
    "first_seen": "2026-10-22",
    "last_seen": "2026-10-22",
@@ -659,7 +886,7 @@
    "published": "2026-10-21",
    "summary": "",
    "first_seen": "2026-10-21",
-   "last_seen": "2026-10-21",
+   "last_seen": "2026-10-22",
    "bt": 0,
    "co": [
     "长江存储"
@@ -767,7 +994,7 @@
    "published": "2026-10-14",
    "summary": "",
    "first_seen": "2026-10-21",
-   "last_seen": "2026-10-21",
+   "last_seen": "2026-10-22",
    "bt": 0,
    "co": []
   },
@@ -992,7 +1219,7 @@
    "published": "2026-10-19",
    "summary": "",
    "first_seen": "2026-10-21",
-   "last_seen": "2026-10-21",
+   "last_seen": "2026-10-22",
    "bt": -3,
    "co": []
   },
@@ -2286,7 +2513,7 @@
    "published": "2026-10-19",
    "summary": "",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-10-21",
+   "last_seen": "2026-10-22",
    "bt": 0,
    "co": []
   },
@@ -2753,7 +2980,7 @@
    "published": "2026-10-19",
    "summary": "",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-10-21",
+   "last_seen": "2026-10-22",
    "bt": -3,
    "co": []
   },
@@ -3410,7 +3637,7 @@
    "published": "2026-10-16",
    "summary": "",
    "first_seen": "2026-10-17",
-   "last_seen": "2026-10-21",
+   "last_seen": "2026-10-22",
    "bt": 4,
    "co": []
   },
@@ -3477,7 +3704,7 @@
    "published": "2026-10-16",
    "summary": "",
    "first_seen": "2026-10-17",
-   "last_seen": "2026-10-19",
+   "last_seen": "2026-10-22",
    "bt": 2,
    "co": []
   },
@@ -3600,7 +3827,7 @@
    "published": "2026-10-16",
    "summary": "",
    "first_seen": "2026-10-17",
-   "last_seen": "2026-10-21",
+   "last_seen": "2026-10-22",
    "bt": 0,
    "co": []
   },
@@ -3660,7 +3887,7 @@
    "published": "2026-10-16",
    "summary": "",
    "first_seen": "2026-10-17",
-   "last_seen": "2026-10-19",
+   "last_seen": "2026-10-22",
    "bt": 0,
    "co": [
     "长鑫存储",
@@ -3676,7 +3903,7 @@
    "published": "2026-10-17",
    "summary": "",
    "first_seen": "2026-10-17",
-   "last_seen": "2026-10-19",
+   "last_seen": "2026-10-22",
    "bt": 0,
    "co": [
     "长江存储"
@@ -4200,7 +4427,7 @@
    "published": "2026-10-15",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-21",
+   "last_seen": "2026-10-22",
    "bt": 2,
    "co": []
   },
@@ -4914,7 +5141,7 @@
    "published": "2026-10-16",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-19",
+   "last_seen": "2026-10-22",
    "bt": 0,
    "co": [
     "长江存储"
@@ -5125,7 +5352,7 @@
    "published": "2026-10-14",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-21",
+   "last_seen": "2026-10-22",
    "bt": 0,
    "co": [
     "中际旭创",
@@ -5209,7 +5436,7 @@
    "published": "2026-10-07",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-22",
    "bt": 0,
    "co": []
   },
@@ -7909,7 +8136,7 @@
    "published": "2026-10-08",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-21",
+   "last_seen": "2026-10-22",
    "bt": 0,
    "co": [
     "长光华芯"
@@ -8017,7 +8244,7 @@
    "published": "2026-10-14",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-21",
+   "last_seen": "2026-10-22",
    "bt": 0,
    "co": []
   },
