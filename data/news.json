@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-23 14:01:09",
- "count": 754,
+ "updated": "2026-10-23 14:53:24",
+ "count": 763,
  "items": [
   {
    "id": "042d696778c0bfda798ca9699c4bff55aa90c596",
@@ -475,6 +475,90 @@
    "co": []
   },
   {
+   "id": "b70b17f285031d90a5e2b3e53a9a4a1996806990",
+   "title": "被“卡脖子”的光刻胶树脂，杭州这家企业把替代做进了Fab供应链",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQXBMX2trOHBhQ2N3aDQ0SHF3bEZBUW9FVVFVZEFLZE9HLWgxVFU2cTlGeDVUWHY0MjM4OW5aTXpPdGNXX0NnSmRfM1BSbFdiZ0c3eWxHZVFGam0weHlpM2ktU0YwQTc3UG8xTGxrZENWT2RyUFk2Uk52YnItZVRDcHhhRUNKOVNPYmlIZg?oc=5",
+   "source": "GoogleNews·搜狐",
+   "domain": "photoresist",
+   "published": "2026-10-22",
+   "summary": "",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "f44d8f714128f38e1791cf57625c6d8df79ef575",
+   "title": "创业板指午后翻红！光模块三巨头“易中天”齐发公告：在手订单充足",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeEVJVjctT0JQMjhwRGUyRHJSVGhfWHZib3JOS2VJc29Pc090NU5TME5kQ0htQ0pETFlQQ3J1eDMtemhIb0xGZ0NPQldDMm9KVkFZaW5WWGR1czJMZDNLU3FKelNBZlpwY0xBZVZYaWVoczZHUTNucWhLRlBlLTZoUjVMR3U3RWFTVkZ6ag?oc=5",
+   "source": "GoogleNews·搜狐",
+   "domain": "optical_comm",
+   "published": "2026-10-23",
+   "summary": "",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "9d63288e2ee05a7c1e1e83fbe9638b5637406a31",
+   "title": "新易盛：公司1.6T光模块已进入持续放量阶段",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE03Y2twZXo3bVVSaGY5WllaaEVaX0lJVmRrNm5BUHJqNnFKTXdMOTZLcEpPY3RfWEotMUxLdkE0a09GR1lDOXZ5WF92cDFYaUc1MzJ5cVdremxBLTYt?oc=5",
+   "source": "GoogleNews·www.caiwennews.com",
+   "domain": "optical_comm",
+   "published": "2026-10-23",
+   "summary": "",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "bt": 0,
+   "co": [
+    "新易盛"
+   ]
+  },
+  {
+   "id": "eb0cb0a1c7ff3b4de378f1844f786bb24edd459d",
+   "title": "新易盛：在手订单充足，对今明两年的业务发展持积极预期",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB0V3FVODNEOU5IUzRQeS1Ibjdoam05YlBhTHJRSHYtUm5OaTEwSXhuSVlIUVpUa3NBcEd1Vm1tZlpHNTJ1eG5TWlY1M3JYRWsydlhpM1ZiQjV1YjVIYU5tMVRZRzZIM0xTLVNPWjAwWDdRaTZnb3oybw?oc=5",
+   "source": "GoogleNews·讯石光通讯网",
+   "domain": "optical_comm",
+   "published": "2026-10-23",
+   "summary": "",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "bt": 0,
+   "co": [
+    "新易盛"
+   ]
+  },
+  {
+   "id": "1a685eda4a699aed50401ebe373bf028af882a87",
+   "title": "长鑫存储未来一年月产能或增加10万片晶圆，有望至2028年末产能提升接近翻倍",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xZVBDOXdYckZBdFNPbzBBSTB4ZF9vWUFFZERYVjFQVDVmQXZwODNkejBrYVhpRGxKMUcta3FIU3VjNVpsXzZvS3lYOVhaMDdtX0hUbUtB?oc=5",
+   "source": "GoogleNews·QQ News",
+   "domain": "memory",
+   "published": "2026-10-20",
+   "summary": "",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "bt": 0,
+   "co": [
+    "长鑫存储"
+   ]
+  },
+  {
+   "id": "945be8dcad5698b211603e4b69bc1eb3cd7bb7b3",
+   "title": "长鑫科技，两大利好奔袭！",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oLXNpX0xrbXJFMzdVWU1wT2hESW9hRnhZVmZ0c2ZZMHZtSjJROFVIZGxXMWREZGEwa1lIRzBTQkticllIUDhoTnN4MC1MMDJRRUV2ZFdkRDJoQ2V1WV91Yg?oc=5",
+   "source": "GoogleNews·证券之星",
+   "domain": "memory",
+   "published": "2026-10-23",
+   "summary": "",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "bt": 0,
+   "co": []
+  },
+  {
    "id": "5688a8655a6cb24b0ed8c4e098483f0950472150",
    "title": "融资10亿+元，亿铸科技加速通用存算一体产业化",
    "url": "https://www.laoyaoba.com/n/1123260",
@@ -485,6 +569,45 @@
    "first_seen": "2026-10-23",
    "last_seen": "2026-10-23",
    "bt": -3,
+   "co": []
+  },
+  {
+   "id": "c6f7560853b47375b72d9993af1326a96de7ed80",
+   "title": "长鑫4F²搅动全球存储市场高盛：市场反应或过度三星、SK海力士估值吸引力凸显提供者智通财经",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05RUp3Yy0ydTA1OFBvaF82c2FZSHphN1lsQnBEbWY5bWZFS2QwVW80UkxSU1lteGJzRVFVdU9KRUR3aHQ1dUFpcTJRN2VBUXZmdHJzN09JckhZb3lTOWt6VXV0RGJyb2lhVXVoazZMenE?oc=5",
+   "source": "GoogleNews·英为财情 Investing.com",
+   "domain": "memory",
+   "published": "2026-10-16",
+   "summary": "",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "bt": -3,
+   "co": []
+  },
+  {
+   "id": "87db22cdc1da3b0883bb23c57dc91f895960ed33",
+   "title": "长鑫科技市值拉锯战，折射存储超级周期的估值分歧",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBQTHhIbXRuUEhvREdXajFvWHNhd3JYTjN1cmY2Qlpva2RYWDl3MHNBQWRQQW0tVmlySkRjWE1WdjQ5WXZR?oc=5",
+   "source": "GoogleNews·OR新媒体",
+   "domain": "memory",
+   "published": "2026-10-17",
+   "summary": "",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "bt": -6,
+   "co": []
+  },
+  {
+   "id": "dc6c88e4496cc1a1c53b0b483cbb8c66e2b43e80",
+   "title": "前三季度狂赚1325亿，市值却蒸发1万亿！长鑫科技这份财报到底该怎么读？",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1POXhhTkNMbXgxc0lrenBtN2hRS2F6VlV0UVFvNFByMUxubnpESjJuWXVNN0FqUmpMLWpzYWNlUVItTG0xLXNHcGQwdEZHeTFkd1NWSXR3NUMzNDRSenZyZmJjczJfdlpfQnpn?oc=5",
+   "source": "GoogleNews·财富号",
+   "domain": "memory",
+   "published": "2026-10-17",
+   "summary": "",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "bt": -6,
    "co": []
   },
   {
@@ -2186,7 +2309,7 @@
    "published": "2026-10-14",
    "summary": "",
    "first_seen": "2026-10-20",
-   "last_seen": "2026-10-20",
+   "last_seen": "2026-10-23",
    "bt": 2,
    "co": []
   },
@@ -6019,7 +6142,7 @@
    "published": "2026-10-15",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-17",
+   "last_seen": "2026-10-23",
    "bt": 0,
    "co": [
     "长鑫存储"
@@ -9531,7 +9654,7 @@
    "published": "2026-10-14",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-23",
    "bt": 0,
    "co": []
   },
