@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-23 14:53:24",
- "count": 763,
+ "updated": "2026-10-23 21:11:39",
+ "count": 789,
  "items": [
   {
    "id": "042d696778c0bfda798ca9699c4bff55aa90c596",
@@ -14,6 +14,21 @@
    "last_seen": "2026-10-23",
    "bt": 4,
    "co": []
+  },
+  {
+   "id": "a1456ae90254ed44e746f626df4728e573fee6ae",
+   "title": "国产DRAM重大突破！长江存储准备量产9600 MT/s的LPDDR5X内存",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9zLUpqSmlnd0dyR3dtMlRYTTFxUU5Ec2VWeE1sc0dWdEhmcVljbXlNeW1xT2RSclIxVGdBcGZCcFdRcEp1TWZDdXVHcDBKVVJnWVQ3MTNCOTk?oc=5",
+   "source": "GoogleNews·驱动之家",
+   "domain": "memory",
+   "published": "2026-10-23",
+   "summary": "",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "bt": 4,
+   "co": [
+    "长江存储"
+   ]
   },
   {
    "id": "59d96d0aba6e67c9233d28147bd5e070d5057d3c",
@@ -91,6 +106,129 @@
    "source": "GoogleNews·cnBeta.COM",
    "domain": "memory",
    "published": "2026-10-12",
+   "summary": "",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "7f61d1176234925f4a120fd1c029d61c209c86f2",
+   "title": "长江存储据称正研发9600 MT/s LPDDR5X内存 计划推进量产",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583554.htm",
+   "source": "cnBeta",
+   "domain": "memory",
+   "published": "2026-10-23",
+   "summary": "中国闪存芯片制造商长江存储（YMTC）正在将技术布局从NAND闪存扩展至DRAM内存领域。据Counterpoint Research近期披露的信息，长江存储正在开发数据传输速率达到9600 MT/s的低功耗内存产品，并计划在武汉第三座晶圆厂推进量产。这意味着，长江存储正尝试进入由三星、SK海力士、美光等企业长期主导的",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "bt": 2,
+   "co": [
+    "长江存储"
+   ]
+  },
+  {
+   "id": "15e6d98e521e927712b8766f20e15ff23ca0ea63",
+   "title": "美国越制裁中俄越猛，光刻机技术同时突破，特朗普卡脖却起反效果",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zQUZWUEJNUEVLV29QN1owWmNzZFNHVDl3RlpicXJGcGRlRU5ma1dJazY4X1QwZFQ4Ti1hN1FKLWlqQ0xSejRsSGUzSG15WlhrLWpJ?oc=5",
+   "source": "GoogleNews·搜狐网",
+   "domain": "litho_machine",
+   "published": "2026-10-20",
+   "summary": "",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "d9439ac07b2029c60f17b6612cb691b90e5e4f14",
+   "title": "俄光刻机连跳两级，130 纳米已验收，2036 年要啃 10 纳米硬骨头？",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xa2xYVUY3eG8tNTZQVEdEZ1NZdS1XRVVOeEJWV3lENWNpLXhaSFFjcnBRS3N6am1NN0tKbG1QbWJzZW8tTllub1BGZ1V0SC05MHJN?oc=5",
+   "source": "GoogleNews·搜狐网",
+   "domain": "litho_machine",
+   "published": "2026-10-19",
+   "summary": "",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "aa35f35b07121a6a7929aa6b012d07d7dee84820",
+   "title": "联讯仪器：800G、1.6T核心测试仪器为2026年交付主力产品 生产扩充按需推进",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1YX1BMbnF5OHExSDZ6MGdLQV9xZFh3UkRmMFdsaHdTbTQyVmJlbW9NZ2s5U3gtc3A3eW53Vi1uT1JzU0NMX1N4aGgxVFNaTVh2anM0SWRCcS1tVjNCVmY2cEV3?oc=5",
+   "source": "GoogleNews·观点网",
+   "domain": "optical_comm",
+   "published": "2026-10-23",
+   "summary": "",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "8c7f03dfc8d959c638a401f97ff5c2b343d9c8f0",
+   "title": "新易盛：在手订单充足，800G 和1.6T 是今年交付的主力产品_公司新闻_财经",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13VjZfci1LNjRVQTFSNkdISzl4UDhralpISC04QTRVd0pGbVBUWGhTQzNwU3ZRN0U3aFpiX3d5cDZPb2RIME8wR1FRQ2lkN0xaTk8ybVU1LWt3cnh6OFdXYw?oc=5",
+   "source": "GoogleNews·证券之星",
+   "domain": "optical_comm",
+   "published": "2026-10-23",
+   "summary": "",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "bt": 2,
+   "co": [
+    "新易盛"
+   ]
+  },
+  {
+   "id": "c1141345117e5dcb13889b283a5124f2f792113d",
+   "title": "利好！PCB龙头生益电子，1.6T光模块产品取得突破 - https://www.mrjjxw.com/",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5kM3lsMmdIb3RpVXJEbjF4YmpmbjNoZU5SRG9DQkJRazRBV2tzN0ptUnJrT194U1U1RWdycEVmaEJpM2VabVQ5Vk1KZGRJV09keE0teE5wVzJ4ZERxdkEwMXE4N2d5UQ?oc=5",
+   "source": "GoogleNews·https://www.mrjjxw.com/",
+   "domain": "optical_comm",
+   "published": "2026-10-23",
+   "summary": "",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "f1233886f4b0461e11f49547c234dd550b037a88",
+   "title": "长江存储即将开始量产LPDDR5X？速率9600MT/s起步",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX0RraEZMRXBNSHV4Q0wtd1pKclowN2l4dWswcGFEcVpLM000NlRvS1NxSjk2NGJZdHZueTNjWTFIeHBhMVJnaVZ6ckJJNC1pYUVzRW1nSDhxem1nLVZfVGRJNmJNQVBTdVpDVjcybVNLRjBBMDFqaUZZV0w1YXlLMVhlRVNMeVJIUlJ2Qw?oc=5",
+   "source": "GoogleNews·搜狐",
+   "domain": "memory",
+   "published": "2026-10-23",
+   "summary": "",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "bt": 2,
+   "co": [
+    "长江存储"
+   ]
+  },
+  {
+   "id": "2496687ea392b67dde96edadd0ebff3a429f3ddb",
+   "title": "长鑫宣布技术突破后美光提不同意见 技术路线分歧显现",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5iS3RVVG42UFZqdGFWVXdNaDFmcnNSX21sM0ZDTXJGQU1aTVlULWJfWEQ5eG5YbURaTnFzZjBQN0doZEF2NDZWenJVV0lnc2dxc2tLM3N6ckNjSHhZZVhfZFJVS09JSHBNMEZIcEJwUDE?oc=5",
+   "source": "GoogleNews·中华网",
+   "domain": "memory",
+   "published": "2026-10-23",
+   "summary": "",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "60d777dd78b0ae24b775fa34769fc6c5d716ba7f",
+   "title": "长鑫4F²架构突破，美光为何选择不跟进？ 分析师：全球存储市场步入分层博弈",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBkTXpqN18tWjlPbVZFdzQxZ3VoMGxaN3J3RUNvcko2QjlKXzFDVjR3aGV2LVVmR2tJbnREWjhaVGNPajNtcF9xbU9qOUFPNktI?oc=5",
+   "source": "GoogleNews·富途牛牛",
+   "domain": "memory",
+   "published": "2026-10-22",
    "summary": "",
    "first_seen": "2026-10-23",
    "last_seen": "2026-10-23",
@@ -559,6 +697,195 @@
    "co": []
   },
   {
+   "id": "dbb98151e767958b63c86e8f69f58e1abe6f1e5f",
+   "title": "富士胶片、GE 医疗等五方携手，合作开发 2nm 医疗影像低功耗 AI 推理芯片",
+   "url": "https://www.ithome.com/1/017/106.htm",
+   "source": "IT之家",
+   "domain": "logic",
+   "published": "2026-10-23",
+   "summary": "IT之家 10 月 23 日消息，LSTC 日本尖端半导体技术中心、北海道大学、富士胶片、GE 医疗、imec 五方当地时间本月 20 日宣布承接日本 NEDO 项目委托，共同开发基于 2nm 工艺的医疗影像低功耗 AI 推理芯片。该芯片的设计应用场景包括：对光子计数 CT 提供的海量数据进行高速重构与分解，实现“实时",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "d421db890199fa9ade32bc7d11516c9ded94e829",
+   "title": "美智庫籲封堵DUV漏洞 專家解析管制走向",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oSHpxRU1iYTM3V2ZEdDdVYWpqMDNndTIzNmQxNy1FbmR0SGpwSE9ucTl4VjlYV2pkUTdIbEd4WUxoQXIyOHR2cDhCNkpmcVJ4blBaN2hDVDVpbDNOZVVjOdIBZkFVX3lxTE9zU01iLWxZbVhxWTd5RDczalZyRktNYnE2LWJHeE11UVd2OHk5Z21XYkFJTWM1RV9uc2xlLWo1X0JObG1sektTaTQteFVmRFN4bThNNlBmVGZDb1BEZERnbXVMX2h5dw?oc=5",
+   "source": "GoogleNews·大紀元",
+   "domain": "litho_machine",
+   "published": "2026-10-07",
+   "summary": "",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "61cf0701b7cc10c59bfd5df535285386ea55d3a0",
+   "title": "光模块龙头在手订单充足！CPO赛道景气向好 多股业绩翻倍可期(名单)",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kaU5kS0p2RmxxT1ZOTG9IUndRWDlUVjFtUmVhRTB6LVNwVmZlVDdBSEljak1GZjFsUGZKSDFkTWlnR0ZNaGdKT3VHVFczeFFCVHJkUm90Q1pCbFlVdVBGZw?oc=5",
+   "source": "GoogleNews·东方财富",
+   "domain": "optical_comm",
+   "published": "2026-10-23",
+   "summary": "",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "a3733f61c32cd51b4dccc55c031b4c708e47323f",
+   "title": "中际旭创：预计1.6T、800G等高端光模块需求将保持快速增长-36氪",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42WkRVcHNGTDFzT1FlUXV5Z21vZGhZbjhEcGZFeVBPNzNINWRrRy01NmJ0UWotREozQXNQU0hBRzZxMlp1cTR1RmJOSVF2LXR4YWxuVWdWX0E?oc=5",
+   "source": "GoogleNews·36kr",
+   "domain": "optical_comm",
+   "published": "2026-10-22",
+   "summary": "",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "bt": 0,
+   "co": [
+    "中际旭创"
+   ]
+  },
+  {
+   "id": "63b77542336862850a8683976cbcd17f59ac4189",
+   "title": "新易盛：生产经营稳中有进 1.6T光模块持续放量",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vUGtTSUV1ZXg5cG5NZEJ1UlEwN1hwWUo3cnVlRDBQemlhaUFWdzZrc3VWMnpFTjJORGt1a3d2djNHTUt0dkJXQThvc3pDZDJpUjlVemR6LWRCc1oyRnlEV0Q0WnRUQQ?oc=5",
+   "source": "GoogleNews·东方财富",
+   "domain": "optical_comm",
+   "published": "2026-10-23",
+   "summary": "",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "bt": 0,
+   "co": [
+    "新易盛"
+   ]
+  },
+  {
+   "id": "57c8093b4cc59b038a1fd268ef81a49f2f2de18d",
+   "title": "联讯仪器：公司系全球第二家推出1.6T光模块全部核心测试仪器的厂商_公司新闻",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HLXlEaGVhajhicjZ2MXpIakJ0MWFHWjdBV0twU3dUazZqUWNIejc3M0pmZUxKYm9qcWRBb2NINVpObFBINjI1SDJ0cElKcEJUSzF2YUk3ejJpSDRiM0JpTVVBbkc?oc=5",
+   "source": "GoogleNews·证券之星",
+   "domain": "optical_comm",
+   "published": "2026-10-23",
+   "summary": "",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "1087771e2ce9b6020db694bc914e81a25dc15f70",
+   "title": "安孚科技：苏州易缆微的硅光异质集成薄膜铌酸锂技术适用于数据中心1.6T高性能光模块_公司新闻",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yMTRxaG9SenYwWHY2Mk9sVWpjcTVyUXBYcExkM1JwenE2U3ZQOGRnNnJxelpFUEVSS0kxX2pnSW40T0JtVWJjcWNaY0w5ZW5XWjBGajg1NGRDbm5tMlJNbg?oc=5",
+   "source": "GoogleNews·证券之星",
+   "domain": "optical_comm",
+   "published": "2026-10-23",
+   "summary": "",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "cfc23d3aa18f9b06075b85d68ea33d89ec238109",
+   "title": "联讯仪器：高速光模块核心测试仪器市场需求旺盛",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMNmNEOWt2Nk1hSzlZSFdlVGZRRTFDT24ybjVKWE9nbFp2QThNYXl4c2tRZFZpeGJlaEJubm9ma1ZQYXpLcmx2N2dSVUphbmVsLXZvLW5kWmJpZTZwZWRQTGFaa1ZsUQ?oc=5",
+   "source": "GoogleNews·东方财富",
+   "domain": "optical_comm",
+   "published": "2026-10-23",
+   "summary": "",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "8419de103f5a136f29a8ed83667dddab9985db48",
+   "title": "创指午后翻红！“易中天”、光迅科技、源杰科技等午间集体公告：生产经营一切正常",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1OaDVibXlYc09jYklVeHF3SUNqS055ZXJkcW1lNFBhcmxZSzBCZlJ3bFQyQmZabnFqbndSZUxSVXBoT2RqU05YTVlkOElaaFB2M1EwTWpnOUo1eElmdE93OA?oc=5",
+   "source": "GoogleNews·ThePaper.cn",
+   "domain": "optical_comm",
+   "published": "2026-10-23",
+   "summary": "",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "bt": 0,
+   "co": [
+    "源杰科技",
+    "光迅科技"
+   ]
+  },
+  {
+   "id": "d118732d4fd2d71e57f4467e05aa2dfbc49ed608",
+   "title": "算力上游链走强！多家光模块公司释放信号，港股PCB标的拉升",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeWRBZTNUNWhMTk1RNDJCOEpydXF0a2l3eEpLVVAyWXRzck00SmpyUGJZdE1haVFBWGlZZmZHaXVEM00zLS1OTVVxdVVmbE9IVTRlTU1iaGxPa0IwS3J0VmUydnNrcndWSl9NcWNOOU8tbXl6ZTFQZ2MxNmV6X2lRZy1lcDROaXQ5T3FFMg?oc=5",
+   "source": "GoogleNews·搜狐",
+   "domain": "optical_comm",
+   "published": "2026-10-23",
+   "summary": "",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "4aafb7ab4d49c3665a5b9cd9e7cca31a5c7da59e",
+   "title": "生益电子：AI服务器、800G/1.6T交换机等数据中心相关产品订单稳步增长-36氪",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE82ak5RV0dPRnozSDJSelJERU9LUVFkdjlsN3RCMWZqcm9aczVUaXJjeGJnOGZ6RlkySHk2blY3NVFxYVFuUkE3ejBsdm13Tkt5TlVBNXkzVkU?oc=5",
+   "source": "GoogleNews·36kr",
+   "domain": "optical_comm",
+   "published": "2026-10-23",
+   "summary": "",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "429bcaae6d4046e57758b4e34cf4c3f21d194f46",
+   "title": "国产存储芯片反超！韩国巨头坐不住了？",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qUXZ5d1REbGNaaFZwR2xtSFI0Uml3S0lyVGVtSGNPb2hkZjhGUFR0WTZOVHNTdUdRU3RHUmwtYVFhU3I5M29LVlNtMnhfNTRET3BZ?oc=5",
+   "source": "GoogleNews·搜狐网",
+   "domain": "memory",
+   "published": "2026-10-21",
+   "summary": "",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "a2c3b27f43c65e44b6184fc8076ab6828239e6c1",
+   "title": "黄仁勋：2029年内存难现供给过剩，与长鑫合作持开放态度",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE03ZjdmM284eTBwZEQ2SzlQU0dISDZybjA1UTBwRnF2OEJRQlFKUWw3UFZmNmF5TTNSOHJJbUc5enVxZzRoM3dqbllsTlJQNjM5SldwNFlxSmJoNVJx?oc=5",
+   "source": "GoogleNews·电子工程专辑",
+   "domain": "memory",
+   "published": "2026-10-23",
+   "summary": "",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "bb3f7bf9138e065d119aeefd1c96fda076367d99",
+   "title": "长鑫科技股东会：对DRAM行业保持长期信心",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQOW5GQ1RQNktRMWpZejA4cVphTzFjTGNNRXNBbjlYeElQRUhNeTVIYUNOZDdrbkdSYkFZLU13b1RTNHpiR0czdHlPUFF2M1BaRnA4UnZMbkhsdVpqd3lvUnMtVERnWDlQT0d3?oc=5",
+   "source": "GoogleNews·zqrb.cn",
+   "domain": "memory",
+   "published": "2026-10-20",
+   "summary": "",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "bt": 0,
+   "co": []
+  },
+  {
    "id": "5688a8655a6cb24b0ed8c4e098483f0950472150",
    "title": "融资10亿+元，亿铸科技加速通用存算一体产业化",
    "url": "https://www.laoyaoba.com/n/1123260",
@@ -576,6 +903,32 @@
    "title": "长鑫4F²搅动全球存储市场高盛：市场反应或过度三星、SK海力士估值吸引力凸显提供者智通财经",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05RUp3Yy0ydTA1OFBvaF82c2FZSHphN1lsQnBEbWY5bWZFS2QwVW80UkxSU1lteGJzRVFVdU9KRUR3aHQ1dUFpcTJRN2VBUXZmdHJzN09JckhZb3lTOWt6VXV0RGJyb2lhVXVoazZMenE?oc=5",
    "source": "GoogleNews·英为财情 Investing.com",
+   "domain": "memory",
+   "published": "2026-10-16",
+   "summary": "",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "bt": -3,
+   "co": []
+  },
+  {
+   "id": "7fc9a2b277356877dbcb62bb7179875f3c9e0b1d",
+   "title": "新芯航途完成战略轮融资 长鑫科技、雷诺、奇瑞参投",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE44SVUwcXFnd09pXzRIcnhOaDlQOWJ2V1NWTmpFdHctb3YtdUNsSjN1Y2RfUzJmbFVMME5kRUl5WVE3QTRWdlhYMUppUkJYNERYc3NuQ0lnVnpVZXJObU5ReXlTVk03WFh2Y1FhclJVcGNoLTBfSC1xMw?oc=5",
+   "source": "GoogleNews·新浪财经",
+   "domain": "memory",
+   "published": "2026-10-16",
+   "summary": "",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "bt": -3,
+   "co": []
+  },
+  {
+   "id": "ff0908337a887a33ea02f58ce7042b9541e71ec8",
+   "title": "利空来袭？长鑫科技三季度净利环比预增仅1%-4%，两个月市值蒸发超1万亿，存储周期见顶了？",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVX0pnbGVfbkJoSkVRcjlXT2JfcFBwN0NuQkdwOExMeUFPWWVsQ2ZmNlRnQlRUQk9tOFRNdXAxZkwxVTNBVHlVbDFmVGIwVVJBNDZSMjFXSFl2TElWUnFBS3JjbmtRRUdiZEU2VXVxRQ?oc=5",
+   "source": "GoogleNews·finance.sina.com.cn",
    "domain": "memory",
    "published": "2026-10-16",
    "summary": "",
@@ -2974,7 +3327,7 @@
    "published": "2026-10-19",
    "summary": "",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-10-22",
+   "last_seen": "2026-10-23",
    "bt": 2,
    "co": [
     "长江存储"
@@ -4500,7 +4853,7 @@
    "published": "2026-10-16",
    "summary": "",
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-21",
+   "last_seen": "2026-10-23",
    "bt": -3,
    "co": []
   },
@@ -6084,7 +6437,7 @@
    "published": "2026-10-16",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-22",
+   "last_seen": "2026-10-23",
    "bt": 0,
    "co": []
   },
