@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-23 08:39:46",
- "count": 733,
+ "updated": "2026-10-23 13:34:54",
+ "count": 748,
  "items": [
+  {
+   "id": "042d696778c0bfda798ca9699c4bff55aa90c596",
+   "title": "西方断言中国学不会EUV光源，被清华团队点亮了，国产化率90%",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56eWNOZUwtQUVKdV9nenNDcC1iLXhkTzVJZnZYeHMwUDlHTHFXdE5qUS03NUxsMGdjSXdWSmVnTWxVSnNNalgzQVJQZ0FnSG1sVjluNEVB?oc=5",
+   "source": "GoogleNews·QQ News",
+   "domain": "litho_power",
+   "published": "2026-10-16",
+   "summary": "",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "bt": 4,
+   "co": []
+  },
   {
    "id": "59d96d0aba6e67c9233d28147bd5e070d5057d3c",
    "title": "华盛昌：CPO产品已完成验证获客户认可",
@@ -55,6 +68,34 @@
    "co": [
     "华为"
    ]
+  },
+  {
+   "id": "23374bc59a79539e532290e7ccef8ac171fb107c",
+   "title": "华为 Pura 90 Plus 线下展出，新机确认首发搭载麒麟 9025 处理器",
+   "url": "https://www.ithome.com/1/016/862.htm",
+   "source": "IT之家",
+   "domain": "logic",
+   "published": "2026-10-23",
+   "summary": "IT之家 10 月 23 日现场消息，华为官方今日正式官宣了 Pura 90 Plus 新机，并于 10:08 开启预订。IT之家注意到，目前线下门店已展出这款新机。设置页面显示，华为 Pura 90 Plus 型号代码为“LCI-AL00”，屏幕分辨率达 2,848×1,276、预装 HarmonyOS 7.0.0.",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "bt": 2,
+   "co": [
+    "华为"
+   ]
+  },
+  {
+   "id": "71cd46c839ebed843aec9fec2cd8473c835e585e",
+   "title": "长鑫G6内存面积再缩30% 键合工艺首次登场",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ENy10N1BMVHpkU2hnUVNQV3RNdmR4a0lCVEdkWDhaVHFHQ0p2Vm9RV0xwdm9nUFJuSjcxaElJbE9CMF92UF93c2NoX1podGloaXc?oc=5",
+   "source": "GoogleNews·cnBeta.COM",
+   "domain": "memory",
+   "published": "2026-10-12",
+   "summary": "",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "bt": 2,
+   "co": []
   },
   {
    "id": "c1a9f18a5957b4bc36c992100b74ed963acfecc3",
@@ -190,6 +231,178 @@
    "first_seen": "2026-10-23",
    "last_seen": "2026-10-23",
    "bt": 0,
+   "co": []
+  },
+  {
+   "id": "03510e7522280761890183aff604f376a3b81528",
+   "title": "古尔曼爆料苹果 iPhone Duo 3 折叠手机：配长焦镜头，8 英寸出头内屏",
+   "url": "https://www.ithome.com/1/016/968.htm",
+   "source": "IT之家",
+   "domain": "optics",
+   "published": "2026-10-23",
+   "summary": "IT之家 10 月 23 日消息，在第四期 Power On 播客节目中，彭博社的马克 · 古尔曼（Mark Gurman）透露，苹果公司正在规划更大尺寸的 iPhone Duo，并考虑在未来机型中加入长焦摄像头。IT之家附上相关播客视频如下：古尔曼在播客节目中表示，这些规划有望在第三代 iPhone Duo 上实现，",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "6d6e8ff40fa8243007411559755641efbdc5198c",
+   "title": "黄仁勋：对英伟达与长鑫存储合作持开放态度，没有哪个国家在制造业方面比中国更强",
+   "url": "https://www.ithome.com/1/016/962.htm",
+   "source": "IT之家",
+   "domain": "memory",
+   "published": "2026-10-23",
+   "summary": "IT之家 10 月 23 日消息，据 CNBC 当地时间 22 日报道，在英伟达 GTC 柏林大会期间，英伟达 CEO 黄仁勋接受了该媒体的专访。在被问及英伟达是否计划与长鑫存储展开合作并采购其内存产品时，黄仁勋表示：“我们持开放态度。我们与中国企业合作；整个世界都在供应链的某个地方与中国公司合作。”黄仁勋还表示，“中",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "bt": 0,
+   "co": [
+    "长鑫存储"
+   ]
+  },
+  {
+   "id": "a007f695453e903951c12d8160038bee56c74f8e",
+   "title": "阿里 Qoder 官宣支持 Linux ARM64 与龙芯平台，适配统信 UOS、银河麒麟操作系统",
+   "url": "https://www.ithome.com/1/016/927.htm",
+   "source": "IT之家",
+   "domain": "logic",
+   "published": "2026-10-23",
+   "summary": "IT之家 10 月 23 日消息，阿里 Qoder 今日宣布，Qoder （国际版与中国版）现已支持 Linux ARM64 与龙芯（LoongArch64）平台，适配统信 UOS、银河麒麟操作系统。官方表示，此次升级，将 Qoder 从需求理解到任务执行、成果交付的完整工作方式带到了国产桌面系统。用户可以在熟悉的环境",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "087bdc15ab77d57394ea3a093e3fe1200cede8d7",
+   "title": "华为畅享 100 系列手机定档 10 月 28 日发布：麒麟 8 系平台、巨鲸大电池加持",
+   "url": "https://www.ithome.com/1/016/815.htm",
+   "source": "IT之家",
+   "domain": "logic",
+   "published": "2026-10-23",
+   "summary": "IT之家 10 月 23 日消息，华为终端官微宣布，华为畅享 100 系列将于 10 月 28 日的华为双十一焕新季 · 全场景新品发布会登场，并于 10 月 23 日 10:08 开启预订。官方预告图显示，该机将拥有麒麟 8 系超强芯、华为巨鲸大电池、鸿蒙星盾防诈等加持。此前，该机宣传海报已在线下亮相，新机延续家族化",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "bt": 0,
+   "co": [
+    "华为"
+   ]
+  },
+  {
+   "id": "550562ad55453e6315e1d191a80103abcc7fe25d",
+   "title": "中际旭创：预计1.6T、800G等高端光模块需求将保持快速增长",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42WkRVcHNGTDFzT1FlUXV5Z21vZGhZbjhEcGZFeVBPNzNINWRrRy01NmJ0UWotREozQXNQU0hBRzZxMlp1cTR1RmJOSVF2LXR4YWxuVWdWX0E?oc=5",
+   "source": "GoogleNews·36Kr",
+   "domain": "optical_comm",
+   "published": "2026-10-23",
+   "summary": "",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "bt": 0,
+   "co": [
+    "中际旭创"
+   ]
+  },
+  {
+   "id": "f7b35d9c21d454e4aa715fb5f40d46f9c26182cb",
+   "title": "天孚通信：公司主营业务开展情况正常，在手订单充足",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfWmJ4Qk9zaU5WQ0F4dmxLSHBTZEowX1pDSnMzX1RORDNHVXE3TGZ5LTNXNDVSMDN2V0JCTlJIeV9Vd0Q4QlFheWZIUXJTM3hJblE0d3lCY1o?oc=5",
+   "source": "GoogleNews·36Kr",
+   "domain": "optical_comm",
+   "published": "2026-10-23",
+   "summary": "",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "bt": 0,
+   "co": [
+    "天孚通信"
+   ]
+  },
+  {
+   "id": "4f797cb4a4aa0269cdbe183bc0281634a9e9647d",
+   "title": "新易盛：1.6T光模块已进入持续放量阶段",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBiaDBTT25xOTNjZDJ6d29WQW1wUFpGMWdCcnloSFBNVG8teGF2eGtMbFRieWJuRUtGUjlfU0hSOUFtYWtUS0dKY2p0a3Z1WHoyQkhkVDFldTNfaHRkTUxBR2tTalVRZw?oc=5",
+   "source": "GoogleNews·东方财富",
+   "domain": "optical_comm",
+   "published": "2026-10-23",
+   "summary": "",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "bt": 0,
+   "co": [
+    "新易盛"
+   ]
+  },
+  {
+   "id": "b70347b8b7e98efab14826fa0d3fa4fac63f2a04",
+   "title": "中芯国际盘中跌超5%，机构维持买入评级并发行多只衍生权证",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5TUGgwLXFEckNrV2NhT3drMEpycldIazI1ZzRUNFhWQno2THM0M2hRWG9EY1VqU3o4ZEtFUEprZEVsaXVMTGFzRVk3RGJlTUtVdEVmeXZJNmxYOVpt?oc=5",
+   "source": "GoogleNews·www.caiwennews.com",
+   "domain": "logic",
+   "published": "2026-10-22",
+   "summary": "",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "bt": 0,
+   "co": [
+    "中芯国际"
+   ]
+  },
+  {
+   "id": "f4ec22e50cba96e3ab65f4766ee47c4c9f9094a8",
+   "title": "三星、海力士升级中国工厂，长江存储改变了什么？",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9JWGpzeGZvbjlNSl9JTkJ4Sm9tMnhyc2RaYUI3ODBMOU1aUy1QbU05Nnd0UU9jYjBTNFM2UEhGSGd3czhrSWtDT3hGRWduOVgwMzB5ag?oc=5",
+   "source": "GoogleNews·虎嗅",
+   "domain": "memory",
+   "published": "2026-10-23",
+   "summary": "",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "bt": 0,
+   "co": [
+    "长江存储"
+   ]
+  },
+  {
+   "id": "c6051bc4b901e50537f8827ad530e4a4b1daa7f1",
+   "title": "黄仁勋回应与长鑫存储合作：持开放态度 没有哪个国家在制造业比中国更强",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NX0IzZXVuRGo1SFoxX1pmdlFmeldjNXJydE5FNmhDOW8xRDlqNkNjclBFd29IZmVoeHZzcERFNl9tc3kxd09QLUo5RG4teVdEWndIdkVRTXc?oc=5",
+   "source": "GoogleNews·驱动之家",
+   "domain": "memory",
+   "published": "2026-10-23",
+   "summary": "",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "bt": 0,
+   "co": [
+    "长鑫存储"
+   ]
+  },
+  {
+   "id": "1cb0448649e5b394ffb1be5450871d808e43a2ff",
+   "title": "国产HBM还差三到五年，韩股存储双雄为什么先暴跌熔断？",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wVGtYQnEyTUE4RkZ3a3AyWUxCZWJ3dDk1ZkFFRVVENXZ1RVZVVXJkWnRHbnJmakU1ZGxjelNJdTllWGFiNW1hVDNURlpSTEFsV3dxaVBB?oc=5",
+   "source": "GoogleNews·QQ News",
+   "domain": "memory",
+   "published": "2026-10-14",
+   "summary": "",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "5688a8655a6cb24b0ed8c4e098483f0950472150",
+   "title": "融资10亿+元，亿铸科技加速通用存算一体产业化",
+   "url": "https://www.laoyaoba.com/n/1123260",
+   "source": "集微网",
+   "domain": "memory",
+   "published": "",
+   "summary": "",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "bt": -3,
    "co": []
   },
   {
@@ -458,7 +671,7 @@
    "published": "2026-10-21",
    "summary": "",
    "first_seen": "2026-10-22",
-   "last_seen": "2026-10-22",
+   "last_seen": "2026-10-23",
    "bt": 0,
    "co": [
     "长江存储"
@@ -1618,7 +1831,7 @@
    "published": "2026-10-21",
    "summary": "",
    "first_seen": "2026-10-21",
-   "last_seen": "2026-10-22",
+   "last_seen": "2026-10-23",
    "bt": 0,
    "co": [
     "长江存储"
@@ -1783,7 +1996,7 @@
    "published": "2026-10-20",
    "summary": "",
    "first_seen": "2026-10-20",
-   "last_seen": "2026-10-22",
+   "last_seen": "2026-10-23",
    "bt": 4,
    "co": []
   },
@@ -1865,7 +2078,7 @@
    "published": "2026-10-13",
    "summary": "",
    "first_seen": "2026-10-20",
-   "last_seen": "2026-10-22",
+   "last_seen": "2026-10-23",
    "bt": 2,
    "co": []
   },
@@ -3280,7 +3493,7 @@
    "published": "2026-10-18",
    "summary": "",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-10-22",
+   "last_seen": "2026-10-23",
    "bt": 0,
    "co": []
   },
@@ -3680,7 +3893,7 @@
    "published": "2026-10-07",
    "summary": "",
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-21",
+   "last_seen": "2026-10-23",
    "bt": 0,
    "co": []
   },
@@ -4774,7 +4987,7 @@
    "published": "2026-10-16",
    "summary": "",
    "first_seen": "2026-10-17",
-   "last_seen": "2026-10-22",
+   "last_seen": "2026-10-23",
    "bt": -3,
    "co": []
   },
@@ -6802,7 +7015,7 @@
    "published": "2026-10-14",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-22",
+   "last_seen": "2026-10-23",
    "bt": 2,
    "co": []
   },
@@ -7249,7 +7462,7 @@
    "published": "2026-10-14",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-20",
+   "last_seen": "2026-10-23",
    "bt": 2,
    "co": []
   },
@@ -9771,7 +9984,7 @@
    "published": "2026-10-08",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-21",
+   "last_seen": "2026-10-23",
    "bt": -3,
    "co": []
   },
