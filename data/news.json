@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-23 13:36:54",
- "count": 748,
+ "updated": "2026-10-23 13:47:57",
+ "count": 754,
  "items": [
   {
    "id": "042d696778c0bfda798ca9699c4bff55aa90c596",
@@ -386,6 +386,88 @@
    "source": "GoogleNews·QQ News",
    "domain": "memory",
    "published": "2026-10-14",
+   "summary": "",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "85736752c112b90d54aaf15893b522634532ec11",
+   "title": "古尔曼爆料苹果第三代 iPhone Duo 折叠手机：配长焦镜头，8 英寸出头内屏",
+   "url": "https://www.ithome.com/1/016/968.htm",
+   "source": "IT之家",
+   "domain": "optics",
+   "published": "2026-10-23",
+   "summary": "IT之家 10 月 23 日消息，在第四期 Power On 播客节目中，彭博社的马克 · 古尔曼（Mark Gurman）透露，苹果公司正在规划更大尺寸的 iPhone Duo，并考虑在未来机型中加入长焦摄像头。IT之家附上相关播客视频如下：古尔曼在播客节目中表示，这些规划有望在第三代 iPhone Duo 上实现，",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "a0bbc5c962bdbb0546e792471d8fa1bf4fed727a",
+   "title": "A股再度放量调整！4大光模块龙头午间齐发公告：在手订单充足-证券之星",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CNm5YbU45ek9uRl83djR3bWVGTmJWSDBJNlFtTDk0dVU5UHNjUGNuLVhfQzZFVzA5ejVpOHhXc0xNREF6VDJDMVdERjZYQ1FETXQ4U3U0TFZrTnIyZXc?oc=5",
+   "source": "GoogleNews·证券之星",
+   "domain": "optical_comm",
+   "published": "2026-10-23",
+   "summary": "",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "0ce716505760080cb85bd426cd3e85b6c56e790f",
+   "title": "CPO概念午后拉升，“易中天”再密集回应：在手订单充足、经营正常",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeDRtT19PVEtkWmFCR1N3TmMweWQyM292UWVJUEVSWGRmeW5BNzdoSXNlaWtabXNiZG1VU3JOTzQtUThNRHhZMnotMWlhR1hJT1djMnpsemc2SDJPZ2Fxd01XRHoxcXJSYjFWci1HYUxaMS1wWTJtSi1wSlNpUUZlZjZwZDVCRWUw?oc=5",
+   "source": "GoogleNews·搜狐",
+   "domain": "optical_comm",
+   "published": "2026-10-23",
+   "summary": "",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "9ac376b49356a5793aef904c028fffb362c8bb4e",
+   "title": "新易盛称在手订单充足 1.6T光模块进入持续放量阶段",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5IbEhicUkyaW15bUtSQkhYVnBsT2RHU09DRlQ0Vzd4UklPTzdrazVpT2RzWlYxT09nUlhOTm85LW5Vak85ZkR0SHdlUWpRSWFGSmNXc1VocHVvUi1KZFhEMjBn?oc=5",
+   "source": "GoogleNews·观点网",
+   "domain": "optical_comm",
+   "published": "2026-10-23",
+   "summary": "",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "bt": 0,
+   "co": [
+    "新易盛"
+   ]
+  },
+  {
+   "id": "5dcaa74cda669a75877f50b68d040fa5fc5a3e5e",
+   "title": "长鑫存储推出4F² DDR5 RDIMM新品冲击内存三巨头",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBfeG9rVFBONTFtbVJwZDBUbXAtcVFkbXVQMzZqWkREdUtCUVNfYXhzYXpQeGFSaFc5bmxIRGhiU0RCb01SX29HUDJrNXdXdEtiMUI1cDQzRWRQZEJEWFVaRFE1bFFXekRTRWF0b0hXWQ?oc=5",
+   "source": "GoogleNews·新浪财经",
+   "domain": "memory",
+   "published": "2026-10-16",
+   "summary": "",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "bt": 0,
+   "co": [
+    "长鑫存储"
+   ]
+  },
+  {
+   "id": "36dff5bb0800dce6030fcbf0fbc6332301cf7f94",
+   "title": "长鑫科技，午后直线拉升",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGN0FEbEprMXpnMk5SUllpSzl3d1cySWNYLThIbE96UDY3YU9RbzZBdFV2VDAzQnlPU1A1Y2w4X2hDdTZFamZPaVNNejJPZDlMazdOLWszZGJGcnpHa3ZackVaNWtxbFdCLTktUzh3?oc=5",
+   "source": "GoogleNews·同花顺",
+   "domain": "memory",
+   "published": "2026-10-23",
    "summary": "",
    "first_seen": "2026-10-23",
    "last_seen": "2026-10-23",
@@ -7879,7 +7961,7 @@
    "published": "2026-10-09",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-22",
+   "last_seen": "2026-10-23",
    "bt": 0,
    "co": [
     "华为"
