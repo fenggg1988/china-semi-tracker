@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-23 03:32:38",
- "count": 725,
+ "updated": "2026-10-23 08:39:46",
+ "count": 733,
  "items": [
   {
    "id": "59d96d0aba6e67c9233d28147bd5e070d5057d3c",
@@ -27,6 +27,34 @@
    "last_seen": "2026-10-23",
    "bt": 2,
    "co": []
+  },
+  {
+   "id": "9a71af0f7710e130f521673d146ce1de9797b42f",
+   "title": "光刻机再突破！NA 值达 0.75，10 年后造 1.25nm 芯片？",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WVExnUmlqdWhQLWpla1NhbnRWbC1TVkk1TFdQNXJReWZFSEtxRXdaM01wd0o3UWw2RzRPcHVoTzVxTDdENFRySGQzUmlWdG1xUmpHaFZ4MmNvWHRIYnRsQQ?oc=5",
+   "source": "GoogleNews·搜狐网",
+   "domain": "litho_machine",
+   "published": "2026-10-20",
+   "summary": "",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "bc55a725664ceab363998f3c8e8ff9f425aef711",
+   "title": "华为AI芯片中国市场出货量逼近英伟达",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VWnk0RmdOMXZMLTZXWnJEOVpENVRLc2VRbUkyTU9vUTNScFdFbm9tTE1vZ2UxdFAxbUVPX0JtelltdG1HcC1MQ1Z3aGtMM1ZHNjI4?oc=5",
+   "source": "GoogleNews·搜狐网",
+   "domain": "logic",
+   "published": "2026-10-14",
+   "summary": "",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "bt": 2,
+   "co": [
+    "华为"
+   ]
   },
   {
    "id": "c1a9f18a5957b4bc36c992100b74ed963acfecc3",
@@ -74,6 +102,88 @@
    "title": "美光泼冷水：长鑫正在实施的4F2技术是死路一条 应该采用3D DRAM",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kQ1djMlEwVndCN2RtWGJDMlo3SnpVQS14X1YwNHhOTXdncXZUTVhzYVA5dEtONDA4VFY1X1k4b214SmlQaHNfcE9vemdNXzVFdV9UQWQ0LUk?oc=5",
    "source": "GoogleNews·驱动之家",
+   "domain": "memory",
+   "published": "2026-10-22",
+   "summary": "",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "f523e430b44afe14d4e867c28ad8d0b1b18c1361",
+   "title": "高盛大幅上调光模块预期！多家光通信龙头集体回应：订单、生产一切正常",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaGhaM3lyd3NKNm5hbUVmS1VILVNfbXN6cjl3Zk9UR2laSWE5WnJqZEpXdEpzYkhiRUJJOU5pQkt1NGk0ZGgzenRsOUZvdkstdWZBNkZQMzdUWVZqcWMtMEktdFFyeVlRVjR5UXljX2FxRmhhNG5sMjVyVDc5WGZsOEx1TTN4TDUzVFUybw?oc=5",
+   "source": "GoogleNews·搜狐",
+   "domain": "optical_comm",
+   "published": "2026-10-23",
+   "summary": "",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "2426985929313843ee59514d29a903313abafb48",
+   "title": "长光华芯：大摩相关报告非正式法规，国内800G/1.6T光芯片短期内仍极度紧缺",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xUy05QU9pbnZka2hLYkQxWkdOaVByTF9FVTJoX1k0Q3BtYTFQNzdKTi1EQ0dWUDdLcGM3MFR5U1VySkR6UFBLbER6QjA?oc=5",
+   "source": "GoogleNews·凤凰网",
+   "domain": "optical_comm",
+   "published": "2026-10-08",
+   "summary": "",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "bt": 0,
+   "co": [
+    "长光华芯"
+   ]
+  },
+  {
+   "id": "5440f0c9dba295d6cef331735f5eec472999bd63",
+   "title": "光通信龙头“易中天”集体回调？公司回应",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHUGtHQzlSLWdFODh1YTVKbTlNaGF6VGFSZVQ0WDBRN3Y5b19Sc0hIdWt1dS01S3FyNmcyQjZIVFlCOE0zeU1RTncxY3FNWjlDNjlIU0VxU252djl3OWxXd2tyY0JwZjhISjM4anZibw?oc=5",
+   "source": "GoogleNews·央广财经",
+   "domain": "optical_comm",
+   "published": "2026-10-22",
+   "summary": "",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "51123ce5ec04f175ce4336c2ee2084c3690427f0",
+   "title": "中科蓝讯10月22日回应光模块话题：子公司芯光算力发布1.6T LPO等系列产品_公司新闻",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9DUzZ4S3NOY0VRY2pNc0JOd2pvNVMydFpkNHVLVXB1RTg5MHJQVXVRa3h6NDVlVjRDOUpKaXBramtzcGp2QkI5WWRHVWZzOWNnY2haQVR2MHN2eERaeDVFUTln?oc=5",
+   "source": "GoogleNews·证券之星",
+   "domain": "optical_comm",
+   "published": "2026-10-23",
+   "summary": "",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "e04250996418f2f62ec960318ceab584cad18ced",
+   "title": "张雪结识长江存储团队合影留念，与工作人员互换联系方式",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ibDg1UmI4c1JOMnpQdmZQNHp6Q3A0NVFZU0hScGgzNWlzeE1SY1lzcHhfakxMU2EzNzFjVEFxSEdZbDZ4QWhrYUdIWkdZR3JYTEtYV3J3?oc=5",
+   "source": "GoogleNews·QQ News",
+   "domain": "memory",
+   "published": "2026-10-16",
+   "summary": "",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "bt": 0,
+   "co": [
+    "长江存储"
+   ]
+  },
+  {
+   "id": "9b68aea89a503cf8efd9e96aa85bb163996743c7",
+   "title": "三星、SK海力士传升级中国NAND制程迎战长存 美国政策监管为变量",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYXh4ZFRNcjR1TWc3bUFtZ2JIUk9pWnZOYTRiVjlkUGRuSXVTbTVHMl9Oa1Jyb1g4WUJ5NW9vaE9BMGZ6U2RDQmZxcXo5dkxkb3ZIOEp3a1ptSHBucFVhWjFyN01CQ2pWdlZtdnNmVHVrWE9lLWN2VVJNMWxsVWdJbjMtUlFiY1lvVFFLMkh4LUdKbEhxU1cwMEkzWmYwd3VwUTdqUjB2OA?oc=5",
+   "source": "GoogleNews·DIGITIMES",
    "domain": "memory",
    "published": "2026-10-22",
    "summary": "",
@@ -441,7 +551,7 @@
    "published": "2026-10-22",
    "summary": "",
    "first_seen": "2026-10-22",
-   "last_seen": "2026-10-22",
+   "last_seen": "2026-10-23",
    "bt": 0,
    "co": []
   },
@@ -497,7 +607,7 @@
    "published": "2026-10-21",
    "summary": "",
    "first_seen": "2026-10-22",
-   "last_seen": "2026-10-22",
+   "last_seen": "2026-10-23",
    "bt": 0,
    "co": []
   },
@@ -1580,7 +1690,7 @@
    "published": "2026-10-19",
    "summary": "",
    "first_seen": "2026-10-21",
-   "last_seen": "2026-10-22",
+   "last_seen": "2026-10-23",
    "bt": -3,
    "co": []
   },
@@ -2403,7 +2513,7 @@
    "published": "2026-10-13",
    "summary": "",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-10-19",
+   "last_seen": "2026-10-23",
    "bt": 2,
    "co": []
   },
@@ -2664,7 +2774,7 @@
    "published": "2026-10-06",
    "summary": "",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-10-21",
+   "last_seen": "2026-10-23",
    "bt": 0,
    "co": []
   },
@@ -3047,7 +3157,7 @@
    "published": "2026-10-14",
    "summary": "",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-10-22",
+   "last_seen": "2026-10-23",
    "bt": 0,
    "co": []
   },
@@ -3514,7 +3624,7 @@
    "published": "2026-10-17",
    "summary": "",
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-22",
+   "last_seen": "2026-10-23",
    "bt": 0,
    "co": []
   },
@@ -3661,7 +3771,7 @@
    "published": "2026-10-10",
    "summary": "",
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-20",
+   "last_seen": "2026-10-23",
    "bt": 0,
    "co": []
   },
@@ -3959,7 +4069,7 @@
    "published": "2026-10-13",
    "summary": "",
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-20",
+   "last_seen": "2026-10-23",
    "bt": -3,
    "co": []
   },
@@ -5319,7 +5429,7 @@
    "published": "2026-10-15",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-23",
    "bt": 0,
    "co": []
   },
@@ -5530,7 +5640,7 @@
    "published": "2026-10-15",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-22",
+   "last_seen": "2026-10-23",
    "bt": 0,
    "co": []
   },
@@ -5713,7 +5823,7 @@
    "published": "2026-10-14",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-22",
+   "last_seen": "2026-10-23",
    "bt": 0,
    "co": [
     "中际旭创",
@@ -5797,7 +5907,7 @@
    "published": "2026-10-07",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-22",
+   "last_seen": "2026-10-23",
    "bt": 0,
    "co": []
   },
@@ -8497,7 +8607,7 @@
    "published": "2026-10-08",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-22",
+   "last_seen": "2026-10-23",
    "bt": 0,
    "co": [
     "长光华芯"
@@ -9829,7 +9939,7 @@
    "published": "2026-10-15",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-22",
+   "last_seen": "2026-10-23",
    "bt": -3,
    "co": []
   }
