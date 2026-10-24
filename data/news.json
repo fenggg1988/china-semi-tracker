@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-24 10:02:27",
- "count": 811,
+ "updated": "2026-10-24 13:15:31",
+ "count": 814,
  "items": [
   {
    "id": "a91b8c77859b4edf3e85abcf04cc41dbde0efff2",
@@ -78,6 +78,19 @@
    "source": "GoogleNews·搜狐网",
    "domain": "memory",
    "published": "2026-10-22",
+   "summary": "",
+   "first_seen": "2026-10-24",
+   "last_seen": "2026-10-24",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "fadfbf6052a1775bff19cb5357d9a70eb5fc64f1",
+   "title": "全线扩产仍供不应求，光刻机被抢疯了",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORTNOVWJBbVNMMFlYTFhhVlh6UFItNTJPTDdtUEdOWUttajMtS1FkTjh2VWV3MXZHMnhqbEp2U1Nhajd1NXVoQmVRYzk1cndrbTF2WUlicXk0Mmh4TUJWcC12NnZkN3I3VlRua1BndnBwY21QenZQWUhzXzcwWEZpcWRuckltd3dZeXpMTw?oc=5",
+   "source": "GoogleNews·搜狐网",
+   "domain": "litho_machine",
+   "published": "2026-10-24",
    "summary": "",
    "first_seen": "2026-10-24",
    "last_seen": "2026-10-24",
@@ -300,6 +313,32 @@
    "first_seen": "2026-10-24",
    "last_seen": "2026-10-24",
    "bt": 0,
+   "co": []
+  },
+  {
+   "id": "ec0feef2b2a188df0b6bb529941387de920eebf8",
+   "title": "CPO行情又起，200亿半导体代工巨头豪赌硅光赌对了？",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMWt4QWxIUU9CY2tMME91TXZMUzc5Ym4ybl9Kc29ZWWJYQllxdUJ4RmstX3RHTHdRbElZcVVmaHZ6R1JsUmVaVk83ZExvX1JEN0FyRjByNU84TWtyUXpwSVhpR0JtRHNOT2RvRlJmNFRqWHZYbmNQV0RPZGxBUWNFZnRQb29YY0ha?oc=5",
+   "source": "GoogleNews·搜狐网",
+   "domain": "optical_comm",
+   "published": "2026-10-24",
+   "summary": "",
+   "first_seen": "2026-10-24",
+   "last_seen": "2026-10-24",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "6ab7442bc00a4d8749e3f0a0e86d4e0581571402",
+   "title": "上海硅光芯片龙头IPO注册获批，全球硅光第二、独立厂商第一，三年营收复合增长率高达760.34%",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaG51RVZ6VmY2SFkyMlJrRTlpX0ZkQlhlOVplYlB1T1VBQVVKR0t5X0tabEk3M0VfMF8xc2pjSEtDazVHSE80aDB0XzNoY3pwY2dhSFd3MVB3NXR3OHVuakZudXllY2pWQ2JXNmpqQjUzLXluRnFZQ0J5SS1qZzNfNFdIYUtPeXgyRW95Sw?oc=5",
+   "source": "GoogleNews·新浪财经",
+   "domain": "optical_comm",
+   "published": "2026-10-24",
+   "summary": "",
+   "first_seen": "2026-10-24",
+   "last_seen": "2026-10-24",
+   "bt": -3,
    "co": []
   },
   {
@@ -2689,7 +2728,7 @@
    "published": "2026-10-21",
    "summary": "",
    "first_seen": "2026-10-21",
-   "last_seen": "2026-10-23",
+   "last_seen": "2026-10-24",
    "bt": 0,
    "co": [
     "长江存储"
@@ -5153,7 +5192,7 @@
    "published": "2026-10-16",
    "summary": "",
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-23",
+   "last_seen": "2026-10-24",
    "bt": -3,
    "co": []
   },
@@ -6894,7 +6933,7 @@
    "published": "2026-10-14",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-23",
+   "last_seen": "2026-10-24",
    "bt": 0,
    "co": [
     "中际旭创",
