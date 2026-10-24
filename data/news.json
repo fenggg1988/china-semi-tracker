@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-24 09:58:36",
- "count": 805,
+ "updated": "2026-10-24 10:02:27",
+ "count": 811,
  "items": [
   {
    "id": "a91b8c77859b4edf3e85abcf04cc41dbde0efff2",
@@ -44,6 +44,45 @@
    "co": [
     "长鑫存储"
    ]
+  },
+  {
+   "id": "1948734d427cb5c834364c4371523a4a57b957d1",
+   "title": "日本巨头怎么都想不通：中企光刻胶的良率冲到了99.7%",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8yX3RyNXExMmFXRlVKdVpmZnFiU1JzaDBxSml2SmdvcDlCenFJSEY2Ym5Wbmx5aTdfRUlteXNqMGVMREpUbmQ5RlZNblVWOGpjWkphZGl3?oc=5",
+   "source": "GoogleNews·腾讯新闻",
+   "domain": "photoresist",
+   "published": "2026-10-21",
+   "summary": "",
+   "first_seen": "2026-10-24",
+   "last_seen": "2026-10-24",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "10efc45e80ddba01fa7c9b736c27a38f8dc76361",
+   "title": "光模块龙头发声：产品交付规模有望稳步提升",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrYWJObjJwM3lQbTNIZ3JVeFdVTm9kRkJJTmZvQWJmelBLZ0hocVh6ZFktWkVqQTJCbU45eEMwQTZUTEJYaDJILUVTLTZPQmZ6aHNsU2drN0FfMHRQZElrNk1DY0JuQQ?oc=5",
+   "source": "GoogleNews·东方财富网",
+   "domain": "optical_comm",
+   "published": "2026-10-23",
+   "summary": "",
+   "first_seen": "2026-10-24",
+   "last_seen": "2026-10-24",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "de4039f684b3a99ba6a51d103f7264b1435cbff1",
+   "title": "欧美股指下挫、原油大涨，Optimus明年交付、HBM新技术、Meta千亿资本开支齐出炉",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FZlFBQ2c4bXNLWTA1bGxpOUtoR2NicFJVb3ZaZWYyT1RZMVlieHhzS2FOVjVTZTZGLWZVU2tjbDZWd19HaTVGbVIxa1IwMkZwZGZn?oc=5",
+   "source": "GoogleNews·搜狐网",
+   "domain": "memory",
+   "published": "2026-10-22",
+   "summary": "",
+   "first_seen": "2026-10-24",
+   "last_seen": "2026-10-24",
+   "bt": 2,
+   "co": []
   },
   {
    "id": "3136c6593a192c003b84bbfecb1be88998f11760",
@@ -223,6 +262,47 @@
    "co": []
   },
   {
+   "id": "edd28cdca3ad4b26178f414a9800fd033c2e9588",
+   "title": "长鑫存储4F²进展，美光、闪迪为何一起跌？",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE55STQ5MEI0NVQwWElCYk5jXzZ3QTFyazdQLWhRVmRjc2QyekdRMngtSzk3UlJmWTlXcDdlTmdoa21sMUlCek00aU1EbUphdmNK?oc=5",
+   "source": "GoogleNews·雪球",
+   "domain": "memory",
+   "published": "2026-10-13",
+   "summary": "",
+   "first_seen": "2026-10-24",
+   "last_seen": "2026-10-24",
+   "bt": 0,
+   "co": [
+    "长鑫存储"
+   ]
+  },
+  {
+   "id": "6d9e10e1d1bccd6f900b59357db4432421965960",
+   "title": "黄仁勋“开放态度”背后：AI芯片竞争正延伸至存储协同与供应链韧性",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbUlnQWlkWlBSY19nNm1PODBmZTJSdUR4X1hlYndMTUNOQVB0ODhTaWNwVjd5d0w5Y2xNT3h0UWxMaVVWMWZTNjktbkh2dHkwX2lEOHpSbVFrTXFEbXJnWkNQSm1KODJlU3BldlZ6MU5Rd21WaTRKd1NVSjdiel9ZejF6MFEwcG55?oc=5",
+   "source": "GoogleNews·搜狐",
+   "domain": "logic",
+   "published": "2026-10-24",
+   "summary": "",
+   "first_seen": "2026-10-24",
+   "last_seen": "2026-10-24",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "02d9e585d59aa339d3b0fe9927ab0aaad57e37c8",
+   "title": "长鑫科技两大利好奔袭！高盛将长鑫目标价上调至130元/股",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBjZWtyWV9wVWRzM00tR1dJZGhVZjZfQVdEb1lrdVVwUkxIOFNuR1c2NlVzbGZRUDhVZ3c2RWFlSHRVSG9zRnBXSVpRWjlvRFlrek8zaXVKUHhTU2MyRWRCbXJ3?oc=5",
+   "source": "GoogleNews·证券之星",
+   "domain": "memory",
+   "published": "2026-10-23",
+   "summary": "",
+   "first_seen": "2026-10-24",
+   "last_seen": "2026-10-24",
+   "bt": 0,
+   "co": []
+  },
+  {
    "id": "042d696778c0bfda798ca9699c4bff55aa90c596",
    "title": "西方断言中国学不会EUV光源，被清华团队点亮了，国产化率90%",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56eWNOZUwtQUVKdV9nenNDcC1iLXhkTzVJZnZYeHMwUDlHTHFXdE5qUS03NUxsMGdjSXdWSmVnTWxVSnNNalgzQVJQZ0FnSG1sVjluNEVB?oc=5",
@@ -259,7 +339,7 @@
    "published": "2026-10-23",
    "summary": "",
    "first_seen": "2026-10-23",
-   "last_seen": "2026-10-23",
+   "last_seen": "2026-10-24",
    "bt": 2,
    "co": []
   },
@@ -1020,7 +1100,7 @@
    "published": "2026-10-23",
    "summary": "",
    "first_seen": "2026-10-23",
-   "last_seen": "2026-10-23",
+   "last_seen": "2026-10-24",
    "bt": 0,
    "co": []
   },
@@ -1049,7 +1129,7 @@
    "published": "2026-10-23",
    "summary": "",
    "first_seen": "2026-10-23",
-   "last_seen": "2026-10-23",
+   "last_seen": "2026-10-24",
    "bt": 0,
    "co": []
   },
@@ -1421,7 +1501,7 @@
    "published": "2026-10-22",
    "summary": "",
    "first_seen": "2026-10-22",
-   "last_seen": "2026-10-23",
+   "last_seen": "2026-10-24",
    "bt": 0,
    "co": []
   },
@@ -1797,7 +1877,7 @@
    "published": "2026-10-22",
    "summary": "",
    "first_seen": "2026-10-22",
-   "last_seen": "2026-10-23",
+   "last_seen": "2026-10-24",
    "bt": 0,
    "co": []
   },
@@ -1901,7 +1981,7 @@
    "published": "2026-10-21",
    "summary": "",
    "first_seen": "2026-10-21",
-   "last_seen": "2026-10-23",
+   "last_seen": "2026-10-24",
    "bt": 2,
    "co": []
   },
@@ -2456,7 +2536,7 @@
    "published": "2026-10-14",
    "summary": "",
    "first_seen": "2026-10-21",
-   "last_seen": "2026-10-23",
+   "last_seen": "2026-10-24",
    "bt": 0,
    "co": []
   },
@@ -2469,7 +2549,7 @@
    "published": "2026-10-20",
    "summary": "",
    "first_seen": "2026-10-21",
-   "last_seen": "2026-10-23",
+   "last_seen": "2026-10-24",
    "bt": 0,
    "co": []
   },
@@ -2960,7 +3040,7 @@
    "published": "2026-10-09",
    "summary": "",
    "first_seen": "2026-10-20",
-   "last_seen": "2026-10-23",
+   "last_seen": "2026-10-24",
    "bt": 0,
    "co": []
   },
@@ -3504,7 +3584,7 @@
    "published": "2026-10-13",
    "summary": "",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-10-23",
+   "last_seen": "2026-10-24",
    "bt": 2,
    "co": []
   },
@@ -3547,7 +3627,7 @@
    "published": "2026-10-19",
    "summary": "",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-10-23",
+   "last_seen": "2026-10-24",
    "bt": 2,
    "co": [
     "长江存储"
@@ -3631,7 +3711,7 @@
    "published": "2026-10-19",
    "summary": "",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-10-23",
+   "last_seen": "2026-10-24",
    "bt": 2,
    "co": []
   },
@@ -3808,7 +3888,7 @@
    "published": "2026-10-10",
    "summary": "",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-10-23",
+   "last_seen": "2026-10-24",
    "bt": 0,
    "co": [
     "壁仞科技"
@@ -4001,7 +4081,7 @@
    "published": "2026-10-16",
    "summary": "",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-10-23",
+   "last_seen": "2026-10-24",
    "bt": 0,
    "co": [
     "长鑫存储"
@@ -4081,7 +4161,7 @@
    "published": "2026-10-09",
    "summary": "",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-10-23",
+   "last_seen": "2026-10-24",
    "bt": 0,
    "co": []
   },
@@ -4161,7 +4241,7 @@
    "published": "2026-10-19",
    "summary": "",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-10-23",
+   "last_seen": "2026-10-24",
    "bt": 0,
    "co": []
   },
@@ -4200,7 +4280,7 @@
    "published": "2026-10-13",
    "summary": "",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-10-23",
+   "last_seen": "2026-10-24",
    "bt": 0,
    "co": []
   },
@@ -4228,7 +4308,7 @@
    "published": "2026-10-19",
    "summary": "",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-10-23",
+   "last_seen": "2026-10-24",
    "bt": 0,
    "co": [
     "联特科技"
@@ -4310,7 +4390,7 @@
    "published": "2026-10-15",
    "summary": "",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-10-23",
+   "last_seen": "2026-10-24",
    "bt": 0,
    "co": []
   },
@@ -4323,7 +4403,7 @@
    "published": "2026-10-19",
    "summary": "",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-10-22",
+   "last_seen": "2026-10-24",
    "bt": 0,
    "co": []
   },
@@ -4561,7 +4641,7 @@
    "published": "2026-10-10",
    "summary": "",
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-23",
+   "last_seen": "2026-10-24",
    "bt": 2,
    "co": []
   },
@@ -5289,7 +5369,7 @@
    "published": "2026-10-16",
    "summary": "",
    "first_seen": "2026-10-17",
-   "last_seen": "2026-10-23",
+   "last_seen": "2026-10-24",
    "bt": 0,
    "co": []
   },
@@ -5410,7 +5490,7 @@
    "published": "2026-10-16",
    "summary": "",
    "first_seen": "2026-10-17",
-   "last_seen": "2026-10-23",
+   "last_seen": "2026-10-24",
    "bt": 0,
    "co": [
     "长鑫存储"
@@ -5603,7 +5683,7 @@
    "published": "2026-10-17",
    "summary": "",
    "first_seen": "2026-10-17",
-   "last_seen": "2026-10-23",
+   "last_seen": "2026-10-24",
    "bt": 0,
    "co": []
   },
@@ -5778,7 +5858,7 @@
    "published": "2026-10-15",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-23",
+   "last_seen": "2026-10-24",
    "bt": 6,
    "co": []
   },
@@ -6500,7 +6580,7 @@
    "published": "2026-10-15",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-23",
+   "last_seen": "2026-10-24",
    "bt": 0,
    "co": []
   },
@@ -6575,7 +6655,7 @@
    "published": "2026-10-16",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-23",
+   "last_seen": "2026-10-24",
    "bt": 0,
    "co": []
   },
@@ -6700,7 +6780,7 @@
    "published": "2026-10-15",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-23",
+   "last_seen": "2026-10-24",
    "bt": 0,
    "co": [
     "长鑫存储"
@@ -7015,7 +7095,7 @@
    "published": "2026-10-09",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-23",
+   "last_seen": "2026-10-24",
    "bt": 0,
    "co": []
   },
@@ -7447,7 +7527,7 @@
    "published": "2026-10-14",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-23",
+   "last_seen": "2026-10-24",
    "bt": 4,
    "co": []
   },
@@ -7715,7 +7795,7 @@
    "published": "2026-10-13",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-23",
+   "last_seen": "2026-10-24",
    "bt": 2,
    "co": []
   },
@@ -8253,7 +8333,7 @@
    "published": "2026-10-12",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-23",
+   "last_seen": "2026-10-24",
    "bt": 2,
    "co": []
   },
@@ -8532,7 +8612,7 @@
    "published": "2026-10-14",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-23",
+   "last_seen": "2026-10-24",
    "bt": 0,
    "co": [
     "海思"
@@ -8573,7 +8653,7 @@
    "published": "2026-10-07",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-23",
+   "last_seen": "2026-10-24",
    "bt": 0,
    "co": [
     "华为"
@@ -8789,7 +8869,7 @@
    "published": "2026-10-14",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-23",
+   "last_seen": "2026-10-24",
    "bt": 0,
    "co": []
   },
@@ -8828,7 +8908,7 @@
    "published": "2026-10-04",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-23",
+   "last_seen": "2026-10-24",
    "bt": 0,
    "co": []
   },
@@ -10141,7 +10221,7 @@
    "published": "2026-10-13",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-23",
+   "last_seen": "2026-10-24",
    "bt": 0,
    "co": [
     "长鑫存储"
@@ -10565,7 +10645,7 @@
    "published": "2026-10-09",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-23",
+   "last_seen": "2026-10-24",
    "bt": 0,
    "co": []
   },
@@ -10630,7 +10710,7 @@
    "published": "2026-10-13",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-23",
+   "last_seen": "2026-10-24",
    "bt": 0,
    "co": []
   },
