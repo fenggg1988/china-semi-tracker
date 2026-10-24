@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-24 13:27:46",
- "count": 816,
+ "updated": "2026-10-24 13:47:39",
+ "count": 817,
  "items": [
   {
    "id": "a91b8c77859b4edf3e85abcf04cc41dbde0efff2",
@@ -350,6 +350,19 @@
    "source": "GoogleNews·搜狐网",
    "domain": "optical_comm",
    "published": "2026-10-24",
+   "summary": "",
+   "first_seen": "2026-10-24",
+   "last_seen": "2026-10-24",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "c5cbcf745458b8a351a242b5c6d1f922e6595703",
+   "title": "长鑫科技预盈超千亿，DRAM涨价推升业绩|三季报",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeDVRU3FwRkpyckFXaG9hNUJ1X09fUkZRS3pHNDV4Wm9SZzNDR1h6d2tqelVROUVfNFVjajJ1cEhwYWh5ZXVQVlNRUDhtVktGdUZVYXlSVXVGMjVBd3dJclpSZENMQ21rNGVNSVpYSHBxaVo3aTJRTlQzYUxEVUhpX3EwYjA?oc=5",
+   "source": "GoogleNews·新浪财经",
+   "domain": "memory",
+   "published": "2026-10-16",
    "summary": "",
    "first_seen": "2026-10-24",
    "last_seen": "2026-10-24",
@@ -3185,7 +3198,7 @@
    "published": "2026-10-19",
    "summary": "",
    "first_seen": "2026-10-20",
-   "last_seen": "2026-10-21",
+   "last_seen": "2026-10-24",
    "bt": 0,
    "co": []
   },
@@ -8586,7 +8599,7 @@
    "published": "2026-10-14",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-16",
+   "last_seen": "2026-10-24",
    "bt": 0,
    "co": []
   },
