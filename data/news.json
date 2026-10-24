@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-24 13:47:39",
- "count": 817,
+ "updated": "2026-10-24 14:50:22",
+ "count": 820,
  "items": [
   {
    "id": "a91b8c77859b4edf3e85abcf04cc41dbde0efff2",
@@ -370,12 +370,51 @@
    "co": []
   },
   {
+   "id": "80e492790a5aca0ee67595699cc10307d0762b13",
+   "title": "英特尔高管称公司技术实力已接近台积电 高数值孔径EUV战略被视为关键筹码",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583648.htm",
+   "source": "cnBeta",
+   "domain": "litho_machine",
+   "published": "2026-10-24",
+   "summary": "英特尔高层近日在公开访谈中表示，公司在先进制程技术方面与台积电之间的差距已经缩小至“仅几个百分点”，未来追赶行业领导者的最大挑战不再是技术本身，而是如何建立与竞争对手相匹配的制造规模和产能体系。 阅读全文",
+   "first_seen": "2026-10-24",
+   "last_seen": "2026-10-24",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "e90099d2c05d369ffadcfe833e63e83aafe1e66a",
+   "title": "2026年，可以称之为“中国存储芯片元年”",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcGJoWnZqaWVzMGZpYnFIZVRDU1AzUDRfOGFUM282VTJlRmlUUjZJNmxwcF9ZT0xsNENla2ZLR0tLdHQ0TjVkbU1XSXcxRjNpSHZNUzdaRmtpdkxabWpIc3JjS29vdlpVZk53RTJabTdIbVUyR0p3a3hCUERvNld4OS01SHNkcE5UWHFLbg?oc=5",
+   "source": "GoogleNews·搜狐网",
+   "domain": "memory",
+   "published": "2026-10-24",
+   "summary": "",
+   "first_seen": "2026-10-24",
+   "last_seen": "2026-10-24",
+   "bt": 0,
+   "co": []
+  },
+  {
    "id": "6ab7442bc00a4d8749e3f0a0e86d4e0581571402",
    "title": "上海硅光芯片龙头IPO注册获批，全球硅光第二、独立厂商第一，三年营收复合增长率高达760.34%",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaG51RVZ6VmY2SFkyMlJrRTlpX0ZkQlhlOVplYlB1T1VBQVVKR0t5X0tabEk3M0VfMF8xc2pjSEtDazVHSE80aDB0XzNoY3pwY2dhSFd3MVB3NXR3OHVuakZudXllY2pWQ2JXNmpqQjUzLXluRnFZQ0J5SS1qZzNfNFdIYUtPeXgyRW95Sw?oc=5",
    "source": "GoogleNews·新浪财经",
    "domain": "optical_comm",
    "published": "2026-10-24",
+   "summary": "",
+   "first_seen": "2026-10-24",
+   "last_seen": "2026-10-24",
+   "bt": -3,
+   "co": []
+  },
+  {
+   "id": "87d8ee487cd6b0f02d6026acd58eba11cb96a226",
+   "title": "上半年营收超去年全年！硅光芯片龙头，IPO新进展",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yVHdSb0wzWXdlSVhrSnJUNGNtUnM2X1NiVFI0UGFlNF9UbmRjdmVfNnQyMVdDNEs3TWxoMFBXZmZWSG5ES1p1ZHcxamlzNm9pMHJibjRjMWszVEU2MHhmVQ?oc=5",
+   "source": "GoogleNews·东方财富",
+   "domain": "optical_comm",
+   "published": "2026-10-23",
    "summary": "",
    "first_seen": "2026-10-24",
    "last_seen": "2026-10-24",
@@ -3649,7 +3688,7 @@
    "published": "2026-10-14",
    "summary": "",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-10-23",
+   "last_seen": "2026-10-24",
    "bt": 4,
    "co": [
     "长鑫存储"
