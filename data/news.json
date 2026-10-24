@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-24 14:50:22",
- "count": 820,
+ "updated": "2026-10-24 20:24:42",
+ "count": 823,
  "items": [
   {
    "id": "a91b8c77859b4edf3e85abcf04cc41dbde0efff2",
@@ -124,6 +124,19 @@
    "co": [
     "长江存储"
    ]
+  },
+  {
+   "id": "b4665875a4d08595c0f82579bcdc9787170a9daa",
+   "title": "东山精密：正并行推进硅光方案与自研EML两条光模块技术路线",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NOGxIbVVtRUJRblJtWHNmOTdSMHdUZy1qSGVXVVlwSWZtYkdidHpuZWhsZDJ2d01mZVRKWFNObWVlWFV5OXpsU0M5V0FlVkI3M3JGZ1E5STFISll1blE2NlNmUFVBZw?oc=5",
+   "source": "GoogleNews·东方财富",
+   "domain": "optical_comm",
+   "published": "2026-10-15",
+   "summary": "",
+   "first_seen": "2026-10-24",
+   "last_seen": "2026-10-24",
+   "bt": 2,
+   "co": []
   },
   {
    "id": "3136c6593a192c003b84bbfecb1be88998f11760",
@@ -388,6 +401,34 @@
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcGJoWnZqaWVzMGZpYnFIZVRDU1AzUDRfOGFUM282VTJlRmlUUjZJNmxwcF9ZT0xsNENla2ZLR0tLdHQ0TjVkbU1XSXcxRjNpSHZNUzdaRmtpdkxabWpIc3JjS29vdlpVZk53RTJabTdIbVUyR0p3a3hCUERvNld4OS01SHNkcE5UWHFLbg?oc=5",
    "source": "GoogleNews·搜狐网",
    "domain": "memory",
+   "published": "2026-10-24",
+   "summary": "",
+   "first_seen": "2026-10-24",
+   "last_seen": "2026-10-24",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "53817ffedde6129300df0f17c024f2990e2d2f4d",
+   "title": "华为 Pura90 Plus 手机配置曝光：2.6GHz 麒麟 9025 芯片，6.8 英寸四曲屏",
+   "url": "https://www.ithome.com/1/017/425.htm",
+   "source": "IT之家",
+   "domain": "logic",
+   "published": "2026-10-24",
+   "summary": "IT之家 10 月 24 日消息，博主 @数码闲聊站 今日曝光华为 Pura90 Plus 手机配置，目前这款新机已经开启预订。根据爆料，该机搭载的麒麟 9025 芯片是 9020 提频至 2.6GHz，正面配备 6.8 英寸 1.5K+120Hz LTPO 等深四曲屏，后置 50Mp 1 英寸 F1.6-F4.0 可",
+   "first_seen": "2026-10-24",
+   "last_seen": "2026-10-24",
+   "bt": 0,
+   "co": [
+    "华为"
+   ]
+  },
+  {
+   "id": "ceb6419b34a8c15e28be89071e9e56788d471156",
+   "title": "DUV光刻机立功！中国芯片的EUV替代方案：三次曝光追平一次EUV",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXa2M4Q2FrNzVuMjJQWmlTRGxJcFJlU2UxTXRlX3EzX0FuWmNQbk9uam9LZGUyVjJUbFJxV2d3c25lbnMzdVFaOFk1QnNROXBOWkVXRGp5Wms2dTBoeDVyNGd2OEZtY2owNnRDRXc4UG9xbEh0MVBLOE5ZUHZkS0U?oc=5",
+   "source": "GoogleNews·新浪财经",
+   "domain": "litho_machine",
    "published": "2026-10-24",
    "summary": "",
    "first_seen": "2026-10-24",
@@ -8897,7 +8938,7 @@
    "published": "2026-10-14",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-21",
+   "last_seen": "2026-10-24",
    "bt": 0,
    "co": []
   },
@@ -10922,7 +10963,7 @@
    "published": "2026-10-11",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-23",
+   "last_seen": "2026-10-24",
    "bt": -3,
    "co": []
   },
