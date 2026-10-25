@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-25 13:45:32",
- "count": 850,
+ "updated": "2026-10-25 13:46:43",
+ "count": 851,
  "items": [
   {
    "id": "59aef734c27a7f13b7ebe72f1fea29461aaa939c",
@@ -328,6 +328,19 @@
    "co": [
     "长鑫存储"
    ]
+  },
+  {
+   "id": "4a96e408efc7e4cf68790f553241b697dd7b17c0",
+   "title": "余承东称国内正研发EUV光刻机 全力攻坚中",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40NjVlRjlqc21DSm96ZGQzc3pkdExEX2FpWWJtMXVOSWVrMWJ6SGVmd3I3aVRFd2Z5MzVUTDNSQ1F0RFNvZTVtTXpKTjZkVE5EY1FhZU1sS3d3RkpNd0lXZG1SSUtIOGhpbFVWYjZiVlY?oc=5",
+   "source": "GoogleNews·中华网",
+   "domain": "litho_machine",
+   "published": "2026-10-08",
+   "summary": "",
+   "first_seen": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "bt": 0,
+   "co": []
   },
   {
    "id": "bc361d3172dd6de2d1fa492ba89d23b353ac2c87",
