@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-25 14:03:27",
- "count": 852,
+ "updated": "2026-10-25 15:14:55",
+ "count": 853,
  "items": [
+  {
+   "id": "73544f2bc678e9d1d1fc22d8212bd270ec5628e4",
+   "title": "余承东说得没错，国产EUV光源样机首次亮相，现场工作人员：距离量产需3至5年",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ySWZKQl90ellfSWN0N3JBVTZFM08zMks2WUFlUmZ0UDE5bXF6Z0NXaGVYTl9xYzlBdlcwWU1xM3BvQXE0aDRBT3h6QTZXRzVPVlZmY1JB?oc=5",
+   "source": "GoogleNews·腾讯新闻",
+   "domain": "litho_power",
+   "published": "2026-10-16",
+   "summary": "",
+   "first_seen": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "bt": 4,
+   "co": []
+  },
   {
    "id": "59aef734c27a7f13b7ebe72f1fea29461aaa939c",
    "title": "余承东曾称国产EUV可期！光刻机被抢疯了：ASML、佳能、尼康度在扩产",
@@ -688,7 +701,7 @@
    "published": "2026-10-23",
    "summary": "",
    "first_seen": "2026-10-24",
-   "last_seen": "2026-10-24",
+   "last_seen": "2026-10-25",
    "bt": 0,
    "co": [
     "长鑫存储"
@@ -1404,7 +1417,7 @@
    "published": "2026-10-23",
    "summary": "",
    "first_seen": "2026-10-23",
-   "last_seen": "2026-10-23",
+   "last_seen": "2026-10-25",
    "bt": 0,
    "co": []
   },
