@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-25 13:33:05",
- "count": 846,
+ "updated": "2026-10-25 13:45:32",
+ "count": 850,
  "items": [
   {
    "id": "59aef734c27a7f13b7ebe72f1fea29461aaa939c",
@@ -35,6 +35,19 @@
    "source": "GoogleNews·新浪财经",
    "domain": "memory",
    "published": "2026-10-15",
+   "summary": "",
+   "first_seen": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "d8e3f9c2760769d92a5ddbd98ca8461c11b6e3d9",
+   "title": "国内首次！800G 多芯光模块来了，AI 算力光纤密度大升级",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ETVR5V1hHQ1RHaHJLMUpXZDZ5a093TFNJZ1F5dDBhNDlndnpITmJwMlp6YVl4TDNkVFJYckg0NTdoZzRlRkl2WWZnaWtVTTRrWTBv?oc=5",
+   "source": "GoogleNews·搜狐网",
+   "domain": "optical_comm",
+   "published": "2026-10-23",
    "summary": "",
    "first_seen": "2026-10-25",
    "last_seen": "2026-10-25",
@@ -289,6 +302,34 @@
    ]
   },
   {
+   "id": "d262e512cc025379489dbedb974be291a3e39767",
+   "title": "【份额】中国光芯片份额，飙升至近30%！",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBHQWRrMkluMkRJTjB5ZW9CMDBJaTVTOHdPZDdqNUlMTmRtbFQ3UDJlbnJGa1NpV092eUdIT3Q1QkxjSVpsUFUzblNfWUl2TzBmbW1OMQ?oc=5",
+   "source": "GoogleNews·光通信Pro",
+   "domain": "optical_comm",
+   "published": "2026-10-25",
+   "summary": "",
+   "first_seen": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "d4d8d32b5e219f529c8ce70d74f0e8692e817be0",
+   "title": "黄仁勋：对与长鑫存储合作持开放态度，没有哪个国家在制造业方面比中国更强",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE84ckdOek1tVUJHMnZiTXFNazFtckpGdjVvQzRMb0FPTy1iWDgyb25FNWhkZnFYblVXNjFIMGo4XzVzSEprdVpfSE4xcTJMb0FEUXVXdmtULV9HT0dRTEl1WVZXeEdiOWZSRlBNX3g3OWxHVUE0?oc=5",
+   "source": "GoogleNews·新浪财经",
+   "domain": "memory",
+   "published": "2026-10-23",
+   "summary": "",
+   "first_seen": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "bt": 0,
+   "co": [
+    "长鑫存储"
+   ]
+  },
+  {
    "id": "bc361d3172dd6de2d1fa492ba89d23b353ac2c87",
    "title": "Neurophos 光芯片融资 1.1 亿美元：同功耗算力称达 GPU 的 25 倍",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0zUkxBenpvR0hGUkFqdnl4TlJHTlZKOUV6NTlUM0ZTT1pkOUQ4ZUZJSERhWkFUbFB1ejlVZGpJSWc2NldOc2R5UHVlN3dZOWJfaTRMWg?oc=5",
@@ -308,6 +349,19 @@
    "source": "GoogleNews·凤凰网",
    "domain": "memory",
    "published": "2026-10-16",
+   "summary": "",
+   "first_seen": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "bt": -3,
+   "co": []
+  },
+  {
+   "id": "eef16f82f9c9a2fff6c78842f7c1393bf93522b1",
+   "title": "黄仁勋发声力挺内存！存储芯片多股获融资客逆势加仓(名单)",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5GTk4zVzVqenIwUl9xZUlURmtSWk5FM3RXOUJpbURCR0xMTXd4TXBIckFFUWV2X05JTGJqZ3NzbFZMRzRVLU5fbDcwalNKMzVKZTdjcFo4cm5aXzNaVTc0M0RYSzRYUQ?oc=5",
+   "source": "GoogleNews·东方财富",
+   "domain": "memory",
+   "published": "2026-10-23",
    "summary": "",
    "first_seen": "2026-10-25",
    "last_seen": "2026-10-25",
@@ -850,7 +904,7 @@
    "published": "2026-10-14",
    "summary": "",
    "first_seen": "2026-10-23",
-   "last_seen": "2026-10-23",
+   "last_seen": "2026-10-25",
    "bt": 2,
    "co": [
     "华为"
@@ -8212,7 +8266,7 @@
    "url": "https://www.laoyaoba.com/n/1116274",
    "source": "集微网",
    "domain": "photoresist",
-   "published": "",
+   "published": "2026-10-09",
    "summary": "",
    "first_seen": "2026-10-15",
    "last_seen": "2026-10-25",
@@ -8792,7 +8846,7 @@
    "published": "2026-10-14",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-23",
+   "last_seen": "2026-10-25",
    "bt": 2,
    "co": []
   },
