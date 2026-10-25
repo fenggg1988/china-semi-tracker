@@ -1,7 +1,46 @@
 {
- "updated": "2026-10-25 04:32:44",
- "count": 833,
+ "updated": "2026-10-25 13:33:05",
+ "count": 846,
  "items": [
+  {
+   "id": "59aef734c27a7f13b7ebe72f1fea29461aaa939c",
+   "title": "余承东曾称国产EUV可期！光刻机被抢疯了：ASML、佳能、尼康度在扩产",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1jMTJvemhaWXFkWmk5VDJQbndpeHZtZThCdWdFRWdSd2k4ZE5oWC1Ca2Z3LUQ0aTM2RkZXUUFvRHI5QzNnLWktdVpQZVk?oc=5",
+   "source": "GoogleNews·凤凰网科技",
+   "domain": "litho_machine",
+   "published": "2026-10-25",
+   "summary": "",
+   "first_seen": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "68af546b974b5bbccb903c79ed014d53a436f208",
+   "title": "国产 EUV 光源样机亮相：功率达 1000 瓦，离量产还差几年？",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TT2VWSGt1bnpaZ1hnbHgyX2FoSzBBV1Q3aFlFbkRfTUY1OGJOY1ZVVEpESjZ4bWR6RHJmRWdTNXRZb2J1VGR4Z1hiUEFtcDlHYWJn?oc=5",
+   "source": "GoogleNews·搜狐网",
+   "domain": "litho_machine",
+   "published": "2026-10-23",
+   "summary": "",
+   "first_seen": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "099455b845f5683d1350a7f3a73df44e57a0bb12",
+   "title": "长鑫科技4F² DRAM架构研发获突破",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9GOG9PcHFVVWFiUVdjcFliOS1HMGpPZDZqN3hJSVlwcWRmNU1DNTRMRFFvNWFuWGt4UlBmLWdXWWRtaW9wUUoweV9YangydGNySk5hR1ZlRmRMZ3hiVV9YWTJWN3hSYmY1eHNuOGh3?oc=5",
+   "source": "GoogleNews·新浪财经",
+   "domain": "memory",
+   "published": "2026-10-15",
+   "summary": "",
+   "first_seen": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "bt": 2,
+   "co": []
+  },
   {
    "id": "a2b757bafd24e76ba4918c5c7fd2e7e028cb17d9",
    "title": "佳能光刻机，2029年产能再高50%",
@@ -139,6 +178,143 @@
    "co": []
   },
   {
+   "id": "f82175668408d2853fc1d04d94ae7e71a8f37273",
+   "title": "BBC《蓝色星球 3》刻意保留瑕疵镜头，和 AI“完美影像”划清界限",
+   "url": "https://www.ithome.com/1/017/527.htm",
+   "source": "IT之家",
+   "domain": "optics",
+   "published": "2026-10-25",
+   "summary": "IT之家 10 月 25 日消息，英国广播公司（BBC）的《蓝色星球 3》纪录片打算保留那些不算完美的镜头，以此证明内容的真实性。该系列前作的标志性特点是画面精美、通透清晰，美得近乎不真实。而人工智能生成内容的一大破绽，就是画面过度精致、毫无瑕疵。为了避开这种观感，《蓝色星球 3》选择如实呈现，不刻意美化。IT之家注意",
+   "first_seen": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "0aaa67d1f5cbe7cdef9bc814c9a3e3623196da3e",
+   "title": "韬定律提升能力！余承东：EUV光刻机国内目前正在研发 手机除CPU外根本不需要先进工艺",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CMWpLaUZiZ28tMkVFZXFzY2stRGs2Y21VVGVLQzR3V0I3MU9nSUlVUFlONzF6cW1tUllzN29lZlV6LWkyYl9MbDdDME5rNWlONFdzMFNrNTU?oc=5",
+   "source": "GoogleNews·驱动之家",
+   "domain": "litho_machine",
+   "published": "2026-10-08",
+   "summary": "",
+   "first_seen": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "17b62f9afe7bdce2e85648efa7487ad1027b0952",
+   "title": "随着华为逐步摆脱对美国技术的依赖，Ascend AI芯片在中国超越英伟达",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pSzM4dnhlWC1NdUtnT2tDSllsUHlzdG9JUFJTbjdkQWdUT2VmTTQ3U29lY3QwSFBnXzFxTy1YSG45ZkRLSjQyN0xZUGNWa0NvdUFmQ2E4b3MyM2VxdWpYZ3F1SExSV18x?oc=5",
+   "source": "GoogleNews·Notebookcheck CN",
+   "domain": "logic",
+   "published": "2026-10-08",
+   "summary": "",
+   "first_seen": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "bt": 0,
+   "co": [
+    "华为"
+   ]
+  },
+  {
+   "id": "45ecd7a8ad669e2c8fa4414641b665f0596bc90a",
+   "title": "光刻胶专用光引发剂直接影响光刻制程精度 非离子型PAG光引发剂发展潜力大",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iRmdsWGxSY1JrYWk5OFItWS1CazdHXy1HMnJSeGpiWjhEM3Zrblkzbm1oMEZkcy11eXlONVhobTVoclh5OWR0aTdSVjd1RVdvNUxTZDB3QnhCdWc3Qm9ZWnBSSmZvMnM3a1BLUGFndFJBaV9fdDFoeG9UNWQ4QnM?oc=5",
+   "source": "GoogleNews·新思界产业研究中心",
+   "domain": "photoresist",
+   "published": "2026-10-10",
+   "summary": "",
+   "first_seen": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "ca0e1cf80dbd927aced06348ff58f9de21cd01c0",
+   "title": "东吴证券：高速光模块迭代 热管理材料迎升级机遇",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNV1E3N0kxYTdVbjRFUWp2Vnh5bmt1cmlockhkd3IzZFowSEJtNEczQnlJWUUzdkVTXzQ3WEdSbTVzTEVlZjRsdGxaZEY1ejE0ZWNVZURjd1ZWZFhlV3RNZmpVSDJWOGdDNlhRN25oX0NqUlEzOHNmbk1BTGYyYXFRaGxseXdkX1k?oc=5",
+   "source": "GoogleNews·新浪财经",
+   "domain": "optical_comm",
+   "published": "2026-10-23",
+   "summary": "",
+   "first_seen": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "cd366e61b8e70bacc6f3d0f0ad6122bd096e1025",
+   "title": "拟控股启元气体新亚制程驶入半导体电子材料核心赛道谋变_公司新闻",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMQm1RYkYwWkg4a05seUxvamZiMFRUcm9PQVVDLXRtSlUyejdCRGw4cEk5dUtGMTNOLVUwb3BqcUdsWnpQZVRjeEJ1bFlCU2NndmNTeDZuUEJjN0N3RkdZQg?oc=5",
+   "source": "GoogleNews·证券之星",
+   "domain": "photoresist",
+   "published": "2026-10-25",
+   "summary": "",
+   "first_seen": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "8653fa1c5525149933c41f5ea8399b4673f43ba7",
+   "title": "华为首款“韬定律逻辑折叠”芯片海思麒麟9050 Pro裸片显微照首曝：晶体管密度提升55% 而面积小于前代",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zSzIwbUg5aExhTW9kQVFNdVEzdU5IUHdHVFVZdjJSeGpPbnlMNERRMFZnejVwZGd2eDJELUJnNWliYUpSdHlQMkowOWpScUljQUtsdjFB?oc=5",
+   "source": "GoogleNews·QQ News",
+   "domain": "logic",
+   "published": "2026-10-05",
+   "summary": "",
+   "first_seen": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "bt": 0,
+   "co": [
+    "海思",
+    "华为"
+   ]
+  },
+  {
+   "id": "14f389f23c7dbe100ec20a88fc07474fd5eb6e1e",
+   "title": "“脸皮厚的人先享受世界”，张雪在广交会为车队拉赞助，有机会立马加联系方式谈合作，晒出在长江存储展台的合照引发猜想",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OWlppNjdHbFpEa2NMWGxrMG5ySU53RjZKdFFrNWdJSFVyX3d1TU9XTS12YzdnUnViZTdNYmQ2ejFmNGE4MEoza2ZnWkpWQlp6QlFqUF9n?oc=5",
+   "source": "GoogleNews·QQ News",
+   "domain": "memory",
+   "published": "2026-10-15",
+   "summary": "",
+   "first_seen": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "bt": 0,
+   "co": [
+    "长江存储"
+   ]
+  },
+  {
+   "id": "bc361d3172dd6de2d1fa492ba89d23b353ac2c87",
+   "title": "Neurophos 光芯片融资 1.1 亿美元：同功耗算力称达 GPU 的 25 倍",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0zUkxBenpvR0hGUkFqdnl4TlJHTlZKOUV6NTlUM0ZTT1pkOUQ4ZUZJSERhWkFUbFB1ejlVZGpJSWc2NldOc2R5UHVlN3dZOWJfaTRMWg?oc=5",
+   "source": "GoogleNews·深潮TechFlow",
+   "domain": "optical_comm",
+   "published": "2026-10-11",
+   "summary": "",
+   "first_seen": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "bt": -3,
+   "co": []
+  },
+  {
+   "id": "98b8f798c1813afcd276acaf0cca05eb8368e9a7",
+   "title": "长鑫科技，总市值重回3万亿",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE03dE1EdEZMaDR1RGtiQVd2a0ZpS1dxeTNHVFhiV0V0NGl3NzM2QmNQalhnZTBnUUpjbVdvUlhEdHFweHVIeEJlZEVlcVA3Y3Jr?oc=5",
+   "source": "GoogleNews·凤凰网",
+   "domain": "memory",
+   "published": "2026-10-16",
+   "summary": "",
+   "first_seen": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "bt": -3,
+   "co": []
+  },
+  {
    "id": "a91b8c77859b4edf3e85abcf04cc41dbde0efff2",
    "title": "生益电子：1.6T光模块产品获得突破性进展",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaHJrVjQ4eExJRzUtcDNLRkZ4X1hNNGl2ZEVhSjYybkp4RENaRncySldvTW0xLTQ5NUE4dnhyUXdsYTRubWYtTUx4U1A2NEItaVVJVFRuSFVmbWJqSmhVd3I1REtwdzIxVTc1cVgyamZ3dTNHZDRkN1loeG1IdWluLUFpbjY3bWZBX3J6Sg?oc=5",
@@ -147,7 +323,7 @@
    "published": "2026-10-23",
    "summary": "",
    "first_seen": "2026-10-24",
-   "last_seen": "2026-10-24",
+   "last_seen": "2026-10-25",
    "bt": 2,
    "co": []
   },
@@ -2158,7 +2334,7 @@
    "published": "2026-10-21",
    "summary": "",
    "first_seen": "2026-10-22",
-   "last_seen": "2026-10-24",
+   "last_seen": "2026-10-25",
    "bt": 0,
    "co": [
     "长江存储"
@@ -3755,7 +3931,7 @@
    "published": "2026-10-19",
    "summary": "",
    "first_seen": "2026-10-20",
-   "last_seen": "2026-10-21",
+   "last_seen": "2026-10-25",
    "bt": 0,
    "co": []
   },
@@ -5529,7 +5705,7 @@
    "published": "2026-10-14",
    "summary": "",
    "first_seen": "2026-10-17",
-   "last_seen": "2026-10-22",
+   "last_seen": "2026-10-25",
    "bt": 2,
    "co": []
   },
@@ -5940,7 +6116,7 @@
    "published": "2026-10-17",
    "summary": "",
    "first_seen": "2026-10-17",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-25",
    "bt": 0,
    "co": []
   },
@@ -6291,7 +6467,7 @@
    "published": "2026-10-16",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-23",
+   "last_seen": "2026-10-25",
    "bt": 2,
    "co": []
   },
@@ -7652,7 +7828,7 @@
    "published": "2026-10-15",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-22",
+   "last_seen": "2026-10-25",
    "bt": -3,
    "co": []
   },
@@ -7782,7 +7958,7 @@
    "published": "2026-10-16",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-22",
+   "last_seen": "2026-10-25",
    "bt": -3,
    "co": []
   },
@@ -8169,7 +8345,7 @@
    "published": "2026-10-14",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-24",
+   "last_seen": "2026-10-25",
    "bt": 2,
    "co": []
   },
@@ -9100,7 +9276,7 @@
    "published": "2026-10-12",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-25",
    "bt": 0,
    "co": []
   },
@@ -9416,7 +9592,7 @@
    "published": "2026-10-12",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-24",
+   "last_seen": "2026-10-25",
    "bt": 0,
    "co": [
     "华卓精科"
@@ -9580,7 +9756,7 @@
    "published": "2026-10-08",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-24",
+   "last_seen": "2026-10-25",
    "bt": 0,
    "co": []
   },
@@ -9766,7 +9942,7 @@
    "published": "2026-10-05",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-22",
+   "last_seen": "2026-10-25",
    "bt": 0,
    "co": []
   },
@@ -11280,7 +11456,7 @@
    "published": "2026-10-15",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-24",
+   "last_seen": "2026-10-25",
    "bt": -3,
    "co": []
   },
