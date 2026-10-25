@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-25 15:14:55",
- "count": 853,
+ "updated": "2026-10-25 20:54:41",
+ "count": 858,
  "items": [
   {
    "id": "73544f2bc678e9d1d1fc22d8212bd270ec5628e4",
@@ -367,6 +367,73 @@
    "last_seen": "2026-10-25",
    "bt": 0,
    "co": []
+  },
+  {
+   "id": "e1c80b06257113ff0478509eb8336aff120fd844",
+   "title": "野村证券：存储芯片需求在 2028 年前仍将快速增长，AI 投资前景被过度担忧",
+   "url": "https://www.ithome.com/1/017/622.htm",
+   "source": "IT之家",
+   "domain": "memory",
+   "published": "2026-10-25",
+   "summary": "IT之家 10 月 25 日消息，据韩媒 Chosunbiz 报道，野村证券 20 日发布乐观预测，认为尽管 AI 企业营收增速放缓、融资前景引发担忧，全球存储芯片需求仍将在 2028 年前保持快速增长。野村证券在最新全球存储芯片行业报告中，将三星电子和 SK 海力士列为重点推荐股票，均给予“买入”评级，目标股价分别为",
+   "first_seen": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "c38658ae1a62cb3740bc91228321395a8d00975c",
+   "title": "阿斯麦：光刻机产能也紧俏了，ASML离涨价还有多远？",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZWW5xNXZYR1dhMVhWVFd5NTJncm5EdXpoSkxCVGZxVHEyLU9yR1FtRUFaNUFyd3N3aTZoNXFrbEpkbnFzT05uU2RCX0lGZDBKUUZR?oc=5",
+   "source": "GoogleNews·搜狐网",
+   "domain": "litho_machine",
+   "published": "2026-10-14",
+   "summary": "",
+   "first_seen": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "5b9a7100125f19d4cbefeeeadf993a03722423a6",
+   "title": "1.6T还能主流三年，机柜内的布线可能都要重新来一遍",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9oZW9LSWgwaGhFU1o5NTR4dFRQQ0tQaEVyU3NzbmRhZzh0a3BIUWdDbWp5Rjk4T2pXbUViN0hCOTktUGozXzNrT1ZrQmtsWWxGRWk2Yw?oc=5",
+   "source": "GoogleNews·光通信Pro",
+   "domain": "optical_comm",
+   "published": "2026-10-23",
+   "summary": "",
+   "first_seen": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "2654cc52ed2b5966f52e21dc2ddbbfdf493e5bd0",
+   "title": "集微咨询发布《2026中国CPU/GPU行业上市公司研究报告》：国产算力芯片驶入“业绩兑现”新阶段",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUmZDSDg3blNHMUcwN2RlUlZCdElRSHh5MXlrQ2diMFBiU1B1M0U0Q1l3Qnk5ZHJfTVlvTTdtU3VDQU12TWpOUFZ1XzNMY1J1RjlrMkxUZ3JkaGRCa3M5aG5Wa0MteENwYjNPUi1sMDhQekpETGljOWIzNktjN2E4cGNJVF9MVmtR?oc=5",
+   "source": "GoogleNews·搜狐网",
+   "domain": "logic",
+   "published": "2026-10-25",
+   "summary": "",
+   "first_seen": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "346657e534b11d109442c1b9e20f341ca303e4ee",
+   "title": "【#长江存储出货量排名跃居全球第二#】#长江存储营收份额一年增幅超五",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1rUVpKM3NBYm5taER0RkxlaW5VRlk0NnFBVkwzRzJibHBKelF1QU55V0VmYkpzTFMzUHc4MnBMY1lEU1Y1a2NSNUlJdHg?oc=5",
+   "source": "GoogleNews·凤凰网科技",
+   "domain": "memory",
+   "published": "2026-10-15",
+   "summary": "",
+   "first_seen": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "bt": -1,
+   "co": [
+    "长江存储"
+   ]
   },
   {
    "id": "bc361d3172dd6de2d1fa492ba89d23b353ac2c87",
@@ -3239,7 +3306,7 @@
    "published": "2026-10-21",
    "summary": "",
    "first_seen": "2026-10-21",
-   "last_seen": "2026-10-24",
+   "last_seen": "2026-10-25",
    "bt": 0,
    "co": [
     "长江存储"
@@ -6713,7 +6780,7 @@
    "published": "2026-10-16",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-19",
+   "last_seen": "2026-10-25",
    "bt": 2,
    "co": []
   },
@@ -6929,7 +6996,7 @@
    "published": "2026-10-07",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-20",
+   "last_seen": "2026-10-25",
    "bt": 0,
    "co": [
     "华为"
@@ -8092,7 +8159,7 @@
    "published": "2026-10-14",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-24",
+   "last_seen": "2026-10-25",
    "bt": 4,
    "co": []
   },
@@ -8172,7 +8239,7 @@
    "published": "2026-10-10",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-24",
+   "last_seen": "2026-10-25",
    "bt": 4,
    "co": []
   },
@@ -10968,7 +11035,7 @@
    "published": "2026-10-14",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-22",
+   "last_seen": "2026-10-25",
    "bt": 0,
    "co": [
     "长鑫存储"
