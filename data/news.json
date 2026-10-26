@@ -1,7 +1,48 @@
 {
- "updated": "2026-10-26 15:22:36",
- "count": 887,
+ "updated": "2026-10-26 22:45:17",
+ "count": 918,
  "items": [
+  {
+   "id": "5f34f7ca633d004875db0c6b108eb60750c114c2",
+   "title": "传三星电子、SK 海力士 2027Q2 全面量产并向英伟达出货 8Hi HBM4 内存",
+   "url": "https://www.ithome.com/1/018/125.htm",
+   "source": "IT之家",
+   "domain": "memory",
+   "published": "2026-10-26",
+   "summary": "IT之家 10 月 26 日消息，韩媒 ZDNET Korea 当地时间今日报道称，三星电子、SK 海力士两家 DRAM 制造商计划在 2027 年第 2 季度实现八层堆叠 (8Hi) HBM4 内存堆栈的全面量产并向 NVIDIA（英伟达）出货。三星电子、SK 海力士当前产出的 HBM4 内存主要为容量更大的 12H",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "bt": 4,
+   "co": []
+  },
+  {
+   "id": "4eee5e5fd6f5e5b0ab4dd7f16bb879f329cdeeb3",
+   "title": "国产光刻机杀入欧洲！江苏海思第17台设备通过验收：马上发运|Micro LED|江苏省|半导体|微米|晶圆_手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMi4wRBVV95cUxNYVB2bzBRdlF0SG9TT0hDZ3pQTmI1Q01ocHVYNjdjdjRsVHJiS2ZrMkdubHFZb2Y1M1RiU1l6UWtTcVk1ZkdjQWdrU2xOaVlRMEJqUXQ3N3Y3bHp6eFNZd3VHdUhHX0tXbHVjalplX1M1XzMzY3FWMDU2NGYyQXRJS21DRnoyZktuNldRNFFaaVVycTVZYVZ1OTNTM2JsS015REkxTGY1Q0JtNDFTZndsSllIeGFZM0hLcU9WbE9BZjRXSTBqN2dwck16bVZIOFF2aFg1UWw5eDhqbFVueTgtdWlNTXJDcVNVLUY5d0t3M18xaXVVTVhmSGNaNmlEcFcwTEhIa0NJbHRGblcya0dHaHMyVGpXdmI0U2ZyakNHd2FNTzg2RFBFNEpRQ3JnMmVwajJVTG5iQXR1eEJBakhjV2tMTmRBWl8xVXRKdUZWNzFIQ2tMYnVTREJxVS1OUEhEei1uWHc2TXVDMXNoSDZtYVI1QXJkeDhQWGFvbkVIOWktdXVBNDBaUUF6WERsN19wZzJkSFJKUk5laUJzRFhBMjZ6bHBHakV1LUVDTE5zRW5VcFRrMXZUVFdPekdQRjg2Z2lkRGtTaUF5bUg3akUwMGNoeGFDd1pacTItYTRKV3BUajJIWnFaNVZLY1VYeG4yVkY4UFpWNzFjakF4NlNVbE5WX0xYZVlDSEhNY2JQbW5qRGh5N3VmazE4cFJTMkVBOXdFaTRCa1VnNXlaWG9rNTZPMjk2aFFsanJoeVh4RTM3REpnMFU3Mkk4UXB5NFE0blRyU09QRDhLTEVfdlh0dnFrdw?oc=5",
+   "source": "GoogleNews·新浪财经",
+   "domain": "litho_machine",
+   "published": "2026-10-16",
+   "summary": "",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "bt": 4,
+   "co": [
+    "海思"
+   ]
+  },
+  {
+   "id": "b04bf6175ebdbd7accf33040c3d608d15ba90712",
+   "title": "长鑫科技4F架构实现技术突破 新一代DDR5 RDIMM产品预计年底亮相",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zUG1GaVZXOWpicFM0V3BMd1l0S3AzU1Z5NjZJUUF3SFN3eWE0dmQxbzNHcms3TUcxLXRPV1JIeXdXU3l0bDY5WE43UDJzczBqb3YzTWYyLWRpb1YzdW1udkdTX25SUQ?oc=5",
+   "source": "GoogleNews·东方财富",
+   "domain": "memory",
+   "published": "2026-10-11",
+   "summary": "",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "bt": 4,
+   "co": []
+  },
   {
    "id": "c9784460f0a41098f955283adb13f4a6f08d9b41",
    "title": "新易盛三季度产量环比增长 800G光模块成今年交付主力",
@@ -61,6 +102,88 @@
    "co": [
     "腾景科技"
    ]
+  },
+  {
+   "id": "c3ecac1bba2299b0b6f5c423fdd755a1dc4f5163",
+   "title": "英伟达HBM策略生变：三星、SK海力士明年Q2大规模量产8层HBM4",
+   "url": "https://www.chinaflashmarket.com/a/184371",
+   "source": "闪存市场",
+   "domain": "memory",
+   "published": "",
+   "summary": "",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "140b6ed964ba2b07eca5db651a835577f54a6b0b",
+   "title": "美国目前最担心的事情：日本的光刻机卖给中国，就能实现5nm工艺",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WNDRGV1lvbjRvMl9sY1kzdEQzUzVmMzV4Q3ZXeWtObnBMZUpIenE5WG1GLUtwN19RMUtJV3o0QjNVbjFZRTdlYlY3S282MlZWYkkxSVBqXy15YzRXdEo2OA?oc=5",
+   "source": "GoogleNews·搜狐网",
+   "domain": "litho_machine",
+   "published": "2026-10-25",
+   "summary": "",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "0b086063d7634a5846a6c125c13eec47a0cb2e17",
+   "title": "长江存储冲击全球20%市场份额 NAND出货量全球前三",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOUxjNTRBY21mLS1aQlBwRVJ2WU83Y1d0bjVfdkhYVE1MLWFQZk92QlRFNkVaS05Cb2FEVVpCX0dIRzlRX2tvRzEyaHAyQUg5MmhMSXpIX3dWbkw4aHB2bWZPX2lkQm15YTJVeGxDWUQyVEZKSTc5cHNfZTBEdy1fU2IxUlM4cllm?oc=5",
+   "source": "GoogleNews·Sohu",
+   "domain": "memory",
+   "published": "2026-10-26",
+   "summary": "",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "bt": 2,
+   "co": [
+    "长江存储"
+   ]
+  },
+  {
+   "id": "fb36f305a46134f23d324465e27bc27bc627429c",
+   "title": "长江存储补短板：企业级SSD NAND，出货量暴增800%！",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSGF3bzNudlpITHpZd0ZmSVZkQjA0NHpSYUkxa19kbUd3c0hucUZSZXo1dDI4SUhGM1FTZklOcVd4WXZKOHpCUklEbmR0RW55djRxYW9QWjRGU1p0Z2JMWlNVVE1MdXplNFlGclNFVm15ZnR2ZEJKWjctRUVIdkJSRkRNWXZZNmNjXzd2UQ?oc=5",
+   "source": "GoogleNews·Sohu",
+   "domain": "memory",
+   "published": "2026-10-26",
+   "summary": "",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "bt": 2,
+   "co": [
+    "长江存储"
+   ]
+  },
+  {
+   "id": "72258ddde816f52a0e2fb2651c854dbb9db70200",
+   "title": "长鑫科技官宣，重大突破",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBKMjV1RDd4Zm1XMVRNdXZSb0NPRk1PclBCUm1tR1plcmVNc1EyNExPQ0lqSkxTaUpEb2NQVVhMdDYwOC1XSkpCOHJnZWxKQkdG?oc=5",
+   "source": "GoogleNews·凤凰网",
+   "domain": "memory",
+   "published": "2026-10-11",
+   "summary": "",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "5c44d853ac824a898e44496a7eb9eec274b1f6ba",
+   "title": "商络电子回应长鑫LPDDR5X新品导入 称批量导入时间存在不确定性",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQUpYZjhzUWgzbkNGaGF6TGFkbXlZUDJ2bnI5bWs0cFFfRWFObXJiY2U4WjhGNTBpNkpSM3RKV0RUY2dpemJzQzg5a2FQTUNtZ1hXNlBrVXNJSUxpYWV1SXZMcERQZG9WQ3BBQVFTaWVRNVVGdnFvT3YtTW5WLUtqVnNXWVNQcXpZa3pnSzJIc3RBeGs?oc=5",
+   "source": "GoogleNews·新浪财经",
+   "domain": "memory",
+   "published": "2026-10-26",
+   "summary": "",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "bt": 2,
+   "co": []
   },
   {
    "id": "f91ea5e58a58834a3ab408319e49b97b5380d80c",
@@ -382,6 +505,311 @@
    "source": "GoogleNews·Sohu",
    "domain": "memory",
    "published": "2026-10-25",
+   "summary": "",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "dcbeaa3895211461313e182779f7e6955129d40b",
+   "title": "三星与SK海力士调整HBM4策略：8层堆叠方案或于2027年中大规模供应英伟达",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583930.htm",
+   "source": "cnBeta",
+   "domain": "memory",
+   "published": "2026-10-26",
+   "summary": "随着高带宽内存（HBM）技术向更高层数堆叠演进，散热和良率问题正成为产业链面临的新挑战。最新消息显示，三星电子和SK海力士计划从2027年第二季度开始，大幅增加面向英伟达下一代AI加速器Rubin Ultra的8层HBM4内存供应，而非此前被广泛看好的12层堆叠方案。 阅读全文",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "eec1cf3b4854a14ecc2c326cabe076614f5d2b15",
+   "title": "英伟达下调Vera Rubin显存与互连带宽指标 或为提高HBM4供应量放宽技术门槛",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1583904.htm",
+   "source": "cnBeta",
+   "domain": "memory",
+   "published": "2026-10-26",
+   "summary": "英伟达已经调整下一代Vera Rubin人工智能计算平台的部分硬件规格，包括HBM4高带宽显存带宽以及NVLink高速互连带宽。与此前公布或流传的指标相比，新规格有所下降，但横向扩展网络带宽则出现提升。这一变化可能意味着，英伟达正在根据实际量产情况重新平衡芯片性能、供应能力和系统成本。 阅读全文",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "34143f75d9d7ceaf5338b0db8fac420f3ece7dce",
+   "title": "南大光电：ArF光刻胶2026年上半年收入同比增长48%",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZmcwUDVkYWZpZUwtNWwtWl9oa2ZmWGM3MllpWGJFaXFsY3RIT19PYTNwbkVmNWV4am5sRFNFbWV0R29nOTVZTWZheXJCNTY1TzVLOUdEekVUeUZoMzAtZTlrUVBBWDhhWUZFYkdzNk9kdFJsTTFVdXo0WmlPNFFlZHhRQmlabDJGb2l0em5Sb2E?oc=5",
+   "source": "GoogleNews·新浪财经",
+   "domain": "photoresist",
+   "published": "2026-10-26",
+   "summary": "",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "bt": 0,
+   "co": [
+    "南大光电"
+   ]
+  },
+  {
+   "id": "ea45f9909bec343044776211a92ddfe6a754c6dc",
+   "title": "光模块大卖，为何光谷众企干不过中际旭创？",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1aYXZRdDlXVW93VGdOVi0waWVOWkxpd3JxVWVaTzVNTVdrY0xxM0pOWHY5ZjlrVl9hLUotdmx4N1VSaTBCTHRjZnIzX2p3NC1vM20zWV9xb3pqZER2MG9vXzhWQk9Zc09vd1ZHNWNZSzNDLVR3bTJsUFdlNlk?oc=5",
+   "source": "GoogleNews·湖北日报传媒集团",
+   "domain": "optical_comm",
+   "published": "2026-10-26",
+   "summary": "",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "bt": 0,
+   "co": [
+    "中际旭创"
+   ]
+  },
+  {
+   "id": "6d26eb15b29c55508660d5f063f2a2e2b6c8ac1a",
+   "title": "中国存储双雄崛起！韩媒急了：长鑫、长江正把韩国逼到墙角",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53LVBvNjdsVnhGVjZPR2xReXNFdU1hYUNGTnhPZEM3Y3A2RlFGSTNfS0VmRVdGRVlQZWtKcUU4bU1EblZ4d0trdVVaZThrcmFvRzFNTTlJWlE?oc=5",
+   "source": "GoogleNews·驱动之家",
+   "domain": "memory",
+   "published": "2026-10-26",
+   "summary": "",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "ca062955c3e6fa99577a2a7aa4e9f9c13fb8565f",
+   "title": "长鑫DRAM份额翻倍、长江NAND跻身全球第三，韩国存储业焦虑加剧",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE85VW5RVGs3NXhtQVV5YWNVbmRQcDA0eldSNUwyaXYyRmF1MVZPSzFMYVV5NnluS1cwRFdOWkh6ZXhLZE5mU21qVEZFc2NZb1ZY?oc=5",
+   "source": "GoogleNews·富途牛牛",
+   "domain": "memory",
+   "published": "2026-10-26",
+   "summary": "",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "348d1e59ee8a4d442bec162281affdb082e12b69",
+   "title": "长鑫存储硬气拒绝苹果：中国订单都接不完，不伺候",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5UZ2ZyRU1vdEI2bWRKeDZYcnFlaHRxb3VvNDExQlBBWVdKMzN0V3gzQmhUOGR6bG5kUTV0cEp1Vk8zdGxFNlE0ejln?oc=5",
+   "source": "GoogleNews·凤凰网安徽",
+   "domain": "memory",
+   "published": "2026-10-26",
+   "summary": "",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "bt": 0,
+   "co": [
+    "长鑫存储"
+   ]
+  },
+  {
+   "id": "acd711d566674f7855343075ab5bccf390ddcbab",
+   "title": "长鑫存储硬气拒绝苹果 本土需求优先",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wM1R4UXNoREs4dXhieHVCTEhma2V3WllOa0QzcV9DSGM1Zmx5OFBYQnE4dWFtNWloRVlVTFBuc0RKbmlSNUlYN2xvdGNJVjNjVC1YZFlOT3R4RUlhcEp5VXFKWUJRY0xHeXBCX1otVWg?oc=5",
+   "source": "GoogleNews·中华网",
+   "domain": "memory",
+   "published": "2026-10-26",
+   "summary": "",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "bt": 0,
+   "co": [
+    "长鑫存储"
+   ]
+  },
+  {
+   "id": "e2596fb87a4b4f8e0f1848118ff14d5faa4d8dd9",
+   "title": "长鑫存储拒接苹果报价：国产DRAM开始掌握“产能分配权”",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoSXNxTTROdk95OWx0RVR1YTBZSWttZExDRjZody1iMHBQS2NxbFdYVk9icTBHM3NENHBLZUE5VUpuS0NsSmxBZUVDOThIajBTWjk1ejgxSmxvcWZTRHo5ekVhcjFXVHlUbEJ6Z0ZVbmo?oc=5",
+   "source": "GoogleNews·中华网",
+   "domain": "memory",
+   "published": "2026-10-26",
+   "summary": "",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "bt": 0,
+   "co": [
+    "长鑫存储"
+   ]
+  },
+  {
+   "id": "6e325bf4cd664cb4beb8cfd67d4ee6b3dcdda825",
+   "title": "长鑫拒绝苹果等海外订单！",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83Z3NucnNrVy02QlNNZWhoQm9mTTNDMlNEZ0VWalhJT2hVZkF6b1N1S19MSmtvRzVaUlI0MWJaU2c3UldKWXYzUGFHc1lUT3Rzcm5j?oc=5",
+   "source": "GoogleNews·电子工程专辑",
+   "domain": "memory",
+   "published": "2026-10-26",
+   "summary": "",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "44b22908e6c8eea5aadc41a18548042de1aa2d08",
+   "title": "苹果公司想拿更便宜的内存价，长鑫存储硬气回拒：中国本土的订单都接不完 我们不伺候！",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5GSHZqaW9KVVhoQUFsRTIyRjIyTjVlNEFFZ3JSZ3A1RW5GUmRMUVQ3V2syT3dkTUtaVXJqNDVrTFhJZUtfUHM1OU10X3RVYmJSZlh2ODUyOTM0TDNwZGpoSkhvcW14Szh1VkF6dFd2TFZ2ZzBkZlVuLQ?oc=5",
+   "source": "GoogleNews·新浪财经",
+   "domain": "memory",
+   "published": "2026-10-26",
+   "summary": "",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "bt": 0,
+   "co": [
+    "长鑫存储"
+   ]
+  },
+  {
+   "id": "437d72c451818f9c98429b95a3e28bfe28e66618",
+   "title": "长鑫、中微、源杰发声！半导体龙头解读AI景气传导链",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNekpaT0RyTjBvRXB3OE90UVg3RWZ2N1B0cUNncVRjMDc5QU5EUDRtTDBzbEF6bVRCYnZaMXV6bk96WUlxMlRNdS11b2VJdmdPSU05UVFvT0Vjd3lyQzk0TzI2NllwVi1pOVg3MF9ZYlZ3eEJHNnBDMnR2bFZrTVV2SjFwWi1DcnVlT0J5VURR?oc=5",
+   "source": "GoogleNews·21财经",
+   "domain": "memory",
+   "published": "2026-10-26",
+   "summary": "",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "d11453506472cce7d9ba009ea9065564ff3d514e",
+   "title": "消息称长鑫拒绝苹果，优先保障国内存储芯片需求",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOV0NsT0lyQWlQOU9IT3JTa05qTFZlVG00ZHNnTHZGS0M4cGJZaVJxZWJuVHhyVW5mTGFUNldvQ1NTWmRPRGdKbVR6dGFWNkFKVGVXTTdiQUNxZng4NW9GclprWEpUdVQ2c0FTaXVKeGtMQVI2eEh6SlNWbDV3S3N4ckZuYXpHdw?oc=5",
+   "source": "GoogleNews·Sohu",
+   "domain": "memory",
+   "published": "2026-10-26",
+   "summary": "",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "53ef68aebdba122dc7b1b24055b39e8032bbda42",
+   "title": "存储芯片供不应求，长鑫拒绝苹果",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9XbElKcFZqZlNCVXpEdVRRNWFSMktaZG5YdHU5UUd3UkhNaTB6SlJERlg4TWdYZUtESmxnaWcwdHFZdUR3dEVRd2l4djRoSkkzaUdIc3RSX1gyUHF1ZFg1ckxVUW52VUdP?oc=5",
+   "source": "GoogleNews·文学城",
+   "domain": "memory",
+   "published": "2026-10-26",
+   "summary": "",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "251e8fe8c16ef7f852f3b2dcb63c201c447c2716",
+   "title": "长鑫硬气拒绝苹果：中国本土的订单都接不完，不伺候",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Vb0ZjLXc4SzBNLWdYRkY1TjU1bGJfUmdhTXhudU9xdnNDb3ZhT2RqMS1DY3JyQmFXdHdnUFdobE9ZS0F5Sjc3QzZTOA?oc=5",
+   "source": "GoogleNews·手机新浪网",
+   "domain": "memory",
+   "published": "2026-10-26",
+   "summary": "",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "a878d526b785ebed0ce842e14d6ccbb2691d1359",
+   "title": "长鑫存储拒绝苹果低价内存订单 产能优先保障中国客户",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96RXp2ckxpMzZiZGE4eXV5c0NmcXltejkxUXlENWJ1UzJhVXIzODBDeXJTaWUxSVE1cmJzTVk5WGx2V3JvY0VJb28wNGwxT3JTRUJCUlZ3?oc=5",
+   "source": "GoogleNews·微博",
+   "domain": "memory",
+   "published": "2026-10-26",
+   "summary": "",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "bt": 0,
+   "co": [
+    "长鑫存储"
+   ]
+  },
+  {
+   "id": "4999489711391f80948160021674d8e8d642317d",
+   "title": "芯报丨长鑫科技旗下芯聚股权投资公司增资至约63.8亿",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4OGdBM3ZDUFlqSnVTV2QyandKRmdEeVFPSHppVDZyaXJldktuQjVwbWhiQzFKTVlvRl9rdk9YNEtnV2FjUVRnM3puVHRNOVNpTE5n?oc=5",
+   "source": "GoogleNews·电子工程专辑",
+   "domain": "memory",
+   "published": "2026-10-26",
+   "summary": "",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "e57dcf50175991ee0c89771b5b6f22c6f2dcbd87",
+   "title": "长鑫存储拒绝苹果降价采购：报价不低于三星、SK海力士",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcDBZQUhZY3ItVVRXdTRhaFZaSzAyVFdzdEVRSWVEY0phMHBkNDNFRktYdnBDSzZSd1d6UHowVEstWG9YM2wwTFhMU3hjVFVOZUhyVjltZUxMUkJWRTNCallIN2JoeFZyWkFseDlycmQ2eHVxQjRGWEEtd0dMNzZXdGQxS1dJLVBk?oc=5",
+   "source": "GoogleNews·Sohu",
+   "domain": "memory",
+   "published": "2026-10-26",
+   "summary": "",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "bt": 0,
+   "co": [
+    "长鑫存储"
+   ]
+  },
+  {
+   "id": "9737a7aa7c19e31a9182750940f4fcf5e90bddfb",
+   "title": "长鑫、源杰、中微集体释放利好！半导体产业链迎来全链共振",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYmE3YzVZQTN0SUlQRy1udVZXUFB3dmFXRnYwS3lRZ3FKY3BaeFM5dmlwMW1mZ2J1ZUlSa0JsU0VIS19NUXl5VERRRDNZR1AzRkozUFhrMGthcElQY0I4d1YzRTN1Tnp2emItRWR5SW9mTlpuV3VGNGxJbmVHQmtya0owekc4Z2dVNmRFWV9zRQ?oc=5",
+   "source": "GoogleNews·21财经",
+   "domain": "memory",
+   "published": "2026-10-26",
+   "summary": "",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "dc2d727b166c5543a735a5f1bb66dd0df3940053",
+   "title": "长鑫存储拒绝苹果降价，优先保障国内手机厂商|长鑫存储|苹果|华为|小米|OPPO|vivo|荣耀|中兴_新浪新闻",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jYkxxUlRVYUZ2R1l0ekltUFM1d3k1LS0xV1pScmd3Z3RxbjNoMnV6VW5SYlhQVGhpenA0OVlUUzJjaEdQYlNYLTlQdFEtVkFRcXdQRTFvR3BnbXVZLVpySUtpSQ?oc=5",
+   "source": "GoogleNews·手机新浪网",
+   "domain": "memory",
+   "published": "2026-10-26",
+   "summary": "",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "bt": 0,
+   "co": [
+    "长鑫存储",
+    "华为"
+   ]
+  },
+  {
+   "id": "eda2ffc61a9a2c765a1b77407b7b8b79c67d8815",
+   "title": "长鑫硬气拒绝苹果：中国本土的订单都接不完，不伺候！ ​",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBjTHR0cFZIa18yc0tYbldKU1ZwclZnckJFMUZSWjNJS3MwenljVmU4UEpVQjFtNzZuTUhnVWNLUlZiTmVmTFVjVGxfTlJQYU55QUdFVkt3RHFvVGpiOGFYcUxqZw?oc=5",
+   "source": "GoogleNews·手机新浪网",
+   "domain": "memory",
+   "published": "2026-10-26",
+   "summary": "",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "2a772981dea24d486b05e7396180e5ab98c11de2",
+   "title": "长鑫科技拒绝苹果低价订单，产能优先国内！",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZDhtb2ExNW00cjhtOThYbHBHVHYxVjlSX0NBLWNWQVRWLUloUGdaV2g3OWJJaENkREZ1UVFWby0yTDJhemhSREtMT3BxVXNhU3h6bHlXRHluNW05N3pxODl4bVFpS2NlanJQTTFrME5FVW9NYkVFYTdDTzV5Y3p0UFhQQ3BqRlBsM2paRQ?oc=5",
+   "source": "GoogleNews·Sohu",
+   "domain": "memory",
+   "published": "2026-10-26",
    "summary": "",
    "first_seen": "2026-10-26",
    "last_seen": "2026-10-26",
@@ -1223,7 +1651,7 @@
    "published": "2026-10-23",
    "summary": "",
    "first_seen": "2026-10-24",
-   "last_seen": "2026-10-25",
+   "last_seen": "2026-10-26",
    "bt": 0,
    "co": []
   },
@@ -2303,7 +2731,7 @@
    "published": "2026-10-21",
    "summary": "",
    "first_seen": "2026-10-22",
-   "last_seen": "2026-10-24",
+   "last_seen": "2026-10-26",
    "bt": 4,
    "co": []
   },
@@ -7884,7 +8312,7 @@
    "published": "2026-10-15",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-25",
+   "last_seen": "2026-10-26",
    "bt": 0,
    "co": []
   },
