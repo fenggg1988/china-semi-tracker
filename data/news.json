@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-26 13:37:24",
- "count": 876,
+ "updated": "2026-10-26 13:49:28",
+ "count": 885,
  "items": [
   {
    "id": "c9784460f0a41098f955283adb13f4a6f08d9b41",
@@ -24,6 +24,21 @@
    "source": "GoogleNews·财富号",
    "domain": "memory",
    "published": "2026-10-17",
+   "summary": "",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "bt": 2,
+   "co": [
+    "长鑫存储"
+   ]
+  },
+  {
+   "id": "b343018c5a1d7a8dd16415c63915aa2e3bd255fa",
+   "title": "新存储芯片厂商长鑫存储启动DRAM新平台量产-芯片",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE54SDB6bFZtUzVONGc2bWVSOTluTTZ0Z1lyZ0hZel9QTTQ4S2NiWGtZcndMMFg1dDBrTWhfSVdDY3pLWjRTX0J4WEtfRUJJZXA0UzFnRHdSSmlvai1VYUV1T2ZR?oc=5",
+   "source": "GoogleNews·至顶网",
+   "domain": "memory",
+   "published": "2026-10-10",
    "summary": "",
    "first_seen": "2026-10-26",
    "last_seen": "2026-10-26",
@@ -242,6 +257,116 @@
    "source": "GoogleNews·新浪财经",
    "domain": "memory",
    "published": "2026-10-26",
+   "summary": "",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "3fb3725f013875079f0ead165f0431a323a0fe50",
+   "title": "长鑫存储推进DRAM新架构引市场忧虑，Elon Musk指中国规模化制造能力或重塑DRAM格局",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNb19lMHMzQ0MtWTU0aWMyWlcwT2R0d0FvU0dWWUhMRXhOM196elZCdVFuZ1JpT2tTQmdHc05SOXZIcU5uR09NcW5GSVRRZWg2bFJDeFhwV1BWeUVOMHVFVXBlUkJSdzZlQklEV19ORG9XV21KY0dWai1LaGtPV01iSzVsZUFMZy04Tk9QUVdKd3VsT0FscWVZbUoxMlh3UU8ydWp2R1IwWEx2bU9jc3BGUl9PbjQ4ajU4NVM3eHhjcWNFWU9nNUZyekV5aTl5SXBrcXJFbDRFekV0Zw?oc=5",
+   "source": "GoogleNews·TradingKey",
+   "domain": "memory",
+   "published": "2026-10-12",
+   "summary": "",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "bt": 0,
+   "co": [
+    "长鑫存储"
+   ]
+  },
+  {
+   "id": "979e4e6ff95dfd697897ec3692543d0c30aaa83f",
+   "title": "分析师列举7大理由：中国长鑫存储的声明不会威胁美光科技和闪迪 提供者 Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9XSzhsc0p3M1JFekVtZ2xJck0tVzlEcFI3a0JKbWgtWkpGUkowcmFQdGtPQi1uZEd5OUtoVW1GcWRVLVRPM3VzQVBVMVNVdmNYRW5Cb3luVXU3OGtfTlg2NXV0QWtqZXpQbVFCUVZ4UEM?oc=5",
+   "source": "GoogleNews·英为财情 Investing.com",
+   "domain": "memory",
+   "published": "2026-10-13",
+   "summary": "",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "bt": 0,
+   "co": [
+    "长鑫存储"
+   ]
+  },
+  {
+   "id": "2888184b85699dd722fa96d4a9b9624390b351c6",
+   "title": "黄仁勋回应是否考虑与长鑫存储合作：持开放态度 没有哪个国家在制造业比中国更强",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbnFBWVUwZmJqYmlWNGxUTFhFTU9yRHpGeXY1T3N6Sm9NSjRpQ0VCUnY2UmFxRXgxbUVzamZPSGtLVmJzcEFSM1JoX0VmWTBRZFl6WFdLNjh1aUtoSjE3dF9JT3F3ZlJLTkFWNEtFeUo0djVFUnZGeEpUSEl3T05ZUlhacWMwQ0o5RmJPcVc2MDY4UEw4eW4wUEIyR2xmNTFIeVVlTzdpYw?oc=5",
+   "source": "GoogleNews·富途牛牛",
+   "domain": "memory",
+   "published": "2026-10-23",
+   "summary": "",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "bt": 0,
+   "co": [
+    "长鑫存储"
+   ]
+  },
+  {
+   "id": "374914a5d0a1bf4564cf2814ecad38e46ddc9781",
+   "title": "长鑫科技放量涨近8%，黄仁勋：对与长鑫合作持开放态度，没有谁在制造业方面比中国更强",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9GbGFWWXNrQmVqc0Y0ZHZwd1hEX1ljNEJHazJWT1kzZU9zVV9lRFBCQWhVLXhEanRicVk1eDdEZkRTWXEwQUZaNVhYMDk2RmdqcUM1VDBDamRqRFRrVlVxQnVWYXJjeWVhcG1xQjh3WkpyZw?oc=5",
+   "source": "GoogleNews·金融界",
+   "domain": "memory",
+   "published": "2026-10-23",
+   "summary": "",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "aadf70797956028b27119e54650c0aff55f5a807",
+   "title": "长鑫巨无霸扑面而来，指数修订严阵以待",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41Nzlwb2RaY3RackFWUU5sWmZDWnBTU3RpaE5BTUNOQ1hzVzc1RzIyMDNMMU85RE5BeDd0RG11ZHVYLXhnVFJZZlp5dEdvZ2RxREwtODhOWXIzWHdkQkpndFNyRllqaldXejZV?oc=5",
+   "source": "GoogleNews·财富号",
+   "domain": "memory",
+   "published": "2026-10-26",
+   "summary": "",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "3845a965b51da2e742dd98a9b5daa248416de577",
+   "title": "AI算力与本土替代共振 硬科技多赛道龙头集中研判：半导体设备、光芯片、存储仍处上行周期",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5xQm45bHBQdFB2UHhSNW53M0RqOG5YMDJXSzk1SU1Ja25UMVVEaFJGVC1DSHJ6TGU5V1k5Rm9YWVRzNldYN3dwWGl6WnhSbmpqNXpCUktmd1FDT2pQRUVULWl5TUxJWWVabUpmVXMzYTRnWHFqS2Z3Vm9fZHNTQQ?oc=5",
+   "source": "GoogleNews·手机新浪网",
+   "domain": "optical_comm",
+   "published": "2026-10-25",
+   "summary": "",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "9db8734e67d3637ab58880a754c473bc44da4c9b",
+   "title": "长鑫科技：前三季度预盈1310亿-1325亿，DRAM供不应求、价格大幅上涨",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ndmRCbmxLMU9KWmZiLVY1WUVNR1RTTXlEVkNOemdhTlZVaG1oRk9kR3QwaUNXbHpQVUJGbnBfeDNZNWk1RFpVMlVCU3k0UmF4QzNB?oc=5",
+   "source": "GoogleNews·电子工程专辑",
+   "domain": "memory",
+   "published": "2026-10-26",
+   "summary": "",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "fb3287cca743b181d74c36f6ff6d57908c01bcf6",
+   "title": "长鑫科技合并利润看起来很美，但归母公司利润很骨感",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeXp4dFROV1dTd05uWUNqSFVEY0pjSGlzTzhkLVh4a2VGTGVwMC1td2VJaUo5cFVrNGt1UzZtVHV6cTM4eUVZbXY5eGw4c3dBOXEtMjMxM29EUmd1dkxSdHh6N1NuZmhTczM4TzJDY0xORjRqNUhBcnMtUkk0Ylc5MW9zbUo4ZkJ3?oc=5",
+   "source": "GoogleNews·Sohu",
+   "domain": "memory",
+   "published": "2026-10-25",
    "summary": "",
    "first_seen": "2026-10-26",
    "last_seen": "2026-10-26",
@@ -5242,7 +5367,7 @@
    "published": "2026-10-13",
    "summary": "",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-10-22",
+   "last_seen": "2026-10-26",
    "bt": 0,
    "co": []
   },
@@ -8470,7 +8595,7 @@
    "published": "2026-10-13",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-22",
+   "last_seen": "2026-10-26",
    "bt": 4,
    "co": [
     "长鑫存储"
@@ -9103,7 +9228,7 @@
    "published": "2026-10-12",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-21",
+   "last_seen": "2026-10-26",
    "bt": 2,
    "co": [
     "长鑫存储"
@@ -9146,7 +9271,7 @@
    "published": "2026-10-11",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-19",
+   "last_seen": "2026-10-26",
    "bt": 2,
    "co": []
   },
@@ -9159,7 +9284,7 @@
    "published": "2026-10-10",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-19",
+   "last_seen": "2026-10-26",
    "bt": 2,
    "co": []
   },
@@ -11071,7 +11196,7 @@
    "published": "2026-10-14",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-25",
+   "last_seen": "2026-10-26",
    "bt": 0,
    "co": []
   },
@@ -11084,7 +11209,7 @@
    "published": "2026-10-13",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-21",
+   "last_seen": "2026-10-26",
    "bt": 0,
    "co": [
     "长鑫存储"
@@ -11114,7 +11239,7 @@
    "published": "2026-10-10",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-21",
+   "last_seen": "2026-10-26",
    "bt": 0,
    "co": [
     "长鑫存储"
@@ -11144,7 +11269,7 @@
    "published": "2026-10-13",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-21",
+   "last_seen": "2026-10-26",
    "bt": 0,
    "co": [
     "长鑫存储"
@@ -11322,7 +11447,7 @@
    "published": "2026-10-13",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-21",
+   "last_seen": "2026-10-26",
    "bt": 0,
    "co": [
     "长鑫存储"
@@ -11469,7 +11594,7 @@
    "published": "2026-10-11",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-19",
+   "last_seen": "2026-10-26",
    "bt": 0,
    "co": [
     "长鑫存储"
@@ -11819,7 +11944,7 @@
    "published": "2026-10-13",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-22",
+   "last_seen": "2026-10-26",
    "bt": -3,
    "co": [
     "长鑫存储"
