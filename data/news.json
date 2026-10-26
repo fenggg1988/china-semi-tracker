@@ -1,7 +1,37 @@
 {
- "updated": "2026-10-26 07:44:16",
- "count": 864,
+ "updated": "2026-10-26 13:36:12",
+ "count": 875,
  "items": [
+  {
+   "id": "c9784460f0a41098f955283adb13f4a6f08d9b41",
+   "title": "新易盛三季度产量环比增长 800G光模块成今年交付主力",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4yNWRidk9sdHpPUndlVkx3Z3B3ODk4LU5JVFpIRHJleGFNSS05M0RRZFdpbmFKWHJTOE4tbGE0bUczLTg2MEpUQjFjRHBwWDNKU2tTTjExcGRjRzVuVkZ2d3Rn?oc=5",
+   "source": "GoogleNews·观点网",
+   "domain": "optical_comm",
+   "published": "2026-10-26",
+   "summary": "",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "bt": 2,
+   "co": [
+    "新易盛"
+   ]
+  },
+  {
+   "id": "60f8a730340bb60ae342c9f4627678ee7c5fbd1a",
+   "title": "长鑫存储突破4F2架构技术 引发全球产业格局重构",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE53Y2gyOTlxY2xCNndjQ2hmUDNibnRSQWk5LXVsWjRLc0lhWDBRUmc2WU9PZHRBOEUtWjNQaDdlSEdGNzBjanRQUDlpNkY1WVNBWlNqNzJDb2taUWhnaEc2bWZ4UEhKTzFIbFRV?oc=5",
+   "source": "GoogleNews·财富号",
+   "domain": "memory",
+   "published": "2026-10-17",
+   "summary": "",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "bt": 2,
+   "co": [
+    "长鑫存储"
+   ]
+  },
   {
    "id": "f91ea5e58a58834a3ab408319e49b97b5380d80c",
    "title": "三星HBM供应吃紧 数据中心客户愿为长期保障支付溢价",
@@ -76,6 +106,127 @@
    "source": "GoogleNews·cnBeta.COM",
    "domain": "memory",
    "published": "2026-10-25",
+   "summary": "",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "bt": 0,
+   "co": [
+    "长鑫存储"
+   ]
+  },
+  {
+   "id": "9bb080f5ca16d1c1f22d4307ceeb4fcda342917e",
+   "title": "英伟达下调 Rubin GPU 系统 HBM 与 NVLink 带宽，网络带宽提升",
+   "url": "https://www.ithome.com/1/017/812.htm",
+   "source": "IT之家",
+   "domain": "memory",
+   "published": "2026-10-26",
+   "summary": "IT之家 10 月 26 日消息，根据 NVIDIA 第一方今年 10 月文档和第三方保存的今年六月文档间的对比，NVIDIA 下调了 Rubin GPU 系统的 HBM 与 NVLink 带宽，但网络带宽有所提升。Vera Rubin 超级芯片的 HBM4 GPU 内存带宽此前是 44TB/s，现在是 38.5TB/",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "de0b4629180e42ac2636596ddb0fcc76090abb78",
+   "title": "三菱材料将大幅提升光通信热敏电阻产能，到 2027 年 11 月达去年 6 倍",
+   "url": "https://www.ithome.com/1/017/756.htm",
+   "source": "IT之家",
+   "domain": "optical_comm",
+   "published": "2026-10-26",
+   "summary": "IT之家 10 月 26 日消息，三菱材料 (MMC) 当地时间本月 23 日宣布，该企业计划在泰国北榄府生产基地大幅提升面向光通信应用场景的片状热敏电阻的产能。其目标到 2027 年 11 月实现月产 1,200 万片，达 2025 年水平的 6 倍。光收发器的通信性能受温度变化的影响，而三菱材料的片状热敏电阻能以＜",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "92a4c994d8a0504606103f09f112cac9f517302a",
+   "title": "芯片设备国产率冰火两重天：有的超50%，但光刻机仅1.3%",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdDlIc3N3NVJQYTNLbVlIRWpGeldIV3NZRS1ydlB4VzhwUkVYQ1RxOFUyYy02NmNjQ2dWZENXZWZXR1AyaWZ6eThJU3ZKNHctb0syVFhvMTdMWXMxUzFpVUlOYTdQY1lkMC1sRklVWkE1SDRpelVkYW45MkRBd28yanZYMTFqNk5zdUV2NA?oc=5",
+   "source": "GoogleNews·手机搜狐网",
+   "domain": "litho_machine",
+   "published": "2026-10-26",
+   "summary": "",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "7188111f69be74f8b352be0e7a18572943c4733a",
+   "title": "英特尔高管：采用High NA EUV光刻机是正确选择 追赶台积电是规模问题",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYkJjUDUxNW1ULVczUW1vODk0ekktMzM4ajZDV1FPT21XU2cwbXZ2SXdQdVpTc0JoNVN0bnRNQ0lDXzJ5MFJMel9JTjFCOF9DekFYcGJtTFJybldjSjlxU1VlV2dxNjZ4a0F0eHV3TU5Cc0tDc09BQ29hMlg2N1pNUzZzdi1pZWhMMktqNVZxVnAtZjh0bUc4ejlXcTM4VG1aZUtDOVZRVQ?oc=5",
+   "source": "GoogleNews·finance.sina.com.cn",
+   "domain": "litho_machine",
+   "published": "2026-10-26",
+   "summary": "",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "e46299c8673fc2b0b4c2165525a8f7d8c2d8a704",
+   "title": "FCC管制阴影下 中国光芯片产业的生死竞速突围之路",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LQ0lPYmdzNlJvSE56MTladmtqUDd6NUJPaXBESnBqTXZtTGhycjMzeWpDaUI4T25nay1HNzVYYVRZRWlWQ0kzX3FyNC1NdmdzZDNz?oc=5",
+   "source": "GoogleNews·36Kr",
+   "domain": "optical_comm",
+   "published": "2026-10-25",
+   "summary": "",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "7cd5ab5bf186346fc3840875d51ab04ee38f2d8f",
+   "title": "激光芯片之后，光模块里又一样东西开始锁产能",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DX19IQjNKRzRMTFdmMkVTc3ZERXpxSlBjTHc0bDR0X0RrcVA2LV9sUllBQnFYdm1rT1dBclY1Y2VhcWNxME5LNkRHc3RlYTVuUll5UjNwckVISzFqQWZfNw?oc=5",
+   "source": "GoogleNews·搜狐网",
+   "domain": "optical_comm",
+   "published": "2026-10-24",
+   "summary": "",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "be233720ebeca98135f4a7c90bd9e6a0a07feae9",
+   "title": "台积电2nm芯片产能，英伟达一点都不想要",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOLUFYRjBWZDl3T3gydExTQUtXejRMWWpuZnlPVjRUMTQxNU5kY3JGVTdpOUFRdUl6UUVXTjBMWTlKdXE2SjVleHhQZGlzMG9HQnlxdGxNalUxSi1VdHhjTGIzVjIyLXFQXzk1VUtSLVVyMmV1M0F4cmp1R3dMTHM2THFnT2V2ODBaR3hDWQ?oc=5",
+   "source": "GoogleNews·手机搜狐网",
+   "domain": "logic",
+   "published": "2026-10-26",
+   "summary": "",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "a5961bc0ba0a5e9336590b5fb995e765e69dc289",
+   "title": "长鑫存储硬气拒绝苹果低价采购，优先保供中国客户",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBGODlhLURtRFY1VTRObWFkdHJ2a2wyX1AxNXZmZ1RwaWMtU1lGNi0xc2l4aG5ROENjZnZQQkdOeUp4cGVoWTd3TERtZ2J4cWh0dkRUMlp1M1FHdzUt?oc=5",
+   "source": "GoogleNews·电子工程专辑",
+   "domain": "memory",
+   "published": "2026-10-26",
+   "summary": "",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "bt": 0,
+   "co": [
+    "长鑫存储"
+   ]
+  },
+  {
+   "id": "9d59ced0292f630eb175870454245c11367852a6",
+   "title": "长鑫存储硬气拒绝苹果：中国本土的订单都接不完，不伺候 此前苹果曾希望拿到比美光、三星、SK海力士更便宜的价格",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wbno0RDVzdTZRdnBhbndPZnRVckNMVnBCcTNOZG1tenNTTVVmNEVOSnNta1Y1ZWxaN2NCVFVNVmVod3ppSVlzQ0FlSkNBcmFSSHVvSzRrS0p4X3JfdlMyeS1UVGVDN2o1TEZoMjZpZzA?oc=5",
+   "source": "GoogleNews·新浪新闻_手机新浪网",
+   "domain": "memory",
+   "published": "2026-10-26",
    "summary": "",
    "first_seen": "2026-10-26",
    "last_seen": "2026-10-26",
@@ -199,7 +350,7 @@
    "published": "2026-10-23",
    "summary": "",
    "first_seen": "2026-10-25",
-   "last_seen": "2026-10-25",
+   "last_seen": "2026-10-26",
    "bt": 0,
    "co": []
   },
@@ -593,7 +744,7 @@
    "published": "2026-10-21",
    "summary": "",
    "first_seen": "2026-10-24",
-   "last_seen": "2026-10-25",
+   "last_seen": "2026-10-26",
    "bt": 2,
    "co": [
     "长鑫存储"
@@ -893,7 +1044,7 @@
    "published": "2026-10-24",
    "summary": "",
    "first_seen": "2026-10-24",
-   "last_seen": "2026-10-25",
+   "last_seen": "2026-10-26",
    "bt": 0,
    "co": []
   },
@@ -1325,7 +1476,7 @@
    "published": "2026-10-08",
    "summary": "",
    "first_seen": "2026-10-23",
-   "last_seen": "2026-10-23",
+   "last_seen": "2026-10-26",
    "bt": 0,
    "co": [
     "长光华芯"
@@ -1566,7 +1717,7 @@
    "published": "2026-10-23",
    "summary": "",
    "first_seen": "2026-10-23",
-   "last_seen": "2026-10-25",
+   "last_seen": "2026-10-26",
    "bt": 0,
    "co": []
   },
@@ -1827,7 +1978,7 @@
    "published": "2026-10-23",
    "summary": "",
    "first_seen": "2026-10-23",
-   "last_seen": "2026-10-23",
+   "last_seen": "2026-10-26",
    "bt": 0,
    "co": [
     "源杰科技",
@@ -2576,7 +2727,7 @@
    "published": "2026-10-21",
    "summary": "",
    "first_seen": "2026-10-22",
-   "last_seen": "2026-10-25",
+   "last_seen": "2026-10-26",
    "bt": 0,
    "co": [
     "长江存储"
@@ -4173,7 +4324,7 @@
    "published": "2026-10-19",
    "summary": "",
    "first_seen": "2026-10-20",
-   "last_seen": "2026-10-25",
+   "last_seen": "2026-10-26",
    "bt": 0,
    "co": []
   },
@@ -4572,7 +4723,7 @@
    "published": "2026-10-18",
    "summary": "",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-10-25",
+   "last_seen": "2026-10-26",
    "bt": 0,
    "co": [
     "长江存储"
@@ -6291,7 +6442,7 @@
    "published": "2026-10-13",
    "summary": "",
    "first_seen": "2026-10-17",
-   "last_seen": "2026-10-23",
+   "last_seen": "2026-10-26",
    "bt": 0,
    "co": []
   },
@@ -8070,7 +8221,7 @@
    "published": "2026-10-15",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-25",
+   "last_seen": "2026-10-26",
    "bt": -3,
    "co": []
   },
@@ -9313,7 +9464,7 @@
    "published": "2026-10-14",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-25",
+   "last_seen": "2026-10-26",
    "bt": 0,
    "co": []
   },
@@ -11359,7 +11510,7 @@
    "published": "2026-10-09",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-25",
+   "last_seen": "2026-10-26",
    "bt": 0,
    "co": []
   },
@@ -11556,7 +11707,7 @@
    "published": "2026-10-08",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-24",
+   "last_seen": "2026-10-26",
    "bt": -3,
    "co": []
   },
