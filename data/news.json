@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-26 14:07:36",
- "count": 885,
+ "updated": "2026-10-26 15:22:36",
+ "count": 887,
  "items": [
   {
    "id": "c9784460f0a41098f955283adb13f4a6f08d9b41",
@@ -45,6 +45,21 @@
    "bt": 2,
    "co": [
     "长鑫存储"
+   ]
+  },
+  {
+   "id": "0c8cd1a822a34b4406ff97143c5cdb379e022781",
+   "title": "腾景科技：800G、1.6T光模块配套无源光学元组件正在批量交付",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9BZmZaeHVVSTFxX3FwUzI0Y0VBUXhIQi00LU9QaTAyOThJQ1FtZzZvN0pKbklKNVZlTUFMdm1pbXVoQWdBdFZzWFB5OA?oc=5",
+   "source": "GoogleNews·手机新浪网",
+   "domain": "optical_comm",
+   "published": "2026-10-26",
+   "summary": "",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "bt": 2,
+   "co": [
+    "腾景科技"
    ]
   },
   {
@@ -371,6 +386,19 @@
    "first_seen": "2026-10-26",
    "last_seen": "2026-10-26",
    "bt": 0,
+   "co": []
+  },
+  {
+   "id": "dd7029686ea053bc1f048a74323db4c9645f7b1d",
+   "title": "长鑫科技市值重回3万亿，超越工商银行再成A股市值第一",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBXQXM4QXc1SkZOd282WGJzN1ZUSWQwUEVWNU5LMHhfTFNLc254V0NvVDNNVDZVYmE3VDhVU1NQY2pXMldKQkR5R01VbGNsQjJs?oc=5",
+   "source": "GoogleNews·凤凰网",
+   "domain": "memory",
+   "published": "2026-10-16",
+   "summary": "",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "bt": -3,
    "co": []
   },
   {
@@ -6115,7 +6143,7 @@
    "published": "2026-10-18",
    "summary": "",
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-23",
+   "last_seen": "2026-10-26",
    "bt": -1,
    "co": [
     "光迅科技"
