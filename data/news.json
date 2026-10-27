@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-27 08:53:56",
- "count": 930,
+ "updated": "2026-10-27 13:48:57",
+ "count": 948,
  "items": [
   {
    "id": "a84c23b28f60c65c11d09b43dc675ad95927629c",
@@ -16,6 +16,19 @@
    "co": [
     "南大光电"
    ]
+  },
+  {
+   "id": "7e5694d8c8836126849d249c2d3f0c3cc50f6ea7",
+   "title": "国产EUV光源首次亮相，国产化率90%：距离真正造出光刻机，还有多远？",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ0pGX082Y2hQMV9oLXk3dG9rdFlmeTZoQTBGNVlFalhmTFlocmdlMWg0YzNWcW55VWk1dmwwdmpOaU9NWlE0WlZlUDBCcHB0dEozUndKQmhCYjV1RlhwS1U2TnVYUnpCLWxBdzZQYUZjTkt6aklGZU50aFg2eDNFYWRWek83Z0JPSUZNWXhlYw?oc=5",
+   "source": "GoogleNews·view.inews.qq.com",
+   "domain": "litho_machine",
+   "published": "2026-10-15",
+   "summary": "",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "bt": 4,
+   "co": []
   },
   {
    "id": "e66622b2dd0cd858971a094102d7dc47783bb0d7",
@@ -69,6 +82,34 @@
    "bt": 2,
    "co": [
     "新易盛"
+   ]
+  },
+  {
+   "id": "1dc12e9b50d62f557a3fa6143a99873240245963",
+   "title": "炬芯科技：存内计算领跑，三核异构端侧AI芯片系列累计出货达数百万颗",
+   "url": "https://www.laoyaoba.com/n/1124321",
+   "source": "集微网",
+   "domain": "logic",
+   "published": "",
+   "summary": "",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "e8c99f6fd3f1ef4e1a41391b1b8f91d377e3a02e",
+   "title": "长江存储，NAND出货，世界第三",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84anFGOG5Ed0pSa0RTY2w0bm14a1FCaWxxNXd4Z0pYWWpzR1ZMVDR4S29YaGE0TWdfbmhmVjN4MlpUREFGc0pKX1R1OXYtcGZvdkNCODVB?oc=5",
+   "source": "GoogleNews·腾讯新闻",
+   "domain": "memory",
+   "published": "2026-10-15",
+   "summary": "",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "bt": 2,
+   "co": [
+    "长江存储"
    ]
   },
   {
@@ -164,6 +205,206 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "bt": 0,
+   "co": []
+  },
+  {
+   "id": "2948824e0045dff8d5e3a06d414f0aaa77103cea",
+   "title": "形势严峻！光刻机自给率仅1.3%，已严重拖了芯片后脚？",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQUlsck81YTdPY205cGVfX1M2c2poTmpyT1NjY2drQ2JuZ0Y0ZmcwSVpjcHREVzU1ak5OUlI1a1FESjl0XzZNME5jb1l1MVJBT1RMU3d5bzQxT3NuZGdTMHBrSjNBZThCN3VXZldETG5WSXVTRHRYYVFhVUU4YlZzNHh5SFd1TUZWSHBhUQ?oc=5",
+   "source": "GoogleNews·搜狐网",
+   "domain": "litho_machine",
+   "published": "2026-10-27",
+   "summary": "",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "30ab46c4e4432f72d88f1ae0b54168a57e26c378",
+   "title": "运营商财经网康钊：全球光刻机供不应求‌ 中国的国产光刻机不争气呀！",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96dUlEdTA5T2xXR1NpYzAxa3dUNkxmbjNhel9HcElpX0t5UDFMaDdPTm5yQzJzcjZBelE0Z0ptX1dwOUdrdDIxbWUxWUxMOF8yZEFWUk44NE1rc2FiTmhzbkpZdkhBODdLcHhuN0FvaDZEWTY3eVQxd1hyUlNFSkU?oc=5",
+   "source": "GoogleNews·新浪财经",
+   "domain": "litho_machine",
+   "published": "2026-10-27",
+   "summary": "",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "56b7f5c23ff45ad9c37b3b9aeae5c0c59876f114",
+   "title": "宇特光电：高速光模块内组件、光纤连接器，产品方向和市占率",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE81cVhacUhvQ0pFYzRyN1R4dXF0QzJwRDg2OXY5SFdkNVB0T0hyREJtQ3MwTndaV2JjVUtwVExUaVFMWkJfakdFVmtJN0kzdjRlT3diNFNkU0FBNEpwLVJxUm1sek5Rc1ZneVBZ?oc=5",
+   "source": "GoogleNews·财富号",
+   "domain": "optical_comm",
+   "published": "2026-10-16",
+   "summary": "",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "5b812a986fa0490c0735a92bf1cbe6a961d66bc2",
+   "title": "2026年三季报点评：光芯片矩阵升级，盈利能力持续提升_公司研究_研报",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE02QzUzN0xqd3BPTEpnSE8zV0tiWmhaMXdaZlRFcXJRcjA2eUtlMlNHVnRQYkZSbkJmX0tJTFhPTGQ1NlUwbDRNdkVIYngwSDZRMHMwTnFmRDJXY2Nqdk9lbFNB?oc=5",
+   "source": "GoogleNews·证券之星",
+   "domain": "optical_comm",
+   "published": "2026-10-27",
+   "summary": "",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "5b9ee6778a1b8a078e4568f8838eed0a67fd01e7",
+   "title": "凯龙股份：目前公司暂未与长江存储开展合作_公司新闻",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51ajNadmNtNlJrc3pobFhGMk81eEZhUV9YUWhGSFhyb216OG1nYzZiakZseXZqWWNILWtjdDFkRHlXQnRQeUJFa1ZILWhXMEdIaXRpVFhySXFpdHRiYTdUdA?oc=5",
+   "source": "GoogleNews·证券之星",
+   "domain": "memory",
+   "published": "2026-10-27",
+   "summary": "",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "bt": 0,
+   "co": [
+    "长江存储"
+   ]
+  },
+  {
+   "id": "006229831817c8d221a85965a876c4b61bb2439c",
+   "title": "长鑫DRAM份额升至10%",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQN1RnRWZoRmUtZUwwNDNPZV9Vb09jenNxc3RZczhKWWRiR2ZudTM3TG9xVkZ5XzZWd1NnUXJmalYtQnYxWUxSekRJWmp2M0JyS1l3UlMyejA1ZUhRTVJiLS1ZNktfY2QxNFVBYTlTS0lucmZ5LVpxU0dBYTZCUW82ZEJ6TnlTNnVuTUNsYQ?oc=5",
+   "source": "GoogleNews·搜狐网",
+   "domain": "memory",
+   "published": "2026-10-27",
+   "summary": "",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "3b9a5a724448d2b475bb2e501334f42d5d63cc9a",
+   "title": "长鑫科技拒单苹果及海外厂商 优先保障中国大陆存储芯片供应",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5VWEJHSW9JY0g4VVJCakpBTWlZRFRrTTdnaHV4LWJXZkdpdmZ1bDRsYXk2cFo3c0FzOVA5Y0V1U0g1WUxyWDYtTmd5OVhETUVMbFN1NGFKNUZXV0VzdkpZYzdnaC1kUlFsZ2ZaMWsyTQ?oc=5",
+   "source": "GoogleNews·微博",
+   "domain": "memory",
+   "published": "2026-10-26",
+   "summary": "",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "8e124c5b1008dc23a7a41f2e835e0a88c3d416ba",
+   "title": "长存3成人力拼研发冲NAND市占20% 传也投入4F² DRAM战局",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWU11TkI4WURIcnFxX253X3RoUWMxeTc4VG9EcHd2cTdXcEphdGZTMklnM2UyZy1aNWgwVHBfV3NyQjdKeHdqOTRtMUxVUnNfdXN5LXZjVlhmTnVUVTI4Qk9JYWpsRi1kYVhTZkxrbFF3ZTBnck5TM09mUFREQVkwSzBsXzJRdzJxellKQzA5S3laY1U5U05ZcXMzT0U?oc=5",
+   "source": "GoogleNews·DIGITIMES",
+   "domain": "memory",
+   "published": "2026-10-27",
+   "summary": "",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "be68a47b597d02f09d9f6f4bdc2ac975c2026086",
+   "title": "长鑫拒绝苹果等海外订单，优先保障国内存储芯片需求",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNd2ZiN2lINzUtcklFTndLVHAxRTdyMkViZzlkbG9Jb2dEWGJMQlI2YmpVVTYxQkNUUTB0WjI1N25zeEd0QjN4OEhENElueGNHYWZhelNnd1d0V0N5TzhYTF9VaG5mSjhxM1Q4Z1huZFRvWWh3Xy1nSm40MFYyTHlLSncxZmVkU1BK?oc=5",
+   "source": "GoogleNews·搜狐网",
+   "domain": "memory",
+   "published": "2026-10-27",
+   "summary": "",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "dc2637b86a30cca8e034664246d4d53d7d61deb7",
+   "title": "踢到铁板？苹果压价被中企一口回绝，长鑫凭什么敢对苹果说“不”",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORUhEalQtWDdRdmJkZGNPVllNUzNrejFPVjZvVlFqRjlVa3ZUNklsV1gxTC0yLW52TDJRWm9vMUxCOTRxQmRjd2QwRjJ5NjZTWkdKWG80eUI2cUExLTdtVjE2ajhtRFlWUWw2aXdxUE9Qc0R5S012Mld2TE5CWHJEX2JXWVQ2anhtczFhSA?oc=5",
+   "source": "GoogleNews·搜狐网",
+   "domain": "memory",
+   "published": "2026-10-27",
+   "summary": "",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "505bc6911ab42a179d7041cfa584878e69250461",
+   "title": "昨夜今晨：长鑫拒绝苹果报价 苹果回应折叠屏开裂 第八代iPad mini发布 小鹏X9撞报废气囊未弹出",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcHgxZ3B0cVJ6dWt6WTFZV2Z4SlE1S1BxX1ltOF9CWm5PWmQzRzdnTmc4SW9sWEJ3cy1rSzBoMENYODlmSURrUm1ZclJLMzhLNXdQUmxFVU1xeDd4cldjdGFHU1dmSUZISDl0YVpJbXBMVmhfTXNONUNJWmhNTmJ3TmlIWjctbVNZ?oc=5",
+   "source": "GoogleNews·搜狐网",
+   "domain": "memory",
+   "published": "2026-10-27",
+   "summary": "",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "8df73e95eadb309d6ee131edf471ecf9458e170b",
+   "title": "多笔十亿级融资，涌向国产算力芯片",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBYXF0NTN4anp5eks3VWdYaWRYcC02Mk5ubFhMQUtsOU9wRnlZdkNFT1hpaTdzV0hyTFBxN2xfRVlxYmtBSUJicEZfR1NlV2ZmZkxLdERlZF9BQQ?oc=5",
+   "source": "GoogleNews·国际电子商情",
+   "domain": "logic",
+   "published": "2026-10-27",
+   "summary": "",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "bt": -3,
+   "co": []
+  },
+  {
+   "id": "a266e07cb06a6e6e7892202c6de80a81505845a5",
+   "title": "长鑫科技，市值一度重回3万亿",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1GT1NXOWtjdWUwVXhKOGlkQmVvYkZmNFdEUjFxT3N2ejUxdjhsdU9xS0RLMFBmS2RBOFBDZUlGQzFvdWk2b2wweDZPUlFLMURDM1Q0?oc=5",
+   "source": "GoogleNews·电子工程专辑",
+   "domain": "memory",
+   "published": "2026-10-27",
+   "summary": "",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "bt": -3,
+   "co": []
+  },
+  {
+   "id": "0ffd5d9f83095ab6b055b6461ddcf037fe8b8b18",
+   "title": "长鑫扭亏市值重返3 万亿，三家龙头指向半导体全链条共振|长鑫科技|源杰科技|中微公司|半导体_新浪新闻",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9nVGIyLV9RNk1yTldxazhKZHZhZXk2elVSUVNRQ0VtbWQ3SUpzQVM1bjlELTZDTTVUdmlhMGhhNE95R0hTTHJRWHB3NEQyV3dzbllTTlR2Mml6VFRtZTViY0Nsdw?oc=5",
+   "source": "GoogleNews·手机新浪网",
+   "domain": "memory",
+   "published": "2026-10-27",
+   "summary": "",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "bt": -3,
+   "co": [
+    "中微公司",
+    "源杰科技"
+   ]
+  },
+  {
+   "id": "4131760b610266076857f903b73d266d148605b3",
+   "title": "芯片巨头集体暴涨！长鑫科技市值重返3万亿元",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOa2ZhSGxwQ1kxUzE1NzRFYnBBTlNPR0xxWDVucWYycmZ6VEliMzBULXpoV1hCSHFzS2ZXc2o1dVFYc01TUFlKY0dHVVRyWURZRTYxQkFaT3VxLW45ZlJWdU1wNGF0QW5ZQkJERExZODJ3ODNwRk44SWpEVm5lRXp5WFZ3Y3BFOThNc2VmUA?oc=5",
+   "source": "GoogleNews·搜狐网",
+   "domain": "memory",
+   "published": "2026-10-27",
+   "summary": "",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "bt": -3,
    "co": []
   },
   {
@@ -1407,7 +1648,7 @@
    "published": "2026-10-25",
    "summary": "",
    "first_seen": "2026-10-25",
-   "last_seen": "2026-10-26",
+   "last_seen": "2026-10-27",
    "bt": 0,
    "co": []
   },
@@ -3485,7 +3726,7 @@
    "published": "2026-10-21",
    "summary": "",
    "first_seen": "2026-10-22",
-   "last_seen": "2026-10-26",
+   "last_seen": "2026-10-27",
    "bt": 0,
    "co": [
     "长江存储"
@@ -4051,7 +4292,7 @@
    "published": "2026-10-21",
    "summary": "",
    "first_seen": "2026-10-21",
-   "last_seen": "2026-10-23",
+   "last_seen": "2026-10-27",
    "bt": 0,
    "co": [
     "长江存储"
@@ -5987,7 +6228,7 @@
    "published": "2026-10-13",
    "summary": "",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-10-26",
+   "last_seen": "2026-10-27",
    "bt": 0,
    "co": []
   },
@@ -6750,7 +6991,7 @@
    "published": "2026-10-14",
    "summary": "",
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-22",
+   "last_seen": "2026-10-27",
    "bt": -3,
    "co": []
   },
@@ -8110,7 +8351,7 @@
    "published": "2026-10-10",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-26",
+   "last_seen": "2026-10-27",
    "bt": 0,
    "co": []
   },
@@ -8149,7 +8390,7 @@
    "published": "2026-10-08",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-26",
+   "last_seen": "2026-10-27",
    "bt": 0,
    "co": [
     "剑桥科技"
@@ -8203,7 +8444,7 @@
    "published": "2026-10-15",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-26",
+   "last_seen": "2026-10-27",
    "bt": 0,
    "co": []
   },
@@ -10222,7 +10463,7 @@
    "published": "2026-10-14",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-26",
+   "last_seen": "2026-10-27",
    "bt": 0,
    "co": []
   },
