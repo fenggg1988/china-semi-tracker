@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-27 14:01:58",
- "count": 951,
+ "updated": "2026-10-27 14:06:00",
+ "count": 953,
  "items": [
   {
    "id": "a84c23b28f60c65c11d09b43dc675ad95927629c",
@@ -392,6 +392,34 @@
    "last_seen": "2026-10-27",
    "bt": 0,
    "co": []
+  },
+  {
+   "id": "9bad2632dd21681c82c1501006ea71d24a135490",
+   "title": "SK海力士涨超7%，长鑫科技大涨",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd0pOM0Zwckt1d25FVnhzWjdTQmFyOTBTYmxmN1hRYldTcl9DU1FfbVFzTHhUOG84UWxTVFJXX2N6eGV0TUJfVzNFU2tPb2VyYThaeVA2enpJRXpqS1lvTU5Pd3VhRll2eFU5Sm9odmZyS3hWemw4NXVhc3hqVm4wWE5pX1lXQ0hiVGsyM1dR?oc=5",
+   "source": "GoogleNews·新浪财经",
+   "domain": "memory",
+   "published": "2026-10-27",
+   "summary": "",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "5d8d38b663f3ca0ae61bea7ae7d0b333c89983d2",
+   "title": "长鑫存储年内推4F²架构DRAM 将撼三星SK海力士美光三巨头格局？",
+   "url": "https://news.google.com/rss/articles/CBMiogNBVV95cUxOYnI5RnBIbEhqbUhlMl8zLXVxV1NiSS1uWHNYNk5fQTFXTzlyZmtPMUk2WlREX2h2QzBRVHRXRnBtYTdacDUzM1RuaEtGUG1lOXVIek1iSk5KeGxNal9DTnNUSDllSEp1d3JGcFR3dWlhdGphT09LX3NqLW5uT18xZzJyYTdzb1kxeExkbFJwVTh5d3VfZUVBM0gwcV8xaHJZaktVZWNPOUR4Y3JNd1hhM1hjSDdaSHNOOVRlMHZVZkY2bVF5ZHRDSjV2QzZwOTY2YXlJZVVVbWxsbDBRT2g1U3dIcUZ1Um9WUUJVNVpKMXFhWWpfbnl5X3pYZkFCQ2FobEQtZHZYQUo3amlHbktEX3R2c0N3czhmVGdlNTVidWVnS29yYW1Mbm1OQ1VWR2tHcUhrY3hUQjlrSUhiZFZlSXU1SzUyRHhEZkpuVWhGdFRQc0tDQXF6ODVnUjVFX1hXV2xPZkNmNUo5bWxGNTFyZEdFbFU4Nm82UnJsVHVEM3lMN1lpaXJvVWEtWXdyQTBRdjZqbFAteHJKWkpIcGI4b213?oc=5",
+   "source": "GoogleNews·香港01",
+   "domain": "memory",
+   "published": "2026-10-17",
+   "summary": "",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "bt": 0,
+   "co": [
+    "长鑫存储"
+   ]
   },
   {
    "id": "8df73e95eadb309d6ee131edf471ecf9458e170b",
