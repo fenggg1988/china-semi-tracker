@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-27 13:54:56",
- "count": 950,
+ "updated": "2026-10-27 14:01:58",
+ "count": 951,
  "items": [
   {
    "id": "a84c23b28f60c65c11d09b43dc675ad95927629c",
@@ -379,6 +379,19 @@
    "co": [
     "长江存储"
    ]
+  },
+  {
+   "id": "b0fefb25cfa661556f64275f0317a17efc5bda89",
+   "title": "中国光模块没上FCC受限清单，为什么下一代产品反而更危险？",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pWFFLZlFzc29tX3o1TGxrZ19qcEZvMldtMTFCdHIwdnhBZGtmd3RJVWZQQTBwZ3V0SHRpOWRWM21NaUtzMW9JZ2V2SWE1Um1MUWxNU25B?oc=5",
+   "source": "GoogleNews·QQ News",
+   "domain": "optical_comm",
+   "published": "2026-10-15",
+   "summary": "",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "bt": 0,
+   "co": []
   },
   {
    "id": "8df73e95eadb309d6ee131edf471ecf9458e170b",
@@ -8629,7 +8642,7 @@
    "published": "2026-10-16",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-26",
+   "last_seen": "2026-10-27",
    "bt": 0,
    "co": []
   },
@@ -10212,7 +10225,7 @@
    "published": "2026-10-14",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-25",
+   "last_seen": "2026-10-27",
    "bt": 2,
    "co": []
   },
@@ -11652,7 +11665,7 @@
    "published": "2026-10-08",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-22",
+   "last_seen": "2026-10-27",
    "bt": 0,
    "co": []
   },
