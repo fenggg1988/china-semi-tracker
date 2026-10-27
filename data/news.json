@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-27 15:14:15",
- "count": 956,
+ "updated": "2026-10-27 21:49:29",
+ "count": 971,
  "items": [
   {
    "id": "a84c23b28f60c65c11d09b43dc675ad95927629c",
@@ -111,6 +111,19 @@
    "co": [
     "长江存储"
    ]
+  },
+  {
+   "id": "d4ceff079e6e60a0430c5517dc3814ab73fa872d",
+   "title": "中国芯片产业迎来突破时刻|SpaceX|长鑫科技|芯片_新浪新闻",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE80SUJtbkdQY2xneDhiUjZ2OVU1UU9KX19aV1h3NHNXcGpDZlFZYy1zY3Blb3R2ODMzUHBwdnY1N2FpZ3loS2VJZ0NuX18zdjZpN0w3V1p0STgzRE9mQVEyb2ZIaw?oc=5",
+   "source": "GoogleNews·手机新浪网",
+   "domain": "memory",
+   "published": "2026-10-27",
+   "summary": "",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "bt": 2,
+   "co": []
   },
   {
    "id": "a4e3eaee968b07920750c363052eaded912596cd",
@@ -448,6 +461,155 @@
    "co": []
   },
   {
+   "id": "e55271343b804933db2863668405884850b5a364",
+   "title": "iPhone 18e传闻曝光：升级2nm A20芯片 外观与屏幕或基本不变",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584038.htm",
+   "source": "cnBeta",
+   "domain": "logic",
+   "published": "2026-10-27",
+   "summary": "苹果下一代入门级手机 iPhone 18e 的部分规格近日曝光。根据知名爆料人士 Digital Chat Station 的最新消息，这款预计于2027年春季推出的新机，将搭载全新的A20处理器，但整体设计可能不会偏离现款 iPhone 17e 太远。苹果似乎仍将延续e系列的产品策略，把核心性能升级作为主要卖点，而不",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "647789db6b21cdfb6da662d6c46d6f76ef2ecf29",
+   "title": "中国DRAM自主化进程受阻 科技巨头转向三星与SK海力士签署十年长约",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584034.htm",
+   "source": "cnBeta",
+   "domain": "memory",
+   "published": "2026-10-27",
+   "summary": "最新行业报告显示，尽管中国近年来持续推进存储芯片国产化战略，但在高性能DRAM领域实现完全自主供应仍面临巨大挑战。由于本土厂商产能和技术能力暂时无法满足市场需求，包括阿里巴巴、腾讯和字节跳动在内的多家中国科技巨头正寻求与三星电子及SK海力士签署长达十年的长期供应协议，以确保未来服务器内存供应稳定。 阅读全文",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "063e6d44b8be1c8d015d3672b6774b03d8d2ff9d",
+   "title": "荷兰专家：中国当初囤积大量ASML DUV光刻机 为的就是与美国打持久战",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0ySThOa0FqY1FOZUJLeGZiNENIekRyNEx2Q1VnNjZhTlB1OXAwUy1JS05ZT01BeHdiNTNIbHNEcm1KYkRqTWFkMEYxR3NFNWhZRTUwbElaUlg?oc=5",
+   "source": "GoogleNews·驱动之家",
+   "domain": "litho_machine",
+   "published": "2026-10-27",
+   "summary": "",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "1ed005bc367b0611dc9399071f68d9b8d2d7056d",
+   "title": "[三季报]鼎龙股份(300054):2026年三季度报告",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jc3R0VndmX1hrSm9EdUR6NnBnU0JteFBsY2c0RHJKd2UxTmxpRXdjR0lIb2tYNHl2NUE3UnFMbkQ3VFZFdG8yTHBlS2N2UVc1MDBwNDBn?oc=5",
+   "source": "GoogleNews·中财网",
+   "domain": "photoresist",
+   "published": "2026-10-27",
+   "summary": "",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "bt": 0,
+   "co": [
+    "鼎龙股份"
+   ]
+  },
+  {
+   "id": "05ccfbd7d60d71e09468f830d90b2b08df595907",
+   "title": "恒运昌：国产等离子体射频电源系统市占率居首 创新驱动打破海外巨头垄断",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9hUXRWVmFQWnlTVDVSZEpTTFdzZnkwRFdiYVBrYWtQQmNjei1qekUwQ0twREdCcFFIOXZ5RlU3VkVQcXNIVHFYekhSS0dteWxqSzRLUEVnb2U?oc=5",
+   "source": "GoogleNews·文轩新闻",
+   "domain": "litho_power",
+   "published": "2026-10-27",
+   "summary": "",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "904901f45854a31980af34fd18601e69b0565d80",
+   "title": "吹雪海景房专属！长江存储致态TiPro9000吹雪联名版图赏",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXZjNCQzFvYmhhU3JfVUJ5eC1hTmt2Q2JHOUUtZ2premhqU1Zva0tIU1Q0d2l6M1JkRTkzYWM0NkJWUk1KdWJGUHZLRmhUQjhiMDdZc3RIQV8?oc=5",
+   "source": "GoogleNews·驱动之家",
+   "domain": "memory",
+   "published": "2026-10-27",
+   "summary": "",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "bt": 0,
+   "co": [
+    "长江存储"
+   ]
+  },
+  {
+   "id": "50fb3773fb4ffc0f6ce6ff698178e2fa67f7b1da",
+   "title": "中国照搬三星电子和SK海力士的成功公式……推动双雄竞争，打造综合型存储芯片企业",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1MTDN1RU1HbEZGbGQ3Rlk4cDR2THZtZEFBRVlWTTJLVlZJckgzcFV2M2NrQkpyYk8yRTBtVW9RNGF1cF9lQXotMzJCa0N4YjFod2N3?oc=5",
+   "source": "GoogleNews·매일경제",
+   "domain": "memory",
+   "published": "2026-10-27",
+   "summary": "",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "e508d7c403cd86381eecf8b396b72e8ee45f540f",
+   "title": "美光跳过4F2直攻3D DRAM！三星、长鑫却先押4F：谁的路更对",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zU3ltRjlrWWhKY1BiUmhZaDJfODRhejBzeXVVY1N0Z1E4NlJhSGVuUUQtZ3h6Wl8tOFR1OFZHMURQNmNBMFFsN0hZbF9lRUlmM0t1SF9Xekw?oc=5",
+   "source": "GoogleNews·驱动之家",
+   "domain": "memory",
+   "published": "2026-10-27",
+   "summary": "",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "868ce41cd269e68d504b6a4e6c3722ebc235348a",
+   "title": "不愿被苹果当枪使！长鑫存储拒绝降价，底气从何而来？",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMFZUNUUySEs0cXV3OVdxUWdBTGhJTGxLaFZISlZ4N3hBb0M1TW0wem9NamIxMUJCc2NxTm1vTzc2c1RVT2lnWHZEU2stblRaQ2JCdGhUbC1tRmZsTzYtYjBNZU1NTExvMExDT1BfRHhSOTN4YkdkQ0duUFZjNlBEdm9PTmwyRjRl?oc=5",
+   "source": "GoogleNews·搜狐网",
+   "domain": "memory",
+   "published": "2026-10-27",
+   "summary": "",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "bt": 0,
+   "co": [
+    "长鑫存储"
+   ]
+  },
+  {
+   "id": "f5d2bcf20d9b990dcbb475deba17ac3f3f07708a",
+   "title": "中国DRAM自主化进程受阻科技巨头转向三星与SK海力士签署十年长约- 硬件",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zZTlHTV9vdDNZdDNyU3pOVE1SVnNuZW8yTzFFTGltWjFyeEtoQzBxMFZWYUdTQ01kcUtwZDBvdkx1Q0FmZUNFYWc3TjBMSHl1YkN6UzZrM2djR1ExQUpiSg?oc=5",
+   "source": "GoogleNews·cnBeta.COM",
+   "domain": "memory",
+   "published": "2026-10-27",
+   "summary": "",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "e1a51dbdf7b15020e92b878cf6e587f13058d7e3",
+   "title": "科创50ETF平安(589150)近11日合计“吸金”7233.28万元，三星将采用台积电3纳米工艺为英伟达生产下一代HBM基底裸片",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1keXR2ZXI5MGFuWmpndXZ2emJ5ZERCYkd2T2tqZXpaWUU4a3VvRE5tcHJWRDZqcllWblVhRFlBZVJFcHJTd1RCcWdvdkkxbDQ4VDl1V3hrSkd3RC1BNzVqMlplT1kteThscjJPd2JWbmMwWVl6dkdkOQ?oc=5",
+   "source": "GoogleNews·新浪财经",
+   "domain": "memory",
+   "published": "2026-10-19",
+   "summary": "",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "bt": 0,
+   "co": []
+  },
+  {
    "id": "8df73e95eadb309d6ee131edf471ecf9458e170b",
    "title": "多笔十亿级融资，涌向国产算力芯片",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBYXF0NTN4anp5eks3VWdYaWRYcC02Mk5ubFhMQUtsOU9wRnlZdkNFT1hpaTdzV0hyTFBxN2xfRVlxYmtBSUJicEZfR1NlV2ZmZkxLdERlZF9BQQ?oc=5",
@@ -507,6 +669,47 @@
    "title": "长鑫科技市值重回3万亿",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9WdDR0bnVJWkFzVjFzYzZUajlmQVdYai1XZEo1WXFCWXNSNmlRRXg5RmNqMS0wcTB3c2RZS2IzQ1pDMlJ4MXZueTFKV0FCYWItRk1IdWViMEFYWDVsLXZxbXRzR2JDeVRuOW5LWDFn?oc=5",
    "source": "GoogleNews·中华网财经",
+   "domain": "memory",
+   "published": "2026-10-27",
+   "summary": "",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "bt": -3,
+   "co": []
+  },
+  {
+   "id": "7a50ce8c351f5d940d02bd1a3694bcc7578ea996",
+   "title": "鼎龙股份前三季度归母净利润同比增64% 半导体材料主业加速放量",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhcjZaN2F5bEQ3eHppSmRwb1BGWXF2SUJUYWJQMW5EalFQWXZkSkNsU2tMQlZLNFdtRmVPVnEzTFg3QXNweVJEZlZwdTN1aW44dkpTVkt1WDdybDBkQ2tTLQ?oc=5",
+   "source": "GoogleNews·证券之星",
+   "domain": "photoresist",
+   "published": "2026-10-27",
+   "summary": "",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "bt": -3,
+   "co": [
+    "鼎龙股份"
+   ]
+  },
+  {
+   "id": "fc7eeb52cd156ce3c027afd343d31da44252a08a",
+   "title": "Anthropic公开IPO文件提振AI板块情绪，长鑫科技市值重返3万亿元",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmS0lOaWk3MkNoVmlBWWRBck80cTAtd3JBX24tVTgwQi1fdkVtV1pxNGFLOXk5dG1KWVB3VTMya3poeHdyVE1qakpXOXhZV2VMYS15LQ?oc=5",
+   "source": "GoogleNews·Forbes China",
+   "domain": "memory",
+   "published": "2026-10-27",
+   "summary": "",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "bt": -3,
+   "co": []
+  },
+  {
+   "id": "c26e5dc34f7244dbd9f3701e46eb740a869cd639",
+   "title": "长鑫科技大涨，市值重回3万亿元",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRjV6bnJVWUt0STJmRXhfZ3k0cDlZTWxjN3dxT1ExdHpVUUxRRGVfREJwNmhXTVhxU0hCUEpXV3FGLUpyV1Y1eVdmX1NTS0gtbUg1WExaaHY3cjZEWkxGLU9RNGJmbms4LXNDX3pGeHhRZTVneVJfc29UaEN4cEw5SENSTHJ0Z0c3SnZRMExNTllZckN5WE4xeml3ZTZLT1hCU2JpUFFTdFVjM0dLRElJWmxCZndpeEkwVmdJc3h2Q2k3bU15dmJ5Z2dMcUgxdw?oc=5",
+   "source": "GoogleNews·新浪财经",
    "domain": "memory",
    "published": "2026-10-27",
    "summary": "",
@@ -5739,7 +5942,7 @@
    "published": "2026-10-15",
    "summary": "",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-10-19",
+   "last_seen": "2026-10-27",
    "bt": 0,
    "co": []
   },
@@ -8094,7 +8297,7 @@
    "published": "2026-10-12",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-19",
+   "last_seen": "2026-10-27",
    "bt": 2,
    "co": []
   },
@@ -9592,7 +9795,7 @@
    "published": "2026-10-14",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-24",
+   "last_seen": "2026-10-27",
    "bt": 4,
    "co": [
     "长鑫存储"
