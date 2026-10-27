@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-27 13:48:57",
- "count": 948,
+ "updated": "2026-10-27 13:54:56",
+ "count": 950,
  "items": [
   {
    "id": "a84c23b28f60c65c11d09b43dc675ad95927629c",
@@ -351,6 +351,34 @@
    "last_seen": "2026-10-27",
    "bt": 0,
    "co": []
+  },
+  {
+   "id": "bf7f8982e8a175fc6dcbe7fb22b0a22fe120dd40",
+   "title": "就在明天｜上海「硅光」产业研讨会！",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5RdzVGeW9kSWR5bmplWl8zdUVPN1VrSlFjU0dqRjk2SUEwTTVtYlZKZGFacHVvU19XaUVwZm9lbEhIU3lrdDFtQl80RHBNRWwyZlJwaWk2M1NwNEJfQ1h0dUZZUTFqNGd0ZzNn?oc=5",
+   "source": "GoogleNews·财富号",
+   "domain": "optical_comm",
+   "published": "2026-10-13",
+   "summary": "",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "312a42cd65158ec3b66e827f244de3437a03e895",
+   "title": "传三星、SK海力士寻求升级中国工厂：要抢AI订单，还要防长江存储抢份额",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRGhaQ1gzN3RCNEhPaDhYZWtqVUlQLUQzMTJSTVJmdjhNUjJRSC1TUzdUVlpYNG5JbjUxMURISEl3TTc0OXA5YllKLW5nWERYRy1FcDBKNWJUcWlLM3UxZk1lUW53VWs3bmhDSk1JVjlFdG1xY0l4X0o2aDNvWWlLUTFBSkRkclcxVTlKbFNTcmU3SHQ1M3YwcTB0T1lxMUU?oc=5",
+   "source": "GoogleNews·富途牛牛",
+   "domain": "memory",
+   "published": "2026-10-21",
+   "summary": "",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "bt": 0,
+   "co": [
+    "长江存储"
+   ]
   },
   {
    "id": "8df73e95eadb309d6ee131edf471ecf9458e170b",
@@ -1498,7 +1526,7 @@
    "published": "2026-10-23",
    "summary": "",
    "first_seen": "2026-10-25",
-   "last_seen": "2026-10-26",
+   "last_seen": "2026-10-27",
    "bt": 0,
    "co": []
   },
@@ -3977,7 +4005,7 @@
    "published": "2026-10-20",
    "summary": "",
    "first_seen": "2026-10-21",
-   "last_seen": "2026-10-22",
+   "last_seen": "2026-10-27",
    "bt": 0,
    "co": [
     "中芯国际"
@@ -4800,7 +4828,7 @@
    "published": "2026-10-13",
    "summary": "",
    "first_seen": "2026-10-20",
-   "last_seen": "2026-10-26",
+   "last_seen": "2026-10-27",
    "bt": 2,
    "co": []
   },
@@ -5252,7 +5280,7 @@
    "published": "2026-10-10",
    "summary": "",
    "first_seen": "2026-10-20",
-   "last_seen": "2026-10-21",
+   "last_seen": "2026-10-27",
    "bt": 0,
    "co": []
   },
