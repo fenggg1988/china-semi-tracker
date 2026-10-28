@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-28 14:27:20",
- "count": 995,
+ "updated": "2026-10-28 14:41:24",
+ "count": 997,
  "items": [
   {
    "id": "c4cdae9329cfc540e7782cedeaccc6cbf32b48e6",
@@ -20,6 +20,21 @@
    "title": "中国长鑫存储计划量产先进AI内存芯片，但良率偏低 提供者 Investing.com",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9UZkd5ZG01cU5ia0FYLVd4bzJCOFRPTHlpMlFWbjZZLTFyckYwMjE5OGdJUXZsV1Q5NTJRaHd3NE9TNTdnbVNuMFNfazhvNWVJRlJ1UnVnaWdDQlhiQjBocnNidUROeFNUWGJNYlhIbmM?oc=5",
    "source": "GoogleNews·英为财情 Investing.com",
+   "domain": "memory",
+   "published": "2026-10-28",
+   "summary": "",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "bt": 4,
+   "co": [
+    "长鑫存储"
+   ]
+  },
+  {
+   "id": "4217e561422fc52a0063bb8a624deb4b73476949",
+   "title": "英媒：先进晶片良率低至20% 长鑫存储仍推动量产",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12OGE0U3VCTGNPaEh6TlVDaDdHV3h1VHBOM1JDQmpybHVPUGtIUEVxdDdoWTJpQlprN1JnTVdkRkF1NUpDTkplbmdBbjFZUkVuLVVXRWs5Z1NCR3ppNUF3V3F0R2EtLWkwcGc?oc=5",
+   "source": "GoogleNews·联合早报",
    "domain": "memory",
    "published": "2026-10-28",
    "summary": "",
@@ -310,6 +325,21 @@
    "last_seen": "2026-10-28",
    "bt": 0,
    "co": []
+  },
+  {
+   "id": "3291ce6417d0ba2e633219f4692c303db3c3f7c4",
+   "title": "换道突围！华为韬定律破局EUV封锁，它的核心底座就是盛合晶微",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNSTk3TWxSLXg5cld3RmRBOWloQnI3VXFaVU43bUNwdlRfTklKam9tZEpTWFJPcnhpUHNKS2hzeTJDLWU3MlhEeEdqQnU1V1d1VDROMDFDd183M2Z4V3ZOZTNUeDRBR18weHAwWWhESkJBUTNycHVDNFprbUcybjhjenJQaFZRZFl4TC1EMDdrZ1NkX21DMU9lQVMzSGFMVUZLdXpUS2dkcUZkN2g0M2VyVm1yQkp5TWw5Mml0XzFFckl3RDVoN0Q3ci0xeE9vMVR4TS11eU1GMmV5cWQ0N3NlRjNlb2FSRFZoNE84d25oRXJEN3VId0ZlYWV3WDFSb2pVS2c?oc=5",
+   "source": "GoogleNews·财富号",
+   "domain": "litho_machine",
+   "published": "2026-10-27",
+   "summary": "",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "bt": 0,
+   "co": [
+    "华为"
+   ]
   },
   {
    "id": "82832d3e35fad4ea3580e04861645a04f01718a3",
@@ -672,7 +702,7 @@
    "published": "2026-10-27",
    "summary": "",
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "bt": 0,
    "co": []
   },
@@ -929,7 +959,7 @@
    "published": "2026-10-19",
    "summary": "",
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "bt": 0,
    "co": []
   },
@@ -1904,7 +1934,7 @@
    "published": "2026-10-23",
    "summary": "",
    "first_seen": "2026-10-25",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "bt": 2,
    "co": []
   },
@@ -2337,7 +2367,7 @@
    "published": "2026-10-23",
    "summary": "",
    "first_seen": "2026-10-25",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "bt": -3,
    "co": []
   },
@@ -2432,7 +2462,7 @@
    "published": "2026-10-24",
    "summary": "",
    "first_seen": "2026-10-24",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "bt": 2,
    "co": []
   },
@@ -2512,7 +2542,7 @@
    "published": "2026-10-23",
    "summary": "",
    "first_seen": "2026-10-24",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "bt": 0,
    "co": []
   },
@@ -3797,7 +3827,7 @@
    "published": "2026-10-21",
    "summary": "",
    "first_seen": "2026-10-22",
-   "last_seen": "2026-10-22",
+   "last_seen": "2026-10-28",
    "bt": 2,
    "co": []
   },
@@ -4335,7 +4365,7 @@
    "published": "2026-10-22",
    "summary": "",
    "first_seen": "2026-10-22",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "bt": 0,
    "co": []
   },
@@ -6210,7 +6240,7 @@
    "published": "2026-10-19",
    "summary": "",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "bt": 2,
    "co": []
   },
@@ -6595,7 +6625,7 @@
    "published": "2026-10-19",
    "summary": "",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "bt": 0,
    "co": []
   },
@@ -6660,7 +6690,7 @@
    "published": "2026-10-09",
    "summary": "",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "bt": 0,
    "co": []
   },
@@ -6902,7 +6932,7 @@
    "published": "2026-10-19",
    "summary": "",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "bt": 0,
    "co": []
   },
@@ -7732,7 +7762,7 @@
    "published": "2026-10-14",
    "summary": "",
    "first_seen": "2026-10-17",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "bt": 2,
    "co": []
   },
@@ -8318,7 +8348,7 @@
    "published": "2026-10-17",
    "summary": "",
    "first_seen": "2026-10-17",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "bt": -3,
    "co": []
   },
@@ -9646,7 +9676,7 @@
    "published": "2026-10-16",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "bt": 0,
    "co": []
   },
@@ -9700,7 +9730,7 @@
    "published": "2026-10-16",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "bt": 0,
    "co": []
   },
@@ -10026,7 +10056,7 @@
    "published": "2026-10-14",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "bt": 4,
    "co": []
   },
@@ -10832,7 +10862,7 @@
    "published": "2026-10-12",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "bt": 2,
    "co": []
   },
@@ -12073,7 +12103,7 @@
    "published": "2026-10-13",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "bt": 0,
    "co": []
   },
@@ -12340,7 +12370,7 @@
    "published": "2026-10-13",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "bt": 0,
    "co": []
   },
@@ -13341,7 +13371,7 @@
    "published": "2026-10-08",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "bt": -3,
    "co": []
   },
