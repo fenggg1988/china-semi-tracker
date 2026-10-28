@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-28 14:02:45",
- "count": 993,
+ "updated": "2026-10-28 14:27:20",
+ "count": 995,
  "items": [
   {
    "id": "c4cdae9329cfc540e7782cedeaccc6cbf32b48e6",
@@ -286,6 +286,32 @@
    "co": []
   },
   {
+   "id": "c3c7770ac89e0ef471fd3c9d0784159fabe9dc9a",
+   "title": "FCC阴影下，中国光芯片的生死竞速",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wVDRWTDVFZ2xkNU9YTG5naGgycXZCNk9SRUdSN2xSdjF3bEdvNDhIYklZZzZ1WmJISVR5MS1UcTMwdzhrcldoa2J3cUJCZlE4UXU0OGViMGhPR1pDVkM5T09Ib1lCSlZjNGZV?oc=5",
+   "source": "GoogleNews·投中网",
+   "domain": "optical_comm",
+   "published": "2026-10-26",
+   "summary": "",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "9c2dfa936cb09e2a0d8c1518b5de77fabff57c37",
+   "title": "联讯仪器：公司系全球第二家推出1.6T光模块全部核心测试仪器的厂商_公司新闻_财经",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKdjZpc3F6MWgwY1huakJLS2tFRkQ4VElWOUx0aldoUlV4ZXRyZnBuZ1V6dlllU1lnNDVYeUQ0ZVBSeHozc3BVZWxScnJzcHN3cVowZ2l2SmR3NFgtdGFVRw?oc=5",
+   "source": "GoogleNews·证券之星",
+   "domain": "optical_comm",
+   "published": "2026-10-23",
+   "summary": "",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "bt": 0,
+   "co": []
+  },
+  {
    "id": "82832d3e35fad4ea3580e04861645a04f01718a3",
    "title": "长江存储与美光专利诉讼最新进展",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRDJDakRkZXVmc19Md3lvMjVPZFB5T2FhTGV0NE9PVE5nbjEtbkhudVRRMWo0OV9teWE3akdrdXREWnM1a3Y1bk9hME1TT3JsLVgzaS1GYklxdERRZjBxVE1CQ0NrUzh4MVJFTEc1d29FalRpblFjbEg0cllqZFg4QjBJd3RRUWUtYUdCaw?oc=5",
@@ -350,7 +376,7 @@
    "published": "2026-10-11",
    "summary": "",
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "bt": 2,
    "co": []
   },
@@ -514,7 +540,7 @@
    "published": "2026-10-21",
    "summary": "",
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "bt": 0,
    "co": []
   },
@@ -700,7 +726,7 @@
    "published": "2026-10-15",
    "summary": "",
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "bt": 0,
    "co": []
   },
@@ -1355,7 +1381,7 @@
    "published": "2026-10-24",
    "summary": "",
    "first_seen": "2026-10-26",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "bt": 0,
    "co": []
   },
@@ -2285,7 +2311,7 @@
    "published": "2026-10-11",
    "summary": "",
    "first_seen": "2026-10-25",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "bt": -3,
    "co": []
   },
@@ -2512,7 +2538,7 @@
    "published": "2026-10-24",
    "summary": "",
    "first_seen": "2026-10-24",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "bt": 0,
    "co": []
   },
@@ -2678,7 +2704,7 @@
    "published": "2026-10-24",
    "summary": "",
    "first_seen": "2026-10-24",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "bt": 0,
    "co": []
   },
@@ -3325,7 +3351,7 @@
    "published": "2026-10-23",
    "summary": "",
    "first_seen": "2026-10-23",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "bt": 0,
    "co": []
   },
@@ -4108,7 +4134,7 @@
    "published": "2026-10-22",
    "summary": "",
    "first_seen": "2026-10-22",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "bt": 0,
    "co": [
     "长江存储"
@@ -4335,7 +4361,7 @@
    "published": "2026-10-21",
    "summary": "",
    "first_seen": "2026-10-22",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "bt": 0,
    "co": [
     "长江存储"
@@ -5076,7 +5102,7 @@
    "published": "2026-10-21",
    "summary": "",
    "first_seen": "2026-10-21",
-   "last_seen": "2026-10-23",
+   "last_seen": "2026-10-28",
    "bt": 0,
    "co": []
   },
@@ -5089,7 +5115,7 @@
    "published": "2026-10-21",
    "summary": "",
    "first_seen": "2026-10-21",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "bt": 0,
    "co": []
   },
@@ -5684,7 +5710,7 @@
    "published": "2026-10-09",
    "summary": "",
    "first_seen": "2026-10-20",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "bt": 0,
    "co": []
   },
@@ -5697,7 +5723,7 @@
    "published": "2026-10-15",
    "summary": "",
    "first_seen": "2026-10-20",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "bt": 0,
    "co": [
     "中际旭创"
@@ -6029,7 +6055,7 @@
    "published": "2026-10-19",
    "summary": "",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "bt": 4,
    "co": []
   },
@@ -6727,7 +6753,7 @@
    "published": "2026-10-19",
    "summary": "",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "bt": 0,
    "co": []
   },
@@ -6930,7 +6956,7 @@
    "published": "2026-10-12",
    "summary": "",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "bt": -3,
    "co": []
   },
@@ -8117,7 +8143,7 @@
    "published": "2026-10-17",
    "summary": "",
    "first_seen": "2026-10-17",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "bt": 0,
    "co": []
   },
@@ -8731,7 +8757,7 @@
    "published": "2026-10-15",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "bt": 2,
    "co": []
   },
@@ -8934,7 +8960,7 @@
    "published": "2026-10-15",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "bt": 0,
    "co": []
   },
@@ -8973,7 +8999,7 @@
    "published": "2026-10-15",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "bt": 0,
    "co": []
   },
@@ -9027,7 +9053,7 @@
    "published": "2026-10-15",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "bt": 0,
    "co": []
   },
@@ -9210,7 +9236,7 @@
    "published": "2026-10-16",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "bt": 0,
    "co": []
   },
@@ -9464,7 +9490,7 @@
    "published": "2026-10-15",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "bt": 0,
    "co": []
   },
@@ -11982,7 +12008,7 @@
    "published": "2026-10-12",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "bt": 0,
    "co": []
   },
@@ -12008,7 +12034,7 @@
    "published": "2026-10-13",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "bt": 0,
    "co": []
   },
@@ -12060,7 +12086,7 @@
    "published": "2026-10-14",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "bt": 0,
    "co": []
   },
@@ -12179,7 +12205,7 @@
    "published": "2026-10-09",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "bt": 0,
    "co": []
   },
