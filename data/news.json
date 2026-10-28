@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-28 14:50:07",
- "count": 1013,
+ "updated": "2026-10-28 15:53:21",
+ "count": 1022,
  "items": [
   {
    "id": "c4cdae9329cfc540e7782cedeaccc6cbf32b48e6",
@@ -46,6 +46,19 @@
    ]
   },
   {
+   "id": "4304b2b34395fe286fd1d6ce0cd7311235b28f04",
+   "title": "长鑫宣布内存技术突破，领先三星、海力士",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPTHBuTnFmYjNteExPbzlXQ1N1ZjRHMUJaYTNSaHdsZGJieGc1RGwzZXhYbmxzY2duVzhRWHJlWUl3djk4eFo2dWJIWHhiNGxrZ25r?oc=5",
+   "source": "GoogleNews·搜狐网",
+   "domain": "memory",
+   "published": "2026-10-14",
+   "summary": "",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "bt": 4,
+   "co": []
+  },
+  {
    "id": "eb722f139215307bc0a17d09d50df6c00560a01c",
    "title": "前英特尔 CEO 基辛格押注新 AI 内存：Z2RAM 拟绕开 EUV 光刻，4 年内送样",
    "url": "https://www.ithome.com/1/018/887.htm",
@@ -85,6 +98,36 @@
    "last_seen": "2026-10-28",
    "bt": 2,
    "co": []
+  },
+  {
+   "id": "1c6b759b87fcaa99e818343d49748421ebce5c38",
+   "title": "华为 Pura90 Plus 手机发布：首发麒麟 9025 芯片，焕新优惠价 5199 元起",
+   "url": "https://www.ithome.com/1/018/915.htm",
+   "source": "IT之家",
+   "domain": "logic",
+   "published": "2026-10-28",
+   "summary": "IT之家 10 月 28 日消息，华为双十一焕新季全场景新品发布会正在举行，华为 Pura90 Plus 手机正式发布，首发搭载麒麟 9025 芯片，焕新优惠价 5199 元起。新机提供霞光紫、晨曦金、曜石黑、雪域白配色，采用弧形金属中框、手感温润一体设计，6.8 英寸等深四曲屏。影像方面，新机搭载 5000 万像素一",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "bt": 2,
+   "co": [
+    "华为"
+   ]
+  },
+  {
+   "id": "bab8007afe81004be71fad7fb7deee85dcdcebea",
+   "title": "中泰证券:《自研硅光赋能AI光互联，智能制造与感知拓展成长空间｜000988华工科技投资分析》",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5nLXlhUnhSc1BXWm5yOTRqZUpoYzl2SF9xNTQwTi1Bb1hCUkRzVUN5bE1KbUtRYzdNQUIxMl9lRnF4Z0hYWVE1UTcxaVJ0LU1o?oc=5",
+   "source": "GoogleNews·发现报告",
+   "domain": "optical_comm",
+   "published": "2026-10-27",
+   "summary": "",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "bt": 2,
+   "co": [
+    "华工科技"
+   ]
   },
   {
    "id": "830170293b0f1cadc6778f80ec9c98c2cad17dd7",
@@ -550,6 +593,92 @@
    "last_seen": "2026-10-28",
    "bt": 0,
    "co": []
+  },
+  {
+   "id": "d871db89548ce6489bd3ba0dc8ea331c9772d392",
+   "title": "上市满三个月，长鑫科技正式被纳入上证指数位列第一大权重股",
+   "url": "https://www.ithome.com/1/018/935.htm",
+   "source": "IT之家",
+   "domain": "memory",
+   "published": "2026-10-28",
+   "summary": "IT之家 10 月 28 日消息，根据中证指数公司网站最新披露数据，长鑫科技已被纳入上证综合指数，权重为 4.67%，位列第一大权重股。农业银行、工商银行紧随其后，权重分别为 3.83% 和 3.77%。与长鑫科技于 2026 年 7 月 27 日登陆科创板，至 10 月 27 日正好满三个月。根据上证综合指数编制方案",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "480ced571f5f04562bbc38e162b1b81321f9a1d0",
+   "title": "华为畅享 100 手机发布：搭载麒麟 8000S 芯片，1399 元起",
+   "url": "https://www.ithome.com/1/018/922.htm",
+   "source": "IT之家",
+   "domain": "logic",
+   "published": "2026-10-28",
+   "summary": "IT之家 10 月 28 日消息，华为畅享 100 标准版今天在华为双十一焕新季 · 全场景新品发布会上发布，售价 1399 元起，将于 10 月 31 日 10:08 开售。IT之家附具体售价如下：128GB 版 1399 元256GB 版 1699 元华为畅享 100 标准版搭载麒麟 8000S 芯片，提供 128",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "bt": 0,
+   "co": [
+    "华为"
+   ]
+  },
+  {
+   "id": "9a6e047a3fc0b3cb07d805ebbee2dbb224b0f8ec",
+   "title": "华为畅享 100 Pro 手机发布：定位“轻盈小直屏”、麒麟 8020A 加持，1799-2699 元",
+   "url": "https://www.ithome.com/1/018/920.htm",
+   "source": "IT之家",
+   "domain": "logic",
+   "published": "2026-10-28",
+   "summary": "IT之家 10 月 28 日消息，在今天下午的华为双十一焕新季全场景新品发布会上，华为畅享 100 Pro 手机正式发布。该机搭载麒麟 8020A 芯片 + 鸿蒙 7，电池容量为 6100mAh，定位“轻盈小直屏”，重量仅有 192g。京东华为畅享 100 Pro 幻夜黑 128GB1799 元直达链接新机将于 10 ",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "bt": 0,
+   "co": [
+    "华为"
+   ]
+  },
+  {
+   "id": "0eebd9e72ace1e95587d7dacd848b709601b1f83",
+   "title": "华为畅享 100 Pro Max 手机发布：8800mAh 巨鲸电池、至高麒麟 8020 处理器，1999 元起",
+   "url": "https://www.ithome.com/1/018/919.htm",
+   "source": "IT之家",
+   "domain": "logic",
+   "published": "2026-10-28",
+   "summary": "IT之家 10 月 28 日消息，在今天的华为双十一焕新季 · 全场景新品发布会上，华为董事、终端 BG CEO 何刚正式发布了畅享 100 Pro Max 手机，至高搭载麒麟 8020 处理器、内置 8800mAh 巨鲸大电池，定价 1999 元起。128GB 规格：1999 元；256GB 规格：2399 元；51",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "bt": 0,
+   "co": [
+    "华为"
+   ]
+  },
+  {
+   "id": "2ab16f72f5b3280df4fb80dfcf023e473eb036ef",
+   "title": "芯片设备国产率：高的达到了90%，低的光刻机仅1%",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRHFWSjJVLUhoWFF2dWNpMTBfZElPek1MMXRFQVRJOG1yU1VPTHk5bnhLRFI5bkRvVEZCdlZBNlNIM19ucmVTS2JaSmFadEJFMmhwaDd2RWFQX0syZVVQR1NVcmdBUkdjWWdISVdyMVd6c1cwUUhrVFFLVV9mZHMxZkRoQXJoUjE0Q2Q0ZQ?oc=5",
+   "source": "GoogleNews·搜狐网",
+   "domain": "litho_machine",
+   "published": "2026-10-28",
+   "summary": "",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "7fe3c298c372fd31fb2298105b0806fd3e4ceb1f",
+   "title": "英杰电气：长江存储是公司控股子公司英杰晨晖的客户",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQS1Y4ZHNLOHpCQjI4SElNUHBZTmRpWlZIVEZTYmZSSEVJeDFfYThBNUZJWXV0d2ZzdVNkOExENm1xRUdFaktPUHFRY2VoWkhFVURNc3Ytc0tvSzdheC1wRzVSZnNHXzN3a1V3N1Q1NlREVFhUc09xSXZOdVJpZkdhZ05oV1VMSEtRVTJ0Tg?oc=5",
+   "source": "GoogleNews·搜狐网",
+   "domain": "memory",
+   "published": "2026-10-28",
+   "summary": "",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "bt": 0,
+   "co": [
+    "长江存储"
+   ]
   },
   {
    "id": "82832d3e35fad4ea3580e04861645a04f01718a3",
