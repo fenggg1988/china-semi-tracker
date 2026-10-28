@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-28 15:53:21",
- "count": 1022,
+ "updated": "2026-10-28 22:45:45",
+ "count": 1045,
  "items": [
   {
    "id": "c4cdae9329cfc540e7782cedeaccc6cbf32b48e6",
@@ -127,6 +127,21 @@
    "bt": 2,
    "co": [
     "华工科技"
+   ]
+  },
+  {
+   "id": "20ec3d74837e5cf123c747c4e30687ba1a629fa7",
+   "title": "中国长鑫存储（CXMT）启动HBM3E试产，加速实现AI内存自主化……与SK海力士技术差距依然存在",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4zWGRfeTBEVXc2QUpYSkFqRk1XVmZkckRzMC1VTllaYzFCZWVtMDJ2TzRfXzRHYm4tZkxEeENVVDZ4LUFtc2dZM18ycHZXU09BQ19YZzRiSEgwUkN6b0lQZ0JR?oc=5",
+   "source": "GoogleNews·재경일보",
+   "domain": "memory",
+   "published": "2026-10-28",
+   "summary": "",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "bt": 2,
+   "co": [
+    "长鑫存储"
    ]
   },
   {
@@ -681,6 +696,230 @@
    ]
   },
   {
+   "id": "ddcf2d962d75b3b5b021c0879b6837949a64b00f",
+   "title": "SK海力士：AI推理推动分层存储，NAND将迎来KV缓存新需求",
+   "url": "https://www.chinaflashmarket.com/a/184377",
+   "source": "闪存市场",
+   "domain": "memory",
+   "published": "",
+   "summary": "",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "a7953c2cd69bccfe589d92987c25990f47f12b4f",
+   "title": "“硬总线”能力升级：《星闪 SLE 3.0 技术标准演进蓝皮书》正式上线，华为、海思等参编",
+   "url": "https://www.ithome.com/1/019/191.htm",
+   "source": "IT之家",
+   "domain": "logic",
+   "published": "2026-10-28",
+   "summary": "IT之家 10 月 28 日消息，《星闪 SLE3.0 技术标准演进蓝皮书》已在国际星闪联盟官网正式上线。据介绍，该蓝皮书由国家级标准与研究机构、芯片企业、生态企业、高校等 60 余家单位共同编制，系统梳理星闪技术发展历程，描绘星闪技术演进路线与未来发展蓝图。星闪 3.0 阶段将围绕“高速可靠通信、高效测量、高质量组网",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "bt": 0,
+   "co": [
+    "海思",
+    "华为"
+   ]
+  },
+  {
+   "id": "af5c8a115c7dce178e3a5e59064b3172d8e777ff",
+   "title": "AI芯片需求挤压先进封装产能 台积电CoWoS传最高涨价两成",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584190.htm",
+   "source": "cnBeta",
+   "domain": "logic",
+   "published": "2026-10-28",
+   "summary": "台湾媒体引述供应链人士称，台积电正考虑再次上调CoWoS先进封装报价，涨幅可能达到10%至20%；晶圆代工厂和封装测试厂也在评估类似调整。台积电尚未证实这项涨价消息。 阅读全文",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "545a3ea65022a10dba0bc9cde99ef3864f431dba",
+   "title": "中国光刻设备市场：规模、趋势及至2035年的预测",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOX2FJQ01EaHZFOGVEaEdLWXdZRjFvWHV5YXBETVVvaU12T21haV9OdWJfNkZ1SUdjN2xFbWNXUVk1NlNuVnFQek45bXdOTkpDZDRibURyT1gxWkJ5ZDREamY2MHU2NEthLV9HdXVVbGtnWlVxSHhiMHU3UHM3SzhzVEc0ZGFEcmZlZkdFTm9iODQ0UFA3T1RrdWxYeWdmbjBUMXZ4OU03enpPYmV3T1c2RmJRbVhFVzBaNmFWci1R?oc=5",
+   "source": "GoogleNews·IndexBox",
+   "domain": "litho_machine",
+   "published": "2026-10-26",
+   "summary": "",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "6224669ab93faa56b6ad9203bf0a5cddfd2f928f",
+   "title": "越南首座国产芯片厂成了笑话？动工9个月原地躺平，地皮长满野草，光刻机还没谈下来",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORC1DaEZGd2ltQzA2ZnNGcmQ0a0xoaEJCX1pTLWlVQzk0d0pMRzBkU3hJNTR3YjlUWTltakpsbEFjRGNKclJqc1pRY0loMVBrVmo2SlNFTl9uaTg2TWtuY2piMkFjcGk0SUd5T3EwcEhSM1RoZTRGbE1oOUh3ejBXb2VNN3VldjhfdHhNNA?oc=5",
+   "source": "GoogleNews·搜狐网",
+   "domain": "litho_machine",
+   "published": "2026-10-28",
+   "summary": "",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "41de2e98f684db910caadd074bc36a76ac96c4e5",
+   "title": "正面硬刚三巨头！长鑫将启动HBM3E内存生产",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16QzJiYVZ6RHVxR0tJUTkzdjJfOXdaXzJTczRQXy1tVHRvX0s3czBuMkNiOXR1OFNsVEo4Y3JIa3BIeS1pbjVtM2E1dWpXSG9YS0JIdk1zaVk?oc=5",
+   "source": "GoogleNews·驱动之家",
+   "domain": "memory",
+   "published": "2026-10-28",
+   "summary": "",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "cfcc7930f8d9c103722b7f315ce573df5628b4e0",
+   "title": "长鑫科技已被纳入上证指数，位列第一大权重股！消息称长鑫硬气拒绝苹果：中国本土的订单都接不完，优先保障国内存储芯片需求_财富号_东方财富网",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3d1lSaVYwU05ZRC1qQ0xjRlhXMzF4OWtHTmRsMEFvQVJIV2dBdG94V2xyLTJmMWFHRWdrbDNUa3hReUU0VjVxQlgzSU1qRHhNVnpZZ1NLMzZqTHA4QWlTYW9CMF9mSHlIdTJv?oc=5",
+   "source": "GoogleNews·财富号",
+   "domain": "memory",
+   "published": "2026-10-28",
+   "summary": "",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "b8288231659daad850c7683c8b2fdecc5c5fcfd8",
+   "title": "一千多只基金买了长鑫科技-选基小助手",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vMFV3SDV5WmZqaGRMdjhVZGJoX2Q1dkNGQ01ZUlZxNEx5ZW9CZldZdEkyOG9iYWQyZHRQaVIzSWJfRXF2WjNmR3pfZEc3bXczQU9ZVG82dm5xbDB6UVJoRUVMWGl6UFpuQlEydFF4V1Y?oc=5",
+   "source": "GoogleNews·金融界",
+   "domain": "memory",
+   "published": "2026-10-28",
+   "summary": "",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "c33517b53e5b12aab1b249e4b690c82ea7686d6e",
+   "title": "长鑫科技，成为两大指数第一大权重股！",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9WV3p5Z3YzTV9pay10ZDFTNl95VUpLdnlYSFA4RzU5NHFheWRmUnZVZE9PdG1UbXVpSTJBaFo0SUFMMFZtUV9OMDVHbHNWa3BYbkF1QW1oNy1MZUdOZ280dGtUNEdtdlBFR050RTg3b21kY0I5TGpIbA?oc=5",
+   "source": "GoogleNews·新浪财经",
+   "domain": "memory",
+   "published": "2026-10-28",
+   "summary": "",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "9af9525045ecff2b68e238a53314934fe4c427cd",
+   "title": "长鑫科技成为上证综指第一大权重股",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1id2M3V09leFBKc0RXV3ktSS1iNFFpdTl2NHJTZmc0LWNhUUZWZjUzU1hTZTZIZlFXRW1XSUFnMHBGS2xLRmloZEc0aG1VUi1RVlJJNG1YYlE1b3V5SmhTeFkwWVBXeVl2TjBoT2laMA?oc=5",
+   "source": "GoogleNews·finance.sina.com.cn",
+   "domain": "memory",
+   "published": "2026-10-28",
+   "summary": "",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "af4ad53d5d77d541a8c029eeeb95c8f34c12e2a7",
+   "title": "位列第一！长鑫科技被纳入重要指数",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1lTDNUTGV6ZjRUOTZQREVWR2xwSGZySzQ0Y2c4UmdEMHV3ejZRaWVGUlBPaWlEWktsSE9iY29TVFJ0bUFVekdVZHgxb3M1V3FQS284?oc=5",
+   "source": "GoogleNews·电子工程专辑",
+   "domain": "memory",
+   "published": "2026-10-28",
+   "summary": "",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "2df5dc99da342bcf2a80483887674c60abb43ed9",
+   "title": "长鑫科技已被纳入上证综指 位列第一大权重股",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xU1ppNlJ2MDQ2MGRkVTFCY21MRzVES1QwaHpCVlJpcXpLaWpSaWcyek1wOVFyekMtSVU0dUxpbWc5SHpDRENvSEQtby0yOExxM3R4QmhFNVhSSVFiYlpYckZFQ0NlSmZNekJtOWFqOA?oc=5",
+   "source": "GoogleNews·finance.sina.com.cn",
+   "domain": "memory",
+   "published": "2026-10-28",
+   "summary": "",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "620c3aa78cbf451895825113f0f62844bcd730b4",
+   "title": "A股将变！长鑫科技有望纳入上证指数 科技股真要撑起半边天？",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8xYVlqZHdfNk9VdXN2djhxRHItdGR0UjhPLUduVEkwdlFkNmpncHc5S1pKZDRFMHJqbmRmS0IwbU1iV3I2eThZeUZiNmlfYVE1NV9iQl9xQTR0MnFhTkVvb0tFTm82SGp3Z3dMZndn?oc=5",
+   "source": "GoogleNews·finance.sina.com.cn",
+   "domain": "memory",
+   "published": "2026-10-28",
+   "summary": "",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "7dd4a4ef139a1aad1fafe8b50340ff27fea3923a",
+   "title": "长鑫科技成两大指数第一大权重股",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBVVVhDOG5QZWVrY2pRN0ZTUk14Umt1dUV5Tkh3Wi01ZDk4Vkk3UHRLZXl0VzVmWEhIUF9YVlRIa2prS3JQMUtiTUMwNzhUOW5VVmkyWjZTYWFDTDV3OHdFSmRKUHRoY2pPelpVY1UyZzdTMGxQOG5DeA?oc=5",
+   "source": "GoogleNews·新浪财经",
+   "domain": "memory",
+   "published": "2026-10-28",
+   "summary": "",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "0d69e1ff485f0c007c4e0b977ed9be246851ad5b",
+   "title": "白线日报｜长鑫科技成为上证综指第一大权重股，SK 海力士营业利润率达 80%",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbjF1UkVUX3NobVBXT0RfaVB4LVZ0b19Jb21YSnZJSHFIUkFMMGItcWhadlVxTVpONFJTNTduaVZuZ1ZUWl8xdWlSSXoxWUx2NUcxWXh6ZkFkdEhyRU1mcVJWZ002emkyVFNIUGlRXzBzRE1XWlRzN2N3Q1JGbTlWRzFaR01lQ2wyZmhzaGUyNU8zV3EwTXNxZ1p0RkYwdll2dFVPMUVfNlBreXRBVUIza19iVXRVNklWQmlaYjdXcDRobndtVGc?oc=5",
+   "source": "GoogleNews·吴说",
+   "domain": "memory",
+   "published": "2026-10-28",
+   "summary": "",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "cf01097d6c89670ea97102bbd107ae56ae22ed63",
+   "title": "三星海力士等不在怕的：内存价格还得涨 国产HBM明年不到2%份额",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MOWRfNGpnTjFCY1huSVJYMVhlV2EzcW1GdnZ4cW9FQlNRUEhCQUg1bG1ZYi1GeDgzZUJhTjZuRGdlc29fZlQ5cVFKZGdNa3VYZlp3THpRTnQzbXN0OTlaSU5fT3BFdUlablV5Nk4xaDJ6azZrU01TMDFJUTJfOTA?oc=5",
+   "source": "GoogleNews·新浪财经",
+   "domain": "memory",
+   "published": "2026-10-28",
+   "summary": "",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "b477b09d7daf81ccabef5787774127256cd3410f",
+   "title": "澜昆微完成数亿元两轮融资，加速光互连芯片量产",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMVlEU0c5dXJqamZRRkZzT1QyemNDYmt3YzNad3hXUGpiXzZ4SlFXRWYydmV2SXcycmE2Y1VFbDQwRlJ0bVpRcUI0WGZsWDhkOUZJQklfVmN6S3pZQjZjbjdUX1RqRFVLNF8wejN0eWJwX2wwVXBhb25rZ2s5aWxQdHpvUDBUZFc0?oc=5",
+   "source": "GoogleNews·搜狐网",
+   "domain": "optical_comm",
+   "published": "2026-10-28",
+   "summary": "",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "bt": -1,
+   "co": []
+  },
+  {
    "id": "82832d3e35fad4ea3580e04861645a04f01718a3",
    "title": "长江存储与美光专利诉讼最新进展",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRDJDakRkZXVmc19Md3lvMjVPZFB5T2FhTGV0NE9PVE5nbjEtbkhudVRRMWo0OV9teWE3akdrdXREWnM1a3Y1bk9hME1TT3JsLVgzaS1GYklxdERRZjBxVE1CQ0NrUzh4MVJFTEc1d29FalRpblFjbEg0cllqZFg4QjBJd3RRUWUtYUdCaw?oc=5",
@@ -693,6 +932,76 @@
    "bt": -3,
    "co": [
     "长江存储"
+   ]
+  },
+  {
+   "id": "9ea9812a9255306750582f6c2f5561bbc130ad42",
+   "title": "上市刚满三个月！3万亿巨头长鑫科技，被火速纳入上证指数和科创综指，流通市值不足2千亿元，权重最高达15.74%，或将迎来超过250亿元接盘-手机金融界",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCbnBVU0NYWllCRTBkU2Y3UGh3NUNuODZ1RmVKU0NPR2xWMmNhTFFfNElJYURoUjdDeXNyVDJPem5XZDBnbE8yUlFaamZBYlRNYVhHNVV0MS15cEkwWEJjZlhlRDczc2NNZ29yR05ydThhQQ?oc=5",
+   "source": "GoogleNews·金融界",
+   "domain": "memory",
+   "published": "2026-10-28",
+   "summary": "",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "bt": -3,
+   "co": []
+  },
+  {
+   "id": "28144770ed3b83b3d4f3c26989cafe507cf1d68a",
+   "title": "主动权益基金三季度增持长鑫科技、药明康德、天孚通信等公司",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRWhUWWhmX0pta2M0NkFwcl9zTDFWbVZnMUZ5VU53NWlNZzJuemoxTGFLLWNTM1duTmdRYmt5YUlsTlRuR3d0NlVRSFJZQTRlX2tySXh6eF9RU25yaG84OGZmbk5mVE85b01oaGNsQ21uR0tYRFZUVmJuak5qTHpwQg?oc=5",
+   "source": "GoogleNews·新浪财经",
+   "domain": "memory",
+   "published": "2026-10-28",
+   "summary": "",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "bt": -3,
+   "co": [
+    "天孚通信"
+   ]
+  },
+  {
+   "id": "fb358aa7b102c550d691aa5054c9747c6ea21f5d",
+   "title": "图解基金三季报|公募基金增持“易中天”，长鑫科技进入重仓股",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWUdBUzdKVXpZNEp5NUh4R1h4QmF6Sm1IM2VWdTJWX3VPUGJpNWwwWG9qUU9pZV9XMnAzTlJGMGF3T3NtblVYTW0xZHUyMzFQRVFFMUZhTjlVbDd4TWZ3ODJJcmFJRTFPOXFZR1l0UUYxa2ZoN2YtaXN5QW16clZzMg?oc=5",
+   "source": "GoogleNews·新浪财经",
+   "domain": "memory",
+   "published": "2026-10-28",
+   "summary": "",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "bt": -3,
+   "co": []
+  },
+  {
+   "id": "9f5abdb1a89b4072d44ccb14486c453f6aa43300",
+   "title": "看图：公募基金增持“易中天”，长鑫科技进入重仓股",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTRU01TFVERWlnd3Z2MFJfaUxvdTFSa2RyUUhESlc0ejFWWERPTnBvWm03SmFkS1pJLWxmOWVreWhrTUFlMDlRUUhkUlhsX1dsYU16ZjhLbUprcTBzZlJSRVlRT0p4bHBBc0UxT3lRandCbE9CRXQwNg?oc=5",
+   "source": "GoogleNews·新浪财经",
+   "domain": "memory",
+   "published": "2026-10-28",
+   "summary": "",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "bt": -3,
+   "co": []
+  },
+  {
+   "id": "11a5b0dbc35e24142cc32ab450ffe37c7f4119d1",
+   "title": "中际旭创、新易盛、长鑫科技、药明康德集体被增持，机构：当前A股不宜过度悲观",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaGtxRFJ1bGJuQzRFbDV3UW1NaVVNME9sNjVnTmc1M3BFLW5NWXF2T3JmZGFlQ0E5T2p0WF9wd0ZURkdpVjRTbnFFSGV4VEFGallOVk9teHNKVEdFS1ZRRHVOZTQ3VTFDOFJEX1o1MEZ4NU01ZDRXTE1PaTRuTVRNY0JQcFFhMDJ4LUtQRQ?oc=5",
+   "source": "GoogleNews·搜狐网",
+   "domain": "optical_comm",
+   "published": "2026-10-28",
+   "summary": "",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "bt": -3,
+   "co": [
+    "中际旭创",
+    "新易盛"
    ]
   },
   {
@@ -3789,7 +4098,7 @@
    "published": "2026-10-22",
    "summary": "",
    "first_seen": "2026-10-23",
-   "last_seen": "2026-10-23",
+   "last_seen": "2026-10-28",
    "bt": 0,
    "co": []
   },
@@ -10793,7 +11102,7 @@
    "published": "2026-10-15",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-22",
+   "last_seen": "2026-10-28",
    "bt": 2,
    "co": []
   },
