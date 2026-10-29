@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-29 14:40:22",
- "count": 1091,
+ "updated": "2026-10-29 14:48:26",
+ "count": 1095,
  "items": [
   {
    "id": "19e9e645cdf1eb1f6851ab2e4dfc7233ce53d478",
@@ -171,6 +171,34 @@
    "co": [
     "长鑫存储"
    ]
+  },
+  {
+   "id": "60e5837d4b402718e69dcce6c0c7f39fc342fd94",
+   "title": "新易盛：在手订单充足，800G 和1.6T 是今年交付的主力产品_公司新闻",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzSDdFVGFYUU1vbDRiWEc3T0doOHNHWjFCR3ZXdWluUEIxN2ppZ0Y4MmphZWhWSkRuczVGbWxtSTR1RFZUNi1SS2FMOWdnOElCamtnTGVQZkVTdFpTQkdzcGZFb3E?oc=5",
+   "source": "GoogleNews·证券之星",
+   "domain": "optical_comm",
+   "published": "2026-10-23",
+   "summary": "",
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
+   "bt": 2,
+   "co": [
+    "新易盛"
+   ]
+  },
+  {
+   "id": "d7b207bc22be6852869b8519314d57f8fbe8945d",
+   "title": "东山精密：经营势头向好，AI光模块加速放量，四季度产品交付有望延续高增长趋势",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WY1VJZWtZY25VaE5Gekpuc0xEUy1iNjIyLU1DRHBMTVk4eVRzLVFWd0RFclBWa2lKaUNqU1RuUlJIZzJNek9WcjczVFNOUHJVa0dVeEdHLS02OGYtU0xpOEZKZlJfTlRYWENv?oc=5",
+   "source": "GoogleNews·TradingView",
+   "domain": "optical_comm",
+   "published": "2026-10-29",
+   "summary": "",
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
+   "bt": 2,
+   "co": []
   },
   {
    "id": "3379b18d5285e69fe093152f5b5eb6957c5a5dfb",
@@ -566,6 +594,32 @@
    "title": "HBM不是唯一答案：长鑫、三星、SK海力士、美光各自“押宝”",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYnp0Y1IzVmtnYklQeWtEZVdfY0JhanRVd1hsZ2xDSUJPb0RWTkN5S05HY2pMSGsxZHR5SWJsZjJ5by0wcFpHZ2dRMkliZ24xUUU3VzJ0R1RoenFCREZnTjJaQWwwSy1SLVRTdjZacHY3NkdvcDB2QU1fLTFkRlpuQzNFazJMUU15?oc=5",
    "source": "GoogleNews·搜狐网",
+   "domain": "memory",
+   "published": "2026-10-29",
+   "summary": "",
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "329b6e760f7fceb805aaf65e492aa6e12b44142a",
+   "title": "人民鉴真195期丨长鑫科技：近期有不法分子及非法中介冒名发布虚假招聘信息",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXWm9CemVBRE8tVEdZOC0tbWs3akVjcExKVjVRaEo4eC1NTVJETHBxNGpBanFHYXc0aW8zbHFJZjBXZEpCM082OUQ4SENibFNaTmU3XzJwRXk2LVpqV2ZQZw?oc=5",
+   "source": "GoogleNews·证券之星",
+   "domain": "memory",
+   "published": "2026-10-29",
+   "summary": "",
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "ba5ea5d3dc4a7573ec3a4ae4acdd3372ef91c496",
+   "title": "长鑫科技发布虚假招聘警示",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3VXRsN05DWkltR1Fwam8zUFFpaWxiWG12SHcwQThrMVFBOUc5WEZSb05MMjJRQWx0Y2ttclpfSTVKMnFib2NWSnoyRjgyYW9zS05oUGpaUmlWQ1VCMEE?oc=5",
+   "source": "GoogleNews·DoNews",
    "domain": "memory",
    "published": "2026-10-29",
    "summary": "",
@@ -1870,7 +1924,7 @@
    "published": "2026-10-27",
    "summary": "",
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-28",
+   "last_seen": "2026-10-29",
    "bt": 0,
    "co": []
   },
@@ -2659,7 +2713,7 @@
    "published": "2026-10-26",
    "summary": "",
    "first_seen": "2026-10-26",
-   "last_seen": "2026-10-28",
+   "last_seen": "2026-10-29",
    "bt": 0,
    "co": []
   },
@@ -3424,7 +3478,7 @@
    "published": "2026-10-10",
    "summary": "",
    "first_seen": "2026-10-25",
-   "last_seen": "2026-10-28",
+   "last_seen": "2026-10-29",
    "bt": 0,
    "co": []
   },
@@ -12607,7 +12661,7 @@
    "published": "2026-10-12",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-29",
    "bt": 0,
    "co": []
   },
@@ -14513,7 +14567,7 @@
    "published": "2026-10-13",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-28",
+   "last_seen": "2026-10-29",
    "bt": 0,
    "co": []
   },
