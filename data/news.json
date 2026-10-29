@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-29 15:01:15",
- "count": 1096,
+ "updated": "2026-10-29 15:58:23",
+ "count": 1098,
  "items": [
   {
    "id": "19e9e645cdf1eb1f6851ab2e4dfc7233ce53d478",
@@ -642,6 +642,32 @@
    "co": []
   },
   {
+   "id": "2b10a123fbe4951a30e22f76736e7815151298b0",
+   "title": "长鑫科技发提醒：非法中介假借名义散布虚假招聘信息，侵害应聘者权益",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43eEtEQng5Vm05UVRlQk1SRTRQc3BaSXRiWWl6Q1FTdHpKVDI0VWpPS1cyemFSNVhtOF9Va0VvSzgwelo0ZnQzdEVYZHgxVnh3X1E?oc=5",
+   "source": "GoogleNews·凤凰网",
+   "domain": "memory",
+   "published": "2026-10-29",
+   "summary": "",
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "abeaef36338630d1ac402f0381821bf7e2be6d2d",
+   "title": "长鑫科技，紧急提醒 - http://www.jingjiribao.cn/",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jb2tmRW1HQUZMVUxnTnZSc3dFVVZ2YkhlVWhuQWkyRVVUSGttVElpUkVWczU1VXNxOVJ1RGRBQlV3cnBQb2oxWHRtYnpZZWxmdl96MVVzcTRRcklicF9Mc2dZTQ?oc=5",
+   "source": "GoogleNews·http://www.jingjiribao.cn/",
+   "domain": "memory",
+   "published": "2026-10-29",
+   "summary": "",
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
+   "bt": 0,
+   "co": []
+  },
+  {
    "id": "1b145befb835a21445a59a03d505c1f5bc330a32",
    "title": "摩尔线程单季扣非净利润首次转正，国产GPU生意走到哪一步了？",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSWFOUVdLaVdIVTFSWkhyMTRIamM1ZW1qRkl6VW8tMEpDSExCSmxnTkFHRTJHVmpKS2FRSlRnUXJxcVIyNmVuaWxSYTdNZnlRb3dBbFZvRm1XMDFWRmMtejhIVElFQnJLUC1qZFhIanU0OW9BcnlJNFQ3Y3JPa2pvWWRZcjlPc1lF?oc=5",
@@ -1155,7 +1181,7 @@
    "published": "2026-10-28",
    "summary": "",
    "first_seen": "2026-10-28",
-   "last_seen": "2026-10-28",
+   "last_seen": "2026-10-29",
    "bt": 0,
    "co": []
   },
@@ -13925,7 +13951,7 @@
    "published": "2026-10-11",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-21",
+   "last_seen": "2026-10-29",
    "bt": 0,
    "co": [
     "长鑫存储"
