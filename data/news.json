@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-29 15:58:23",
- "count": 1098,
+ "updated": "2026-10-29 22:50:35",
+ "count": 1113,
  "items": [
   {
    "id": "19e9e645cdf1eb1f6851ab2e4dfc7233ce53d478",
@@ -21,6 +21,34 @@
    "id": "bf3236c12e114acabffa1c16f0090a2bc2afb4f3",
    "title": "长鑫存储已向国内多个客户交付HBM3E样品，预计今年内开始量产超能网",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9NSjQtUHdqeWNWVjE1cld4R2pvb1B0dEp6ZG9PaTQxcVpEbnpMQTkxT0pvV0NRUXh0RGk0cllpc3ZkVWNmczVEcWxCd1pFQQ?oc=5",
+   "source": "GoogleNews·超能网",
+   "domain": "memory",
+   "published": "2026-10-29",
+   "summary": "",
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
+   "bt": 4,
+   "co": [
+    "长鑫存储"
+   ]
+  },
+  {
+   "id": "05d7df97f75c1284631f46ad22d4183c5dd49685",
+   "title": "长鑫HBM3E已送样！良率超20% 俄媒酸：不如三星、SK海力士",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBQTFE3cUZsdDREV3BaQlotY0tvZ3VnM1BlZlVIVzJOdUZDRUlVX3FsbFZwakJyLW0yVUxnSzVtUURKYTlOWl9BR0gwTDF6TWFzWjFMdDBBclg?oc=5",
+   "source": "GoogleNews·驱动之家",
+   "domain": "memory",
+   "published": "2026-10-29",
+   "summary": "",
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
+   "bt": 4,
+   "co": []
+  },
+  {
+   "id": "b27d51de3653fde0552c22aec3cc6d8c2c55468d",
+   "title": "长鑫存储已向国内多个客户交付HBM3E样品，预计今年内开始量产",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5VdE55MzhTVDZUV051eTRsLXhjSF8zb3NwVVdTdUlBZmVzcnk3al8xaE1PRGFIZGRuLV9UU0VNUXRoN08za2RVT3NKbw?oc=5",
    "source": "GoogleNews·超能网",
    "domain": "memory",
    "published": "2026-10-29",
@@ -212,6 +240,34 @@
    "last_seen": "2026-10-29",
    "bt": 2,
    "co": []
+  },
+  {
+   "id": "548423daaddc192cc8f7cff03d8713b4ddd6ab17",
+   "title": "SK海力士：未来三年DRAM和HBM产能几乎售罄但拒绝“无脑扩产”",
+   "url": "https://www.chinaflashmarket.com/a/184375",
+   "source": "闪存市场",
+   "domain": "memory",
+   "published": "",
+   "summary": "",
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "6caa77fd3ed72a1e8832a0366b136eeb4edfcfe7",
+   "title": "新易盛：四季度订单需求向好 800G光模块成今年交付主力",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9OTEc1UlM2RkFMcEhOWU50U1hsaktva0NfSW54TEZhLWVPYXNHc0xSRVg5OFk2a0t0X3AtYXQxOC1FUk1YWU1aMkFIY0Fydw?oc=5",
+   "source": "GoogleNews·观点网",
+   "domain": "optical_comm",
+   "published": "2026-10-29",
+   "summary": "",
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
+   "bt": 2,
+   "co": [
+    "新易盛"
+   ]
   },
   {
    "id": "3379b18d5285e69fe093152f5b5eb6957c5a5dfb",
@@ -668,6 +724,115 @@
    "co": []
   },
   {
+   "id": "dc550d7bda8ba2bee0cb08dc05e4c5550279d4d9",
+   "title": "阿斯麦磨了30年的EUV，中国人两年就拿出样机？",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJc2FVclJwVzlvVGJOMzRXR3JySjBfTlFnMEVOZHpDLW5ncV95T3FMa2xhc2Nqcjc1TmFoQ3owcDNmaVlSRkdxN1hXUGtOcFNxYWZkOTB3?oc=5",
+   "source": "GoogleNews·QQ News",
+   "domain": "litho_machine",
+   "published": "2026-10-19",
+   "summary": "",
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "a1856a8f4b003fc9e9041b68096625b7d0129582",
+   "title": "不跟别人硬卷制程，中国芯片这七十年都在走自己的路|中芯国际|英伟达|华为|麒麟|国产芯片_新浪新闻",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE94dklMN1MzWDRubjdkbGZLZy1SWFFBWHU5a1dkZ2ZrdjJwZXlZTWhtakloTHBpRGYybFRudXNPWWVCaDZMekVzb1RqclQxbGFfWExnTmVFNnVHekJlQ3B1N2lnZw?oc=5",
+   "source": "GoogleNews·新浪网",
+   "domain": "logic",
+   "published": "2026-10-28",
+   "summary": "",
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
+   "bt": 0,
+   "co": [
+    "中芯国际",
+    "华为"
+   ]
+  },
+  {
+   "id": "f065400dcab488e235534733a4df99535d47cb04",
+   "title": "凤凰风暴眼 | 长鑫科技，被骗子盯上了",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBuRDVPalh0TEhDajFUblpTaGoyT0UwSUdPRE5jWFc0T0dLbWh1WHFJZEpHbjB2YUpEMm92RWpyX2xNb0lJLUJNSG9sdjVwSHlC?oc=5",
+   "source": "GoogleNews·凤凰网财经",
+   "domain": "memory",
+   "published": "2026-10-29",
+   "summary": "",
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "d1ed6251dc17f10a6998c80d0a83bf5a170452db",
+   "title": "11:25:15【长鑫科技：近期有不法分子及非法中介机构冒名发布虚假招聘信息】",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9Nb1owZUxiRFBmaUdRaG11OEl5YW5jNDhSdjdKRDdxLWdGQkxlVERHeVhSNnN1dXNOajE1VDloaW9pX1AzNXZ6Vw?oc=5",
+   "source": "GoogleNews·财联社",
+   "domain": "memory",
+   "published": "2026-10-29",
+   "summary": "",
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "12214df714192be6b5eaa9e5dce54928bb63a659",
+   "title": "长鑫霸气拒单苹果，国内订单我都忙不过来",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBXVEltTWYtOXNudXFzTnYyVWhzX2xiNUF2Zkx4MndRcmVHSG9Lc2JEcGxxSzQ5bElsNTVUQmUzaldnOEprNnppZnBUV2RLZw?oc=5",
+   "source": "GoogleNews·36Kr",
+   "domain": "memory",
+   "published": "2026-10-29",
+   "summary": "",
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "ed9526210ce8b232a37b21b57852ece412851f44",
+   "title": "长鑫科技，紧急提醒！|奔赴新闻|招聘|长鑫存储|不法分子|招聘信息_新浪新闻",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbGpleU1xRXpiRkdQOVV0WTNYV3BmbFZoV09mR0J2YUc3SV9NQjNRMEN1ZURrcnRxTzFNaTUxRnZPYUdPVXhRaHp5T0ZIZGlHM0Jta3ZER2FKUW9ta1lHRzY4amFjY0FVWWZuSFdDdDhYaXNITWQwNjJvMTBSTnVUS1NZVQ?oc=5",
+   "source": "GoogleNews·新浪财经",
+   "domain": "memory",
+   "published": "2026-10-29",
+   "summary": "",
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
+   "bt": 0,
+   "co": [
+    "长鑫存储"
+   ]
+  },
+  {
+   "id": "09a7c1b0151e8230645d4947cc480a8dc7c310fd",
+   "title": "前三季净利超1300亿元，长鑫科技如何应对DRAM涨价放缓？",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9tTk80cWVnR1ZlVURlNUpiVVhyQ1F2RHZlamhHN3U1NDFfTWVNdGFzMVZuQ2NwdlVnMEFrMV8tcGFqa3hNX3kxcWJMekw4Zw?oc=5",
+   "source": "GoogleNews·36Kr",
+   "domain": "memory",
+   "published": "2026-10-19",
+   "summary": "",
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "90bc16895ba50473b9036c92cf30eb5e6127cc6d",
+   "title": "长鑫科技大涨！黄仁勋：对与长鑫合作持开放态度 没有谁在制造业方面比中国更强",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lQVVQVTVfQmxEYXhSX056LWhwWGlLREpNNFFFeG5kZG5lTWhfaVdRN2dna0Vieko5SjN4dnBpSmFsb2VVemg5RFlLWkdxOV95ajZHbDhEUHd3YWxxR2tkTA?oc=5",
+   "source": "GoogleNews·东方财富",
+   "domain": "memory",
+   "published": "2026-10-23",
+   "summary": "",
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
+   "bt": 0,
+   "co": []
+  },
+  {
    "id": "1b145befb835a21445a59a03d505c1f5bc330a32",
    "title": "摩尔线程单季扣非净利润首次转正，国产GPU生意走到哪一步了？",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSWFOUVdLaVdIVTFSWkhyMTRIamM1ZW1qRkl6VW8tMEpDSExCSmxnTkFHRTJHVmpKS2FRSlRnUXJxcVIyNmVuaWxSYTdNZnlRb3dBbFZvRm1XMDFWRmMtejhIVElFQnJLUC1qZFhIanU0OW9BcnlJNFQ3Y3JPa2pvWWRZcjlPc1lF?oc=5",
@@ -680,6 +845,21 @@
    "bt": -1,
    "co": [
     "摩尔线程"
+   ]
+  },
+  {
+   "id": "18697ea404ffb923ef3013aa1eabfd04419e3b46",
+   "title": "华工科技前三季度实现营收126.54亿元，光互联业务三季度净利环比增长211%",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLXVBelVFUTVDbm5sOGJSM3ZEcTZYZ2dwbGJISmRBWmdUR2QwQTRPZ19ZU0x5T0FGVXlmRV80YmxGVHY1dmhlaUpMWmlwYmNXSVpyYjRqdkNENGdDaWhIR3NiUlhjVmdrZEtsOHFVNlpNWlhjN1ZPQUh4Z3FtZjRpRUNiQ1NjZ1p5?oc=5",
+   "source": "GoogleNews·搜狐网",
+   "domain": "optical_comm",
+   "published": "2026-10-29",
+   "summary": "",
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
+   "bt": -1,
+   "co": [
+    "华工科技"
    ]
   },
   {
@@ -720,6 +900,36 @@
    "last_seen": "2026-10-29",
    "bt": -3,
    "co": []
+  },
+  {
+   "id": "346c3c5e7220ae14a3c7d2ebd4d5e9eea38f826b",
+   "title": "中际旭创 2026 年前三季度归母净利润 222.38 亿元，同比增长 211.81%",
+   "url": "https://www.ithome.com/1/019/718.htm",
+   "source": "IT之家",
+   "domain": "optical_comm",
+   "published": "2026-10-29",
+   "summary": "IT之家 10 月 29 日消息，中际旭创今日发布 2026 年前三季度（2026 年 1 月～2026 年 9 月）及三季度（2026 年 7 月～2026 年 9 月）报告：2026 年前三季度营业总收入：695.47 亿元，同比增长 178.13%毛利润：322.66 亿元，同比增长 216.73%毛利率：46.",
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
+   "bt": -3,
+   "co": [
+    "中际旭创"
+   ]
+  },
+  {
+   "id": "cb818a04d317274ce459c8523e819486e2c55212",
+   "title": "18:40:24【中际旭创：Q3净利润同比增长174%环比增长8% 800G和1.6T等高端光模块销售持续增加】",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1ZXzNrS1ZMRGFNRTNiSXFWcGZBNjZxeUY4ZURRRWtNcWJnUy1KOGpNZ0pvaGhTRTc3WHRFdWlnUXJvQ3VIczgxeg?oc=5",
+   "source": "GoogleNews·财联社",
+   "domain": "optical_comm",
+   "published": "2026-10-29",
+   "summary": "",
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
+   "bt": -3,
+   "co": [
+    "中际旭创"
+   ]
   },
   {
    "id": "c4cdae9329cfc540e7782cedeaccc6cbf32b48e6",
@@ -4101,7 +4311,7 @@
    "published": "2026-10-24",
    "summary": "",
    "first_seen": "2026-10-24",
-   "last_seen": "2026-10-28",
+   "last_seen": "2026-10-29",
    "bt": 0,
    "co": []
   },
@@ -5248,7 +5458,7 @@
    "published": "2026-10-22",
    "summary": "",
    "first_seen": "2026-10-22",
-   "last_seen": "2026-10-25",
+   "last_seen": "2026-10-29",
    "bt": 2,
    "co": []
   },
@@ -7053,7 +7263,7 @@
    "published": "2026-10-20",
    "summary": "",
    "first_seen": "2026-10-20",
-   "last_seen": "2026-10-28",
+   "last_seen": "2026-10-29",
    "bt": 0,
    "co": []
   },
@@ -7342,7 +7552,7 @@
    "published": "2026-10-20",
    "summary": "",
    "first_seen": "2026-10-20",
-   "last_seen": "2026-10-25",
+   "last_seen": "2026-10-29",
    "bt": 0,
    "co": []
   },
@@ -7355,7 +7565,7 @@
    "published": "2026-10-19",
    "summary": "",
    "first_seen": "2026-10-20",
-   "last_seen": "2026-10-28",
+   "last_seen": "2026-10-29",
    "bt": 0,
    "co": []
   },
@@ -10044,7 +10254,7 @@
    "published": "2026-10-16",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-29",
    "bt": 2,
    "co": []
   },
@@ -10288,7 +10498,7 @@
    "published": "2026-10-15",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-25",
+   "last_seen": "2026-10-29",
    "bt": 0,
    "co": []
   },
@@ -12620,7 +12830,7 @@
    "published": "2026-09-28",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-25",
+   "last_seen": "2026-10-29",
    "bt": 0,
    "co": []
   },
@@ -13483,7 +13693,7 @@
    "published": "2026-10-14",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-28",
+   "last_seen": "2026-10-29",
    "bt": 0,
    "co": []
   },
@@ -14632,7 +14842,7 @@
    "published": "2026-10-13",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-25",
+   "last_seen": "2026-10-29",
    "bt": -1,
    "co": []
   },
