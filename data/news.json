@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-30 08:22:05",
- "count": 1136,
+ "updated": "2026-10-30 14:38:16",
+ "count": 1154,
  "items": [
+  {
+   "id": "fa016a5f0fbb1b9b63b504fb8ada92b42062a27c",
+   "title": "攻克磷化铟CMP抛光难题 意芯微实现湿电子化学品全链路自主可控",
+   "url": "https://www.laoyaoba.com/n/1130206",
+   "source": "集微网",
+   "domain": "photoresist",
+   "published": "",
+   "summary": "",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "bt": 6,
+   "co": []
+  },
   {
    "id": "02ced24877104fb7626a63f4108b6f004f3f7aa0",
    "title": "重大突破！朗道燧岩EUV光源样机亮相工博会 国产化率达90%",
@@ -44,6 +57,32 @@
    ]
   },
   {
+   "id": "1ca9ab552f38aa3c0b79599782dce0ae6b692510",
+   "title": "港股概念追踪 | 重大突破！朗道燧岩EUV光源样机亮相工博会 国产化率达90%(附概念股)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00Nl9oTzlQS0d3VUtYQ1N5dlNKNEJQbzhRRklPTWNIdXZMUzhVcDdTRXFDckxoRldRNmxhTFA3cWpHUTlpcTZJdHI2OWNFZU51emtmbk5n?oc=5",
+   "source": "GoogleNews·QQ News",
+   "domain": "litho_power",
+   "published": "2026-10-15",
+   "summary": "",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "bt": 4,
+   "co": []
+  },
+  {
+   "id": "4079b95f70af0b68993ddf243302585094e3af01",
+   "title": "韩国擅长制造HBM，核心材料却依赖日本……“验证壁垒”阻碍国产化 - 阿视亚经济",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WQkx0bzJ3X3JDeHFxSGlzakpCUHpuZmRXYUFXMTJFSXlsSjhNdVJGS01xaWh6TWdnQXlzMGlISE8yWXU5UE5CaDVnTzZoekFRQWhyV19kZS1qcWhRYkVCTm45cm0?oc=5",
+   "source": "GoogleNews·아시아경제",
+   "domain": "memory",
+   "published": "2026-10-29",
+   "summary": "",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "bt": 4,
+   "co": []
+  },
+  {
    "id": "38231de99d538abe99cf9c7668d0dff7dfc7b15d",
    "title": "掩膜版国产化，走到哪一步了",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9sZVlIVVlES3E2dnUtZ0hTbUNMdXlDdUpWeDNaTlB2NVpiYy0wbW5ocFVjSGFZUzdUc3hXdUpWQzgxUXgzZjNfazk4cERyZ3J0YXREQ195UlI?oc=5",
@@ -68,6 +107,34 @@
    "last_seen": "2026-10-30",
    "bt": 2,
    "co": []
+  },
+  {
+   "id": "d9833072d671f0009bd305db53c631ba04ef92f3",
+   "title": "日本光刻胶10月1日起涨价15%，中国核心原料取得突破，产业链自主创新稳步推进",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4ydnRMUVhEVXdBM012U1FWZkJRcV9jeEU1YVdkRzUtWjlQWTJrN2pqUUY3eXlObWs3VHdhTFBRQmdxVURaSmVaVUowWWM3amVtOWlsWmdB?oc=5",
+   "source": "GoogleNews·腾讯新闻",
+   "domain": "photoresist",
+   "published": "2026-10-10",
+   "summary": "",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "474f2b19e383dbf3d2a9c02d3e352718d010e7ce",
+   "title": "国产替代真科技，长鑫存储的投资价值在哪儿？——为什么长鑫科技是我国高端仔储芯片制",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5mYkpBTGpMM0M2aVFKOXE0bjB4dS1kb1VvaFhsRDZXWFo3U2JoclRIbDhGanF2ZjBnamZHRHBOdDZtV0pWb3BHTXY5TTgzZzVmTEh6WUJvRzR0SWhqLTMtN1JEZnh1QVNEMHlj?oc=5",
+   "source": "GoogleNews·财富号",
+   "domain": "memory",
+   "published": "2026-10-19",
+   "summary": "",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "bt": 2,
+   "co": [
+    "长鑫存储"
+   ]
   },
   {
    "id": "7c7392b93ce345d5dba325d40754448c6e305c90",
@@ -261,12 +328,176 @@
    "co": []
   },
   {
+   "id": "fc4e4e9febc4f06359bd445f0847a095e42adc03",
+   "title": "晶存科技：以LPDDR5X内存解决方案，支撑端侧AI应用",
+   "url": "https://www.laoyaoba.com/n/1127249",
+   "source": "集微网",
+   "domain": "memory",
+   "published": "",
+   "summary": "",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "a94507058d9bae28e1e1c707ec83487eef05e57e",
+   "title": "小体积恒定光圈：适马 18-50mm F2.8 DC DN 半画幅镜头 2099 元国补新低",
+   "url": "https://www.ithome.com/1/019/964.htm",
+   "source": "IT之家",
+   "domain": "optics",
+   "published": "2026-10-30",
+   "summary": "适马 APS-C 画幅镜头索尼 E 卡口 18-50mm F2.8 DC DN 开售于 2021 年，日常售价 3880 元。这款镜头属于 Contemporary 系列，拥有 F2.8 恒定大光圈，同时保持了轻便的小体积。京东 11.11 大促期间，政府补贴立减 233.22，实付低至 2099 元：京东适马 18-",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "658d1c50fe96f9c50a37181b6e4d4eba687fa876",
+   "title": "AI 推理引爆全球 NAND 需求：闪迪称“客户低估闪存容量需求”，长单排至 2030 年",
+   "url": "https://www.ithome.com/1/019/924.htm",
+   "source": "IT之家",
+   "domain": "memory",
+   "published": "2026-10-30",
+   "summary": "IT之家 10 月 30 日消息，在 2027 财年第一财季（2026 年 7 月 4 日至 2026 年 10 月 2 日）财报电话会议上，闪迪（SanDisk）公司高管表示，AI 推理正在重塑 NAND 闪存市场的供需格局，客户“低估 NAND 闪存容量需求”。闪迪管理层表示客户普遍“低估了运行 AI 基础设施所需",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "ebf32e3bcf0bd1711c16e9b7f7ae06740dd1501c",
+   "title": "茂莱光学：南京茂莱光学科技股份有限公司向不特定对象发行可转换公司债券第三次临时受托管理事务报告（2026年度）",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMmpEZ2plcG0tYlFyMXdRMUtEUFU1VGY4RjVPS0dCSzVlb2NwdWJCVEFjaEJ2VzdFT2QtSDJid1hoTVp6ZndWNGZuaVhaTlJ0LW1STkpmRjBsOXd2Tm5FQVZQN0NZSlhHcm9UeW1iVEprTVRLLTZSSzhFcmpJZjNXWlpFZWhFVkpnQzBVVl9TWmh4dDc1eDhMd3lhZUVjNEg5VzVGaHU3clgzSmtPOGdr?oc=5",
+   "source": "GoogleNews·Moomoo",
+   "domain": "optics",
+   "published": "2026-10-30",
+   "summary": "",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "bt": 0,
+   "co": [
+    "茂莱光学"
+   ]
+  },
+  {
+   "id": "10e9f6e21bb46911f817639a21fc1958b44701fe",
+   "title": "光芯片，迎来拐点！",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZFpYRDdIaGZjQW5tZW5BM0lCUFRBamd0RjFtMlU3eU9jb1g3UkpMelREUmtWaDVscnpsbGd6SFhUczdNcFFQczJ6OHRFT3Q4Q09fYTlBdEdEa05QV29lZmlOVlZCaERmRkQ0MVFFWmpLMzdaakJCdk9PQXNKZWpRZmZRRFprODVNM3hveA?oc=5",
+   "source": "GoogleNews·搜狐网",
+   "domain": "optical_comm",
+   "published": "2026-10-30",
+   "summary": "",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "cf3ece0a1af531de536dae86d8a6d7d2e6e3e7bf",
+   "title": "【银河通信赵良毕】公司点评丨仕佳光子 (688313)：光芯片矩阵升级，盈利能力持续提升",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdllUeWtWTkVhYnlwNjMwNlIteWRvaHBES1ctS0xMSnl1MmViZ3FkbXg0RTU3Ymk5STJJdDhsbnpFV0ZfR1E3WlgtQ0gtTjM3V3Y5dEc5UkJVVEt4M0tZU0o1YWhZb2lSYzhWNXVPaXlqeFg1al9OanE2MGx1ZTNjelRhU1Zvdw?oc=5",
+   "source": "GoogleNews·新浪财经",
+   "domain": "optical_comm",
+   "published": "2026-10-28",
+   "summary": "",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "bt": 0,
+   "co": [
+    "仕佳光子"
+   ]
+  },
+  {
+   "id": "eb181b4ea66754d886bf66a0fb258873dbf68561",
+   "title": "抢占下一代算力连接高地， 光峰科技、三安光电等上市公司加速布局光互连",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPb194d3dkdzBnWWo2NlQ3dmpwdlU4NHlSY3VZTUI4LU9mTDUxQkRaTGJHV1Z4YzFUOEpTZmd6MG93MlRMM2w0SnBkX0wwNVc1NHJaN3hndDRjSzBoS1hvbnBtaC1aVWpsVElFbUZoblV1LUlWaW1lVTNCUHROcF9ibmMyUWpLLWN4aHRCTQ?oc=5",
+   "source": "GoogleNews·搜狐网",
+   "domain": "optical_comm",
+   "published": "2026-10-30",
+   "summary": "",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "7c182f4747ba8b474567a452b90883de0f542a8d",
+   "title": "“南昌造”光模块，正奔赴全球算力市场",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNc3hvN0dFQ1p0ZkhPMTN4czRiQjNvMzBNOG1tb3RSVEp1NEg5TWRwSlNsVTZjSjVKMjVaaDluVUJ5blZVSEJvbWpjQ2p2X2JZekpueHA1QzNZSGE0a2NKY0NYUzJHTEVvSDRaZVZoMlVGUWU0R0NjbHBwU2w4VzBuTGk1SnVFR0N2T3pkZm9KNG5OakY3VG4wazVCSlYzcmdTczhOOG9tTzdIaG9RRzlQSV9pQ0hFaDR2Zkk5bTBURUM4TDY4aUtrcm1zSlVIQQ?oc=5",
+   "source": "GoogleNews·新浪财经",
+   "domain": "optical_comm",
+   "published": "2026-10-30",
+   "summary": "",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "22dfc2fb792080d5b6291c1ae91fe2775edebad1",
+   "title": "胜宏科技：前三季度AI收入占比约40%，1.6T光模块相关产品放量，明年订单需求强劲",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbzA3eG12Y3BqSTBVZmw5aGtSU2F1Y1F2QUZnZDVXVzgtSjVPQ1plX2VjMkZ0Y1kyRHM2SGtvbDFSbWYzWTYxamowMy1PTjd0NWFCSGVIZl90WThncDdrZHE2SnBFTEwteFRxNGRRdE84TW55QVVlTzBwUTRVY1VMbzNtSGx2dEU4WmhmWQ?oc=5",
+   "source": "GoogleNews·搜狐网",
+   "domain": "optical_comm",
+   "published": "2026-10-30",
+   "summary": "",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "20b757c57c36828ff8109f5087fe449327b224b3",
+   "title": "“妖股”直击：新易盛放量跌约10%报205.61元，NPO与1.6T光模块放量节奏成焦点，高盛预计2028年光模块市场规模1485亿美元",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTYkFUUW5zMmx5MWNTaTlSaUJWSmxnVEtuQ0tpS0ZGXzJlYUpWSEVXMllUNWpPRnJzSW5pV2xOeHRRNmdtYzMtZ2txMjA5NFRTS1JWZ1l4QkZBN3VKUUNFeGhYN2hWYWE5azY3WDdZVmRTN0xo?oc=5",
+   "source": "GoogleNews·金融界",
+   "domain": "optical_comm",
+   "published": "2026-10-30",
+   "summary": "",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "bt": 0,
+   "co": [
+    "新易盛"
+   ]
+  },
+  {
+   "id": "8a457a53dcd88e2714486e81ce237bda44299389",
+   "title": "长鑫科技股东会：订单饱满，两地晶圆厂高产能利用率运转",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBUTzRqamYtUVBVLUxCWVFOVi1MRWEtT0JPQ0VNcUNqMmFDOGxCLWdjdW5GVTBjWlBJVHI3UTRNdlJDZk83bU14bDY0MVVVOGpidS15ZHRpVXdyb2JhRHdXN0pxVXRfWWhvTjE4UGN4OA?oc=5",
+   "source": "GoogleNews·新浪网",
+   "domain": "memory",
+   "published": "2026-10-19",
+   "summary": "",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "bt": 0,
+   "co": []
+  },
+  {
    "id": "5dfc84518b8fa9f211d9040741e12024f93ca13a",
    "title": "华工科技前三季度实现营收126.54亿元，光互联业务三季度净利环比增长211%_国内经济",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wcnF3Rkc3dU5IOFZBRGNGd2xEclBDN0JMNHF0UTJwRjQ3MmlxRE1KUzhwUkFoS3lMRUxkemw2UUpFTUc4TTRvM3ZRR1JtM1NMbVFQU3FwMUprRGNUWHpyeGNJcXA?oc=5",
    "source": "GoogleNews·证券之星",
    "domain": "optical_comm",
    "published": "2026-10-29",
+   "summary": "",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "bt": -1,
+   "co": [
+    "华工科技"
+   ]
+  },
+  {
+   "id": "c4de9cf0f282520a57bb368f7c98266d7087094b",
+   "title": "华工科技前三季度营收126.54亿元 光互联业务两项指标实现三位数增幅",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTkdpWWVBNFY0Qzg3Uml2VXY3Q3VQTWZyQlhUcmlFZ3pkak1ENzJFS2dWRWZjSVJLcmRTTmJGQW5GYnpKOUFaOWFucUkxQUdqQ3FmTVV5UWNkanlweVU1Z2NYZUZXaHlTa2drZFowYWp3cFFNc2NCck1RcjI3ejVfaTFFN1ZvcS0xMlc3SA?oc=5",
+   "source": "GoogleNews·搜狐网",
+   "domain": "optical_comm",
+   "published": "2026-10-30",
    "summary": "",
    "first_seen": "2026-10-30",
    "last_seen": "2026-10-30",
@@ -315,6 +546,21 @@
    "last_seen": "2026-10-30",
    "bt": -3,
    "co": []
+  },
+  {
+   "id": "6cadd7261e7e24fba5bc782e950774d8451968b2",
+   "title": "新易盛Q3营收109.4亿 净利增61.15% 新易盛Q3营收109.4亿 净利增61.15%*新易盛公布2026年第三季度业绩，单季营收109.40亿元，同比增长80.30%；净利润38.43亿元，同比增长61.15%。前三季度累计营收318.50亿元，同比增长92.97%；净利润113.72亿元，同比",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU3BvUUhVWEl4SjZ1ek5taFpKRzhaNmhpMFRNRU5FVmQtcC0zbkZiU1BWeTBxVk9rb2Q5dENqOFZ1MlFnQ1dXR1kzR0c3NjgxbFJIblpncEg4c08tcHNDVWx6dUhEVmR1aUtSaHI3QWRnaUJOQ2hnVHpfdlY0WUprZEJpa2RXM0s3?oc=5",
+   "source": "GoogleNews·搜狐网",
+   "domain": "optical_comm",
+   "published": "2026-10-30",
+   "summary": "",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "bt": -6,
+   "co": [
+    "新易盛"
+   ]
   },
   {
    "id": "19e9e645cdf1eb1f6851ab2e4dfc7233ce53d478",
@@ -396,7 +642,7 @@
    "published": "2026-10-28",
    "summary": "",
    "first_seen": "2026-10-29",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "bt": 2,
    "co": [
     "长鑫存储"
@@ -646,7 +892,7 @@
    "published": "2026-10-20",
    "summary": "",
    "first_seen": "2026-10-29",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "bt": 0,
    "co": [
     "长鑫存储"
@@ -1059,7 +1305,7 @@
    "published": "2026-10-28",
    "summary": "",
    "first_seen": "2026-10-29",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "bt": 0,
    "co": [
     "中芯国际",
@@ -1114,7 +1360,7 @@
    "published": "2026-10-29",
    "summary": "",
    "first_seen": "2026-10-29",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "bt": 0,
    "co": [
     "长鑫存储"
@@ -1129,7 +1375,7 @@
    "published": "2026-10-19",
    "summary": "",
    "first_seen": "2026-10-29",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "bt": 0,
    "co": []
   },
@@ -1323,7 +1569,7 @@
    "published": "2026-10-13",
    "summary": "",
    "first_seen": "2026-10-28",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "bt": 2,
    "co": [
     "长鑫存储"
@@ -2002,7 +2248,7 @@
    "published": "2026-10-28",
    "summary": "",
    "first_seen": "2026-10-28",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "bt": 0,
    "co": []
   },
@@ -2284,7 +2530,7 @@
    "published": "2026-10-16",
    "summary": "",
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "bt": 2,
    "co": []
   },
@@ -2392,7 +2638,7 @@
    "published": "2026-10-26",
    "summary": "",
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "bt": 0,
    "co": []
   },
@@ -2567,7 +2813,7 @@
    "published": "2026-10-27",
    "summary": "",
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "bt": 0,
    "co": []
   },
@@ -2809,7 +3055,7 @@
    "published": "2026-10-27",
    "summary": "",
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "bt": 0,
    "co": []
   },
@@ -3028,7 +3274,7 @@
    "published": "2026-10-17",
    "summary": "",
    "first_seen": "2026-10-26",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "bt": 2,
    "co": [
     "长鑫存储"
@@ -3168,7 +3414,7 @@
    "published": "2026-10-25",
    "summary": "面对来自苹果等国际科技巨头的采购需求，中国DRAM芯片厂商长鑫存储（CXMT）正在坚持一项不同寻常的商业策略。据最新消息，长鑫存储不仅没有向苹果提供价格优惠，甚至拒绝了部分海外客户的合作请求，其核心目标是优先满足中国本土市场需求，并加速实现中国存储产业自主可控的发展战略。 阅读全文",
    "first_seen": "2026-10-26",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "bt": 0,
    "co": [
     "长鑫存储"
@@ -3209,7 +3455,7 @@
    "published": "2026-10-25",
    "summary": "",
    "first_seen": "2026-10-26",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "bt": 0,
    "co": []
   },
@@ -3222,7 +3468,7 @@
    "published": "2026-10-25",
    "summary": "",
    "first_seen": "2026-10-26",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "bt": 0,
    "co": [
     "长鑫存储"
@@ -3416,7 +3662,7 @@
    "published": "2026-10-23",
    "summary": "",
    "first_seen": "2026-10-26",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "bt": 0,
    "co": []
   },
@@ -3578,7 +3824,7 @@
    "published": "2026-10-26",
    "summary": "",
    "first_seen": "2026-10-26",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "bt": 0,
    "co": [
     "长鑫存储"
@@ -3649,7 +3895,7 @@
    "published": "2026-10-26",
    "summary": "",
    "first_seen": "2026-10-26",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "bt": 0,
    "co": []
   },
@@ -3760,7 +4006,7 @@
    "published": "2026-10-26",
    "summary": "",
    "first_seen": "2026-10-26",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-30",
    "bt": 0,
    "co": []
   },
@@ -4299,7 +4545,7 @@
    "published": "2026-10-21",
    "summary": "",
    "first_seen": "2026-10-24",
-   "last_seen": "2026-10-26",
+   "last_seen": "2026-10-30",
    "bt": 2,
    "co": [
     "长鑫存储"
@@ -4556,7 +4802,7 @@
    "published": "2026-10-23",
    "summary": "",
    "first_seen": "2026-10-24",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "bt": 0,
    "co": [
     "长鑫存储"
@@ -4938,7 +5184,7 @@
    "published": "2026-10-23",
    "summary": "",
    "first_seen": "2026-10-23",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "bt": 2,
    "co": []
   },
@@ -5231,7 +5477,7 @@
    "published": "2026-10-23",
    "summary": "",
    "first_seen": "2026-10-23",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "bt": 0,
    "co": [
     "长鑫存储"
@@ -5588,7 +5834,7 @@
    "published": "2026-10-23",
    "summary": "",
    "first_seen": "2026-10-23",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "bt": 0,
    "co": []
   },
@@ -5813,7 +6059,7 @@
    "published": "2026-10-22",
    "summary": "",
    "first_seen": "2026-10-22",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "bt": 2,
    "co": []
   },
@@ -5869,7 +6115,7 @@
    "published": "2026-10-22",
    "summary": "",
    "first_seen": "2026-10-22",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "bt": 2,
    "co": []
   },
@@ -6297,7 +6543,7 @@
    "published": "2026-10-22",
    "summary": "",
    "first_seen": "2026-10-22",
-   "last_seen": "2026-10-25",
+   "last_seen": "2026-10-30",
    "bt": 0,
    "co": []
   },
@@ -6375,7 +6621,7 @@
    "published": "2026-10-15",
    "summary": "",
    "first_seen": "2026-10-21",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "bt": 2,
    "co": []
   },
@@ -6576,7 +6822,7 @@
    "published": "2026-10-20",
    "summary": "",
    "first_seen": "2026-10-21",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "bt": 0,
    "co": []
   },
@@ -6982,7 +7228,7 @@
    "published": "2026-10-21",
    "summary": "",
    "first_seen": "2026-10-21",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "bt": 0,
    "co": []
   },
@@ -7328,7 +7574,7 @@
    "published": "2026-10-19",
    "summary": "",
    "first_seen": "2026-10-20",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "bt": 2,
    "co": [
     "长鑫存储"
@@ -7564,7 +7810,7 @@
    "published": "2026-10-19",
    "summary": "",
    "first_seen": "2026-10-20",
-   "last_seen": "2026-10-28",
+   "last_seen": "2026-10-30",
    "bt": 0,
    "co": []
   },
@@ -7577,7 +7823,7 @@
    "published": "2026-10-20",
    "summary": "",
    "first_seen": "2026-10-20",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "bt": 0,
    "co": []
   },
@@ -7590,7 +7836,7 @@
    "published": "2026-10-19",
    "summary": "",
    "first_seen": "2026-10-20",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "bt": 0,
    "co": [
     "长鑫存储"
@@ -8101,7 +8347,7 @@
    "published": "2026-10-13",
    "summary": "",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "bt": 2,
    "co": [
     "华为"
@@ -8475,7 +8721,7 @@
    "published": "2026-10-19",
    "summary": "",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "bt": 0,
    "co": []
   },
@@ -8568,7 +8814,7 @@
    "published": "2026-10-19",
    "summary": "",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "bt": 0,
    "co": []
   },
@@ -8771,7 +9017,7 @@
    "published": "2026-10-18",
    "summary": "",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "bt": 0,
    "co": []
   },
@@ -9074,7 +9320,7 @@
    "published": "2026-10-18",
    "summary": "",
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "bt": 2,
    "co": [
     "长鑫存储"
@@ -9547,7 +9793,7 @@
    "published": "2026-10-14",
    "summary": "",
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "bt": -3,
    "co": []
   },
@@ -9573,7 +9819,7 @@
    "published": "2026-10-16",
    "summary": "",
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "bt": -3,
    "co": []
   },
@@ -9612,7 +9858,7 @@
    "published": "2026-10-17",
    "summary": "",
    "first_seen": "2026-10-17",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "bt": 4,
    "co": []
   },
@@ -9722,7 +9968,7 @@
    "published": "2026-10-16",
    "summary": "",
    "first_seen": "2026-10-17",
-   "last_seen": "2026-10-28",
+   "last_seen": "2026-10-30",
    "bt": 2,
    "co": []
   },
@@ -9925,7 +10171,7 @@
    "published": "2026-10-15",
    "summary": "",
    "first_seen": "2026-10-17",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "bt": 0,
    "co": []
   },
@@ -10213,7 +10459,7 @@
    "published": "2026-10-16",
    "summary": "",
    "first_seen": "2026-10-17",
-   "last_seen": "2026-10-21",
+   "last_seen": "2026-10-30",
    "bt": -3,
    "co": []
   },
@@ -10226,7 +10472,7 @@
    "published": "2026-10-17",
    "summary": "",
    "first_seen": "2026-10-17",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "bt": -3,
    "co": []
   },
@@ -10265,7 +10511,7 @@
    "published": "2026-10-16",
    "summary": "",
    "first_seen": "2026-10-17",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "bt": -3,
    "co": []
   },
@@ -11144,7 +11390,7 @@
    "published": "2026-10-15",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "bt": 0,
    "co": []
   },
@@ -11157,7 +11403,7 @@
    "published": "2026-10-16",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "bt": 0,
    "co": []
   },
@@ -11170,7 +11416,7 @@
    "published": "2026-10-15",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "bt": 0,
    "co": [
     "长鑫存储"
@@ -11463,7 +11709,7 @@
    "published": "2026-10-16",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-24",
+   "last_seen": "2026-10-30",
    "bt": 0,
    "co": []
   },
@@ -11802,7 +12048,7 @@
    "published": "2026-10-16",
    "summary": "IT之家 10 月 16 日消息，存储芯片概念股今日早盘大涨。截至IT之家发文，长鑫科技涨超 5%，市值重回 3 万亿，再次超越工商银行成为 A 股市值第一。据IT之家 10 月 10 日报道，长鑫存储 4F² DRAM 架构研发取得关键进展。该公司总裁曹堪宇博士在第四届集成芯片和芯粒大会上发表演讲，全面介绍了长鑫存储",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "bt": -3,
    "co": []
   },
@@ -11841,7 +12087,7 @@
    "published": "2026-10-16",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "bt": -3,
    "co": []
   },
@@ -11880,7 +12126,7 @@
    "published": "2026-10-16",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "bt": -3,
    "co": []
   },
@@ -11893,7 +12139,7 @@
    "published": "2026-10-16",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "bt": -3,
    "co": []
   },
@@ -12740,7 +12986,7 @@
    "published": "2026-10-14",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "bt": 2,
    "co": []
   },
@@ -13380,7 +13626,7 @@
    "published": "2026-10-12",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-25",
+   "last_seen": "2026-10-30",
    "bt": 0,
    "co": []
   },
@@ -14905,7 +15151,7 @@
    "published": "2026-10-14",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "bt": 0,
    "co": []
   },
@@ -15184,7 +15430,7 @@
    "published": "2026-10-11",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "bt": -3,
    "co": []
   },
@@ -15430,7 +15676,7 @@
    "published": "2026-10-15",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "bt": -3,
    "co": []
   }
