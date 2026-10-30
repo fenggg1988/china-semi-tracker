@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-30 15:03:26",
- "count": 1169,
+ "updated": "2026-10-30 16:01:02",
+ "count": 1170,
  "items": [
   {
    "id": "fa016a5f0fbb1b9b63b504fb8ada92b42062a27c",
@@ -76,6 +76,19 @@
    "source": "GoogleNews·아시아경제",
    "domain": "memory",
    "published": "2026-10-29",
+   "summary": "",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "bt": 4,
+   "co": []
+  },
+  {
+   "id": "87007cf6e59b77ee3b1770c60bc7ad5dccb876f2",
+   "title": "【讯石观察】东南亚光通信布局：1.6T扩产主线与800G量产主力并行",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkWVhXLW1SR3NmT2NtZ1Z2WWxlRzlob1pPLU9fRVdBcXNUbTczbHB5UGZlU1RkcEU5eTNfeWVvc2VVMzk0Y2pmTDhsTXJEMVROOUZEVzROOEJHLWdPdWJDM2VKa09sVWlmUk9pcksxSXNBMzl2NWN1aw?oc=5",
+   "source": "GoogleNews·讯石光通讯网",
+   "domain": "optical_comm",
+   "published": "2026-10-30",
    "summary": "",
    "first_seen": "2026-10-30",
    "last_seen": "2026-10-30",
@@ -2015,7 +2028,7 @@
    "published": "2026-10-27",
    "summary": "",
    "first_seen": "2026-10-28",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "bt": 0,
    "co": []
   },
@@ -2862,7 +2875,7 @@
    "published": "2026-10-13",
    "summary": "",
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-30",
    "bt": 0,
    "co": [
     "华虹"
@@ -2983,7 +2996,7 @@
    "published": "2026-10-27",
    "summary": "",
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "bt": 0,
    "co": [
     "长江存储"
@@ -3050,7 +3063,7 @@
    "published": "2026-10-27",
    "summary": "",
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-28",
+   "last_seen": "2026-10-30",
    "bt": 0,
    "co": []
   },
@@ -3800,7 +3813,7 @@
    "published": "2026-10-26",
    "summary": "",
    "first_seen": "2026-10-26",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "bt": 0,
    "co": [
     "长鑫存储"
@@ -5121,7 +5134,7 @@
    "published": "2026-10-24",
    "summary": "",
    "first_seen": "2026-10-24",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "bt": 0,
    "co": []
   },
@@ -14718,7 +14731,7 @@
    "published": "2026-10-13",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "bt": 0,
    "co": []
   },
