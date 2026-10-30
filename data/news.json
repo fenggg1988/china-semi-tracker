@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-30 14:40:19",
- "count": 1160,
+ "updated": "2026-10-30 14:51:28",
+ "count": 1165,
  "items": [
   {
    "id": "fa016a5f0fbb1b9b63b504fb8ada92b42062a27c",
@@ -562,6 +562,60 @@
    ]
   },
   {
+   "id": "aedc0b06ee59caaa6f6a0457b5fc605f2bfd017c",
+   "title": "新易盛四季度订单需求旺盛，1.6T光模块有望进一步放量，5GETF博时(159811)跟踪指数强势涨超3%",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9zOFFHTlIwamJHZlFkd1p1VlFtRUEwOVg0Z0VHMWx2RmRHYWo1ZzF4Yy11NDcwRXNJZFpRWEJ5dGcwVWtnUGp0MzBMUXlLeW4ycXJSbmJ4RlA?oc=5",
+   "source": "GoogleNews·Jiemian.com",
+   "domain": "optical_comm",
+   "published": "2026-10-28",
+   "summary": "",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "bt": 0,
+   "co": [
+    "新易盛"
+   ]
+  },
+  {
+   "id": "72f2c1fa71b6ca841a756898203f62db711df27e",
+   "title": "长鑫科技，直线拉起",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xSUZydktxUXRUSjVVR2V2eFRIZWVHaENrbDVRY1dmN0NHWDJyMTJJMjNjRGlBWnVWZ1hkUS04MTJZc2R0aUpGUlZybWFfSlBQREZQeHliSGtnSmNIdmhKdm84VEdRaHVEYmZtdWJiQUZtdEZhSkp1dw?oc=5",
+   "source": "GoogleNews·新浪财经",
+   "domain": "memory",
+   "published": "2026-10-30",
+   "summary": "",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "eed07388dd2318c2f9067a69b921b37c96192883",
+   "title": "上市满三个月！长鑫科技成上证指数和科创综指第一大权重股",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrTlpTdmdnbWVYTUxwdFJzX3BHZ3lLSjNPcUdSVVEtNDIxQU1NUm9zbm9oeWp2UGJkTHFNZHQ0SEtETEVWdU1uTk5iT3RIVUw5NVd1TkY0akZsMVlPZ3lZNw?oc=5",
+   "source": "GoogleNews·东方财富",
+   "domain": "memory",
+   "published": "2026-10-28",
+   "summary": "",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "76c69ef8c5e65f60949ef0da7b0295ba56c1dad3",
+   "title": "国内存储芯片缺口太大，还需要3个长鑫+3个长存的产能",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPU09DZ3BoOWtBd3Yxa2hiNWF5NmJyZklZVF9MXy1NdTFSaTVFSk9wYTZfMm5SUGEwVVZYU0NISUt4RGt4eml0Vmt1akFVRDdtR0xudjhXOEVHRThMZkF1MnBCaXNMclpIbmI2QnlKQkg1ZkJBcVBRU0owb0U1OUcxRnNQbmMxRkJ1YW53SA?oc=5",
+   "source": "GoogleNews·搜狐网",
+   "domain": "memory",
+   "published": "2026-10-30",
+   "summary": "",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "bt": 0,
+   "co": []
+  },
+  {
    "id": "5dfc84518b8fa9f211d9040741e12024f93ca13a",
    "title": "华工科技前三季度实现营收126.54亿元，光互联业务三季度净利环比增长211%_国内经济",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wcnF3Rkc3dU5IOFZBRGNGd2xEclBDN0JMNHF0UTJwRjQ3MmlxRE1KUzhwUkFoS3lMRUxkemw2UUpFTUc4TTRvM3ZRR1JtM1NMbVFQU3FwMUprRGNUWHpyeGNJcXA?oc=5",
@@ -631,6 +685,21 @@
    "last_seen": "2026-10-30",
    "bt": -3,
    "co": []
+  },
+  {
+   "id": "cf467945f5b65672a48d585f5eaa6110745402c1",
+   "title": "DeepSeek千亿融资细节曝光：长鑫存储、腾讯等近30家机构参投，国资占比27%",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQVpzZHZrWEJPbXZhNS1IeXVheU1oU1QwcDZXRmgxWXJqY0NISUFEbjVzd1V4UjhaZXJqYUlGUGNJTDNaYjV3REJpY1dYM2tOdWhzSHUwOHFPZHE4Um1sU1Y2cHFrbWdXM1gyeTNLY1RpVmZaM1V2QWF2VU9qRXN0RlZsNTJPUXFQckhCcg?oc=5",
+   "source": "GoogleNews·搜狐网",
+   "domain": "memory",
+   "published": "2026-10-30",
+   "summary": "",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "bt": -3,
+   "co": [
+    "长鑫存储"
+   ]
   },
   {
    "id": "6cadd7261e7e24fba5bc782e950774d8451968b2",
@@ -5864,7 +5933,7 @@
    "published": "2026-10-23",
    "summary": "",
    "first_seen": "2026-10-23",
-   "last_seen": "2026-10-28",
+   "last_seen": "2026-10-30",
    "bt": 0,
    "co": [
     "源杰科技",
