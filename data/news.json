@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-30 14:51:28",
- "count": 1165,
+ "updated": "2026-10-30 15:03:26",
+ "count": 1169,
  "items": [
   {
    "id": "fa016a5f0fbb1b9b63b504fb8ada92b42062a27c",
@@ -616,6 +616,47 @@
    "co": []
   },
   {
+   "id": "d4058529d55f233bd13ae4a3b3545b5c7b83a938",
+   "title": "前英特尔CEO押注颠覆性内存技术Z2RAM：融合SRAM速度与DRAM密度",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584436.htm",
+   "source": "cnBeta",
+   "domain": "memory",
+   "published": "2026-10-30",
+   "summary": "全球人工智能产业的快速扩张正在引发严重的存储芯片供应紧张，尤其是高带宽内存（HBM）需求激增，使传统DRAM产能面临重新分配的压力。在这一背景下，英特尔前首席执行官帕特·基辛格（Pat Gelsinger）正在押注一种新型内存技术，希望通过改变传统存储单元的设计方式，解决AI芯片长期面临的容量、带宽和功耗问题。 阅读全",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "239bce84d3699d7ae0fed2757ad32b49387a967f",
+   "title": "茂莱光学：国浩律师（南京）事务所关于南京茂莱光学科技股份有限公司2026年第二次临时股东会之法律意见书",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRkpvS1djZFVJYWJCczBfVGEtOC03T2taeWlzcHJQekhBNzdaQVdFVHU1Q25xd2lMeEN4Ni1zOEVBLUFsRTFEWXpVVTc4STB3UXFvWXdWTFhuZGU3a3NQTHNEVkJaRHc0enRJbnNNMk1Xc3ROSkdwTHliUmdaTXRYOEs5b0RYcWoxdEd5aXdpbjZEbUNYNndIT3VSQlE5Vm9wb2NhekhCYThKUEZBbWFYcE93?oc=5",
+   "source": "GoogleNews·Moomoo",
+   "domain": "optics",
+   "published": "2026-10-30",
+   "summary": "",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "bt": 0,
+   "co": [
+    "茂莱光学"
+   ]
+  },
+  {
+   "id": "3a47d7cb11326c8402830468a5840701c2f432d5",
+   "title": "站在光里？300308，“光模块一哥”，Q3净利大增173%，环比增长放缓",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOa3ZjbDJVRDFrc2dHdlh2UndKaE1fU2l4cUZPcUpLV0wtWlA5QXlrMUdqT3RzTzhCeHNocEkzeWJpbDctdm51NE5iOTB5Nnk3cFVuNmRkRkFUNUp4Sy1XVW90cTlENWpURmRRNzRPN3NjZC1yZlZOOXVtTWJlQ0VfLVlR?oc=5",
+   "source": "GoogleNews·网易新闻客户端",
+   "domain": "optical_comm",
+   "published": "2026-10-30",
+   "summary": "",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "bt": 0,
+   "co": []
+  },
+  {
    "id": "5dfc84518b8fa9f211d9040741e12024f93ca13a",
    "title": "华工科技前三季度实现营收126.54亿元，光互联业务三季度净利环比增长211%_国内经济",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wcnF3Rkc3dU5IOFZBRGNGd2xEclBDN0JMNHF0UTJwRjQ3MmlxRE1KUzhwUkFoS3lMRUxkemw2UUpFTUc4TTRvM3ZRR1JtM1NMbVFQU3FwMUprRGNUWHpyeGNJcXA?oc=5",
@@ -714,6 +755,22 @@
    "bt": -6,
    "co": [
     "新易盛"
+   ]
+  },
+  {
+   "id": "1a9e156303bacf9a8bfbb48ced03244d4627f01d",
+   "title": "曝 DeepSeek 第二轮融资 1055 亿元：估值 6155 亿元，腾讯、宁德时代、长鑫存储、中芯国际、美团、vivo 等参与",
+   "url": "https://www.ithome.com/1/020/121.htm",
+   "source": "IT之家",
+   "domain": "memory",
+   "published": "2026-10-30",
+   "summary": "IT之家 10 月 30 日消息，《The Information》今日曝光了 DeepSeek 第二轮融资规模及部分投资方名单。最早是在当地时间 10 月 22 日，《The Information》称 DeepSeek 完成第二轮融资，募资约 150 亿美元（IT之家注：现汇率约合 1,001.53 亿元人民币），",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "bt": -6,
+   "co": [
+    "长鑫存储",
+    "中芯国际"
    ]
   },
   {
