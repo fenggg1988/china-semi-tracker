@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-30 16:01:02",
- "count": 1170,
+ "updated": "2026-10-30 22:45:36",
+ "count": 1192,
  "items": [
   {
    "id": "fa016a5f0fbb1b9b63b504fb8ada92b42062a27c",
@@ -147,6 +147,51 @@
    "bt": 2,
    "co": [
     "长鑫存储"
+   ]
+  },
+  {
+   "id": "07813e548101e4bd2ba7e01edc5eca186dcf80d0",
+   "title": "华为 Mate 60 Pro 处理器型号官方首次“揭秘”，搭载麒麟 9000S 与 30、40、50、90“同台竞技”",
+   "url": "https://www.ithome.com/1/020/372.htm",
+   "source": "IT之家",
+   "domain": "logic",
+   "published": "2026-10-30",
+   "summary": "IT之家 10 月 30 日消息，华为官方公众号今日发文，再次介绍了 Mate 90 系列手机近期优惠活动，包括以旧换新至高 800 元补贴、24 期免息和一年期 200GB 云空间等。华为官方在此篇推文中，还将 Mate 30 / 40 / 50 / 60 Pro 的核心配置铺开，集中与 Mate 90 Pro 进行",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "bt": 2,
+   "co": [
+    "华为"
+   ]
+  },
+  {
+   "id": "eca84677ea3ee95e67e2465a0fd2e860808f1b3e",
+   "title": "极空间 Z4Air 四盘位 NAS 发售：搭载海思 Hi3781V730 八核芯片，首发 1899 元",
+   "url": "https://www.ithome.com/1/020/318.htm",
+   "source": "IT之家",
+   "domain": "logic",
+   "published": "2026-10-30",
+   "summary": "IT之家 10 月 30 日消息，极空间官方今日宣布推出全新四盘位 AI NAS 产品 Z4Air，将于 20:00 正式开售，京东显示为 2099 元，首发立减 200 元，叠加京东 PLUS 超级补贴券 + 国补后不超过 1486.01 元。这款产品搭载海思 Hi3781V730 芯片，配备 4GB 内存、32GB",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "bt": 2,
+   "co": [
+    "海思"
+   ]
+  },
+  {
+   "id": "700d1dc53b01373c572aa1eb7c69b5eea7362048",
+   "title": "港股异动 | 中信银行(00998)涨近2% 盈利增长趋势领先管理层指引 长江存储潜在上市或贡献额外盈利空间-证券之星",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GRkRaV3hRV2Jwc01XSUV6UUdSeDU2UUZsYjBScmRBeC1yY0xMODNyQ0U1RXZQZmVtVUVldDFPb3J3VXNZVVRKcUtrTm1XWmNBSDBJTkZWcHd0eDZHVWc?oc=5",
+   "source": "GoogleNews·证券之星",
+   "domain": "memory",
+   "published": "2026-10-30",
+   "summary": "",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "bt": 2,
+   "co": [
+    "长江存储"
    ]
   },
   {
@@ -670,6 +715,140 @@
    "co": []
   },
   {
+   "id": "5f3c99f7c4957d5c5b3479d4d54f4a344ec0339c",
+   "title": "长鑫科技三季报：AI算力拉动DRAM需求，毛利率升至89.5%",
+   "url": "https://www.chinaflashmarket.com/a/184388",
+   "source": "闪存市场",
+   "domain": "memory",
+   "published": "",
+   "summary": "",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "0c8a1f92ee89b530f885c028a1c7eed68eb58d28",
+   "title": "一举开设华虹、长川等8个冠名班，30多家集成电路企业进校园结为技术共同体",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE83R3FzSG9qYll4dWxKSjNpOGQ1Ym1ZZ0Qzby1ackFnUnM5SzBsT2hQV1F2b1AxaE9TcUVNUjlOeWRhNmR4cUZWYjI3RGp4a1dHbmU5SFI2Y1hza0JB?oc=5",
+   "source": "GoogleNews·上观新闻",
+   "domain": "logic",
+   "published": "2026-10-30",
+   "summary": "",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "bt": 0,
+   "co": [
+    "华虹"
+   ]
+  },
+  {
+   "id": "dcb5175af788dbddcbbaf380a77efda88d72035f",
+   "title": "佰维存储三季报：从核心存储到硅光，AI基建新玩家的提前卡位",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5fMnNEb05VclE0elNBaEstWnJPSTRSYy1TNjktUlNYWkhvWGR1aVQyWENjSkIwVldNWEtYbG1FM3dqbmcyV3E0ZHRrUmk1WHdNVmVScGhMNDNIY2djaWZ3TE1SeUg1RXRDVVJIT0tB?oc=5",
+   "source": "GoogleNews·中华网财经",
+   "domain": "optical_comm",
+   "published": "2026-10-30",
+   "summary": "",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "bt": 0,
+   "co": [
+    "佰维存储"
+   ]
+  },
+  {
+   "id": "5630b0603ff95a8971bde287c29d172583e781cb",
+   "title": "长鑫科技前三季净利1320.4亿元！",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5NeTVEUWkxcC1xdUhRMER4SlhRclJWS3hIaC1Tdi1WWW5pZ0l6VW9yQWZ1eFN2QWlUemFrUm1wRkIwci1C?oc=5",
+   "source": "GoogleNews·芯智讯",
+   "domain": "memory",
+   "published": "2026-10-30",
+   "summary": "",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "f99605f1bd721600315bbf1238e891b3a745f378",
+   "title": "长鑫科技(688825):开立及调整募集资金专户并签署募集资金专户存储三方监管协议及补充协议",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBcVptcFYyUHk2OTI1U2h0TEYzekRFb0JmYzNJN01nOFUxMUVsWVRpS2pxN0lsQnRpd1hCZl9jRU9yd1JwMGN0ZUpFcHJ4UDJEOFpnUG9R?oc=5",
+   "source": "GoogleNews·中财网",
+   "domain": "memory",
+   "published": "2026-10-30",
+   "summary": "",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "148c6086963753136848cf944812079cee4aa943",
+   "title": "1055亿元！DeepSeek吸引长鑫、vivo、美团、小红书等30家投资方入场",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5sa3BsWjloUDVTbnUyRG5YanhYRkF2dFg4VlF3OHRQY0dyOVVycEctZEdkbl8yQV9kUnJ5QjFPa0hqMHNVVTIwcmxWclhXbGxITHJFazV3eWs4ODRwTGdtVnJjTm8?oc=5",
+   "source": "GoogleNews·观察者网",
+   "domain": "memory",
+   "published": "2026-10-30",
+   "summary": "",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "53deb81f8c028ec46fa842e1c367439e9bf1e032",
+   "title": "长鑫科技：前三季度净赚1320亿元",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1TZThLeE41amhqdF84UXdKRUt1Vms2Z0xQMVNrNXE2VDN6RnBWWWxfQTc2NVRFSmp1dTctX2hBTEY3NXdhOGtEYmFB?oc=5",
+   "source": "GoogleNews·凤凰网安徽",
+   "domain": "memory",
+   "published": "2026-10-30",
+   "summary": "",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "653edb32ddc4af147b282563a997df10b28d6c01",
+   "title": "AI带旺存储芯片需求 长鑫科技单季赚331亿",
+   "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOSWtyMncxREhWLTZvQ09qbHFaSG5VSlQ3d1ZNRURiTlRZZlp6b3FjZXpMT1VvbFpfRnF2ZnpCS2xlSGJXRV8xWjNZN3JMeTB2Y2x3Nm83Q0ltaldkd0x0eVBOWWlpMWxhd0dCSHRsZFJaeVN1MUoyWEdvV1J3d0dlam1qWlJ0ZkhPN0pETGVlQjZTMHVBTy04aW9BcjB1ZnQzUW85TEIydVFjdWpYNlpNa2xfSWp2SkFzMzhhTEJpamc0YzBYZS0yNzJWX09KQk04RWFtQWFONzBZRFV5VllVTW5RcTZCVzU0Nnl4UDR0N0tEOGd2dnM2eXliTTNmV182UHlNRk1ETHY4ZTBscUhQLW5Tc1ZFWF9xRE9PaUZLVWsxY0pYWjFr?oc=5",
+   "source": "GoogleNews·KLSE Screener",
+   "domain": "memory",
+   "published": "2026-10-30",
+   "summary": "",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "3b32fd20f8af63c020547d8a49f27aace071aaa5",
+   "title": "高增长、高毛利、低负债：长鑫科技三季报“成色”几何",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRDRnVGRCUGVpTU5QMXRGR0pjSkRmQTB5bWlSMnNRU04zMEJoTHZQenBpQXhPUjBZb05rTGtmVGsyQmgxWG5Ka2lvOC1Tc19BNS03NnJNUExzekt6TUxfajdXZkpyUWh1MXdiNGpCMERybGlVb3JBSXMzWGI2dkZ6c1pzX285SDl1dzNMMDVKYw?oc=5",
+   "source": "GoogleNews·21财经",
+   "domain": "memory",
+   "published": "2026-10-30",
+   "summary": "",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "595c503e60284bc546ad162b57791b5b89bc316b",
+   "title": "长鑫科技，释放最新利好",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9USnpnMzdyNkxfM3lKNlBqUXJrTDdnQTYtZF9ya3NZSmdVYkdHY1pvOUc5bDh5ZWREbmhtZWZ1Qk1Qd25hRm1jbTMyRUkyb0VFUXZLVjhORXFkYV9lLVo5WW5PeGZTQQ?oc=5",
+   "source": "GoogleNews·东方财富",
+   "domain": "memory",
+   "published": "2026-10-30",
+   "summary": "",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "bt": 0,
+   "co": []
+  },
+  {
    "id": "5dfc84518b8fa9f211d9040741e12024f93ca13a",
    "title": "华工科技前三季度实现营收126.54亿元，光互联业务三季度净利环比增长211%_国内经济",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wcnF3Rkc3dU5IOFZBRGNGd2xEclBDN0JMNHF0UTJwRjQ3MmlxRE1KUzhwUkFoS3lMRUxkemw2UUpFTUc4TTRvM3ZRR1JtM1NMbVFQU3FwMUprRGNUWHpyeGNJcXA?oc=5",
@@ -698,6 +877,19 @@
    "co": [
     "华工科技"
    ]
+  },
+  {
+   "id": "5e51cdef1fe81ceb2d7f9682873d0c9065699b6e",
+   "title": "内存供不应求！长鑫前三季度净利润1320.4亿元：新一代G6产品已完成工程验证",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Lek91VVFqakRYN2E1TDZsOXppMmFVdHYxSjVtU2NJZzY5eFR5VmZOdVFEMG5CVTVGMk5IdkZBbkdpeHVwei1LV1JIR3ZxVXdZOEZsM0h6TDY?oc=5",
+   "source": "GoogleNews·驱动之家",
+   "domain": "memory",
+   "published": "2026-10-30",
+   "summary": "",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "bt": -1,
+   "co": []
   },
   {
    "id": "240bcb44e9edebff9ec789c28922815309f0fd38",
@@ -756,6 +948,73 @@
    ]
   },
   {
+   "id": "1fb5db6db3c98534b5eb58f215d354ec4136b4bc",
+   "title": "茂莱光学：第三季度归母净利润2419万元，同比增长87%",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qTmxXNVZtNFRHU0pRME5mOXFRUVY3R1l5c3VPRk5YWFEzTGRMM0VUSF9Ndk8wS0dGeS1IUkZjRjJEaDRjT1Q5ZWJWWHJSMFRyV25vMDlqcG5hZS13U2dJT1RjV2M?oc=5",
+   "source": "GoogleNews·东方财富",
+   "domain": "optics",
+   "published": "2026-10-30",
+   "summary": "",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "bt": -3,
+   "co": [
+    "茂莱光学"
+   ]
+  },
+  {
+   "id": "0a1a90f54a2afd6cc0af874dcbe7a36410e55672",
+   "title": "DeepSeek1055亿融资细节曝光 腾讯宁王领跑 长鑫中芯进场了",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE13U3lUakpud0tUbVJ6bXpxWWVRcUt1dlRuSTVrcnU2ai1vZENJR0ZOMG45ZVFEQjEyNVZYSW0wcEhFZ0lQOGhmRDNWcHFMelh5dFNLaVBlc1E?oc=5",
+   "source": "GoogleNews·驱动之家",
+   "domain": "memory",
+   "published": "2026-10-30",
+   "summary": "",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "bt": -3,
+   "co": []
+  },
+  {
+   "id": "e91b0fc2c3f164b230faecb491a29a7991d8ea10",
+   "title": "新芯航途发布大模型芯片X7 Ultra 长鑫科技参与战略轮融资",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5QaXN4Z0NLX3ZPbVhmd09JRGhCV0JqVXN6MEdCaEtMb24tZk9KdzdacEZLcWtRR2ZvdjI2cFNWUnJBVWI2RUVkN1FKLVBMd0pHZHdESDNxYkM3SGFoak0wRmlrWUlST2RsLXNNbWFRbG96VVhIRmdPZA?oc=5",
+   "source": "GoogleNews·新浪财经",
+   "domain": "memory",
+   "published": "2026-10-30",
+   "summary": "",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "bt": -3,
+   "co": []
+  },
+  {
+   "id": "b65ebbc44edd0a70f72f6897844cc4dc32df433e",
+   "title": "长鑫科技：第三季度收入1187亿元，归母净利润544亿环比增长3%_IPO观察_新股",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vc3BjcnNRTEFhYnl5ZGNXeWpuNkdLR0szdzZOVmIzTnkza205M3FpUTgzdFUzQW9uM0dHRmotODl5Z1dJbVljN0xabjdlZWtEbThfd0NROEsxaUVqQmU2ZHZB?oc=5",
+   "source": "GoogleNews·证券之星",
+   "domain": "memory",
+   "published": "2026-10-30",
+   "summary": "",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "bt": -3,
+   "co": []
+  },
+  {
+   "id": "f5c8a2ccd19c562e909149475da018777863bf19",
+   "title": "长鑫科技2026年前三季度归母净利润1320.4亿元，同比扭亏为盈",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5HeVpjUVo4THRwQXRVX1lpZFhuNFJqWmZnR240T3ZsSTFFRFRIS19qWFNlVFZNTUpIOGprOUNEZUQzNUpxVTVzTUFDX0Y?oc=5",
+   "source": "GoogleNews·凤凰网科技",
+   "domain": "memory",
+   "published": "2026-10-30",
+   "summary": "",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "bt": -3,
+   "co": []
+  },
+  {
    "id": "6cadd7261e7e24fba5bc782e950774d8451968b2",
    "title": "新易盛Q3营收109.4亿 净利增61.15% 新易盛Q3营收109.4亿 净利增61.15%*新易盛公布2026年第三季度业绩，单季营收109.40亿元，同比增长80.30%；净利润38.43亿元，同比增长61.15%。前三季度累计营收318.50亿元，同比增长92.97%；净利润113.72亿元，同比",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU3BvUUhVWEl4SjZ1ek5taFpKRzhaNmhpMFRNRU5FVmQtcC0zbkZiU1BWeTBxVk9rb2Q5dENqOFZ1MlFnQ1dXR1kzR0c3NjgxbFJIblpncEg4c08tcHNDVWx6dUhEVmR1aUtSaHI3QWRnaUJOQ2hnVHpfdlY0WUprZEJpa2RXM0s3?oc=5",
@@ -785,6 +1044,45 @@
     "长鑫存储",
     "中芯国际"
    ]
+  },
+  {
+   "id": "dc5b71327daddb9267e69cb17b5d9c6a4db80fdc",
+   "title": "长鑫科技：Q3营收1187.14亿元 净利润约889.83亿元",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584474.htm",
+   "source": "cnBeta",
+   "domain": "memory",
+   "published": "2026-10-30",
+   "summary": "长鑫科技2026年三季报发布，第三季度（7-9月）实现营业收入约1187.14亿元，环比增长约19.30%；实现净利润约889.83亿元，环比增长约19.38%。同时，三季报披露了最新技术进展：基于第六代技术平台开发的DRAM产品已完成工程样片验证。 阅读全文",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "bt": -6,
+   "co": []
+  },
+  {
+   "id": "db06d0f3ffbe53b5e06f3be2ad52cdef559bf459",
+   "title": "长鑫科技第三季度营收超千亿，但净利润环比仅增长3%",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rLWlxWWNzeVVHZUlwS2tBQU1UTTNXek40akg3TjVwZzNlcV9BWUpiSm5YdUtYODkzT2VVWThGVTlVMExfTHgydjQ0QzRpMmRrN2tVc1d6UjBYcUhKZzRrQWpuUTU3QQ?oc=5",
+   "source": "GoogleNews·东方财富",
+   "domain": "memory",
+   "published": "2026-10-30",
+   "summary": "",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "bt": -6,
+   "co": []
+  },
+  {
+   "id": "e68c6d4b5742ea99cb955db190cc9d168e1b3d61",
+   "title": "长鑫科技：Q3营收1187.14亿元净利润约889.83亿元- 最新消息",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JTUNseVMxYVZObkxBdGR3LXFoY0I4YTgtb243Tmg4eGsxRUZKLTNiTUJqVzhzY3QyZHlXeEtBdTl5cUlPZWtkZE1GSHRMTDJSVncya3UxZkZGNzU4alZVSQ?oc=5",
+   "source": "GoogleNews·cnBeta.COM",
+   "domain": "memory",
+   "published": "2026-10-30",
+   "summary": "",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "bt": -6,
+   "co": []
   },
   {
    "id": "19e9e645cdf1eb1f6851ab2e4dfc7233ce53d478",
@@ -2054,7 +2352,7 @@
    "published": "2026-10-28",
    "summary": "",
    "first_seen": "2026-10-28",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "bt": 0,
    "co": []
   },
@@ -3556,7 +3854,7 @@
    "published": "2026-10-25",
    "summary": "",
    "first_seen": "2026-10-26",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-30",
    "bt": 2,
    "co": []
   },
@@ -4916,7 +5214,7 @@
    "published": "2026-10-14",
    "summary": "",
    "first_seen": "2026-10-24",
-   "last_seen": "2026-10-25",
+   "last_seen": "2026-10-30",
    "bt": 0,
    "co": []
   },
@@ -5201,7 +5499,7 @@
    "published": "2026-10-16",
    "summary": "",
    "first_seen": "2026-10-23",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-30",
    "bt": 4,
    "co": []
   },
@@ -6434,7 +6732,7 @@
    "published": "2026-10-21",
    "summary": "",
    "first_seen": "2026-10-22",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "bt": 0,
    "co": []
   },
@@ -11077,7 +11375,7 @@
    "published": "2026-10-12",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-26",
+   "last_seen": "2026-10-30",
    "bt": 2,
    "co": []
   },
@@ -13020,7 +13318,7 @@
    "published": "2026-10-12",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-21",
+   "last_seen": "2026-10-30",
    "bt": 2,
    "co": [
     "长鑫存储"
