@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-31 14:56:56",
- "count": 1226,
+ "updated": "2026-10-31 15:56:09",
+ "count": 1230,
  "items": [
   {
    "id": "fe4ee954d7b925b0b82e230559ed3cf14ed813f9",
@@ -374,6 +374,62 @@
    "last_seen": "2026-10-31",
    "bt": 0,
    "co": []
+  },
+  {
+   "id": "509c12f5517ff9c4a495e584a50a5d4ab6abc6f7",
+   "title": "OpenAI 奥尔特曼谈内存短缺：全球 DRAM 应优先供给数据中心，闲置在玩家 PC 里是浪费",
+   "url": "https://www.ithome.com/1/020/483.htm",
+   "source": "IT之家",
+   "domain": "memory",
+   "published": "2026-10-31",
+   "summary": "IT之家 10 月 31 日消息，OpenAI CEO 萨姆・奥尔特曼昨日在接受 YouTube 播客节目 Cheeky Pint 采访时论证了降低计算成本的必要性。他表示，在 DRAM 存储芯片供应紧张的情况下，将内存集中部署在数据中心并提高利用率，才能够更有效地利用有限的资源。奥尔特曼在节目中谈到了 AI 行业面临",
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "dde5ae12cf3448fb758ad79087ed80cc81006edc",
+   "title": "茂莱光学：关于变更对外投资项目实施主体暨对全资子公司增资的公告",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZTVTU29VSlBLWExkbEYtQnBBX0g1d3UteFBqd2E2N3cwY2ZmM2tTem9IX0diRmlqSmdwaFpNcjB0bzFBTDBTbmZQcFpFUHZJMGtPWUdtNzUzX1Izbk5OaDVUeF95UDlwNmExTTEyZHdDNXQ5c1MwYVhyQlZWNHZOV2d4SDA3bm5iTVVSMHlOUjdjOXBWSjlTQlJJamtNUHRpV3htVzFqRHBXWnNfWGNScTBFaVRZQkRCVmRJ?oc=5",
+   "source": "GoogleNews·Moomoo",
+   "domain": "optics",
+   "published": "2026-10-31",
+   "summary": "",
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31",
+   "bt": 0,
+   "co": [
+    "茂莱光学"
+   ]
+  },
+  {
+   "id": "52076b0675dfd35fdcc629d705f818dad7f9f857",
+   "title": "长鑫科技预盈超千亿，DRAM涨价推升业绩 丨 三季报",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVGdUTF9ZODY2WFJBWnZEcUdvZTRheGVVUkVnRDJmMmFLT3BxbTRYTnZydnZ2QWJaTVlPY3puSm9yX2p6WXo5djkyVGdZRVNpTlJKaHdVT2pDNFRKdTJoMXhsbjVPbldWMW5fWV8yU0hsN3JpR291QTF4ek14X2U1SkpUUS0xY2FYWU5HX003Yw?oc=5",
+   "source": "GoogleNews·21财经",
+   "domain": "memory",
+   "published": "2026-10-19",
+   "summary": "",
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "004cdf132cd63a077f712402d983f22483c2fd41",
+   "title": "美光跳过4F2直攻3D DRAM！三星、长鑫却先押4F：谁的路更对|SK海力士|长鑫存储|路径|路线图|原厂_手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaU5vWnhDVlZXYUVfOGY3a0kyNC1rd1cwQlN1ZU9YQWs4YVpmaFVxX1ZpM1U5UE5aVXJiNElUR3d0VmktdFBkV3lKN1VvYmxMZkhiRlNwOUFFVk9YaEh5YXpQVnZTTC0tNkNtWGdObU9iOTAxR3VCOUtYd2hjVVRPMU9LeGY1VXFkcjVPaDY2SVJaeUNmNm4tLWJFY0ZGV3RpOW03SThJYw?oc=5",
+   "source": "GoogleNews·finance.sina.com.cn",
+   "domain": "memory",
+   "published": "2026-10-27",
+   "summary": "",
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31",
+   "bt": 0,
+   "co": [
+    "长鑫存储"
+   ]
   },
   {
    "id": "37d513dceb3a60529cea1d744d7516da88b7d607",
@@ -4853,7 +4909,7 @@
    "published": "2026-10-26",
    "summary": "",
    "first_seen": "2026-10-26",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-31",
    "bt": 0,
    "co": [
     "长鑫存储"
@@ -5191,7 +5247,7 @@
    "published": "2026-10-23",
    "summary": "",
    "first_seen": "2026-10-25",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "bt": 0,
    "co": [
     "华为"
@@ -7659,7 +7715,7 @@
    "published": "2026-10-21",
    "summary": "",
    "first_seen": "2026-10-21",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-31",
    "bt": 2,
    "co": []
   },
@@ -12402,7 +12458,7 @@
    "published": "2026-10-15",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "bt": 0,
    "co": [
     "长鑫存储"
