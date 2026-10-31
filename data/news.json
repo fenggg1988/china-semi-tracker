@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-31 15:56:09",
- "count": 1230,
+ "updated": "2026-10-31 22:05:45",
+ "count": 1237,
  "items": [
   {
    "id": "fe4ee954d7b925b0b82e230559ed3cf14ed813f9",
@@ -44,6 +44,19 @@
    "co": [
     "长江存储"
    ]
+  },
+  {
+   "id": "d48480e0df049743341206739e156aa3d1eb1ac3",
+   "title": "长鑫科技：基于 4F² 架构的第六代技术平台 DRAM 完成工程样片验证",
+   "url": "https://www.ithome.com/1/020/599.htm",
+   "source": "IT之家",
+   "domain": "memory",
+   "published": "2026-10-31",
+   "summary": "IT之家 10 月 31 日消息，10 月 30 日，长鑫科技在第三季度业绩交流会中透露，报告期内，公司第五代工艺技术平台实现量产；在 4F² 垂直沟道 DRAM 架构取得关键突破的基础之上，第六代工艺技术平台已完成工程样片的验证；LPDDR6 产品实现量产。公告提到，第五代工艺技术平台是长鑫目前量产的最先进平台，目前",
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31",
+   "bt": 2,
+   "co": []
   },
   {
    "id": "884890318a485993f67a59e6183698a1646002ea",
@@ -432,6 +445,71 @@
    ]
   },
   {
+   "id": "a4d981f2a0c6ea3581a8aa4ca27b096da5e9c35d",
+   "title": "存储芯片短缺加剧之际，OpenAI 奥尔特曼赴韩与约 50 名三星高管会面",
+   "url": "https://www.ithome.com/1/020/597.htm",
+   "source": "IT之家",
+   "domain": "memory",
+   "published": "2026-10-31",
+   "summary": "IT之家 10 月 31 日消息，据彭博社报道，全球存储芯片供应短缺问题日益严重之际，今天（31 日）下午，OpenAI CEO 萨姆 · 奥尔特曼在韩国与三星集团高层会面，双方计划进一步加强在存储芯片供应和 AI 基础设施建设方面的合作。据三星发布的声明，奥尔特曼此次在龙仁市与三星旗下电子、金融和生物科技业务的约 5",
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "fe8744ebe536aa1ab7630f0eca7f2b72a765684a",
+   "title": "长鑫科技：已与多家头部客户协商长期供货协议",
+   "url": "https://www.ithome.com/1/020/573.htm",
+   "source": "IT之家",
+   "domain": "memory",
+   "published": "2026-10-31",
+   "summary": "IT之家 10 月 31 日消息，在 2026 年第三季度业绩说明会上，长鑫科技管理层就投资者关注的盈利前景回应称：已与多家头部客户协商长期供货协议，从而锁定中长期确定性需求，预计第四季度毛利率将继续保持稳定。据IT之家了解，长鑫科技今年前三季度综合毛利率达 86.85%；第三季度单季毛利率达到 89.53%。前三季度",
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "a2e06618bcfa25fdbb2e8595b018d495e4ea7a76",
+   "title": "YMTC在Fab 3准备采用4F²单元和垂直沟道生产9600 MT/s的LPDDR5X",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTUpIMkpsbmhzNk1UZTNXX1d6ZTdWbVJxRnhNOHpVNmlpMVlMT1hGUlVnTGM5eXplT1Z1ZHVvVllxT3hnV2pKT1VMN0wzellCS1F6Nk91Q0lQdVB0d3NCY1I5V3lGTFZOY3lnZkVLcE9fWVl5dVhHam1MWUsyWDZxUDFWQk5QamlKOVdhVE5xOXFOMzFMSWpNcklLLW42NTkwaFlxSzV0MHZhUkdMMXIyTmZ1UQ?oc=5",
+   "source": "GoogleNews·Foro3D",
+   "domain": "memory",
+   "published": "2026-10-26",
+   "summary": "",
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "c163918cd3ba1e0f1b164a781a5488dd62be90b4",
+   "title": "直击长鑫科技业绩会：已与多家头部客户协商长期供货协议 预计Q4毛利率将保持稳定",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5NMTEzVzgxaTlESlJQaXE2UmE0cUtaNWFadzl1dHh4NV9GczBSeG55dkFmTFRPTUtTZ25sY1JxM3NlcDRfaUNRWQ?oc=5",
+   "source": "GoogleNews·财联社",
+   "domain": "memory",
+   "published": "2026-10-31",
+   "summary": "",
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "2f590a36e348a72d13566503bda2c6fd7368a968",
+   "title": "长鑫科技，最新回应",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBnc3NadGJtVklLQVJaNVdRNzludGVaZjNoQ2VBTTd0d2Z0MkRqMHNSbnhlV0J2dGU2QkE0SFdBQi0tN2VfRnRELVZuaHJtWklwcVpQYW41aFltRU1DWkk0RlpoVk9mRkVyYnpwOExkN01lWHpiWTR1dw?oc=5",
+   "source": "GoogleNews·新浪财经",
+   "domain": "memory",
+   "published": "2026-10-31",
+   "summary": "",
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31",
+   "bt": 0,
+   "co": []
+  },
+  {
    "id": "37d513dceb3a60529cea1d744d7516da88b7d607",
    "title": "长鑫科技Q3营收1187.14亿元 第六代DRAM完成工程样片验证",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWURONzFzUkF2dU9GbU92bjlTWmZPSzlRSmpxSUIyMncybUN2bDdCd0FRMVZiSW9hTTlaRml3U21hN2QxTkJxZ2lrRkY1X3VVRklfOTBuWjUzaXhsUGFOdGRwS3pKUDUxUEJaTUtic3lZQVYzQU9wZno3ZW1RTTNWTzQ0V3FnREV1?oc=5",
@@ -503,6 +581,19 @@
    "source": "GoogleNews·财联社",
    "domain": "memory",
    "published": "2026-10-30",
+   "summary": "",
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31",
+   "bt": -3,
+   "co": []
+  },
+  {
+   "id": "3a76b576b637faa2771ca121b0cfa053cafb1e02",
+   "title": "长鑫科技管理层回应长期供货协议、四季度营收等关键问题",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tQ3RLaEE4X01GdmZQc1ZuNDA1V18tcU14Tjd0X2VSNER4OXg3c1VBX3daUDloekNJazN2YzFBWjhqY283LUUwZFZJWDhVR0t0ZlROTmZBekpWQ1JaS2FuQk83aUhpZGY5RFpqU1VnR0tab2JmVklhYw?oc=5",
+   "source": "GoogleNews·新浪财经",
+   "domain": "memory",
+   "published": "2026-10-31",
    "summary": "",
    "first_seen": "2026-10-31",
    "last_seen": "2026-10-31",
@@ -901,7 +992,7 @@
    "published": "2026-10-27",
    "summary": "",
    "first_seen": "2026-10-30",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "bt": 0,
    "co": []
   },
@@ -1215,7 +1306,7 @@
    "published": "2026-10-30",
    "summary": "",
    "first_seen": "2026-10-30",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "bt": 0,
    "co": [
     "茂莱光学"
@@ -2753,7 +2844,7 @@
    "published": "2026-10-28",
    "summary": "",
    "first_seen": "2026-10-28",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "bt": 0,
    "co": [
     "长江存储"
@@ -4851,7 +4942,7 @@
    "published": "2026-10-26",
    "summary": "",
    "first_seen": "2026-10-26",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-31",
    "bt": 0,
    "co": [
     "长鑫存储"
@@ -6739,7 +6830,7 @@
    "published": "2026-10-23",
    "summary": "",
    "first_seen": "2026-10-23",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "bt": 0,
    "co": []
   },
@@ -8257,7 +8348,7 @@
    "published": "2026-10-20",
    "summary": "",
    "first_seen": "2026-10-21",
-   "last_seen": "2026-10-25",
+   "last_seen": "2026-10-31",
    "bt": 0,
    "co": []
   },
@@ -8521,7 +8612,7 @@
    "published": "2026-10-20",
    "summary": "",
    "first_seen": "2026-10-20",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-31",
    "bt": 4,
    "co": [
     "南大光电"
@@ -12391,7 +12482,7 @@
    "published": "2026-10-16",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-28",
+   "last_seen": "2026-10-31",
    "bt": 0,
    "co": [
     "长江存储"
@@ -12751,7 +12842,7 @@
    "published": "2026-10-16",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "bt": 0,
    "co": []
   },
@@ -16444,7 +16535,7 @@
    "published": "2026-10-13",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "bt": -1,
    "co": []
   },
