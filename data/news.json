@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-01 16:36:57",
- "count": 1272,
+ "updated": "2026-11-01 22:40:46",
+ "count": 1278,
  "items": [
   {
    "id": "1e8471d3a7c49080701817dabb2373215fc6fe86",
@@ -107,6 +107,34 @@
    "last_seen": "2026-11-01",
    "bt": 2,
    "co": []
+  },
+  {
+   "id": "648f25ded171d0576af98948917744273f1fab72",
+   "title": "长鑫科技：2026 年 LPDDR 系列产品实现 781.91 亿元收入，占营业收入比例 52.02%",
+   "url": "https://www.ithome.com/1/020/832.htm",
+   "source": "IT之家",
+   "domain": "memory",
+   "published": "2026-11-01",
+   "summary": "IT之家 11 月 1 日消息，长鑫科技公布 2026 年三季报业绩交流会记录，介绍了公司前三季度收入结构的变化情况。公告显示，该公司产品主要分为 DDR 系列以及 LPDDR 系列，2026 年上半年，DDR 系列产品实现 694.72 亿元收入，占营业收入比例为 46.22%；LPDDR 系列产品实现 781.91",
+   "first_seen": "2026-11-01",
+   "last_seen": "2026-11-01",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "f25c8f5d27a9deffa7e6536309262caa4c252374",
+   "title": "扩产备货双提速 光迅科技高端光电子项目动工",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9UVUhILVZqVTNiMFpVbnJVSlBkOXJUU3g1dnYyaTJrLVV2b092N3BZd1JldkMyVDNMVDBURHRSQWtwNGJhNWJuRHhXMzBaVkZMdExVYlR1WnlaT09rMUpuZVFR?oc=5",
+   "source": "GoogleNews·证券之星",
+   "domain": "optical_comm",
+   "published": "2026-11-01",
+   "summary": "",
+   "first_seen": "2026-11-01",
+   "last_seen": "2026-11-01",
+   "bt": 2,
+   "co": [
+    "光迅科技"
+   ]
   },
   {
    "id": "8ed6d1b0cbdbcafef9013dc415fd18e67783134d",
@@ -403,6 +431,65 @@
    "last_seen": "2026-11-01",
    "bt": 0,
    "co": []
+  },
+  {
+   "id": "71611dc8169aa6b46654278611253dcfcc54a0e3",
+   "title": "7499 → 5718 元：vivo X300 Ultra 国补新低，配 3+2 蔡司大师镜头群",
+   "url": "https://www.ithome.com/1/020/827.htm",
+   "source": "IT之家",
+   "domain": "optics",
+   "published": "2026-11-01",
+   "summary": "【京东活动可能随时变更，需以实付款为准】vivo X300 Ultra 手机 2026 年 4 月开售，新机号称「专业 V 单」，搭载第五代骁龙 8 至尊版处理器、拥有 3+2 蔡司大师镜头群，12GB+512GB 定价 7499 元。京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 500 元国补",
+   "first_seen": "2026-11-01",
+   "last_seen": "2026-11-01",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "9213458e5129a3e2f88bce85df328ce9866fa51c",
+   "title": "第二十四届半导体封测年会定档 11 月 4 日至 6 日举办，华为、龙芯中科、小米汽车等确认参会",
+   "url": "https://www.ithome.com/1/020/803.htm",
+   "source": "IT之家",
+   "domain": "logic",
+   "published": "2026-11-01",
+   "summary": "IT之家 11 月 1 日消息，2026 年半导体封装测试技术与市场年会 (第二十四届) 将于 2026 年 11 月 4-6 日在中国南京丰大国际大酒店举行。会议由中国半导体行业协会指导，中国半导体行业协会封测分会主办。据介绍，在为期两天的会议中，来自华天科技、长电科技、通富微电、壁仞科技、京东方、云天半导体等封测领",
+   "first_seen": "2026-11-01",
+   "last_seen": "2026-11-01",
+   "bt": 0,
+   "co": [
+    "龙芯中科",
+    "华为"
+   ]
+  },
+  {
+   "id": "f53b924386512046de41898f12f458c2293f4fee",
+   "title": "光迅科技高端光电子及硅光芯片器件产业化项目开工",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1iaHpPbnEyNlJxSTlPVUg3cjRfcWJ2VUFmRlZKWC1kLWZRNW1SZVR1QXJ3a2RYeW0zQkRJNVlJRC1xYWJrOC1aX3hfSGRmLTJiUmRhSlVrNWJfcUVxR3YtLXNRVFpiZw?oc=5",
+   "source": "GoogleNews·东方财富",
+   "domain": "optical_comm",
+   "published": "2026-11-01",
+   "summary": "",
+   "first_seen": "2026-11-01",
+   "last_seen": "2026-11-01",
+   "bt": 0,
+   "co": [
+    "光迅科技"
+   ]
+  },
+  {
+   "id": "c9bb155b55ff76ad79436c09080685eba1bea38f",
+   "title": "向光五十载，再启新篇｜光迅科技高端光电子及硅光芯片器件产业化项目（一期）开工",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBQNk85NkRfS0NfNWhHaWRqdE1pWTNvczFxdllJQ3IyeUw5RWZPVFE1SEFxalYwbWRUeGluSmhnVjFCdHpvUGYtWlBPTjlKOW9CUUk5aTYtSzNPRzhOMlpIVUtWY2F4N0F3YkktRmRjN3hPNFpkdnd2dQ?oc=5",
+   "source": "GoogleNews·讯石光通讯网",
+   "domain": "optical_comm",
+   "published": "2026-11-01",
+   "summary": "",
+   "first_seen": "2026-11-01",
+   "last_seen": "2026-11-01",
+   "bt": 0,
+   "co": [
+    "光迅科技"
+   ]
   },
   {
    "id": "15050ab87c93722aa1ba171486298e7a7a406702",
@@ -1543,7 +1630,7 @@
    "published": "2026-10-28",
    "summary": "",
    "first_seen": "2026-10-30",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-11-01",
    "bt": 0,
    "co": [
     "仕佳光子"
@@ -8147,7 +8234,7 @@
    "published": "2026-10-22",
    "summary": "",
    "first_seen": "2026-10-22",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-11-01",
    "bt": 0,
    "co": []
   },
@@ -10578,7 +10665,7 @@
    "published": "2026-10-19",
    "summary": "",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-10-31",
+   "last_seen": "2026-11-01",
    "bt": 0,
    "co": [
     "联特科技"
