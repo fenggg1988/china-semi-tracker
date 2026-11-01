@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-01 15:29:32",
- "count": 1270,
+ "updated": "2026-11-01 16:36:57",
+ "count": 1272,
  "items": [
   {
    "id": "1e8471d3a7c49080701817dabb2373215fc6fe86",
@@ -370,6 +370,34 @@
    "source": "GoogleNews·搜狐网",
    "domain": "logic",
    "published": "2026-10-29",
+   "summary": "",
+   "first_seen": "2026-11-01",
+   "last_seen": "2026-11-01",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "bab857bde98adfd8b942272dafac5840d22801a1",
+   "title": "世界光谷“追光”再添新引擎！光迅科技高端光电子及硅光芯片器件产业化项目一期开工，预计2027年底竣工",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fQ0pUb3VMclhKSDFkY1FuT2VsNmpzZGNaZmFXa2tHNVFfbHpwOFBpYkRnZGhidl93RmJqVVNGSkZUQkNxck8wQkdMeXptVkYwUVhkVHIwb05nV0U?oc=5",
+   "source": "GoogleNews·极目新闻",
+   "domain": "optical_comm",
+   "published": "2026-11-01",
+   "summary": "",
+   "first_seen": "2026-11-01",
+   "last_seen": "2026-11-01",
+   "bt": 0,
+   "co": [
+    "光迅科技"
+   ]
+  },
+  {
+   "id": "205524fb29c1f64b88f30478de40c0ecae1a8f63",
+   "title": "国产算力芯片业绩高增，竞争转向软件迁移、系统效率与供货保障",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE41bzhDMHk5UFY4SXd5TUFBX0VWZUFDTTdHUkU3T3R3alBxSUFHYkl3NmZpeGVOamhXSXRXVUdTdEpPWVVObTc2YldSOXJPWnVsdi1Obg?oc=5",
+   "source": "GoogleNews·虎嗅网",
+   "domain": "logic",
+   "published": "2026-10-22",
    "summary": "",
    "first_seen": "2026-11-01",
    "last_seen": "2026-11-01",
@@ -1697,7 +1725,7 @@
    "published": "2026-10-30",
    "summary": "",
    "first_seen": "2026-10-30",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-11-01",
    "bt": 0,
    "co": []
   },
@@ -5180,7 +5208,7 @@
    "published": "2026-10-26",
    "summary": "",
    "first_seen": "2026-10-26",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-11-01",
    "bt": 0,
    "co": []
   },
@@ -9759,7 +9787,7 @@
    "published": "2026-10-20",
    "summary": "",
    "first_seen": "2026-10-20",
-   "last_seen": "2026-10-31",
+   "last_seen": "2026-11-01",
    "bt": -1,
    "co": []
   },
