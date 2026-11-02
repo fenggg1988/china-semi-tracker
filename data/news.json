@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-02 15:18:43",
- "count": 1304,
+ "updated": "2026-11-02 15:21:55",
+ "count": 1306,
  "items": [
   {
    "id": "5bfc5b42b9d1c38483b7ef01820d49a9ec718da4",
@@ -303,6 +303,21 @@
    ]
   },
   {
+   "id": "be6dfd7fcd573afa8aa775f3033aeffac734f739",
+   "title": "投资百亿元，光迅科技新建高速光模块产线- 湖北日报新闻客户端",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zX2VOM283M0YtNHdLMzhIVjN0RTRfWjdSVThNd2YzVmdTcy1ORlF5dWVkOFVnblNya1FGeWFkTTdGRTB2YWN6UUpsNXpDaFo3NW9vOVlaY09kT3RnX0E?oc=5",
+   "source": "GoogleNews·湖北日报传媒集团",
+   "domain": "optical_comm",
+   "published": "2026-11-01",
+   "summary": "",
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "bt": 0,
+   "co": [
+    "光迅科技"
+   ]
+  },
+  {
    "id": "9c36e74aab98dbe9aaec7cd4bac11d6daa6075ab",
    "title": "茂莱光学(688502.SH)发布前三季度业绩，归母净利润1078万元，同比下降76.41%",
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9aMU9kcnFpUm5nbGFKUV9TZExzV2J4VTQxaVBUQTJLdVdTc290aE9xMEY4eldjYXdjeXNDUURBeDZSTnMwTXlQejI5ajY?oc=5",
@@ -357,6 +372,21 @@
    "last_seen": "2026-11-02",
    "bt": -3,
    "co": []
+  },
+  {
+   "id": "6dd6d7f2fe68e93f382e17babe36100c2c1f813a",
+   "title": "长鑫存储三季度实现归母净利润，营收增长",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVm8zOTAwUkh2R0JzS0hTMzRMWGJSRjJ2ZmpTWm1FcGt2Q19qVVRrMmI4bV9ZdXRWWUdQOXBSRlhBOHRfWVlhX2F1MklTS0Z3OUREMENxMlVIenM3a20xWG9nS0h5anFlaHlVU0xhTTRVTWJHTmpCYWhZT1hfTlFNYUZtV0JMWU5wMi00OU1SM0lwaGswYTFrQw?oc=5",
+   "source": "GoogleNews·Moomoo",
+   "domain": "memory",
+   "published": "2026-11-02",
+   "summary": "",
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "bt": -4,
+   "co": [
+    "长鑫存储"
+   ]
   },
   {
    "id": "1e8471d3a7c49080701817dabb2373215fc6fe86",
@@ -5569,7 +5599,7 @@
    "published": "2026-10-26",
    "summary": "",
    "first_seen": "2026-10-26",
-   "last_seen": "2026-11-01",
+   "last_seen": "2026-11-02",
    "bt": 0,
    "co": []
   },
