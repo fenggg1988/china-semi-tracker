@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-02 15:38:48",
- "count": 1307,
+ "updated": "2026-11-02 16:47:50",
+ "count": 1310,
  "items": [
   {
    "id": "5bfc5b42b9d1c38483b7ef01820d49a9ec718da4",
@@ -27,6 +27,21 @@
    "last_seen": "2026-11-02",
    "bt": 2,
    "co": []
+  },
+  {
+   "id": "1612c7a7553a5d400baa21f5ad27dea59b964834",
+   "title": "华为昇腾 950 超节点获 2026 世界互联网大会领先科技奖",
+   "url": "https://www.ithome.com/1/021/121.htm",
+   "source": "IT之家",
+   "domain": "logic",
+   "published": "2026-11-02",
+   "summary": "IT之家 11 月 2 日消息，华为官方今日宣布，昇腾 950 超节点荣获 2026 世界互联网大会领先科技奖。据介绍，2026 世界互联网大会领先科技奖是全球互联网领域顶级国际性科技荣誉，其表彰全球范围内最具前沿性、突破性影响力的互联网科技成果。“九章四号”光量子计算原型机等 20 项成果获 2026 年世界互联网大",
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "bt": 2,
+   "co": [
+    "华为"
+   ]
   },
   {
    "id": "0090adec877e532f36a428152dd631715ab8620c",
@@ -330,6 +345,34 @@
    "bt": 0,
    "co": [
     "长江存储"
+   ]
+  },
+  {
+   "id": "49228dbc732d685ea5ce02990a9df9bd6fcf041d",
+   "title": "三星计划 2030 年底前关闭 8 英寸晶圆代工所有产线",
+   "url": "https://www.ithome.com/1/021/101.htm",
+   "source": "IT之家",
+   "domain": "logic",
+   "published": "2026-11-02",
+   "summary": "IT之家 11 月 2 日消息，据《科创板日报》报道，三星电子已决定全面退出 8 英寸晶圆代工业务，公司近期已通知客户，计划在 2030 年底前关闭所有相关生产线。IT之家注意到，此前，三星电子一直仅表示将逐步缩减 8 英寸生产线，此次则是首次明确提出业务退出的具体时间表，之后公司计划将人力和设备投资集中于基于 12 ",
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "aabf8789ae18d2ac75867883f15f1217e4cf76a5",
+   "title": "投资102亿元，光迅科技武汉硅光项目一期开工",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX0liOEpSRFhvcVpuUktBd1Ria0dzYUZvR0xFNXJGSlBXOG9fRzZPLVVOUzQ0bHhSQ2RzTi05X01wdkthaG40SnI2Wl9Md3lLQ01CX19kNUh2Z0poOWFzOGdXM0x4NDZ2QmN3cElkVHV5dFFTUDFERXFpUXJ5Mk0zYkhEZEJDdVdx?oc=5",
+   "source": "GoogleNews·搜狐网",
+   "domain": "optical_comm",
+   "published": "2026-11-02",
+   "summary": "",
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "bt": 0,
+   "co": [
+    "光迅科技"
    ]
   },
   {
@@ -745,7 +788,7 @@
    "published": "2026-10-19",
    "summary": "",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-01",
+   "last_seen": "2026-11-02",
    "bt": 0,
    "co": [
     "长江存储"
@@ -11870,7 +11913,7 @@
    "published": "2026-10-18",
    "summary": "",
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-26",
+   "last_seen": "2026-11-02",
    "bt": -1,
    "co": [
     "光迅科技"
