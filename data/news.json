@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-02 15:01:21",
- "count": 1302,
+ "updated": "2026-11-02 15:18:43",
+ "count": 1304,
  "items": [
   {
    "id": "5bfc5b42b9d1c38483b7ef01820d49a9ec718da4",
@@ -9,6 +9,19 @@
    "source": "GoogleNews·证券之星",
    "domain": "memory",
    "published": "2026-10-31",
+   "summary": "",
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "84f4cd455fb6f69fa06973823c3fb4e697bc2a71",
+   "title": "国产EUV光源样机工博会首秀 国产化率达90%",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXNVpKWGNrNlJFdi1SZy1SVFBqLW8wYVYwWDZ0dGhqWGxNdzdjZkdxeDFGYzV2YmNQYWtwS183YTBVS0VBZG9WSEdYMjA5bWVtVElnUXdB?oc=5",
+   "source": "GoogleNews·QQ News",
+   "domain": "litho_power",
+   "published": "2026-10-14",
    "summary": "",
    "first_seen": "2026-11-02",
    "last_seen": "2026-11-02",
@@ -273,6 +286,21 @@
    "last_seen": "2026-11-02",
    "bt": 0,
    "co": []
+  },
+  {
+   "id": "abfde0d76f793bea69170564d303949ec5ccb977",
+   "title": "光迅科技投资百亿建设高端光电子及硅光芯片器件产业化项目",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE14V0V0MDZPMVYteU9kRU94bGQycDZPWmFNX1BKeHAtZXZGSE12ckhkTzY5cS1TMno5QnRqczI4aEx1STZvQWxCNW5BdFMzM2ZpcmpDbTJzWVhPN0FERkVJTGxtRHk?oc=5",
+   "source": "GoogleNews·长江网",
+   "domain": "optical_comm",
+   "published": "2026-11-02",
+   "summary": "",
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "bt": 0,
+   "co": [
+    "光迅科技"
+   ]
   },
   {
    "id": "9c36e74aab98dbe9aaec7cd4bac11d6daa6075ab",
@@ -10978,7 +11006,7 @@
    "published": "2026-10-19",
    "summary": "",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-10-20",
+   "last_seen": "2026-11-02",
    "bt": 0,
    "co": [
     "联特科技"
