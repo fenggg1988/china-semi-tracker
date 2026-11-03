@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-03 15:24:09",
- "count": 1339,
+ "updated": "2026-11-03 15:39:31",
+ "count": 1340,
  "items": [
   {
    "id": "62e442c2aafb5b1fab59449f8f8c61437f39bcba",
@@ -366,6 +366,19 @@
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBSYWd6S3JBdVh2bjA0S29jMGdHQWh4Z2Y1UXpVNTNTLVNXYmpwV0pmczV4U1BNdjQ0WjNwU1lNWm02bUN4NktvcWdtYjA?oc=5",
    "source": "GoogleNews·凤凰网",
    "domain": "logic",
+   "published": "2026-11-03",
+   "summary": "",
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "285552453c78fd6989b1db77e8b1c6aa4d43f2ec",
+   "title": "注册资本9亿！长鑫科技成立新公司",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85ek50V2duQVJUX3VBalRPTVVORTN4NVlCdzZtM3Zqc3RyMzBydWdFZnJBSG5hUFBmbkNLTjBUNTJvbk53QThBcDRxYjFTWGR1UnNJ?oc=5",
+   "source": "GoogleNews·电子工程专辑EE Times China",
+   "domain": "memory",
    "published": "2026-11-03",
    "summary": "",
    "first_seen": "2026-11-03",
@@ -1934,7 +1947,7 @@
    "published": "2026-10-30",
    "summary": "",
    "first_seen": "2026-10-31",
-   "last_seen": "2026-11-01",
+   "last_seen": "2026-11-03",
    "bt": -3,
    "co": []
   },
