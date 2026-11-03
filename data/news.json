@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-03 15:52:47",
- "count": 1341,
+ "updated": "2026-11-03 16:58:40",
+ "count": 1345,
  "items": [
   {
    "id": "62e442c2aafb5b1fab59449f8f8c61437f39bcba",
@@ -121,6 +121,19 @@
    "source": "GoogleNews·东方财富",
    "domain": "memory",
    "published": "2026-10-31",
+   "summary": "",
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "aaab8b4bb431605538ad9a945bd320a167bf749b",
+   "title": "从 800G 到 1.6T：是什么在推动 AI 网络实现下一次跨越？",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kVjZNVjVENVRPTV9BdVRORGhXTnFpdHNfdXptSmRWbmhMM09fYmZxM09PTjJjaUk2V0hxVmZVdEYzSUVZMklKelJZYkFKcmZSRjBZd2JaTUFDWFJDako4VQ?oc=5",
+   "source": "GoogleNews·千家网",
+   "domain": "optical_comm",
+   "published": "2026-11-03",
    "summary": "",
    "first_seen": "2026-11-03",
    "last_seen": "2026-11-03",
@@ -400,6 +413,32 @@
    "co": []
   },
   {
+   "id": "01bd25cddcbdbb28578c5f5c9e7c5c04b5ac03a4",
+   "title": "国产C86+国产GPU硬刚4K剪辑！全国首个全栈国产4K制作网落地：效率提升70%",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrMUtYQWUwc0thUGdVMV9oc05IeG1id29xNnZzc1Ytd1RxZV9XT3puWElyWEQ3S0J4d0R4SE9vZmRlOUk0SlBjUG4wOHdhem8yUlhn?oc=5",
+   "source": "GoogleNews·搜狐网",
+   "domain": "logic",
+   "published": "2026-10-22",
+   "summary": "",
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "5562c5ccc75498addb19db3c6d14f0a6dbcbac3e",
+   "title": "韩国顺差首超德日总和！AI芯片红利还能吃几年？",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE56bW9iMzhteWNnQUN1NVE3cUFnV0kzbUtaZWFzZlZRWE5YdkctOTlUSG1jMUxCU2hrcEs5Qk1qbjlsSG5PZTlfLUFiZ0hPZV9lbW0w?oc=5",
+   "source": "GoogleNews·搜狐网",
+   "domain": "logic",
+   "published": "2026-10-27",
+   "summary": "",
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "bt": 0,
+   "co": []
+  },
+  {
    "id": "8a4831c2506bc98991e47fbab6da2dfd1ded2513",
    "title": "茂莱光学2026年第三季度报告点评：单季度毛利率大幅回升，营收持续增长_公司研究_研报",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAzME8xQnBMNHkxekUwek1pQlllczdWbWdSMk5CUzVtb0tNYV8tXzhXWm9VNXR6MTd6aGRYLWJ4eERpaUk1RWZCRnl5enlPOUNjcGxjLU5mSXlTM2gyS3UtNy1n?oc=5",
@@ -428,6 +467,19 @@
    "co": [
     "长鑫存储"
    ]
+  },
+  {
+   "id": "36c3c7d414ff6ae29ae1ee511c9323f7ea28a6c0",
+   "title": "存储芯片行情高涨，君正股份三季度净利润同比增2595.49%！",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qZG1qd3Q4eFpybjJETWE2LTVxY3VWelBpRWh6QXUzUGZHOTNmUVJOT3ZpLXByZjhRQ0VKcGJVNkk1SXBuQlN5M1V1TGN0eVpSam1F?oc=5",
+   "source": "GoogleNews·电子工程专辑EE Times China",
+   "domain": "memory",
+   "published": "2026-10-28",
+   "summary": "",
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "bt": -3,
+   "co": []
   },
   {
    "id": "5bfc5b42b9d1c38483b7ef01820d49a9ec718da4",
@@ -811,7 +863,7 @@
    "published": "2026-10-31",
    "summary": "",
    "first_seen": "2026-11-02",
-   "last_seen": "2026-11-02",
+   "last_seen": "2026-11-03",
    "bt": -3,
    "co": [
     "茂莱光学"
@@ -1172,7 +1224,7 @@
    "published": "2026-10-20",
    "summary": "",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-01",
+   "last_seen": "2026-11-03",
    "bt": 0,
    "co": []
   },
@@ -1839,7 +1891,7 @@
    "published": "2026-10-31",
    "summary": "",
    "first_seen": "2026-10-31",
-   "last_seen": "2026-11-02",
+   "last_seen": "2026-11-03",
    "bt": 0,
    "co": [
     "茂莱光学"
@@ -6084,7 +6136,7 @@
    "published": "2026-10-26",
    "summary": "",
    "first_seen": "2026-10-26",
-   "last_seen": "2026-11-02",
+   "last_seen": "2026-11-03",
    "bt": 0,
    "co": []
   },
@@ -7513,7 +7565,7 @@
    "published": "2026-10-24",
    "summary": "",
    "first_seen": "2026-10-24",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-11-03",
    "bt": -3,
    "co": []
   },
