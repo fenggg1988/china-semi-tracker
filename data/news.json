@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-03 16:58:40",
- "count": 1345,
+ "updated": "2026-11-03 23:42:17",
+ "count": 1356,
  "items": [
   {
    "id": "62e442c2aafb5b1fab59449f8f8c61437f39bcba",
@@ -134,6 +134,45 @@
    "source": "GoogleNews·千家网",
    "domain": "optical_comm",
    "published": "2026-11-03",
+   "summary": "",
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "8cbe6df14c799a4f09a66378608a728166f62161",
+   "title": "汇绿生态(001267.SZ)：400G、800G产品为当前主力出货产品_公司新闻_财经",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Qd3F1aDRNQmdZSVRBWF9pODZvQzVfdEJPYnlIeFpYbGdZdFBJQU9VX2JocktFc1RLRHdqX29pUUtGMU5fOFhNd3hXSnhnVlpMb0lqSXgzd1A5THR6cGVtbQ?oc=5",
+   "source": "GoogleNews·证券之星",
+   "domain": "optical_comm",
+   "published": "2026-11-03",
+   "summary": "",
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "307634616b3bae32bc97d32e9fca67ff85150042",
+   "title": "汇绿生态：400G、800G产品为当前主力出货产品",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwNGxEZ04yeVVUZlJvS2w5OXp3QkRsQkRhazFwamdySTVEWHRIeWMwRmZkMmU5Vml3ZGpjZGNKS2pXMU1oaHhydUkteDJURWtFOUQxZjZIZjlzRE8wRkVDR1M4NktXQQ?oc=5",
+   "source": "GoogleNews·www.mrjjxw.com",
+   "domain": "optical_comm",
+   "published": "2026-11-03",
+   "summary": "",
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "6eed65005e178bf972850415d3da8d54a385ca4e",
+   "title": "AI算力推动光芯片需求扩张，FCC限制与制造壁垒压缩国产替代窗口",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1mdE5xaTdCM2FOcmNLRnZRVURyM0ZjbWI0WDl2eUZjV2NobHhvSHBpbzhZZUNFOWsyenRXT2J6blBpOEdfUS12d2VWcVpid2ltU0pReg?oc=5",
+   "source": "GoogleNews·虎嗅网",
+   "domain": "optical_comm",
+   "published": "2026-10-26",
    "summary": "",
    "first_seen": "2026-11-03",
    "last_seen": "2026-11-03",
@@ -432,6 +471,114 @@
    "source": "GoogleNews·搜狐网",
    "domain": "logic",
    "published": "2026-10-27",
+   "summary": "",
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "6b4b2a0cbfde98790da3c0959bbed5ec8ba2ea28",
+   "title": "国内光模块头部厂商光迅科技发布澄清公告：否认物料短缺、生产停工相关传闻",
+   "url": "https://www.ithome.com/1/021/844.htm",
+   "source": "IT之家",
+   "domain": "optical_comm",
+   "published": "2026-11-03",
+   "summary": "IT之家 11 月 3 日消息，今晚，国内光模块头部厂商光迅科技发布“关于市场传闻的澄清公告”。10 月 26 日光迅科技发布《2026 年第三季度报告》。财务报表显示，光迅科技第三季度实现营业收入 50.73 亿元，同比增长 54.27%；归属于上市公司股东的净利润 7.02 亿元，同比增长 102.62%；扣除非经",
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "bt": 0,
+   "co": [
+    "光迅科技"
+   ]
+  },
+  {
+   "id": "3f6f14ac0d96175526bcb0a1cadc29b39dc5114d",
+   "title": "总台央视频 CPOPwave 长红 IP 和十大优秀出海案例发布，含《原神》、《凡人》动画等",
+   "url": "https://www.ithome.com/1/021/821.htm",
+   "source": "IT之家",
+   "domain": "optical_comm",
+   "published": "2026-11-03",
+   "summary": "IT之家 11 月 3 日消息，总台央视频 CPOPwave 长红 IP 和十大优秀出海案例昨晚正式发布。IT之家附具体名单如下：CPOPwave 长红 IP：《原神》CPOPwave 十大优秀出海案（CPOPwave 十大优秀出海案例按首字母排序）：《凡人》动画《绝区零》《浪浪山小妖怪》《鸣潮》《哪吒之魔童闹海》《盛",
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "cdcb43e784d4a9b3515d0fab3d0b4f5fa9e73a89",
+   "title": "三星晶圆代工拿下AMD HBM订单 德州第二座泰勒工厂产能被预订一空",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1584892.htm",
+   "source": "cnBeta",
+   "domain": "memory",
+   "published": "2026-11-03",
+   "summary": "三星电子的晶圆代工业务终于迎来一项重要突破。据韩国《每日经济新闻》11月3日报道，三星已经获得AMD的新一代高带宽内存（HBM）基础裸片订单，计划利用正在筹建的美国德克萨斯州泰勒第二座晶圆厂（Taylor Fab 2）生产相关芯片。报道称，该工厂规划产能几乎已经全部获得客户订单，其中AMD占据了绝大部分。 阅读全文",
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "04c34fa0f4e6151a2ffeaf5293f242314a7a2f04",
+   "title": "三星或将2030年全面退出8英寸晶圆代工！",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BZW1GMWJpQUZLTlJkTWtrbVZJWGRFVEo4MXVhbVRrTDFzYUp3bXo4ME5nV3IxdWpfaFluU2pJY1ItNmdHM3BXRWNWZWFncHlwU0dF?oc=5",
+   "source": "GoogleNews·电子工程专辑EE Times China",
+   "domain": "logic",
+   "published": "2026-11-03",
+   "summary": "",
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "6741e7d67895b7cb0d71f90f38adb5e9fd2b93f4",
+   "title": "1150亿美元并购！中国光芯片何时突围？手里的铟资源牌还管用？",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBidVNrRlpCZVdhRmdOMDN1MVNveDNOaDR2eUxCamtCS3pwaWlXSW5XdkNLODl4UmNNLUk1SmcwQmdHdzc1bUlFeVF3TzRMUjBub1hr?oc=5",
+   "source": "GoogleNews·电子工程专辑EE Times China",
+   "domain": "optical_comm",
+   "published": "2026-11-03",
+   "summary": "",
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "ba80cf0f16b793efc8b88e4b0e91d5c93af624bb",
+   "title": "光迅科技新项目开工，达产后年产高速光模块超1000万只",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBYMUg4Wi0xbHhDUlliYkRoX2NCZndlbVZSZHkwVjk5VGF1TEljN3BqSDM4VmV1V2FuY0RHUFJVNTE1Z1dIM21ZNTYxcWo?oc=5",
+   "source": "GoogleNews·凤凰网",
+   "domain": "optical_comm",
+   "published": "2026-11-01",
+   "summary": "",
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "bt": 0,
+   "co": [
+    "光迅科技"
+   ]
+  },
+  {
+   "id": "574bfe05e0d1ac818ed16fd5a09502e571be4060",
+   "title": "102亿项目开工，光通信产业势头向好",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYWFiR250UjNIZ1NKbEhhUTRQdVlDTXlGN2hsRFBRRzlCVnpnYnVteldZTzBXeGc4VVJkT3B5Zy11cmhMWm9DTXFzYklfV3Ytd0NxekJpaElJYnRGS0pJckxlOTRON2YtTWJxNS1YQ1N3Ml93NGw4M2Y1TVNxVWs4VWQ2MXVFNU1y?oc=5",
+   "source": "GoogleNews·搜狐网",
+   "domain": "optical_comm",
+   "published": "2026-11-03",
+   "summary": "",
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "53d093c70d766dd9f40732c7d980e969f9bbfd11",
+   "title": "韩国 HBM 一叠炒到 4000 美元：深圳 20 多岁中介的暴富生意，藏在低端芯片里",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11YzhNUGo5UVI5MFRDdHViTUhpUENWZjJCaUdfV1VBMzNlLU5JTWlZN2piVzNvUWJnY1E2elQzVV94MWhjYllBWDhza0xEMXdreGtUQQ?oc=5",
+   "source": "GoogleNews·深潮TechFlow",
+   "domain": "memory",
+   "published": "2026-11-03",
    "summary": "",
    "first_seen": "2026-11-03",
    "last_seen": "2026-11-03",
@@ -3761,7 +3908,7 @@
    "published": "2026-10-29",
    "summary": "",
    "first_seen": "2026-10-29",
-   "last_seen": "2026-10-31",
+   "last_seen": "2026-11-03",
    "bt": 0,
    "co": []
   },
@@ -4002,7 +4149,7 @@
    "published": "2026-10-23",
    "summary": "",
    "first_seen": "2026-10-29",
-   "last_seen": "2026-11-01",
+   "last_seen": "2026-11-03",
    "bt": 0,
    "co": []
   },
@@ -8145,7 +8292,7 @@
    "published": "2026-10-23",
    "summary": "",
    "first_seen": "2026-10-23",
-   "last_seen": "2026-10-26",
+   "last_seen": "2026-11-03",
    "bt": 0,
    "co": []
   },
@@ -9157,7 +9304,7 @@
    "published": "2026-10-22",
    "summary": "",
    "first_seen": "2026-10-22",
-   "last_seen": "2026-11-02",
+   "last_seen": "2026-11-03",
    "bt": 0,
    "co": []
   },
@@ -9628,7 +9775,7 @@
    "published": "2026-10-20",
    "summary": "",
    "first_seen": "2026-10-21",
-   "last_seen": "2026-10-26",
+   "last_seen": "2026-11-03",
    "bt": 0,
    "co": [
     "长鑫存储"
@@ -9695,7 +9842,7 @@
    "published": "2026-10-20",
    "summary": "",
    "first_seen": "2026-10-21",
-   "last_seen": "2026-11-02",
+   "last_seen": "2026-11-03",
    "bt": 0,
    "co": []
   },
@@ -9842,7 +9989,7 @@
    "published": "2026-10-21",
    "summary": "",
    "first_seen": "2026-10-21",
-   "last_seen": "2026-11-02",
+   "last_seen": "2026-11-03",
    "bt": 0,
    "co": []
   },
@@ -10767,7 +10914,7 @@
    "published": "2026-10-20",
    "summary": "",
    "first_seen": "2026-10-20",
-   "last_seen": "2026-10-26",
+   "last_seen": "2026-11-03",
    "bt": 0,
    "co": [
     "长鑫存储"
@@ -14323,7 +14470,7 @@
    "published": "2026-10-16",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-31",
+   "last_seen": "2026-11-03",
    "bt": 0,
    "co": []
   },
@@ -16004,7 +16151,7 @@
    "published": "2026-09-28",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-11-01",
+   "last_seen": "2026-11-03",
    "bt": 0,
    "co": []
   },
