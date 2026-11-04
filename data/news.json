@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-04 15:06:05",
- "count": 1377,
+ "updated": "2026-11-04 15:07:29",
+ "count": 1380,
  "items": [
+  {
+   "id": "2e67a00dbc7170235b4fbd7e0b6f053316866ae5",
+   "title": "中国EUV光源原型机亮相 90%零组件国产化、商用仍待突破",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSlplUndodS1Sa01kZzhQaWZRQkZ1VEZTT1FJUVVJT0N5NEJGa1hIMEcwODRpVlV6Z1B3dVZnSUE4emZQREhyZ0RvSjA5QVhQYWZXck1QRXBRNVhRb1VRX0NiOFlhWnpBenVEVWVUYUlsbmN4QkdnbHRhRDl6RGJ1ZWlYR0xCWHJsaUFyQmg2N1VFSUVzb1FfczdCSQ?oc=5",
+   "source": "GoogleNews·DIGITIMES",
+   "domain": "litho_power",
+   "published": "2026-10-16",
+   "summary": "",
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "bt": 6,
+   "co": []
+  },
   {
    "id": "4eb083dc0bc7d1783dfa7f626566245731d5234b",
    "title": "突破！国产EUV光源样机公开亮相：国产化率达到90%",
@@ -262,11 +275,37 @@
    ]
   },
   {
+   "id": "fbb770edda8b09f02c8b09bedf299d2ab30ed1f0",
+   "title": "半导体光刻设备市场规模、份额，2034 年",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOTB5YWNiZjRLWFZGVHJjSE40X3NsajlpNGdfMkdGamtJMktiNnpjTDF5dnlMU2xxMnlhWXJJaXlhQXQxdWV4UmozNWoxMEMtLVBQeTBfTHR2ck5fb04zS01mYTIzSE9nY05CUWloRWZGTnhDVkpOTXN1TzJMWTRTazdYbGZDQ2s?oc=5",
+   "source": "GoogleNews·Straits Research",
+   "domain": "litho_machine",
+   "published": "2026-10-27",
+   "summary": "",
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "bt": 0,
+   "co": []
+  },
+  {
    "id": "4144a3d1ea9aca21e27bc9a091cca6235f7174a7",
    "title": "机构：第二季度全球晶圆代工2.0市场营收同比增长25%至966亿美元",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSXEzcnREVmZKT1UwSEhpSTJncm1fTnFIMnp4SUJSNEd1a1NhR2JaajBIYy1FVFhnLXFONkpoSkpTUlZFemVpSE5zNjVwdXA5M1ZGZ3hjUFc3SUpKZldZTDV4bElyLW5OVDlMd0hReDl4QmtBdV9ialAwaDdld3o3OWZqQ0dSUQ?oc=5",
    "source": "GoogleNews·集微网",
    "domain": "logic",
+   "published": "2026-11-04",
+   "summary": "",
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "bt": -3,
+   "co": []
+  },
+  {
+   "id": "36a5dfc92bdf682e0631f07dc7637ea05581b89c",
+   "title": "谁是半导体Q3净利润之王 长鑫科技领跑",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92a3ZPSjhVN1BFVXZHWWNMS0J3RjJLMjZOMXpGbFJZM3FMal80NHpndnZSYThJaHZlalpzTzh6WU1yTDdMMkJaSzZYWTR2YzF1NjN1ZTlnODFvVzlJOW5STlJLX0RvczFCU3FVLTVhb18?oc=5",
+   "source": "GoogleNews·中华网",
+   "domain": "memory",
    "published": "2026-11-04",
    "summary": "",
    "first_seen": "2026-11-04",
@@ -2821,7 +2860,7 @@
    "published": "2026-10-29",
    "summary": "",
    "first_seen": "2026-10-30",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "bt": 0,
    "co": [
     "长江存储"
@@ -3136,7 +3175,7 @@
    "published": "2026-10-30",
    "summary": "",
    "first_seen": "2026-10-30",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "bt": 0,
    "co": [
     "长鑫存储",
@@ -3219,7 +3258,7 @@
    "published": "2026-10-30",
    "summary": "",
    "first_seen": "2026-10-30",
-   "last_seen": "2026-10-31",
+   "last_seen": "2026-11-04",
    "bt": 0,
    "co": [
     "茂莱光学"
@@ -13860,7 +13899,7 @@
    "published": "2026-10-16",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "bt": 2,
    "co": []
   },
