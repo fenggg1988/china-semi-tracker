@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-04 16:30:46",
- "count": 1384,
+ "updated": "2026-11-04 23:57:48",
+ "count": 1390,
  "items": [
   {
    "id": "2e67a00dbc7170235b4fbd7e0b6f053316866ae5",
@@ -342,6 +342,78 @@
    "co": []
   },
   {
+   "id": "24a524ebd4ee9b30127cf2ec7d93145e40b21c69",
+   "title": "魔芯科技发布基于华为昇腾原生的 4D 世界模型 MoWorld 2.0，场景可互动、编辑、调用",
+   "url": "https://www.ithome.com/1/022/424.htm",
+   "source": "IT之家",
+   "domain": "logic",
+   "published": "2026-11-04",
+   "summary": "IT之家 11 月 4 日消息，在今日举行的世界互联网大会“发展新质生产力强劲增量看 AI”主题论坛上，魔芯科技正式发布基于华为昇腾原生的 4D 世界模型 MoWorld 2.0。官方表示，继今年 7 月 MoWorld 1.0 发布后，MoWorld 2.0 实现模型能力跃升：将重力、弹力、浮力、光照、热力，以及刚体",
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "bt": 0,
+   "co": [
+    "华为"
+   ]
+  },
+  {
+   "id": "c635d290d728bf3a38faf0b044e2f15a6905a2f5",
+   "title": "未知机构:《高速光模块调研1.6T供需与DSP瓶颈硅光NPO技术迭代订单及价格趋势等-聚焦英伟达》",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBsWXJYMzc4a3htRUJXVFZ1ZHlINE5nWlBqbTFhSERYWFFIXzVmV0EzMHZteml0OUVCTVdaQ0xSWWRCWUZnNHdjeGlVdVpERXg0?oc=5",
+   "source": "GoogleNews·发现报告",
+   "domain": "optical_comm",
+   "published": "2026-11-04",
+   "summary": "",
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "823ee1dbc5837632d8710356b8db429174086f3c",
+   "title": "《独家新闻》长江存储暂缓推进上海IPO，股市低迷之际审批收紧--消息",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0teWFFVldWN1FuV3lWTllaWTZ0X0ZhLVkwdG04LXNjSVg3cTZhS3hFNlliS3ZtMkZNUUp0Rm9yT0dVeE0wa04yRXRSREJPYm9RMUFzV0pzNjg2Z0Y2XzRCRjZsVDhsX2kyX0JPdTlzOVhkWlRtNVlF?oc=5",
+   "source": "GoogleNews·TradingView",
+   "domain": "memory",
+   "published": "2026-11-04",
+   "summary": "",
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "bt": 0,
+   "co": [
+    "长江存储"
+   ]
+  },
+  {
+   "id": "5e8cbaa3c267f602fffb3841bae7c02475a205ff",
+   "title": "芯报丨长鑫科技旗下芯聚股权投资公司增资至约78.8亿",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05RUQ3dWQ2YnlESm4yU3N5Ujl1ZVVIUnJlX2JsR0FqNC0tWVdhQ013STVRTThDTGRGQ0tOMlJQQU5HMTdzUzNZX0RfVXRBbmhlOUk4?oc=5",
+   "source": "GoogleNews·电子工程专辑EE Times China",
+   "domain": "memory",
+   "published": "2026-11-04",
+   "summary": "",
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "0aa5386d264af710417fcdddccd255af6ad988f7",
+   "title": "长鑫科技、寒武纪、中微公司等密集发声",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE80Q3pfVTJNLV8yUFJfdkVySU9qOVotWFRmVHpiVWlST0c4UmVRQmVTLWxTdGVGYW5CVkFpVjdUNWxkV3o4elZ1c2JKdzRiR3kyRVVxV2RSNFNldFlJN1JvOWNVeVI3NWk4cVo5QzItR0lrTjNJMENabw?oc=5",
+   "source": "GoogleNews·新浪财经",
+   "domain": "memory",
+   "published": "2026-11-03",
+   "summary": "",
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "bt": 0,
+   "co": [
+    "中微公司",
+    "寒武纪"
+   ]
+  },
+  {
    "id": "4144a3d1ea9aca21e27bc9a091cca6235f7174a7",
    "title": "机构：第二季度全球晶圆代工2.0市场营收同比增长25%至966亿美元",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSXEzcnREVmZKT1UwSEhpSTJncm1fTnFIMnp4SUJSNEd1a1NhR2JaajBIYy1FVFhnLXFONkpoSkpTUlZFemVpSE5zNjVwdXA5M1ZGZ3hjUFc3SUpKZldZTDV4bElyLW5OVDlMd0hReDl4QmtBdV9ialAwaDdld3o3OWZqQ0dSUQ?oc=5",
@@ -359,6 +431,19 @@
    "title": "谁是半导体Q3净利润之王 长鑫科技领跑",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92a3ZPSjhVN1BFVXZHWWNMS0J3RjJLMjZOMXpGbFJZM3FMal80NHpndnZSYThJaHZlalpzTzh6WU1yTDdMMkJaSzZYWTR2YzF1NjN1ZTlnODFvVzlJOW5STlJLX0RvczFCU3FVLTVhb18?oc=5",
    "source": "GoogleNews·中华网",
+   "domain": "memory",
+   "published": "2026-11-04",
+   "summary": "",
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "bt": -3,
+   "co": []
+  },
+  {
+   "id": "0bb82a6e6b47f428e40b54e8f9953c4599099f5e",
+   "title": "长鑫科技市值逼近3万亿元关口",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5jb2FHSHE2S1FKMlpJc181SW56WXBHWFUtTWRBSVFWWmN5bUpFRzlPZ1A1QkVBUUtzdWlzalk4a1czclpydUJ5S3VqM1R5TXB0?oc=5",
+   "source": "GoogleNews·凤凰网财经",
    "domain": "memory",
    "published": "2026-11-04",
    "summary": "",
@@ -11585,7 +11670,7 @@
    "published": "2026-10-17",
    "summary": "",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-11-04",
    "bt": 0,
    "co": []
   },
@@ -13979,7 +14064,7 @@
    "published": "2026-10-16",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "bt": 2,
    "co": []
   },
@@ -15558,7 +15643,7 @@
    "url": "https://www.laoyaoba.com/n/1104848",
    "source": "集微网",
    "domain": "optical_comm",
-   "published": "",
+   "published": "2026-11-04",
    "summary": "",
    "first_seen": "2026-10-15",
    "last_seen": "2026-11-04",
