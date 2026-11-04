@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-04 05:52:37",
- "count": 1369,
+ "updated": "2026-11-04 14:24:11",
+ "count": 1374,
  "items": [
   {
    "id": "4eb083dc0bc7d1783dfa7f626566245731d5234b",
@@ -27,6 +27,36 @@
    "last_seen": "2026-11-04",
    "bt": 4,
    "co": []
+  },
+  {
+   "id": "0bd1d603230f69d077dd120aa4583762b6087b56",
+   "title": "知情人士：长鑫存储拟量产HBM3E，良率仅20%至30%",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Ga3lZUTRzdjQ3MG9iUWtNMk5vOW5fYXJKWFRTbHJXTS1IMElfVFE0TXdTQURpcVEtTEMxUWstS2Y1ZURXMG5uVDMyWDQzaVFJN1J4N1l1UE1rQVFBbHhHYW5sMjRGdw?oc=5",
+   "source": "GoogleNews·TradingView",
+   "domain": "memory",
+   "published": "2026-10-28",
+   "summary": "",
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "bt": 4,
+   "co": [
+    "长鑫存储"
+   ]
+  },
+  {
+   "id": "0227f450c2c1dc31b01da3b432a14f3740888775",
+   "title": "长鑫存储宣布第六代DRAM技术平台已完成工程样片验证：基于4F²单元结构超能网",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBJZng3ZW9sVkF4emVkR0taN3hzc0JxRVZEQVNvUGd1WG56Q25OcDJUeEpidXQ0bl9MMTVlZGszVHdwYUlLRGozb2YtUQ?oc=5",
+   "source": "GoogleNews·m.expreview.com",
+   "domain": "memory",
+   "published": "2026-11-02",
+   "summary": "",
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "bt": 2,
+   "co": [
+    "长鑫存储"
+   ]
   },
   {
    "id": "2e99e0130e58b6eb35ac8f9c61bd0cd9d8331f1b",
@@ -141,6 +171,45 @@
    "title": "DRAM供不应求涨价，长鑫科技扭亏为盈至1320亿，存储迎独立行情丨大咖星选",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE91NUdudlhOMEc2VTZkMWFnalZiaXU0RnljR0Z0T3lNbHdnN3JFdEpUMEEyelRmN2VsYWdKRmpvMGdHVHpoeFQyekt6VjQyajJVX19UOFVHWUMySV90aFgxUVlnYzA5NUhuanpXQ2hwdVBFMjl4MVE?oc=5",
    "source": "GoogleNews·新浪财经",
+   "domain": "memory",
+   "published": "2026-11-01",
+   "summary": "",
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "b8570d38aebba3b55bf233d02b505474d744c801",
+   "title": "影石 Insta360 Ace Pro 3 相机渲染图曝光：八角徕卡镜头外壳，电池容量增 25%",
+   "url": "https://www.ithome.com/1/022/044.htm",
+   "source": "IT之家",
+   "domain": "optics",
+   "published": "2026-11-04",
+   "summary": "IT之家 11 月 4 日消息，消息源 @Quadro_News 今天（11 月 4 日）在 X 平台发布推文，分享了一组图片，展示了白色和黑色版本的影石 Insta360 Ace Pro 3 相机。外观方面，最显眼的变化在于带有徕卡标识的八角形镜头外壳。颜色方面，在黑色和白色机身外，配有红色装饰设计。IT之家附上相关",
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "ca868cdb88a196b75b16a3fa7a6fcdedcd71244b",
+   "title": "消息称三星电子计划在美国泰勒第二晶圆厂为 AMD 等客户生产 HBM 基础裸片",
+   "url": "https://www.ithome.com/1/021/954.htm",
+   "source": "IT之家",
+   "domain": "memory",
+   "published": "2026-11-04",
+   "summary": "IT之家 11 月 4 日消息，韩媒《每日经济》当地时间昨日报道称，三星电子晶圆代工业务计划在其美国得克萨斯州泰勒市集群的第二晶圆厂为 AMD 等客户生产 HBM 基础裸片 (Base Die)。IT之家注意到，三星晶圆代工泰勒集群的首座晶圆厂将在 2026 年内投运；第二晶圆厂则将在本月动工，预计 2030 年投运。",
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "e57be3ed22d9b5d4e3b96729b7793bf68920811e",
+   "title": "长鑫科技首场业绩交流会：环比增速大幅放缓，服务器内存仍供不应求",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBYZXNqVDdwVjdKMzFZYm16WDdyekRlNGpjSUNIRW50dXhwVXlaSndScUJaUTk5aHN4dnVaUmRqQ1BqRElaVWliLVMzUjBRbkV5UUR0Si1kWlQ?oc=5",
+   "source": "GoogleNews·经济观察网",
    "domain": "memory",
    "published": "2026-11-01",
    "summary": "",
@@ -482,7 +551,7 @@
    "published": "2026-11-02",
    "summary": "",
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "bt": 0,
    "co": [
     "光迅科技"
@@ -594,7 +663,7 @@
    "published": "2026-11-03",
    "summary": "",
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "bt": 0,
    "co": []
   },
@@ -1183,7 +1252,7 @@
    "published": "2026-10-31",
    "summary": "",
    "first_seen": "2026-11-02",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "bt": -3,
    "co": [
     "茂莱光学"
@@ -1671,7 +1740,7 @@
    "published": "2026-10-22",
    "summary": "",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-01",
+   "last_seen": "2026-11-04",
    "bt": 0,
    "co": []
   },
@@ -2029,7 +2098,7 @@
    "published": "2026-10-18",
    "summary": "",
    "first_seen": "2026-10-31",
-   "last_seen": "2026-11-02",
+   "last_seen": "2026-11-04",
    "bt": 0,
    "co": []
   },
@@ -2211,7 +2280,7 @@
    "published": "2026-10-31",
    "summary": "",
    "first_seen": "2026-10-31",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "bt": 0,
    "co": [
     "茂莱光学"
@@ -2503,7 +2572,7 @@
    "published": "2026-10-30",
    "summary": "",
    "first_seen": "2026-10-30",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "bt": 4,
    "co": []
   },
@@ -4081,7 +4150,7 @@
    "published": "2026-10-29",
    "summary": "",
    "first_seen": "2026-10-29",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "bt": 0,
    "co": []
   },
@@ -4322,7 +4391,7 @@
    "published": "2026-10-23",
    "summary": "",
    "first_seen": "2026-10-29",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "bt": 0,
    "co": []
   },
@@ -5773,7 +5842,7 @@
    "published": "2026-10-27",
    "summary": "",
    "first_seen": "2026-10-27",
-   "last_seen": "2026-11-01",
+   "last_seen": "2026-11-04",
    "bt": 0,
    "co": []
   },
@@ -10162,7 +10231,7 @@
    "published": "2026-10-21",
    "summary": "",
    "first_seen": "2026-10-21",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "bt": 0,
    "co": []
   },
@@ -11681,7 +11750,7 @@
    "published": "2026-10-16",
    "summary": "",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "bt": 0,
    "co": [
     "长鑫存储"
@@ -12902,7 +12971,7 @@
    "published": "2026-10-16",
    "summary": "",
    "first_seen": "2026-10-17",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "bt": 2,
    "co": []
   },
