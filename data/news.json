@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-04 15:17:59",
- "count": 1380,
+ "updated": "2026-11-04 15:28:12",
+ "count": 1382,
  "items": [
   {
    "id": "2e67a00dbc7170235b4fbd7e0b6f053316866ae5",
@@ -286,6 +286,34 @@
    "last_seen": "2026-11-04",
    "bt": 0,
    "co": []
+  },
+  {
+   "id": "9cad9221d27ec4eb7fb32fe825a296a3988d143c",
+   "title": "港股上市半年，“全球硅光AI芯片第一股”启动A股IPO",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1BcjN5Slh3U3dWMTh1TVk5cWo0c0hJN2JSZG9nR0xKbmJNRVhmTm9FT1BtVlJBMzl6Ri1TTlJZTEdOQ29GbE1yUGZKTTJUWDNod1diRW01ZGxxdHhBdGNXaTUyRjZib2hDcVN6RVZJOA?oc=5",
+   "source": "GoogleNews·新浪财经",
+   "domain": "logic",
+   "published": "2026-11-04",
+   "summary": "",
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "5b40ca231e81a039c030ec9d5c09622e3b962104",
+   "title": "中国武汉光迅科技16.63万平方米光电子项目开工",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBld3hsbm5JVF8yaU10Y002M2R4Y2RBUFdlTG9jRHdFaFVCdlBIZmFXaWJNbkFyMXBrVnNXQTdiY3ZFMWw0SEpPdVg5cTF3RFlJek5maUdXTmQ?oc=5",
+   "source": "GoogleNews·维度网",
+   "domain": "optical_comm",
+   "published": "2026-11-02",
+   "summary": "",
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "bt": 0,
+   "co": [
+    "光迅科技"
+   ]
   },
   {
    "id": "4144a3d1ea9aca21e27bc9a091cca6235f7174a7",
@@ -948,7 +976,7 @@
    "published": "2026-10-28",
    "summary": "",
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "bt": -3,
    "co": []
   },
