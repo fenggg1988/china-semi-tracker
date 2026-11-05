@@ -1,7 +1,22 @@
 {
- "updated": "2026-11-05 15:53:50",
- "count": 1416,
+ "updated": "2026-11-05 16:54:40",
+ "count": 1418,
  "items": [
+  {
+   "id": "146adff52c0826c09790e4b1d5d60defe8b11c9a",
+   "title": "首款鸿蒙台式机华为擎云 HM650 系列发布：搭载麒麟 X90 桌面处理器，实现 100% 国产化率",
+   "url": "https://www.ithome.com/1/022/834.htm",
+   "source": "IT之家",
+   "domain": "logic",
+   "published": "2026-11-05",
+   "summary": "IT之家 11 月 5 日现场消息，在今天的华为擎云 2026 鸿蒙办公产业峰会现场，华为终端平板与 PC 产品线总裁朱懂东正式发布了首款鸿蒙台式机 —— 华为擎云 HM650 系列。据介绍，华为擎云 HM650 系列搭载鸿蒙电脑企业版 + 麒麟 X90 高性能桌面处理器。灵犀 CPU 10 核 20 线程，支持智能超",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "bt": 4,
+   "co": [
+    "华为"
+   ]
+  },
   {
    "id": "a7042204f702a6bdba288a7df54bd33b5ce32661",
    "title": "掩膜版四强三季报透视：增速分化下的28nm竞速与扩产阵痛",
@@ -305,6 +320,21 @@
    "co": []
   },
   {
+   "id": "6ffa1b45f6493b2bc7c2a093963f2e887ddeb285",
+   "title": "330亿IPO急停：长江存储的“好公司”撞上了“冷窗口”",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTW92LWNQQjhkRGYzVUF3VlVmVDFlN1ZlUG80XzhyenBOdHBWeWYwOGZ5Z2RocW1wQzAzemY3VTIwUUYwVzZveGFwSWozczh4Y0tjeDZIYlUyQmp0anlNNHFBenVxc3NBOXlHVkdlY19zLWdvcXBSMzJwc2VhOEQ0Z3JJTjFsRjZNZHM4Q2dJdHJ4MDB5OGc?oc=5",
+   "source": "GoogleNews·手机新浪网",
+   "domain": "memory",
+   "published": "2026-11-05",
+   "summary": "",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "bt": 0,
+   "co": [
+    "长江存储"
+   ]
+  },
+  {
    "id": "92f2d07053074b63ab08c26e02bf053af4643b78",
    "title": "Counterpoint：三季度全球 DRAM 营收逼近 2000 亿美元，同比大增 369% 实现超级周期",
    "url": "https://www.ithome.com/1/022/677.htm",
@@ -546,7 +576,7 @@
    "published": "2026-10-24",
    "summary": "",
    "first_seen": "2026-11-04",
-   "last_seen": "2026-11-04",
+   "last_seen": "2026-11-05",
    "bt": 0,
    "co": []
   },
@@ -1361,7 +1391,7 @@
    "published": "2026-11-03",
    "summary": "",
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-04",
+   "last_seen": "2026-11-05",
    "bt": 0,
    "co": []
   },
