@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-05 11:48:00",
- "count": 1404,
+ "updated": "2026-11-05 11:54:38",
+ "count": 1406,
  "items": [
   {
    "id": "a7042204f702a6bdba288a7df54bd33b5ce32661",
@@ -193,6 +193,34 @@
    "last_seen": "2026-11-05",
    "bt": 0,
    "co": []
+  },
+  {
+   "id": "b05b438134f6d97c207e30b84896fccf5a6796ce",
+   "title": "ASML卡了多年的EUV光源，上海一家公司把样机摆上了工博会",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6amp2SXljT0JTRnFfaUtCNzZoWDhmOTNHZHJaaEJEZjlKb3FsRlJua2VWRWw5VWM3WWJVald1dXNFYlRLLUJvcHFvbHAzSmktOTI0?oc=5",
+   "source": "GoogleNews·电子工程专辑EE Times China",
+   "domain": "litho_power",
+   "published": "2026-10-19",
+   "summary": "",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "d9d4d66ec9df5379617bfa051e9ef7d65c57e461",
+   "title": "消息称长江存储暂缓上海科创板IPO 原计划募资330亿元",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5jUE5ITFFsMGcyOTFEZnFSckVzTTRCSjBnLVllTUJSbUZ0RkQ1YlJ4a2diUUhJRFpwaUlydEFDcmhJSS0xemM3R3JScF9jQQ?oc=5",
+   "source": "GoogleNews·观点网",
+   "domain": "memory",
+   "published": "2026-11-05",
+   "summary": "",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "bt": 0,
+   "co": [
+    "长江存储"
+   ]
   },
   {
    "id": "2e67a00dbc7170235b4fbd7e0b6f053316866ae5",
@@ -5651,7 +5679,7 @@
    "published": "2026-10-26",
    "summary": "",
    "first_seen": "2026-10-28",
-   "last_seen": "2026-11-04",
+   "last_seen": "2026-11-05",
    "bt": 0,
    "co": []
   },
@@ -9380,7 +9408,7 @@
    "published": "2026-10-21",
    "summary": "",
    "first_seen": "2026-10-22",
-   "last_seen": "2026-11-04",
+   "last_seen": "2026-11-05",
    "bt": 2,
    "co": []
   },
@@ -15283,7 +15311,7 @@
    "published": "2026-10-16",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-11-04",
+   "last_seen": "2026-11-05",
    "bt": 0,
    "co": []
   },
