@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-05 11:54:38",
- "count": 1406,
+ "updated": "2026-11-05 15:34:12",
+ "count": 1413,
  "items": [
   {
    "id": "a7042204f702a6bdba288a7df54bd33b5ce32661",
@@ -27,6 +27,34 @@
    "last_seen": "2026-11-05",
    "bt": 2,
    "co": []
+  },
+  {
+   "id": "5ab6fd2d035df8ccb1117ea8db43869b099a5282",
+   "title": "专访魔技纳米：突破50纳米！国产3D光刻设备，加工效率提升10至200倍！",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15cjJFSUN4NGtlNWJpVVJaRDVZZ3ZNTDJPR0VIa1ZBMVpmclFNa2pDZXp2ZGZzcU9XckU3VEVXUW1OekFlRnhXTkFHUzkzNTV2Y1BMTHlR?oc=5",
+   "source": "GoogleNews·QQ News",
+   "domain": "litho_machine",
+   "published": "2026-10-30",
+   "summary": "",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "325c4d802aa278beb01ee87142b4c775fec4aa6d",
+   "title": "存储缺货也难上市！长江存储IPO暂缓：扩产资金成悬念",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Rbktnek84ekI5YUtJVUdKWmlJeUFyTTNxMGdXbFlPR0dtZHZSZzRuUG9WY2dsVjl2dkVJakV1WmtjVEd2YUhtQUFscWVZMFBmTm52S0tqMlU?oc=5",
+   "source": "GoogleNews·驱动之家",
+   "domain": "memory",
+   "published": "2026-11-05",
+   "summary": "",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "bt": 2,
+   "co": [
+    "长江存储"
+   ]
   },
   {
    "id": "555d28d91b7c2834ff0ae459e4764c94df7c2ce5",
@@ -221,6 +249,77 @@
    "co": [
     "长江存储"
    ]
+  },
+  {
+   "id": "776e73256b1e6a65acd73bd89026b356b53a2112",
+   "title": "传长江存储暂缓IPO 市场疲弱、监管趋严添变量",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbzJsbnVEbWpDSk5HN0hBdHl4Z3lkVFF6TGttQW1jR3V5Y1JFYzVqVHhUVDRFWlZVc1U4R0Ric2c4ejhvV1VjQVBMVVh0NkhValdoVnpvSDVGSDdyZkxfU3R1MFAyLVVWbnM4WGtnQktQYUlSekIwTmFGMFR5a2FOdkFxU0l1elFmRUNBVG5EdlNFbnBPYk0yblhwZTgySnRzVzRnSUQzTQ?oc=5",
+   "source": "GoogleNews·DIGITIMES",
+   "domain": "memory",
+   "published": "2026-11-05",
+   "summary": "",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "bt": 0,
+   "co": [
+    "长江存储"
+   ]
+  },
+  {
+   "id": "92f2d07053074b63ab08c26e02bf053af4643b78",
+   "title": "Counterpoint：三季度全球 DRAM 营收逼近 2000 亿美元，同比大增 369% 实现超级周期",
+   "url": "https://www.ithome.com/1/022/677.htm",
+   "source": "IT之家",
+   "domain": "memory",
+   "published": "2026-11-05",
+   "summary": "IT之家 11 月 5 日消息，市场研究机构 Counterpoint Research 今日发布的《全球内存市场追踪》报告显示，2026 年第三季度全球 DRAM 市场营收接近 2,000 亿美元（IT之家注：现汇率约合 1.34 万亿元人民币），同比增长 369%，接近去年同期的 5 倍。Counterpoint ",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "bt": -1,
+   "co": []
+  },
+  {
+   "id": "04de0d8e514a91738cc0660bbfe2bc4c4f748228",
+   "title": "长江存储IPO计划暂缓：中国收紧芯片企业上市审批 49亿美元融资进程受阻",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585102.htm",
+   "source": "cnBeta",
+   "domain": "memory",
+   "published": "2026-11-05",
+   "summary": "中国最大的NAND闪存芯片制造商长江存储（YMTC）已经暂时搁置上海证券交易所科创板上市计划。路透社11月4日援引公司内部备忘录及多名知情人士报道称，此次暂停与中国监管部门近期收紧股票发行审批、资本市场表现疲软等因素有关。原本计划在10月底至11月初启动的战略配售工作已经停止，上市进程可能因此推迟数月。 阅读全文",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "bt": -3,
+   "co": [
+    "长江存储"
+   ]
+  },
+  {
+   "id": "f2b10b57dccc819d58fd780c896766549a378a8f",
+   "title": "长江存储IPO计划暂缓：中国收紧芯片企业上市审批49亿美元融资进程受阻- 硬件",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HOGs2enlJc2hGVF9sMm9nRnFxR19lTDc3ZHJsVVlWNlAwZ0Q1UlZJUkIwYTFsRWl2WGc0LV9JZEpORnF5bUxrRkk3a1dmWFhZd2Z5VnR6WTRvcFlodDNTVA?oc=5",
+   "source": "GoogleNews·cnBeta.COM",
+   "domain": "memory",
+   "published": "2026-11-05",
+   "summary": "",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "bt": -3,
+   "co": [
+    "长江存储"
+   ]
+  },
+  {
+   "id": "3be6b8087d64f7949ac6841758d13cdb16c04873",
+   "title": "多只AI基础设施股大涨！长鑫科技市值逼近3万亿元关口",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ieXRvX2JDNUtkOHBiYTdKQmZTam9LaFRGZDN4QWh6cHhlUjVPTUJNNG14LUVlRTdfdlFpS2FpV1BtYWR4UnhSbzdtLWp4bkpFcEpr?oc=5",
+   "source": "GoogleNews·第一财经",
+   "domain": "memory",
+   "published": "2026-11-04",
+   "summary": "",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "bt": -3,
+   "co": []
   },
   {
    "id": "2e67a00dbc7170235b4fbd7e0b6f053316866ae5",
@@ -910,7 +1009,7 @@
    "published": "2026-11-02",
    "summary": "",
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-04",
+   "last_seen": "2026-11-05",
    "bt": 0,
    "co": []
   },
@@ -4944,7 +5043,7 @@
    "published": "2026-10-17",
    "summary": "",
    "first_seen": "2026-10-28",
-   "last_seen": "2026-10-31",
+   "last_seen": "2026-11-05",
    "bt": 4,
    "co": []
   },
@@ -8056,7 +8155,7 @@
    "published": "2026-10-23",
    "summary": "",
    "first_seen": "2026-10-24",
-   "last_seen": "2026-11-02",
+   "last_seen": "2026-11-05",
    "bt": 2,
    "co": []
   },
@@ -8246,7 +8345,7 @@
    "published": "2026-10-23",
    "summary": "",
    "first_seen": "2026-10-24",
-   "last_seen": "2026-11-04",
+   "last_seen": "2026-11-05",
    "bt": 0,
    "co": [
     "长鑫存储"
@@ -13555,7 +13654,7 @@
    "published": "2026-10-17",
    "summary": "",
    "first_seen": "2026-10-17",
-   "last_seen": "2026-10-31",
+   "last_seen": "2026-11-05",
    "bt": 0,
    "co": [
     "长江存储"
