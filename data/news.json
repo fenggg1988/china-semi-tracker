@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-05 15:34:12",
- "count": 1413,
+ "updated": "2026-11-05 15:44:59",
+ "count": 1416,
  "items": [
   {
    "id": "a7042204f702a6bdba288a7df54bd33b5ce32661",
@@ -264,6 +264,45 @@
    "co": [
     "长江存储"
    ]
+  },
+  {
+   "id": "c4ce0a1bc1fee64555b751df221cadb8c63bc6fe",
+   "title": "ASML称中国造出EUV光刻机，至少10年以上，谁知道中国直接换道了",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VWjVBeHdERW9zMFpPVmZQdDBKVHdjTDRQTVpEMmM1Mm1seFhhUk9uSjVBVzVVR0VVNTlRYzZybmFVRXNqbHh1N3RPU1pqSHBjWFR3?oc=5",
+   "source": "GoogleNews·搜狐网",
+   "domain": "litho_machine",
+   "published": "2026-11-01",
+   "summary": "",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "768f3683cccebb0b089499a20369bb3ceee7e9f6",
+   "title": "13.05亿元磷化铟供应，云南锗业获美国光模块龙头大单",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPa0pZUlh3V1FPUnNueFVFMldpdjBGbWRrRlR3X3ZYYnlOZ2NBQUZ5V2hCU1JzOUxwcUxmWUkxdDJQelJuLWZmemdaX1VKd1FOb1JTN1lJcWs3VEhrNGJSQ1N4cTVTZ1d0SkloWXN6NHppY3l1UUU3dktraVdsbm5TcmtLTjdqSjV6?oc=5",
+   "source": "GoogleNews·搜狐网",
+   "domain": "optical_comm",
+   "published": "2026-11-04",
+   "summary": "",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "c9f74b88c4ea84391239a35f7885e64991aa959b",
+   "title": "光模块迭代赛跑：CPO尚未跑完，OOI已经站上舞台",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR09ZZzM1dnFVRUU5SUdrUHpvM3B1NFhXUXVGMzAxbVY3WmZPVjB3bTdsSFVRZ3dUUDc5Z2N3LURwalZMWTFmQzdERUZVRFU5d1AybnhVYW1PSjJSREZYOHpqWXdNM25ZWG8zUGxWSGZJUnoySThNQ2FGbFBJWVcyMVFVVGgtblpDSGdxQTA3bw?oc=5",
+   "source": "GoogleNews·21财经",
+   "domain": "optical_comm",
+   "published": "2026-11-04",
+   "summary": "",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "bt": 0,
+   "co": []
   },
   {
    "id": "92f2d07053074b63ab08c26e02bf053af4643b78",
@@ -1091,7 +1130,7 @@
    "published": "2026-11-02",
    "summary": "",
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-04",
+   "last_seen": "2026-11-05",
    "bt": 0,
    "co": [
     "光迅科技"
@@ -14204,7 +14243,7 @@
    "published": "2026-10-16",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-11-04",
+   "last_seen": "2026-11-05",
    "bt": 2,
    "co": []
   },
