@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-06 15:43:34",
- "count": 1446,
+ "updated": "2026-11-06 15:53:14",
+ "count": 1447,
  "items": [
   {
    "id": "761d3722ef198ddac296cb4c77252ebd9113a0a1",
@@ -393,6 +393,19 @@
    ]
   },
   {
+   "id": "224c1ac36b593dbf6cab809965dc6800025adc6d",
+   "title": "海归博士做硅光芯片，一轮拿到数亿元",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9saXJsVGFmdXZVWjF4Q3lLb0g0Z01HNjF4aVNvb3ZaOHljSUItQVB0dGRMMlo0eFZtWWJkZkx1Mnk3OGE2Z1JEQXU3ODdKZw?oc=5",
+   "source": "GoogleNews·36Kr",
+   "domain": "optical_comm",
+   "published": "2026-11-05",
+   "summary": "",
+   "first_seen": "2026-11-06",
+   "last_seen": "2026-11-06",
+   "bt": 0,
+   "co": []
+  },
+  {
    "id": "146adff52c0826c09790e4b1d5d60defe8b11c9a",
    "title": "首款鸿蒙台式机华为擎云 HM650 系列发布：搭载麒麟 X90 桌面处理器，实现 100% 国产化率",
    "url": "https://www.ithome.com/1/022/834.htm",
@@ -610,7 +623,7 @@
    "published": "2026-11-05",
    "summary": "",
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-05",
+   "last_seen": "2026-11-06",
    "bt": 0,
    "co": []
   },
@@ -1781,7 +1794,7 @@
    "published": "2026-11-03",
    "summary": "",
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-05",
+   "last_seen": "2026-11-06",
    "bt": 0,
    "co": []
   },
