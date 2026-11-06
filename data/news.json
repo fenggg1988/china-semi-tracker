@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-06 15:20:24",
- "count": 1445,
+ "updated": "2026-11-06 15:32:29",
+ "count": 1446,
  "items": [
   {
    "id": "761d3722ef198ddac296cb4c77252ebd9113a0a1",
@@ -376,6 +376,21 @@
    "last_seen": "2026-11-06",
    "bt": 0,
    "co": []
+  },
+  {
+   "id": "e04169874bb4e8aafe47547bb238185229e3f72d",
+   "title": "《独家新闻》中国长江存储新厂拟向国内供应商采购七成设备--消息人士",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9rakxWZHJoWlJTSzcwZ0oxeF9LTWQ5MkZBRVZwVEdwUlduUzNBb19ON24zZGdPX0RHRFpFUDdwd2F0SmpiZVBrb0ZVSTh5ZUpXWHcwUUN5ZnBhRTRFUGVBbmFaVkU3U2dpNWRIOGtsU3BwRUhBMmNVVw?oc=5",
+   "source": "GoogleNews·TradingView",
+   "domain": "memory",
+   "published": "2026-11-06",
+   "summary": "",
+   "first_seen": "2026-11-06",
+   "last_seen": "2026-11-06",
+   "bt": 0,
+   "co": [
+    "长江存储"
+   ]
   },
   {
    "id": "146adff52c0826c09790e4b1d5d60defe8b11c9a",
@@ -4160,7 +4175,7 @@
    "published": "2026-10-30",
    "summary": "",
    "first_seen": "2026-10-30",
-   "last_seen": "2026-11-04",
+   "last_seen": "2026-11-06",
    "bt": 0,
    "co": [
     "茂莱光学"
@@ -12511,7 +12526,7 @@
    "published": "2026-10-18",
    "summary": "",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-10-26",
+   "last_seen": "2026-11-06",
    "bt": 0,
    "co": [
     "长江存储"
