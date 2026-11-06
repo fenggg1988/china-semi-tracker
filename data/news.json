@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-06 16:54:34",
- "count": 1448,
+ "updated": "2026-11-06 23:32:18",
+ "count": 1462,
  "items": [
   {
    "id": "14893c17ffd2d4ad7f86a047e5a9684ff24ffcb2",
@@ -63,6 +63,32 @@
    "source": "GoogleNews·新浪财经",
    "domain": "optical_comm",
    "published": "2026-10-23",
+   "summary": "",
+   "first_seen": "2026-11-06",
+   "last_seen": "2026-11-06",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "2b190cd013d43ffb51d451b143f5c5ab8cd1c2ba",
+   "title": "芯片设备也卖爆了！国产厂商订单排到2027年：DUV光刻机交付量要翻4倍",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBLSXhpREtFS2FuM2UwQ2ZPNjdzSFROamVhZ2R5cDRxNzI0aUp1bFJzZEhPYUlad2hqSkk4dnhkRkE1QkZOR19GV1lfZm9fbXNjOHZYcm9tWEI?oc=5",
+   "source": "GoogleNews·驱动之家",
+   "domain": "litho_machine",
+   "published": "2026-11-06",
+   "summary": "",
+   "first_seen": "2026-11-06",
+   "last_seen": "2026-11-06",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "38c80f7a571a4a5044c4bc7844dc5e0b25aa9aa8",
+   "title": "红板科技(603459.SH)：高速光模块PCB是公司重点布局方向，800G、1.6T光模块PCB等产品已实现批量供货",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JTHJEcVdwOFZFUVpJYmZBR1ExRXl3WXlwQmhPMVRXUHpxbkJVMi1fNm1zdWtMTjU1ZlRNZkFfZWNVcmNIeFU2N1hGRDMxRDVLVXQ2bFZIMVZ3S2ZEMFlqb2kyNXItZUlMV1lxU0YwdzA3bHRkd3pqMA?oc=5",
+   "source": "GoogleNews·新浪财经",
+   "domain": "optical_comm",
+   "published": "2026-11-06",
    "summary": "",
    "first_seen": "2026-11-06",
    "last_seen": "2026-11-06",
@@ -416,6 +442,170 @@
    "first_seen": "2026-11-06",
    "last_seen": "2026-11-06",
    "bt": 0,
+   "co": []
+  },
+  {
+   "id": "a65c1f468cf7add639f29e32dcc2b42dc0d07ece",
+   "title": "中国存储芯片厂商长鑫存储三季度市场份额回落至9%",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585308.htm",
+   "source": "cnBeta",
+   "domain": "memory",
+   "published": "2026-11-06",
+   "summary": "中国最大的DRAM内存芯片制造商长鑫存储（CXMT）在2026年第三季度面临市场份额增长压力。随着三星电子进一步扩大内存芯片产能，以及全球存储市场逐渐向高带宽内存（HBM）倾斜，长鑫存储的DRAM市场份额从第二季度的10%回落至9%。不过，与去年同期相比，其市场份额仍然增加了4个百分点，显示公司仍处于快速扩张阶段。 阅",
+   "first_seen": "2026-11-06",
+   "last_seen": "2026-11-06",
+   "bt": 0,
+   "co": [
+    "长鑫存储"
+   ]
+  },
+  {
+   "id": "fa6ead0884c3d8413483bdbb3d8d751304d16cd5",
+   "title": "金属化工艺装备、激光直写光刻、CIM、量检测，半导体产业链设备、工艺新生态专题论坛圆满举办",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iaEt1X0hGdTBIN0xPM0JOWGFtblZCMVk5RldxdXEyMHNGb25teEpibFRTNzNaZ1I4UEJ5bkdTZVkzclNCT2R4TzVpSmlDMGY2ZDlpZHp1dWd0SENmZElMeEdtbjFlRnlVRGRIdEVLSE03TlhYZVViRG4yQjMwT2c?oc=5",
+   "source": "GoogleNews·手机新浪网",
+   "domain": "stage",
+   "published": "2026-11-05",
+   "summary": "",
+   "first_seen": "2026-11-06",
+   "last_seen": "2026-11-06",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "900cd264f74cba38e7c37363b001e366ee313885",
+   "title": "1.6T订单供不应求 AI光模块景气反转 800G略低预期、1.6T订单超供货能力，AI光模块景气反转了吗？",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVzdraHdyVXRWQ25vN21VbWVkTVhfbFJaS0wtMDNPLXNRb1JLNUxIaUIxRWRlSzRtbk01dkV1dE5NNS1DUmZWUXdaTFBuSTJwQjRsdVBvMGFVeElDSTlGTE9CTnNvd3IwdGFFR2RIdzFSb3E2eXJFQjRORnBpVmJaYU5GanZzRHQx?oc=5",
+   "source": "GoogleNews·搜狐网",
+   "domain": "optical_comm",
+   "published": "2026-11-06",
+   "summary": "",
+   "first_seen": "2026-11-06",
+   "last_seen": "2026-11-06",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "faebd1238f2acde0fa0703962f317a805325771c",
+   "title": "联域股份参股芯智华 布局“薄膜铌酸锂+硅光异质集成”光芯片",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PM0h1T2o3emlGLWp0ajdoRmIxMDBBQTEzQlRWc2o0S2lrMFhzMnE5N1l6Q09hUzc5bzdOWnNSeTFwMXN5aUliTTVWVXhpbU9CeHNEVzdVOXFpdF95d3p5Z3dVekpxQQ?oc=5",
+   "source": "GoogleNews·东方财富",
+   "domain": "optical_comm",
+   "published": "2026-11-06",
+   "summary": "",
+   "first_seen": "2026-11-06",
+   "last_seen": "2026-11-06",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "823ca715152a0d3d49395025a520e6c74204ba44",
+   "title": "1.6T订单超供货 AI光模块景气反转",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRmNwY3RvRDA1ODk3SlI3eU5FUG5FRkI5dENJU0JtVVlINFVuWkRtZU5lb1RJN3pxcmZmNmlORGxfU1JYRXhmclYyeW9iaTVOTTdaYzlfWWZwbVZHV2RCVHVIeFNvckFaTURIb09KcXgwWkF0b2dORzJhM09fX1lyMDI5cjRSVklh?oc=5",
+   "source": "GoogleNews·搜狐网",
+   "domain": "optical_comm",
+   "published": "2026-11-06",
+   "summary": "",
+   "first_seen": "2026-11-06",
+   "last_seen": "2026-11-06",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "ca93e62e5778e11a803a290b0f103504287ef6c9",
+   "title": "光模块里两块电芯片，一块在排队，一块在涨价",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE00bjQ4dldPcTFzdjM2YmViOWtudGtZd25oVW54a2JsUXBLbUJrTnZwTVJyNWQxcXZuTlJhYnlrTFNIajUtRGdnRVFYMXJxSEhHLXU5cg?oc=5",
+   "source": "GoogleNews·光通信Pro",
+   "domain": "optical_comm",
+   "published": "2026-11-06",
+   "summary": "",
+   "first_seen": "2026-11-06",
+   "last_seen": "2026-11-06",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "a4ee08f7414e98a72cf0cb30640dcb91b1c2ac33",
+   "title": "300+层NAND！长江存储第四座工厂曝光：国产设备占比冲刺70%",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HakZ6VDJWUzlicXpQdWhDZWdES1kwNmxXdWQtc2V0VHpfVmlTMEJBS2pCcTlTVm1FSERFdEJXUHZUN2dYWU50T1hUR2pzZ0VfNGIwN1hSM3I?oc=5",
+   "source": "GoogleNews·驱动之家",
+   "domain": "memory",
+   "published": "2026-11-06",
+   "summary": "",
+   "first_seen": "2026-11-06",
+   "last_seen": "2026-11-06",
+   "bt": 0,
+   "co": [
+    "长江存储"
+   ]
+  },
+  {
+   "id": "e325e12d25f70f3c5495fcf7086bf71b44f0d561",
+   "title": "消息称长江存储暂缓上海科创板IPO 原计划募资330亿元_滚动新闻",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1JRTFhNFdlU1lQUXhQTkpaY2F0elJaNHZEU3pfQmdic1N3akhiS1hPWWxHX2R4UlBPVGhSWE5VTzZ2aFMzNzYxSlNCa2xhbGN4MEV6bEhCck9QWlN4WU5aZzdPTEs?oc=5",
+   "source": "GoogleNews·证券之星",
+   "domain": "memory",
+   "published": "2026-11-05",
+   "summary": "",
+   "first_seen": "2026-11-06",
+   "last_seen": "2026-11-06",
+   "bt": 0,
+   "co": [
+    "长江存储"
+   ]
+  },
+  {
+   "id": "1a9003c62dcc02d52258ea212c19576da67e4d3d",
+   "title": "长江存储新建工厂国产设备占比最高拟达",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01aU9acTRKV3hqdlZISzJ4UkVXMFQxWUI0cTB1YWpBb2VVWVpZWWhPUWZ4Qkx0ZEMzdWJrOHFOUVpwLWVDNTFGYTdzREFkbW16QkxSSWhURXRSS0hPTlZJejRlLWhoVm9HSUNSR1hB0gFzQVVfeXFMT01wREplVzFHV3EwbmhVc09MZFN5Z0FiaUt1Y0NOeUZ1dXEtTHJzNnhFVUZodDFscXpZdHNrblZoOTZYLWpnQU13cDdKYklNRDJENl9uTzJXWHVPOE85YXQ2QTF6aC0ySllYbGJoZjI3RXdKbw?oc=5",
+   "source": "GoogleNews·禁闻网",
+   "domain": "memory",
+   "published": "2026-11-06",
+   "summary": "",
+   "first_seen": "2026-11-06",
+   "last_seen": "2026-11-06",
+   "bt": 0,
+   "co": [
+    "长江存储"
+   ]
+  },
+  {
+   "id": "becce47a94545411c08cd403494753019b26f2c6",
+   "title": "单条1TB DDR6内存要来了！美光拒绝跟进国产长鑫新架构",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOUkF2VU8xQjRtb2JmQXNhZWVUbzJRa3hlMjZNSzVoT1NmdzRVRE1jdzU2X3ZlRTA3MTVQWDEwcjM4TFFSX3ZGbzBfRjZDM3ZJSmN1aFV3?oc=5",
+   "source": "GoogleNews·腾讯新闻",
+   "domain": "memory",
+   "published": "2026-10-22",
+   "summary": "",
+   "first_seen": "2026-11-06",
+   "last_seen": "2026-11-06",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "ec53b991adcabfc7e01b82752164e5fc71e88267",
+   "title": "车规存储芯片的国产窗口不是一张自动兑现的支票？_公司新闻",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DdHM3LXFlbl9wazIzZTVoaHNkS3ozVVB1QlFSa3FYUnpWc3hXbmYyckdveVNpS3p3aXJid19LTjFZM2FmWkROcWRkd3Bud3Ezenh1d3NPY1Fyd2ZQamZ6aw?oc=5",
+   "source": "GoogleNews·证券之星",
+   "domain": "memory",
+   "published": "2026-11-06",
+   "summary": "",
+   "first_seen": "2026-11-06",
+   "last_seen": "2026-11-06",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "e39c1f8524466a136921c372ce91c6852fa60569",
+   "title": "孛璞半导体完成数亿元B轮融资，推进硅光芯片与OCS产业化",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3dWFBbWs5U0ZJaDZSTGJ0Q0NDd0dNeTlTWmtsVTFMbFA4VHFQWk9ubkJRTFlCOHZ5ejVtam54QnR1b3hlLWRqUnpJU2JVU0pzYXJybFln?oc=5",
+   "source": "GoogleNews·投资界",
+   "domain": "optical_comm",
+   "published": "2026-11-06",
+   "summary": "",
+   "first_seen": "2026-11-06",
+   "last_seen": "2026-11-06",
+   "bt": -3,
    "co": []
   },
   {
@@ -7852,7 +8042,7 @@
    "published": "2026-10-26",
    "summary": "",
    "first_seen": "2026-10-26",
-   "last_seen": "2026-11-04",
+   "last_seen": "2026-11-06",
    "bt": 0,
    "co": [
     "长鑫存储"
