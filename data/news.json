@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-06 08:32:05",
- "count": 1440,
+ "updated": "2026-11-06 15:20:24",
+ "count": 1445,
  "items": [
   {
    "id": "761d3722ef198ddac296cb4c77252ebd9113a0a1",
@@ -298,6 +298,79 @@
    "source": "GoogleNews·搜狐网",
    "domain": "memory",
    "published": "2026-11-05",
+   "summary": "",
+   "first_seen": "2026-11-06",
+   "last_seen": "2026-11-06",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "16dc5fe47ae67c73b5fa90ad1cf33fae79e40004",
+   "title": "长江存储计划新工厂国产设备占比最高达70% 冲击300层以上NAND闪存",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585252.htm",
+   "source": "cnBeta",
+   "domain": "memory",
+   "published": "2026-11-06",
+   "summary": "中国最大的NAND闪存制造商长江存储（YMTC）正在进一步提高半导体生产设备的国产化比例。路透社11月6日援引两名知情人士报道称，长江存储计划在武汉建设的第四座晶圆厂中，将国产设备采购比例提高至至少60%，目标甚至达到70%。这将明显高于公司第三座工厂目前略高于50%的国产设备占比。 阅读全文",
+   "first_seen": "2026-11-06",
+   "last_seen": "2026-11-06",
+   "bt": 0,
+   "co": [
+    "长江存储"
+   ]
+  },
+  {
+   "id": "4dbee6a355615e6cfc94903547054def3364cc3f",
+   "title": "光迅科技硅光芯片产业化项目一期开工",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnTk1FUGY3ZEtXdENFU1hsWnA5S3pVdEFObU9lRHNRNTE5Wk1WcTIxSHEyYjIxNWlCTTFFVU4tUUo1SVRZUGFhMFJfUHhhSG5aYUdaSzJ3?oc=5",
+   "source": "GoogleNews·QQ News",
+   "domain": "optical_comm",
+   "published": "2026-11-02",
+   "summary": "",
+   "first_seen": "2026-11-06",
+   "last_seen": "2026-11-06",
+   "bt": 0,
+   "co": [
+    "光迅科技"
+   ]
+  },
+  {
+   "id": "0b554257ee70d00c1df58bb310837dca139c1764",
+   "title": "长江存储计划新工厂国产设备占比达70% 提供者 Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE82b1BxUEtXcmtqLVR4ejlyalJhRk1xT1ZmaXNpZlFOSXdNd2k2bVFnLWZzNzJvSG1uMS1kbG5RTnNWRGx6YmthUjBwQktQTU1VNGdncVhybW8ycUZBLXRlYXlXOWtSMTlabHRHT280OEt1bmdFcnNv?oc=5",
+   "source": "GoogleNews·英为财情 Investing.com",
+   "domain": "memory",
+   "published": "2026-11-06",
+   "summary": "",
+   "first_seen": "2026-11-06",
+   "last_seen": "2026-11-06",
+   "bt": 0,
+   "co": [
+    "长江存储"
+   ]
+  },
+  {
+   "id": "8411d530f2ef528659f6b81082c3998e6222dd54",
+   "title": "中国长江存储暂缓IPO……受全球人工智能遇冷冲击- 阿视亚经济",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSTFNXSU9zSWxveC03eGlabFAwRDNJSTV0ck5JbU1qR3A4bXQxQV9YSGo4VEM0amJlV1hzQWF0YVNPeVMtOGdBaHUtbmg1S3hub3dkR0NNcUtmZ1duWl9PRzh2dE8?oc=5",
+   "source": "GoogleNews·아시아경제",
+   "domain": "memory",
+   "published": "2026-11-06",
+   "summary": "",
+   "first_seen": "2026-11-06",
+   "last_seen": "2026-11-06",
+   "bt": 0,
+   "co": [
+    "长江存储"
+   ]
+  },
+  {
+   "id": "9ef11b1a46e2aa6ddb7652a13a2c0fb1e64f2f19",
+   "title": "韩国继续垄断！DRAM平均售价已达每Gb 13元：三星稳坐全球第一 长鑫挤进前四",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9fUHdaalAwbWNOVnBzb1ZJREtVcWR4d3V0VnFXYlFCbkcxa3U1OEZ0TTFkQm9WZXJsX1RJWE9ZSzZTU3ZLeGlsNHBIMWVWeVpCSG95S3A2V0k?oc=5",
+   "source": "GoogleNews·驱动之家",
+   "domain": "memory",
+   "published": "2026-11-06",
    "summary": "",
    "first_seen": "2026-11-06",
    "last_seen": "2026-11-06",
@@ -1027,7 +1100,7 @@
    "published": "2026-11-04",
    "summary": "",
    "first_seen": "2026-11-04",
-   "last_seen": "2026-11-05",
+   "last_seen": "2026-11-06",
    "bt": 0,
    "co": []
   },
@@ -2368,7 +2441,7 @@
    "published": "2026-10-26",
    "summary": "",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-05",
+   "last_seen": "2026-11-06",
    "bt": 0,
    "co": []
   },
@@ -3442,7 +3515,7 @@
    "published": "2026-10-29",
    "summary": "",
    "first_seen": "2026-10-30",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-11-06",
    "bt": 4,
    "co": [
     "铭普光磁"
@@ -9029,7 +9102,7 @@
    "published": "2026-10-19",
    "summary": "",
    "first_seen": "2026-10-23",
-   "last_seen": "2026-11-05",
+   "last_seen": "2026-11-06",
    "bt": 2,
    "co": []
   },
@@ -9316,7 +9389,7 @@
    "published": "2026-10-23",
    "summary": "",
    "first_seen": "2026-10-23",
-   "last_seen": "2026-11-04",
+   "last_seen": "2026-11-06",
    "bt": 0,
    "co": [
     "中际旭创"
@@ -10587,7 +10660,7 @@
    "published": "2026-10-21",
    "summary": "",
    "first_seen": "2026-10-21",
-   "last_seen": "2026-11-04",
+   "last_seen": "2026-11-06",
    "bt": 2,
    "co": []
   },
@@ -11916,7 +11989,7 @@
    "published": "2026-10-05",
    "summary": "",
    "first_seen": "2026-10-20",
-   "last_seen": "2026-10-25",
+   "last_seen": "2026-11-06",
    "bt": 0,
    "co": []
   },
