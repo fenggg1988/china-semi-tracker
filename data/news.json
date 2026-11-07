@@ -1,7 +1,22 @@
 {
- "updated": "2026-11-07 16:11:52",
- "count": 1474,
+ "updated": "2026-11-07 22:33:52",
+ "count": 1479,
  "items": [
+  {
+   "id": "ecd320bb2531ed5713f7cc9162291df18c3bf95b",
+   "title": "国产光刻机里程碑！上海微电子前道干式光刻机落地：流片破千万片",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9vdEpjb2lXQm1zNkVMbGwwUlpEaDZMcG5Bcm8xb2t1MGN6N2JiMktqaUlpY2hjMjJnVy1DT25Pek1GcGstSzZHNnNmSXhwUGVLMGE4YU9WVXA?oc=5",
+   "source": "GoogleNews·驱动之家",
+   "domain": "litho_machine",
+   "published": "2026-11-07",
+   "summary": "",
+   "first_seen": "2026-11-07",
+   "last_seen": "2026-11-07",
+   "bt": 4,
+   "co": [
+    "上海微电子"
+   ]
+  },
   {
    "id": "d21599204a2e8bfc5eec00bf0bd7ffc6e7c438c1",
    "title": "国内首次！800G多芯光模块+四芯光纤，烽火通信解锁高密度光互联新方案",
@@ -9,6 +24,34 @@
    "source": "GoogleNews·通信世界网",
    "domain": "optical_comm",
    "published": "2026-10-23",
+   "summary": "",
+   "first_seen": "2026-11-07",
+   "last_seen": "2026-11-07",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "3a9b4e06f6e54e36dc42c7870c3c4947a33bc4e2",
+   "title": "茂莱光学：关于更换首次公开发行股票及向不特定对象发行可转换公司债券项目持续督导保荐代表人的公告",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQXNyWTVaT1NHM2s5NlJUeXpsTnFQSmJvYkRUcTkwMnFycVJhdGk0eWhWZDE5TjdZS0VwQngzRVpDQ29qSDFiUWx2Z3U3SjdhQkxnQTNORmZ3WS1PcWd5aVhHUVNPSGFIaU5kU3hwbkFTVG1LSFg0RHVsRDRKWDNCY0lUaEcwRWphR1I1YjhMeEl5eERXMHlBMGhDdDVPWFo0bjdKVUlUNi11UWN0Y3JOb016U0RWa2dUOFJwak56N1o3SHNnNGc?oc=5",
+   "source": "GoogleNews·Moomoo",
+   "domain": "optics",
+   "published": "2026-11-07",
+   "summary": "",
+   "first_seen": "2026-11-07",
+   "last_seen": "2026-11-07",
+   "bt": 2,
+   "co": [
+    "茂莱光学"
+   ]
+  },
+  {
+   "id": "b7c11ac94e25ce19079abe057d9a532794f8ddd0",
+   "title": "长鑫G5量产：国产存储打到全球第几梯队？",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQ2NBQXYzLUNCTU1KZEFoRHZXY1J6VEtTLTBCX2x2RXlWQWZSVGp5V0pfTEhsano5TUJBQVZFNEJWa1Ntd1lfRkI5S3poNmhlckpOOG9kYjNoSEQxMk9yMFI3Vzh1MzU3SkZuLWZWYzc0VWdRVS1zVGk1cHRpRG5ZMw?oc=5",
+   "source": "GoogleNews·手机新浪网",
+   "domain": "memory",
+   "published": "2026-11-05",
    "summary": "",
    "first_seen": "2026-11-07",
    "last_seen": "2026-11-07",
@@ -109,6 +152,19 @@
    "co": []
   },
   {
+   "id": "a86ae3906a67dbb347ba563c03b1132390d16063",
+   "title": "硅光晶圆成光模块新瓶颈",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfYjRNanMzNEdPb2hPOGVaNm9BeUFUV0lEdDdkaU5fUllSUHhCYVdiZ2VkYlNmZzdWbjBKRzdFbEg2WVBEeW5XMzc0Q1hvckpSMk1UUTVoX2Q?oc=5",
+   "source": "GoogleNews·经济观察网",
+   "domain": "optical_comm",
+   "published": "2026-11-06",
+   "summary": "",
+   "first_seen": "2026-11-07",
+   "last_seen": "2026-11-07",
+   "bt": 0,
+   "co": []
+  },
+  {
    "id": "31d942a0c76d63e2b2e172a22d9810ad7e6e155c",
    "title": "硅光芯片融资升温，孛璞半导体B轮融数亿元",
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE92ME85MTBTY0N5ODN4NjBsT2NlemtOZ0duYlllajRuTjkzc1NHWFVTZGpQVE9pRi1DTFNpSk9jX2l3ZVk0aWhPNg?oc=5",
@@ -161,6 +217,19 @@
    "co": [
     "长鑫存储"
    ]
+  },
+  {
+   "id": "9cbb6031b518ebcc9698e8593041a0e3ab7d4e83",
+   "title": "全球DRAM市场营收同比暴增369%：三星份额第一，SK海力士加速追赶",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBnSUEwQ2xqbVhEZXlfU1d2U0c4R25Tay1zam1wQ0FoTmJqNjBJQklzMk0zMU1JTG5kRzhJTENPek9uNlBSSjVxLXVFMkczck5WSEE?oc=5",
+   "source": "GoogleNews·凤凰网",
+   "domain": "memory",
+   "published": "2026-11-06",
+   "summary": "",
+   "first_seen": "2026-11-07",
+   "last_seen": "2026-11-07",
+   "bt": -3,
+   "co": []
   },
   {
    "id": "14893c17ffd2d4ad7f86a047e5a9684ff24ffcb2",
@@ -428,7 +497,7 @@
    "published": "2026-11-05",
    "summary": "",
    "first_seen": "2026-11-06",
-   "last_seen": "2026-11-06",
+   "last_seen": "2026-11-07",
    "bt": 0,
    "co": [
     "长江存储"
@@ -1178,7 +1247,7 @@
    "published": "2026-11-03",
    "summary": "",
    "first_seen": "2026-11-04",
-   "last_seen": "2026-11-06",
+   "last_seen": "2026-11-07",
    "bt": 4,
    "co": []
   },
@@ -13084,7 +13153,7 @@
    "published": "2026-10-19",
    "summary": "",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-07",
    "bt": 0,
    "co": [
     "长江存储"
