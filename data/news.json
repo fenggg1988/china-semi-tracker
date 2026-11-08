@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-08 16:30:33",
- "count": 1491,
+ "updated": "2026-11-08 22:42:07",
+ "count": 1497,
  "items": [
   {
    "id": "5813cc6790db95f037418f6f6a06ffbe63354ed4",
@@ -42,6 +42,21 @@
    "last_seen": "2026-11-08",
    "bt": 2,
    "co": []
+  },
+  {
+   "id": "30a48dec2c97aaac4db4aae45a4791fc101ba3a4",
+   "title": "上海微电子新一代前道干式光刻机模型亮相进博会 累计流片超千万片",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1VDdSM0pLZlVMSDVOSmlWWDVQb1FBSUZpdlpvTzEtemVicFI2QnlhYlRwLV9LVHp3QksyaXlFSjEwclB3eXlUaDk5Zmk2WG1EQlV1ODl0NWEzX0NXbkF4YW5n?oc=5",
+   "source": "GoogleNews·观点网",
+   "domain": "litho_machine",
+   "published": "2026-11-08",
+   "summary": "",
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08",
+   "bt": 2,
+   "co": [
+    "上海微电子"
+   ]
   },
   {
    "id": "1db85b45e95bf61131690d69d828cce143d4bbdd",
@@ -161,6 +176,75 @@
    "last_seen": "2026-11-08",
    "bt": 0,
    "co": []
+  },
+  {
+   "id": "b9b550531d8914f8259f5eb0a1abcd4863e31eba",
+   "title": "我国前道光刻装备自主化阶段性成果，上海微电子新一代光刻机模型亮相",
+   "url": "https://www.ithome.com/1/023/924.htm",
+   "source": "IT之家",
+   "domain": "litho_machine",
+   "published": "2026-11-08",
+   "summary": "IT之家 11 月 8 日消息，第九届中国国际进口博览会于 11 月 5 日在国家会展中心（上海）开幕。本次展会上，上海微电子装备（集团）股份有限公司（简称 SMEE）携自主研发的新一代前道干式光刻机通用技术平台模型正式亮相，展示我国前道光刻装备自主化的阶段性成果。据介绍，SMEE 成立于 2002 年，是国内唯一具备",
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08",
+   "bt": 0,
+   "co": [
+    "上海微电子"
+   ]
+  },
+  {
+   "id": "afede9aeb0cbc8416db33f4cfe3036963cd65524",
+   "title": "AMD推出超低价AM5平台套装：锐龙7 7700X3D搭配B650主板和32GB DDR5内存仅售649美元",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585502.htm",
+   "source": "cnBeta",
+   "domain": "memory",
+   "published": "2026-11-08",
+   "summary": "随着DDR5内存价格持续上涨，组装一台新电脑的成本也随之增加。不过，美国零售商Micro Center近日推出了一项颇具吸引力的硬件促销活动：将AMD锐龙7 7700X3D处理器、技嘉B650主板以及32GB DDR5内存组合销售，原价954美元的套装降至649美元，直接优惠304美元。 阅读全文",
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "8702d80d653ee478a23d65c94bcfee30f6c0a083",
+   "title": "​黄仁勋反对全面限制对华AI芯片出口 强调美国应以竞争而非退出市场取胜",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585500.htm",
+   "source": "cnBeta",
+   "domain": "logic",
+   "published": "2026-11-08",
+   "summary": "英伟达首席执行官黄仁勋近日公开反对Anthropic首席执行官达里奥·阿莫代伊有关全面禁止向中国出口美国AI芯片和半导体设备的主张。他表示，美国企业应保持技术领先地位，但不应因此放弃全球市场，而应通过竞争来扩大市场份额和创造经济价值。 阅读全文",
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "8401c3f32a7c47ad16302e65d57192c3aff4135b",
+   "title": "我国新一代光刻机模型亮相",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1OdDFpOVpXaWFtZEN6UEJWcXBBVDBMa3dCS0tvX1ZhN0x1WFE1UVdVeGFVVjJkMmVPOVFMTjIxWnJTSkJaYU81SGNmbw?oc=5",
+   "source": "GoogleNews·新浪网",
+   "domain": "litho_machine",
+   "published": "2026-11-08",
+   "summary": "",
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "811144bedaaa8e3cf95a0e8c51dad82013fd1b22",
+   "title": "长鑫存储拒绝苹果报价 优先保中国客户",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1BZ2hoRXBUSENMZzdNWUs3R2x4SmM0MW1GaUtVX0hNNURnZlZlME15Y3FkcnFSRndENDF3N2l2V3JkbXRzMDQ1WEFMRlY5X2lKSlgzSWFLbU1nMnRraDdZSURaR2l2bVBuNjBibk5xbw?oc=5",
+   "source": "GoogleNews·新浪财经_金融信息服务商",
+   "domain": "memory",
+   "published": "2026-10-26",
+   "summary": "",
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08",
+   "bt": 0,
+   "co": [
+    "长鑫存储"
+   ]
   },
   {
    "id": "ecd320bb2531ed5713f7cc9162291df18c3bf95b",
@@ -1720,7 +1804,7 @@
    "published": "2026-11-04",
    "summary": "",
    "first_seen": "2026-11-04",
-   "last_seen": "2026-11-06",
+   "last_seen": "2026-11-08",
    "bt": 0,
    "co": []
   },
@@ -4189,7 +4273,7 @@
    "published": "2026-10-29",
    "summary": "",
    "first_seen": "2026-10-30",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-11-08",
    "bt": 2,
    "co": []
   },
@@ -5361,7 +5445,7 @@
    "published": "2026-10-28",
    "summary": "",
    "first_seen": "2026-10-29",
-   "last_seen": "2026-11-06",
+   "last_seen": "2026-11-08",
    "bt": 2,
    "co": [
     "长鑫存储"
@@ -5404,7 +5488,7 @@
    "published": "2026-10-29",
    "summary": "",
    "first_seen": "2026-10-29",
-   "last_seen": "2026-11-06",
+   "last_seen": "2026-11-08",
    "bt": 2,
    "co": []
   },
@@ -5430,7 +5514,7 @@
    "published": "2026-10-29",
    "summary": "",
    "first_seen": "2026-10-29",
-   "last_seen": "2026-11-05",
+   "last_seen": "2026-11-08",
    "bt": 2,
    "co": [
     "新易盛"
@@ -7967,7 +8051,7 @@
    "published": "2026-10-26",
    "summary": "",
    "first_seen": "2026-10-26",
-   "last_seen": "2026-11-01",
+   "last_seen": "2026-11-08",
    "bt": 2,
    "co": [
     "长江存储"
@@ -9206,7 +9290,7 @@
    "published": "2026-10-24",
    "summary": "",
    "first_seen": "2026-10-24",
-   "last_seen": "2026-11-04",
+   "last_seen": "2026-11-08",
    "bt": 2,
    "co": []
   },
