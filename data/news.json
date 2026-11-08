@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-08 15:16:04",
- "count": 1489,
+ "updated": "2026-11-08 16:30:33",
+ "count": 1491,
  "items": [
   {
    "id": "5813cc6790db95f037418f6f6a06ffbe63354ed4",
@@ -25,6 +25,19 @@
    "domain": "optics",
    "published": "2026-11-08",
    "summary": "据美国蒙特雷湾水族馆研究所（MBARI）消息，研究人员在太平洋深海罕见拍摄到一条头部完全透明的管眼鱼（学名 Macropinna microstoma），这是该机构首次以4K画质记录这一物种，也是首次从新的旗舰科考船“戴维·帕卡德号”上拍到它。 阅读全文",
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "c70d78808dcb1c6f2cb119e1d45f3a7eb55bab7a",
+   "title": "重大突破！我国新一代光刻机模型亮相",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IaHFaXzUwOVhtZVJBelJDT3RQZnlfZ1dfbURRWXdxSVRLUHhFWlhtRFhUZE9nei10OEhzVkN2UjdzcnpvNW1oRkFYUGVyQ3laekN3?oc=5",
+   "source": "GoogleNews·华尔街见闻",
+   "domain": "litho_machine",
+   "published": "2026-11-08",
+   "summary": "",
    "first_seen": "2026-11-08",
    "last_seen": "2026-11-08",
    "bt": 2,
@@ -130,6 +143,19 @@
    "source": "GoogleNews·手机网易网",
    "domain": "memory",
    "published": "2026-11-06",
+   "summary": "",
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "bbc52fa65ceb92b7019a9de214e467e4e141d614",
+   "title": "差距巨大！国产存储芯片份额，还只有韩国的5分之1！",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZURKMjRIeHlHbWN4QjNDcGE0Z0lVTEZxNHZEZW1jaUFpUzFkZUxNVGlfTnA3MTA5UEFUUlhpWlhwczg2S3pNMGpDXy1JREpmN3ZNU2RpeXlvMC1RempmeE1DaVRlRGlVVmxCNGpINmctZ3lrV3hvemkwMkpUX3RXVkd5YXR4U050UlRXNA?oc=5",
+   "source": "GoogleNews·搜狐网",
+   "domain": "memory",
+   "published": "2026-11-08",
    "summary": "",
    "first_seen": "2026-11-08",
    "last_seen": "2026-11-08",
