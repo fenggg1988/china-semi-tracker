@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-09 15:54:53",
- "count": 1522,
+ "updated": "2026-11-09 17:00:28",
+ "count": 1526,
  "items": [
   {
    "id": "e428578593d6ce04bb54e317bbf3ac3e91175b3e",
@@ -88,6 +88,19 @@
    "domain": "litho_machine",
    "published": "2026-11-09",
    "summary": "",
+   "first_seen": "2026-11-09",
+   "last_seen": "2026-11-09",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "f27d6522b15c6c972194e479110ec7fabef9a006",
+   "title": "华邦电子：14nm DRAM 内存将有 EUV 版本，有望 2030 年导入",
+   "url": "https://www.ithome.com/1/024/349.htm",
+   "source": "IT之家",
+   "domain": "litho_machine",
+   "published": "2026-11-09",
+   "summary": "IT之家 11 月 9 日消息，据台媒《MoneyDJ 理财网》消息，利基型存储器制造商华邦电子 (Winbond) 总经理陈沛铭表示，计划在企业的第二代 14nm 级 DRAM 内存工艺中应用 EUV 光刻技术，若开发顺利预计 2030 年导入。陈沛铭提到，该企业已在 EUV 上同 ASML 展开 3.5 年的合作，",
    "first_seen": "2026-11-09",
    "last_seen": "2026-11-09",
    "bt": 2,
@@ -309,6 +322,45 @@
    "source": "GoogleNews·财富号",
    "domain": "logic",
    "published": "2026-11-06",
+   "summary": "",
+   "first_seen": "2026-11-09",
+   "last_seen": "2026-11-09",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "f2a07b2dcd1557ab528ef4f15a22d46335339458",
+   "title": "铭凡带来 T5 Max-388 紧凑型台式机：板载 48GB LPDDR5-6400 内存",
+   "url": "https://www.ithome.com/1/024/370.htm",
+   "source": "IT之家",
+   "domain": "memory",
+   "published": "2026-11-09",
+   "summary": "IT之家 11 月 9 日消息，MINISFORUM（铭凡）现已在其官网上线 T5 Max-388 紧凑型台式机。其基于 AMD 锐龙 AI Max+ 388 处理器，三维 225×96×228 (mm)，体积约 4.92L。与其它 \"Strix Halo / Gorgon Halo\" 设备配备至少 8000MT/s ",
+   "first_seen": "2026-11-09",
+   "last_seen": "2026-11-09",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "e782015acd7373e3303f1632839bbc24379d192e",
+   "title": "“星云星座计划”发布，覆盖从国产算力芯片到卫星应用的全产业链条",
+   "url": "https://www.ithome.com/1/024/354.htm",
+   "source": "IT之家",
+   "domain": "logic",
+   "published": "2026-11-09",
+   "summary": "IT之家 11 月 9 日消息，据央视新闻报道，在今天（9 日）举办的 2026 太空云产业生态大会上，“星云星座计划”等我国太空云产业化成果发布，标志着我国“太空云”生态建设迈出了从技术验证走向产业化布局的关键一步。IT之家从报道中获悉，“太空云”是指在轨协同的天基云服务系统，它改变传统卫星“单星观测、数据回传地面处",
+   "first_seen": "2026-11-09",
+   "last_seen": "2026-11-09",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "09504170ca58f56f58c0cdee5424cc3b0a6ac565",
+   "title": "全球光刻胶格局生变？三井化学若吞下JSR，日企“抱团”再加固",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YbDFMSHVGZzViMWV0d3NLajFSajV1Y1gyQnA1VUxndi15TGdQOWJtTlN2WVVLZ3k5bFhYbUdCemhMUUc5WkM1djhyeG94Y2hQWno3NHdjdk5kY3dtc1R6VA?oc=5",
+   "source": "GoogleNews·搜狐网",
+   "domain": "photoresist",
+   "published": "2026-11-05",
    "summary": "",
    "first_seen": "2026-11-09",
    "last_seen": "2026-11-09",
@@ -3335,7 +3387,7 @@
    "published": "2026-11-02",
    "summary": "",
    "first_seen": "2026-11-02",
-   "last_seen": "2026-11-08",
+   "last_seen": "2026-11-09",
    "bt": -4,
    "co": [
     "长鑫存储"
@@ -9088,7 +9140,7 @@
    "published": "2026-10-25",
    "summary": "",
    "first_seen": "2026-10-25",
-   "last_seen": "2026-11-04",
+   "last_seen": "2026-11-09",
    "bt": 2,
    "co": []
   },
@@ -9629,7 +9681,7 @@
    "published": "2026-10-24",
    "summary": "",
    "first_seen": "2026-10-24",
-   "last_seen": "2026-11-08",
+   "last_seen": "2026-11-09",
    "bt": 2,
    "co": []
   },
