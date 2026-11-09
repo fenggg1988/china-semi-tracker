@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-09 15:30:50",
- "count": 1517,
+ "updated": "2026-11-09 15:42:01",
+ "count": 1518,
  "items": [
   {
    "id": "e428578593d6ce04bb54e317bbf3ac3e91175b3e",
@@ -74,6 +74,19 @@
    "source": "GoogleNews·凤凰网",
    "domain": "memory",
    "published": "2026-11-08",
+   "summary": "",
+   "first_seen": "2026-11-09",
+   "last_seen": "2026-11-09",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "9b2852baab48dce2ab65f812daec50da4d8eafb3",
+   "title": "国产光刻机亮相：国产化率超90%，ASML这次要慌了？",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOVgzQ05EWXUzV0NyVTNncTNRbnFFbzFEeV9zSGptdzhTNHhRa2pPcS1SUmg3cWZwLVU4OTgxeURTblpZTExjSDdScGtPVXNNT082anZFMThZa0J2d0QyeVprSVh2eFhIQjc5Y1B2RDl5S2pRS2E4aGZOLUQyVGxEUXJIWWYwU2tsUUh2bg?oc=5",
+   "source": "GoogleNews·搜狐网",
+   "domain": "litho_machine",
+   "published": "2026-11-09",
    "summary": "",
    "first_seen": "2026-11-09",
    "last_seen": "2026-11-09",
