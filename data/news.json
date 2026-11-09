@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-09 15:42:01",
- "count": 1518,
+ "updated": "2026-11-09 15:43:06",
+ "count": 1520,
  "items": [
   {
    "id": "e428578593d6ce04bb54e317bbf3ac3e91175b3e",
@@ -271,6 +271,36 @@
    "last_seen": "2026-11-09",
    "bt": 0,
    "co": []
+  },
+  {
+   "id": "f9a7dd87e515d9a493d54bbd8f07d434a897ed02",
+   "title": "张雪机车广交会求赞助，长江存储举手对接",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRmhkRWxveWZjMlFzTmV3WVNqa1h3dDU3eDY2NTZ6bi1CLUxvakRLdmZNblFnbzVmcHoyRFM2SWVKMDktYU1xX3BocWszR1VvM3RRd210b1l6Y19aZjcyTUtpMjZpdFFoU3N4VVAydGZIeHk5bFV0eFY4WU1QRlFXdDRn?oc=5",
+   "source": "GoogleNews·手机新浪网",
+   "domain": "memory",
+   "published": "2026-11-09",
+   "summary": "",
+   "first_seen": "2026-11-09",
+   "last_seen": "2026-11-09",
+   "bt": 0,
+   "co": [
+    "长江存储"
+   ]
+  },
+  {
+   "id": "8130742d0510ecbd437210fb1eb616970436c121",
+   "title": "长鑫存储突围背后：合肥科创产业如何重塑楼市供需逻辑",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FUlhWNjNHQkhSNmNyWG05SjdHclR0Sm9YUEJoaVJOdTNGSlFRRnNDWUxSRUVyc0V5RWRzU0JLV0lGUUV2RVY3aEhHaTg0bF9rcmZXZS1B?oc=5",
+   "source": "GoogleNews·腾讯新闻",
+   "domain": "memory",
+   "published": "2026-10-25",
+   "summary": "",
+   "first_seen": "2026-11-09",
+   "last_seen": "2026-11-09",
+   "bt": 0,
+   "co": [
+    "长鑫存储"
+   ]
   },
   {
    "id": "35e75f2d11be76a8190bc3cdb0188b74d2d04f75",
