@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-09 15:43:06",
- "count": 1520,
+ "updated": "2026-11-09 15:54:53",
+ "count": 1522,
  "items": [
   {
    "id": "e428578593d6ce04bb54e317bbf3ac3e91175b3e",
@@ -301,6 +301,32 @@
    "co": [
     "长鑫存储"
    ]
+  },
+  {
+   "id": "1239de731c8ce95b7384f561caa226bad85352e4",
+   "title": "12英寸厂“进账”91亿元，国内晶圆代工按下快进键",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBzZHoxRDZSU2hGelFNR1dla1ZjdktPVmZvWFdqX2tVMWFITklVd1VDS3Noczh0ZEFIcnZPYWVXVlJoS2hTZE1CaHVXZnNsQy0tTTdrWVQwdEJ5RGprR0JONW1zOWdIaHVWM1VV?oc=5",
+   "source": "GoogleNews·财富号",
+   "domain": "logic",
+   "published": "2026-11-06",
+   "summary": "",
+   "first_seen": "2026-11-09",
+   "last_seen": "2026-11-09",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "afa9935d8e7d57c250507b44334945c9a1efe478",
+   "title": "国产存算一体芯片流片成功：能效比传统GPU高10倍，累计融资破10亿",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pOHdxNWZEb01sVkZsdXctYnFlRFRuS1dIb3dxT0VKcVhIMWNLdXBSYXl1MTlpWlFZMXhLUmFYWGhsUXlPMjVocnlnb3NlYk4yNWdPbTFhM2diaHZxVUJIRXhDVG14elZJekdR?oc=5",
+   "source": "GoogleNews·财富号",
+   "domain": "memory",
+   "published": "2026-10-26",
+   "summary": "",
+   "first_seen": "2026-11-09",
+   "last_seen": "2026-11-09",
+   "bt": -1,
+   "co": []
   },
   {
    "id": "35e75f2d11be76a8190bc3cdb0188b74d2d04f75",
