@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-10 15:56:50",
- "count": 1556,
+ "updated": "2026-11-10 16:02:37",
+ "count": 1557,
  "items": [
   {
    "id": "781817504052dc257afe8f291e5d82126fdf1785",
@@ -10,6 +10,19 @@
    "domain": "litho_machine",
    "published": "2026-11-09",
    "summary": "据报道，三星电子与SK海力士正竞争性下单采购极紫外（EUV）光刻机，两家的投入规模均在10万亿至20万亿韩元区间。阿斯麦（ASML）已明确2027–2028年EUV设备供给缺口，能否锁定交付排期，成为两家扩产先进DRAM的核心。 阅读全文",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10",
+   "bt": 4,
+   "co": []
+  },
+  {
+   "id": "813a56cfa6011b12ca671aefdf3ea77c12ad07d5",
+   "title": "三星、SK海力士争抢EUV交付配额加码先进DRAM扩产- Samsung 三星",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1Tm00Zkd1NmpzemQ5NmlqejZnQUxrTkN4cE54dnBqNVdkVEZiNzV2bDBLdGJVTXVPeUxJeVFpNDlmN2czdmt4dmhFYWNKUnZJdGl5Vi1OYl9odW5uZl92Tg?oc=5",
+   "source": "GoogleNews·cnBeta.COM",
+   "domain": "litho_machine",
+   "published": "2026-11-09",
+   "summary": "",
    "first_seen": "2026-11-10",
    "last_seen": "2026-11-10",
    "bt": 4,
@@ -10091,7 +10104,7 @@
    "published": "2026-10-24",
    "summary": "",
    "first_seen": "2026-10-24",
-   "last_seen": "2026-11-09",
+   "last_seen": "2026-11-10",
    "bt": 2,
    "co": []
   },
