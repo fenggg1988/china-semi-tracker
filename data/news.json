@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-10 15:53:54",
- "count": 1555,
+ "updated": "2026-11-10 15:56:50",
+ "count": 1556,
  "items": [
   {
    "id": "781817504052dc257afe8f291e5d82126fdf1785",
@@ -381,6 +381,21 @@
    "last_seen": "2026-11-10",
    "bt": 0,
    "co": []
+  },
+  {
+   "id": "7fb6ba64a62eb9f3ba742aa4ccf5de75cdff45da",
+   "title": "长江存储中国NAND市场份额超越三星",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJb1Z5bW5STm5pcW1jT1ZKeW5iQmVUemlYanhyTGwtaG9tV01FTHg3eU5kOUlJSUxOVlk0RGpJQlQzYWRQb0RnSTU5WkpIb1l0UWVVMjRWS0tYMVNYVUtRN3hDODdCSmZVdjRv?oc=5",
+   "source": "GoogleNews·财富号",
+   "domain": "memory",
+   "published": "2026-10-21",
+   "summary": "",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10",
+   "bt": 0,
+   "co": [
+    "长江存储"
+   ]
   },
   {
    "id": "94c0973ea34804edbd073410f0b8e3bde09800cf",
