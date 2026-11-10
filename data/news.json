@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-10 16:23:05",
- "count": 1558,
+ "updated": "2026-11-10 17:07:38",
+ "count": 1561,
  "items": [
   {
    "id": "781817504052dc257afe8f291e5d82126fdf1785",
@@ -111,6 +111,21 @@
    "last_seen": "2026-11-10",
    "bt": 2,
    "co": []
+  },
+  {
+   "id": "0adc888329fb34bd877d301ace8764bf2aeb68f4",
+   "title": "上海微电子新一代前道干式光刻机亮相进博会，关键零部件国产化率超90%",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1PenRGWTVGOXp3WTRaX3h0Z1NhMldBVk5fWHBzeVV0Wkc3SFo5N3N1NzlpNXZMa2hoRjZRalJiZ0VQMWI1?oc=5",
+   "source": "GoogleNews·芯智讯",
+   "domain": "litho_machine",
+   "published": "2026-11-10",
+   "summary": "",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10",
+   "bt": 2,
+   "co": [
+    "上海微电子"
+   ]
   },
   {
    "id": "789d472b1d22ec09e943e4c0c82e4a23c43ff880",
@@ -424,6 +439,19 @@
    ]
   },
   {
+   "id": "005c268aacae051430e46b8b4aa4e09f5fb473d6",
+   "title": "长鑫全球市场份额有所下滑，价增量稳延续DRAM“超级周期”",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdGkzSGVlVkR0elNtZU5vMGJESTc5d1JrS1IxT3ZHUENydTZ0eXdsX1ZIYkNzZGNLYTdKNEVtNms3MHBJZUpfSDV0VjNGQXA3c0FpQ2Rqcjg2QzRVR3h0dHAyWW1hcS1rOVB6R2dwZmI2cGN0cmNDNFBXR1RLdTJXanRCdFpHN0RrZFg0Zw?oc=5",
+   "source": "GoogleNews·搜狐网",
+   "domain": "memory",
+   "published": "2026-11-10",
+   "summary": "",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10",
+   "bt": 0,
+   "co": []
+  },
+  {
    "id": "94c0973ea34804edbd073410f0b8e3bde09800cf",
    "title": "中际旭创澄清\"砍单\"传闻后单日反弹11.07%，经营正常与估值消化并行",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPR0NYMUdjQjhBZGMtaTBTTE54dGFxcDFGTTFoSzQxeDF0UWt0azd0MWM0UUE0SUItMWppM1RoQVFHMjdkdEtrU2JHbzlaSUhQNHRBWlFPMm5nbVI0UTBTdTdULS1sUGdRcmlRdzNRZW1PbmU4T1FkeHU2OHZDMHdXOGVBM2xUMkNGa05LTA?oc=5",
@@ -436,6 +464,21 @@
    "bt": -3,
    "co": [
     "中际旭创"
+   ]
+  },
+  {
+   "id": "3a2c0bad6b5e1c837a12d218acf4f6b195c388c1",
+   "title": "财报前瞻 | 中芯国际Q3业绩将放榜！一文速览分析师财报预测 港美股资讯",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBpb2Jib3F5MUNCQkVRa0ozTVp1MnJzejdGMXV6c3NXWnY4RTJLNktZSjBUXzBzOEdUYWFoVURuLWgwU0ZKZ0tfS0xCR1VwbmtNUjBXNm92Mk5FMld6QUxMSDJn?oc=5",
+   "source": "GoogleNews·华盛通",
+   "domain": "logic",
+   "published": "2026-11-10",
+   "summary": "",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10",
+   "bt": -3,
+   "co": [
+    "中芯国际"
    ]
   },
   {
@@ -538,7 +581,7 @@
    "published": "2026-11-09",
    "summary": "IT之家 11 月 9 日消息，据台媒《MoneyDJ 理财网》消息，利基型存储器制造商华邦电子 (Winbond) 总经理陈沛铭表示，计划在企业的第二代 14nm 级 DRAM 内存工艺中应用 EUV 光刻技术，若开发顺利预计 2030 年导入。陈沛铭提到，该企业已在 EUV 上同 ASML 展开 3.5 年的合作，",
    "first_seen": "2026-11-09",
-   "last_seen": "2026-11-09",
+   "last_seen": "2026-11-10",
    "bt": 2,
    "co": []
   },
