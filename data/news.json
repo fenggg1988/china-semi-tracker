@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-10 16:02:37",
- "count": 1557,
+ "updated": "2026-11-10 16:23:05",
+ "count": 1558,
  "items": [
   {
    "id": "781817504052dc257afe8f291e5d82126fdf1785",
@@ -98,6 +98,19 @@
    "co": [
     "海思"
    ]
+  },
+  {
+   "id": "bd7d1dad13063848e210105adee29036ded8a059",
+   "title": "光刻机也卖光了！ASML 2028年产能被抢空：EUV光刻机出货量有望达120台",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9zbGZES1Z0QmRYQzM4MGRpaTl3S19kRklMcE50bmRPQWxtN2VNYml5RzdwV0EzVkNiV05pVDRqMFVLem90emFUcXY4cDc?oc=5",
+   "source": "GoogleNews·凤凰网科技",
+   "domain": "litho_machine",
+   "published": "2026-11-05",
+   "summary": "",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10",
+   "bt": 2,
+   "co": []
   },
   {
    "id": "789d472b1d22ec09e943e4c0c82e4a23c43ff880",
@@ -3476,7 +3489,7 @@
    "published": "2026-11-02",
    "summary": "",
    "first_seen": "2026-11-02",
-   "last_seen": "2026-11-06",
+   "last_seen": "2026-11-10",
    "bt": 0,
    "co": [
     "光迅科技"
