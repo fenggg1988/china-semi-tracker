@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-10 13:56:14",
- "count": 1550,
+ "updated": "2026-11-10 15:53:54",
+ "count": 1555,
  "items": [
   {
    "id": "781817504052dc257afe8f291e5d82126fdf1785",
@@ -70,6 +70,21 @@
    "last_seen": "2026-11-10",
    "bt": 2,
    "co": []
+  },
+  {
+   "id": "f22263c38dd49855c9ae535eed80351bd8b93caf",
+   "title": "海思光刻机11月集中交付 12寸/8寸/6寸齐发日本等国",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585756.htm",
+   "source": "cnBeta",
+   "domain": "litho_machine",
+   "published": "2026-11-10",
+   "summary": "据江苏海思（HISIGK）官方披露，其11月迎来集中出货节点，一批全自动双面对准光刻机完成调试并整装待发。本次交付覆盖12寸、8寸、6寸多尺寸平台，分别发往日本MEMS制造企业、AR光波导头部企业及LED芯片企业。 阅读全文",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10",
+   "bt": 2,
+   "co": [
+    "海思"
+   ]
   },
   {
    "id": "789d472b1d22ec09e943e4c0c82e4a23c43ff880",
@@ -307,6 +322,58 @@
    "title": "韩股涨到熔断！长鑫科技大幅高开",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQkVIV3ZOV3U1TlVhbThYa3FnUXgtckpncDlub1M2SkRPRWhOWk5IbGQ5M3lUNHc1YkZqVnlHNDdsN2c4OEtJX3NPNGEweXhoXy1Fams1TEpqN01kY0QzbURvOTRSN0JDUnZodElFc1NnX1ZTWkt3a2hOOHlTdmFQekFKalVBRnozQnhEcA?oc=5",
    "source": "GoogleNews·搜狐网",
+   "domain": "memory",
+   "published": "2026-11-10",
+   "summary": "",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "986bc23ab4db613e72e54289d070dc5b9fe2b119",
+   "title": "苹果 iPhone Air 2 机模曝光：厚度 5.2 毫米、新增 4800 万像素超广角镜头",
+   "url": "https://www.ithome.com/1/024/840.htm",
+   "source": "IT之家",
+   "domain": "optics",
+   "published": "2026-11-10",
+   "summary": "IT之家 11 月 10 日消息，苹果将在明年初推出 iPhone Air 2 手机，目前已有不少外设制造商通过各种渠道获悉相应手机规格信息，以便提前制造外设抢占市场。例如，目前消息源 Lusi Roy 便曝光了 iPhone Air 2 的机模，显示该机厚度进一步变薄，从初代的 5.6 毫米缩减至 5.2 毫米。同时",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "909adb15726cba6f2fb70446aff216695c8d5698",
+   "title": "黄仁勋出轨女主揭秘 买了近50亿美元英伟达先进AI芯片",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585766.htm",
+   "source": "cnBeta",
+   "domain": "logic",
+   "published": "2026-11-10",
+   "summary": "黄仁勋已大方承认自己的出轨行为，按照英伟达官方的最新安排，他目前仍然会继续担任公司CEO职务。黄仁勋在公开信里直白坦言，自己欠家人和所有相关方一个郑重的道歉。他对妻子不忠，相关行为实实在在伤害了伴侣和孩子，他做的事没有任何可以用来开脱的借口，对此深感愧疚。 阅读全文",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "dbde2df21f5af382156685e44476758ec6fee5b5",
+   "title": "消息称三星电子、SK海力士均将向ASML EUV光刻机投资超10万亿韩元",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBNSENlNE9IMFRpYVBOZU9EZ29uMjdBZUNlVHM4cWxRMU5VZlhpWUs5WXR6OEtaNGFnbHY1SFdaelNfOWtWN0EtZ2xyZkQ?oc=5",
+   "source": "GoogleNews·凤凰网科技",
+   "domain": "litho_machine",
+   "published": "2026-11-10",
+   "summary": "",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "beb2a815f79928a41fa73227d444274fe60ddf5c",
+   "title": "前三季度大赚2100亿，长鑫科技吃下存储周期红利",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTFRHZkhocl9la0RnNnhKM2hGQXR1b21sTk5YV1NEY1lVWllaSHYwRlBmUGVLSHdqUHZwSG1uQzNHU2dfUW1uLVhPUTRyekUyN1Y3SWEzT3MyZGpjT1V6clVYWmd6a1hmeWlLNW1tU2FNSldhSFp5X2pVRkp3LWI5NENzMnZtZDFJTHk3aXVUNA?oc=5",
+   "source": "GoogleNews·21财经",
    "domain": "memory",
    "published": "2026-11-10",
    "summary": "",
@@ -1229,7 +1296,7 @@
    "published": "2026-11-05",
    "summary": "据Digitimes报道，全球光刻机巨头ASML在2026年第三季度财报中释放了明确信号：受AI驱动的先进逻辑与存储芯片扩产潮推动，行业供不应求的局面将至少持续到2028年，且ASML自身的产能已成为全产业链的关键瓶颈。 阅读全文",
    "first_seen": "2026-11-06",
-   "last_seen": "2026-11-06",
+   "last_seen": "2026-11-10",
    "bt": 2,
    "co": []
   },
@@ -3743,7 +3810,7 @@
    "published": "2026-10-31",
    "summary": "",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-02",
+   "last_seen": "2026-11-10",
    "bt": 2,
    "co": []
   },
