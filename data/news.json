@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-11 15:22:01",
- "count": 1603,
+ "updated": "2026-11-11 15:24:17",
+ "count": 1607,
  "items": [
   {
    "id": "2ce8ba5e6ef7f2052698273724bc79461f4fd52d",
@@ -9,6 +9,19 @@
    "source": "GoogleNews·香港01",
    "domain": "litho_machine",
    "published": "2026-11-11",
+   "summary": "",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "bt": 6,
+   "co": []
+  },
+  {
+   "id": "31e7430e38cc11ae5ef3870d4b7fe64b636caffa",
+   "title": "芯片材料国产化重大突破！高纯石英首次打入DRAM大厂：用于300mm晶圆",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mTmZNRzR6ZDRIbXNaXzNUUUJuY1VfN1c1elZpRzBHSklDMUM3UDE2UzQzeFJIbDF2VFRYSWZjdWQxQmZiVzE5QnBTakczUGVQOHFjcWJPYWFTSG40d3dqeUZqcXc3SFJKU3lIWlI0RFphUHN1cDVGbnQ4R3kzWTg?oc=5",
+   "source": "GoogleNews·新浪网",
+   "domain": "memory",
+   "published": "2026-11-09",
    "summary": "",
    "first_seen": "2026-11-11",
    "last_seen": "2026-11-11",
@@ -27,6 +40,21 @@
    "last_seen": "2026-11-11",
    "bt": 4,
    "co": []
+  },
+  {
+   "id": "af88216a66d0caef04b6462e3fd7604966d3b3b2",
+   "title": "剑桥科技高速光模块订单旺盛，持续扩产保障800G、1.6T交付",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMclZDc1g5MXdWSzlicHVvSUdDUFV1QTFiZlc3NjFaX1RzeGxIeFNsSnFWN3R5NTZCLThjZWF6Qi13eUZvcnY3Q3FrNjJZQUJa?oc=5",
+   "source": "GoogleNews·富途牛牛",
+   "domain": "optical_comm",
+   "published": "2026-11-11",
+   "summary": "",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "bt": 4,
+   "co": [
+    "剑桥科技"
+   ]
   },
   {
    "id": "05bfa7046bdd81e1d3077e8ca00dbb4eeaba9c17",
@@ -570,6 +598,34 @@
    "bt": 0,
    "co": [
     "普冉股份"
+   ]
+  },
+  {
+   "id": "4118fff7b508473b7bf01b3ab060f90cf7798618",
+   "title": "国产EUV光刻机这次是真的吗",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96aXhqenhDU2FqSXE1aWJONkQ4QTBNSi1UUzlfeWVIZUxIUGVhc2NLdnFJTHdTRjc0RU5ZTjlVU3NUODRSajdNbEh6b1RydlhmWWhtSl9R?oc=5",
+   "source": "GoogleNews·腾讯新闻",
+   "domain": "litho_machine",
+   "published": "2026-11-05",
+   "summary": "",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "c5232ff7116b619a06de6c24bc7894edf246683c",
+   "title": "剑桥科技11月10日回应1.6T光模块话题：已在三客户测试，产能利用率高位_公司新闻",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1EMUFzTWplVlU2d0VlZVdwNFZNRnF5UEFnS2RaT0JVUUdBV0QydFA1Z01kelI2ZHZNNzVHYTZHNWktVUZGeW1FRmNpdkpPM05aSHZDN2M1WU84Y0R3WkNFazVn?oc=5",
+   "source": "GoogleNews·证券之星",
+   "domain": "optical_comm",
+   "published": "2026-11-11",
+   "summary": "",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "bt": 0,
+   "co": [
+    "剑桥科技"
    ]
   },
   {
