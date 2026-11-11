@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-11 00:00:08",
- "count": 1574,
+ "updated": "2026-11-11 08:24:19",
+ "count": 1582,
  "items": [
+  {
+   "id": "2ce8ba5e6ef7f2052698273724bc79461f4fd52d",
+   "title": "国产化率破90%突破封锁 新一代光刻机步入量产 关键部件全自主",
+   "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxOQ040UFRROGFvaFBINlVNSkhxT2xaNXMyWEg4R25GOENVUWhkWVpEOTdIZGZHM3Y3aFZvNTR5YlBXSkx6eWpqYjkwSWM0a3VFWEdWYndPaGV5TGVCazJ4bE5tTWMwM2tTcENCYy1neHJyTFVwV2VqZ0VaamE4TmlTV3d4VVI1ZjRLMVZtNnAxdEVhNklvTl9uQzBYZnNkYmQ3dDRUWWo3dXFSVUtwNFY5aDIwUWtKWGgwZ2xlbG1oZzNZek02R3RRRHJGX2lHaHNrMGxDaGNybFI4SjlGbzVQWjUxX3djWUxEd2RfR0Jab3oyVTlMeHoyZENUNUQwMmVrVGw3dmZPdUZzV2lQZ1pkMmY0VmRFODc3cWV0TWRDSU05WTgwTWpJMFNfbFlqdTdlWEZ6b1VrVnVBNVctNmxlckdwd3RuNWg0WmpEU0tXR212V3ZaLTJkUUtDZHp6dmMzbWpaWGVpZTZkRXlPRVVxX1hlbWpuRVR4VkI5Y0F3b3l1ZDR1a3BLaC1jQTRDdW9tS2NDUm1STlpIRFZhbHkySlNjTVRpVkxhUTlQWFFZaENzYTFHMmVvRQ?oc=5",
+   "source": "GoogleNews·香港01",
+   "domain": "litho_machine",
+   "published": "2026-11-11",
+   "summary": "",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "bt": 6,
+   "co": []
+  },
   {
    "id": "05bfa7046bdd81e1d3077e8ca00dbb4eeaba9c17",
    "title": "升腾资讯 × 华为全球首发“双旗舰新品”：鸿蒙 HarmonyOS 台式机 + 笔记本，均搭载麒麟 X90 芯片",
@@ -52,6 +65,34 @@
    "title": "剑桥科技：公司计划在未来约15个月继续推进产能大幅扩张，保障800G及1.6T产品交付",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNnprRFg4UFlFbm5NYkVRMFdHeUhhN2xRNHFtejV6c1E2VG1PV05lSEpqZVRvWkx1MFBXdndzYmk3YXNJYVYzZ0N4eUJhWXdES05FSC03QWQ1d1pVMU05cmtrSXRzY3FyTVNqZXpoTDl1S0s4TWFQQXRBV0RXY2JEd1pZNnBrWFBNdExPMw?oc=5",
    "source": "GoogleNews·搜狐网",
+   "domain": "optical_comm",
+   "published": "2026-11-10",
+   "summary": "",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "bt": 2,
+   "co": [
+    "剑桥科技"
+   ]
+  },
+  {
+   "id": "63aa0b73016708863d056bae848506ba27ed6d20",
+   "title": "硬科技早报|上微光刻机亮相进博；中移动千亿投算力；苹果在宇树上做验证",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBpY3dfckRfT1N2NjJfenVNVHVGV3B3aU1Uc0lOTHVIcG5qc2RMLUwwTHlJamdpdHREN2RTNFhESWlBLW1BdUlSanBGaWxFdjZHNUtiX3VDa3NldXpKb2FkTHFR?oc=5",
+   "source": "GoogleNews·观察者网",
+   "domain": "litho_machine",
+   "published": "2026-11-08",
+   "summary": "",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "46170d0af5801661d90033669edf2b0c46c65629",
+   "title": "剑桥科技：完成800G及1.6T系列产品在嘉善多个工厂与海外工厂的同步扩产_公司新闻",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10SzJUYm1kN3gwYVo2VERiektEZjJteUdFczc4bVZzSlp4THlqY2tTSk05UDBpaUZOQ3J2d0QyNkVnNzJiWi1HdXVuVURsMjhBN1RFdE1DTVFGd2NEakE1Uw?oc=5",
+   "source": "GoogleNews·证券之星",
    "domain": "optical_comm",
    "published": "2026-11-10",
    "summary": "",
@@ -175,6 +216,73 @@
    "source": "GoogleNews·光通信Pro",
    "domain": "optical_comm",
    "published": "2026-11-10",
+   "summary": "",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "ae6d3627c64153a670ee61867590b1f6fdfeb7a3",
+   "title": "微软游说美国政府放弃中国光模块进口限制，担忧拖慢 AI 数据中心建设",
+   "url": "https://www.ithome.com/1/025/218.htm",
+   "source": "IT之家",
+   "domain": "optical_comm",
+   "published": "2026-11-11",
+   "summary": "11 月 11 日，据路透社报道，微软正游说特朗普政府放弃限制进口中国新型号光收发器的计划。微软与其他科技企业及行业组织认为，中国光收发器一旦遭到限制，可能造成关键零部件短缺，进一步拖慢美国 AI 数据中心建设。知情人士称，微软等企业今年 9 月曾与白宫科技政策办公室及美国国家安全委员会官员会面，就潜在禁令可能造成的供",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "03e1c62d6e4a764f3098c7332d55cb9e44c2b606",
+   "title": "不玩EUV了 佳能推出高性能KrF光刻机：套刻精度可达4nm",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Vdy01V3F0M1Q2NnJEelhiNXFSZWw0TG50YVRDX1o4OUNtaW04dG40bEk1NzBHd1VueHhLNDMtNmJ5NWZkTzdfVjluajREcHV1SWt1YkI4UDg?oc=5",
+   "source": "GoogleNews·驱动之家",
+   "domain": "litho_machine",
+   "published": "2026-11-10",
+   "summary": "",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "cb9780635d9faf16eeef22aad2cb9d1b137887d4",
+   "title": "SMEE新一代前道干式光刻机平台亮相进博会",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sSUlBekllOGttMzFDaVFkc0RiTVpHNUU1Q2JBOGZkbnhYU1k2bUp3cmpHWTdzQlB0eUpMTFE3RXBWaG9WU09aSnU0R3kxYktjaHJUNXpPeUd6ZFB5Smc?oc=5",
+   "source": "GoogleNews·DoNews",
+   "domain": "litho_machine",
+   "published": "2026-11-08",
+   "summary": "",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "bt": 0,
+   "co": [
+    "SMEE"
+   ]
+  },
+  {
+   "id": "90f43e5ab9748ffade6bbeefce83c1274e38ff45",
+   "title": "目前800G、1.6T光模块相关产品的客户渗透率分别达到多少？宏达电子回应",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSkpYM3ctaTJWblFuOW9EcWRHNGhzNjZJSjd0eHpZaGlpaThsUHMtQmkzS0VBU0sxakdSdjVqZmtWcklJbzJhTjdUbzIxWG0zZXNPVmh1SnRuSnpzODdZYjdIdXNwOUlMbGxBQ2J0V3JocUxCbGxRRWdaNEFpdGl2b2pEZExfUnlE?oc=5",
+   "source": "GoogleNews·搜狐网",
+   "domain": "optical_comm",
+   "published": "2026-11-10",
+   "summary": "",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "0d4b21ab2e56c38807259f9bc86428d664c606b5",
+   "title": "MaxLinear推1.6T光DSP专用PMIC",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9TeGQ2VUYxd0ZPUUZuUkdWNFJ3R0ZNYmFLNjNGdC1Yak52bnNuWERSZkhIeVlmemxydnR4VUpjd0VycElNbmU4aEdoN0FZSkFQZ3p1NE1valJWc2lmQVU2aWtjUEpqc0ZFc1JKNDF2cTJXUHFiYk9GbQ?oc=5",
+   "source": "GoogleNews·讯石光通讯网",
+   "domain": "optical_comm",
+   "published": "2026-11-11",
    "summary": "",
    "first_seen": "2026-11-11",
    "last_seen": "2026-11-11",
@@ -408,7 +516,7 @@
    "published": "2026-11-05",
    "summary": "",
    "first_seen": "2026-11-10",
-   "last_seen": "2026-11-10",
+   "last_seen": "2026-11-11",
    "bt": 0,
    "co": [
     "中际旭创"
@@ -721,7 +829,7 @@
    "published": "2026-11-08",
    "summary": "",
    "first_seen": "2026-11-09",
-   "last_seen": "2026-11-10",
+   "last_seen": "2026-11-11",
    "bt": 2,
    "co": []
   },
@@ -855,7 +963,7 @@
    "published": "2026-11-09",
    "summary": "",
    "first_seen": "2026-11-09",
-   "last_seen": "2026-11-10",
+   "last_seen": "2026-11-11",
    "bt": 0,
    "co": [
     "SMEE"
@@ -5666,7 +5774,7 @@
    "published": "2026-10-30",
    "summary": "",
    "first_seen": "2026-10-30",
-   "last_seen": "2026-11-10",
+   "last_seen": "2026-11-11",
    "bt": 0,
    "co": []
   },
@@ -6341,7 +6449,7 @@
    "published": "2026-10-29",
    "summary": "",
    "first_seen": "2026-10-29",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-11",
    "bt": 4,
    "co": []
   },
@@ -6479,7 +6587,7 @@
    "published": "2026-10-29",
    "summary": "",
    "first_seen": "2026-10-29",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-11-11",
    "bt": 2,
    "co": [
     "新易盛"
@@ -6807,7 +6915,7 @@
    "published": "2026-10-27",
    "summary": "",
    "first_seen": "2026-10-29",
-   "last_seen": "2026-11-05",
+   "last_seen": "2026-11-11",
    "bt": 0,
    "co": []
   },
