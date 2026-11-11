@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-11 08:24:19",
- "count": 1582,
+ "updated": "2026-11-11 15:22:01",
+ "count": 1603,
  "items": [
   {
    "id": "2ce8ba5e6ef7f2052698273724bc79461f4fd52d",
@@ -13,6 +13,19 @@
    "first_seen": "2026-11-11",
    "last_seen": "2026-11-11",
    "bt": 6,
+   "co": []
+  },
+  {
+   "id": "7bf9987d87216443e9fcfe28df1565568886a101",
+   "title": "全国产化算力底座：龙芯智能机器车实现深度视觉与目标抓取，由龙芯 2K3000 统一调度",
+   "url": "https://www.ithome.com/1/025/330.htm",
+   "source": "IT之家",
+   "domain": "logic",
+   "published": "2026-11-11",
+   "summary": "IT之家 11 月 11 日消息，龙芯中科昨日宣布，基于自研智能机器车完成 ROS2 Jazzy 版本的全栈移植，贯通建图定位、手柄遥控、机械臂控制与深度视觉的完整链路。整车由龙芯 2K3000 处理器统一调度，具备环境感知与目标抓取能力。ROS2（IT之家注：机器人操作系统第二版，Robot Operating Sy",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "bt": 4,
    "co": []
   },
   {
@@ -102,6 +115,99 @@
    "co": [
     "剑桥科技"
    ]
+  },
+  {
+   "id": "95e02f4a75ac1b3102f82704bc0af408c400a265",
+   "title": "DEEPX 2nm 低功耗 AI 芯片 DX-M2 实物芯片预计 2027 年初面世",
+   "url": "https://www.ithome.com/1/025/442.htm",
+   "source": "IT之家",
+   "domain": "logic",
+   "published": "2026-11-11",
+   "summary": "IT之家 11 月 11 日消息，韩国边缘能效 AI 芯片开发商 DEEPX 昨日宣布，其下一代芯片 DX-M2 荣获 CES 2027 人工智能类别创新奖。DX-M2 基于三星晶圆代工 2nm 工艺，集成 80TOPs NPU 算力，至高支持 128bit 的 LPDDR5X-9600 内存，可本地运行超 10B 参",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "54ff73d69417d34c1515dcec9a644fc063a3591d",
+   "title": "消息称豪雅空白 EUV 掩膜产能有限，影响三星电子芯片扩产",
+   "url": "https://www.ithome.com/1/025/333.htm",
+   "source": "IT之家",
+   "domain": "litho_machine",
+   "published": "2026-11-11",
+   "summary": "IT之家 11 月 11 日消息，韩媒 THE ELEC 当地时间昨日报道称，全球空白 EUV 掩模龙头制造商日本 HOYA（豪雅）在 2027 年的产能有限，难以满足三星电子等客户大规模扩产的需求。报道指出，豪雅在空白 EUV 掩膜领域的市场占有率达到七成以上，三星电子曾以 8:2 的比例采购豪雅和另一供应商 AGC",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "503d4e30168197dbade3397f58438580a4cbb4f8",
+   "title": "存储双雄争夺EUV光刻机 以支撑先进DRAM扩产 单家投资上限接近千亿",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IVnc3azBaaWc3SEtnTkYtWWRnZ3NUTHMxeDU1UF9TNnNjQU1ZWG5wRWlVM3BRMGtpMFM4N1R4N21XRGVUaDhDTklUUmhpeUpidHdCemY4T21BNkJBbXpoNk53?oc=5",
+   "source": "GoogleNews·手机网易网",
+   "domain": "litho_machine",
+   "published": "2026-11-10",
+   "summary": "",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "737a10906493458c89668d11dae8e89139e2e806",
+   "title": "光刻胶头部企业跨界进军光通信产业，鼎龙股份研发三款新材料力争两年内量产",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ3B2U0ZQNVhTNTE0Rm1iTVFuSHd5SnBSRUVBdHdBZ1lSX0xHcnFFNGt5b3RYSzJac1lSR282ak5YUXR6eGRRTGRpN0dqSFpEY3hkcm5vRm5sNWQ4NTduZDY0Y2kyLTEtYXJxMXZSYUVibWI2YUtzbG9JMjktS01sTEEzT1diOWVXWDZ3RA?oc=5",
+   "source": "GoogleNews·Sohu",
+   "domain": "photoresist",
+   "published": "2026-11-11",
+   "summary": "",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "bt": 2,
+   "co": [
+    "鼎龙股份"
+   ]
+  },
+  {
+   "id": "418e17b9560702ebbb9d688717a7131d04cf95d0",
+   "title": "光模块里最难国产的那颗芯片，「橙科微电子」走到了量产门口",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5IaXhUTXE0c0lhZzVxb05jcWFvbnNVS3M1SmhNaDROR3dwTUNWTV9JTlJUVmZRdEprUW5XM2V6YTJWaU5iYTljM0M3RGhxN2R3RVlRN3BObmFVSDQ5TlFxV21n?oc=5",
+   "source": "GoogleNews·手机网易网",
+   "domain": "optical_comm",
+   "published": "2026-11-11",
+   "summary": "",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "da59a98330b1fb2ad1c704c4d9ec1fff387f50b4",
+   "title": "中国存储从追赶到输出！DRAM教父：长鑫产能将冲击全球、长江实力全球领先",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9EcFZLQm82MERTbUlLV0pERHdPMGZtOHdXZWVLY2tNblprQlJRdXdBb0g3ZlczZHJGaF8xQWJZSzJyMjBQazl3Z0FUcnRxd1FieVVIUEJxUkU?oc=5",
+   "source": "GoogleNews·驱动之家",
+   "domain": "memory",
+   "published": "2026-11-11",
+   "summary": "",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "ee5ef954a26dda7bdbaa5f6cfb73a1948711e716",
+   "title": "台积电跨界做3D DRAM没戏！长鑫扩产才是真威胁",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1KUmZOc3pVWGxYbXpIanlSXzZEbWtKTWtkQ0JFNDM2RkY3anpKbTNmVmgxaXlZaEo0QkZENzItbFpSWnIyRTFjOFdLYlFGelNYdmF2NDNMbTQ?oc=5",
+   "source": "GoogleNews·驱动之家",
+   "domain": "memory",
+   "published": "2026-11-11",
+   "summary": "",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "bt": 2,
+   "co": []
   },
   {
    "id": "090464aefb786ad5e8004aaac599f841a18e5507",
@@ -288,6 +394,183 @@
    "last_seen": "2026-11-11",
    "bt": 0,
    "co": []
+  },
+  {
+   "id": "3c0b8b435506aff86aea46880929177dc524bc0d",
+   "title": "闪迪公布 eMMC 模组 iNAND CL EM181，面向嵌入式应用",
+   "url": "https://www.ithome.com/1/025/434.htm",
+   "source": "IT之家",
+   "domain": "memory",
+   "published": "2026-11-11",
+   "summary": "IT之家 11 月 11 日消息，Sandisk（闪迪）当地时间昨日在 electronica 2026 慕尼黑电子展上公布了其面向各类嵌入式应用的新款 e.MMC 5.1A 闪存模组 SANDISK iNAND CL EM181。CL EM181 提供 64GB / 128GB / 256GB 三种容量版本，顺序读写",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "9a1686650c50c36410e6a1abeb5cfd59200a6467",
+   "title": "华为麒麟 9050 系列芯片官宣搭载新一代达芬奇架构 NPU，业界首个 30B MoE 大模型入端",
+   "url": "https://www.ithome.com/1/025/331.htm",
+   "source": "IT之家",
+   "domain": "logic",
+   "published": "2026-11-11",
+   "summary": "IT之家 11 月 11 日消息，华为麒麟官方公众号今日发文，详细介绍了首款「逻辑折叠」技术 τ 芯片 —— 麒麟 9050 系列的新一代达芬奇架构 NPU，其支持 30B 大模型端侧运行，具备不用联网、不用等云端的特性。新一代达芬奇架构 NPU 性能提升 140%、功耗降低 66%，支持 Transformer 引擎",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "bt": 0,
+   "co": [
+    "华为"
+   ]
+  },
+  {
+   "id": "34c98228c97632e1cd1d15bf5809c506ae40657f",
+   "title": "三星电子SK海力士均向ASML EUV光刻机投资超10万亿韩元",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91cTFsd2M2ZWFpRk5zcGEycV9tRzdkYjF5Q1M4a2ZOeld1S080TU1mNjdJc3ZDaG1zN3pSYXFZdExzZEU3MFFZU1VITVQ4SWN2UjVPcm9SOWsyLTNXWHNWOXB6eTZYQVNjd0ZIT0VB?oc=5",
+   "source": "GoogleNews·新浪网",
+   "domain": "litho_machine",
+   "published": "2026-11-10",
+   "summary": "",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "35975af5f43dcede0a0480932770183fbc6e8d25",
+   "title": "好消息，国产新一代光刻机模型亮相博会，默克加码共筑半导体底盘",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb3JtaTdyaU9qWUxYYzlMYjhzc1FSdEVxV3BIYlNhZUREQWFPajZQakhfSHoycXhnMVFpS2lVTXlBSExSS3dVU0RKREE0Y05aZlZzNTN5QTU4VEl0OTRJUmFLeXlwWDJKbzFaY3BORjJSOXdSN1NESGh3OEVfMTZDb3FGQXJWek5WN2pJdQ?oc=5",
+   "source": "GoogleNews·Sohu",
+   "domain": "litho_machine",
+   "published": "2026-11-10",
+   "summary": "",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "c7285d7c170e119e0651b5a6272ec89231e58306",
+   "title": "清华VS复旦，2国产半导体先锋IPO：华卓精科二闯科创板",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zREEtaDBxQkk0YWs1MG92cnVmcF92X0RyNklFN0w1VG5ycV9WS2k2c1p5WEs0U0RvektPdXVGYzloMnhSQUxTSG9va0M1RWw4WE5hOGRiTmE1MTBOTDg0ZVZNdFJVNDMtOGFJSmxn?oc=5",
+   "source": "GoogleNews·中华网财经",
+   "domain": "stage",
+   "published": "2026-11-11",
+   "summary": "",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "bt": 0,
+   "co": [
+    "华卓精科"
+   ]
+  },
+  {
+   "id": "52e6f16c83ba69f1829f8cc8c1dd365283e287c9",
+   "title": "年产值超131亿！潜江湿电子化学品产业跻身国家级集群",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GZVZYcmZwSGhkcVlFalMwX292cXo2N1cwei1ESEtqVGtUT19QUHhpdGlVekZVRWs1Y1l4blJ0N2QycEVBRy13eHZrSEx2RUVqaWdtdG1DWG0xcW04ZE5CbS1mel9GWVJD?oc=5",
+   "source": "GoogleNews·中华网",
+   "domain": "photoresist",
+   "published": "2026-11-11",
+   "summary": "",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "de637f3866945e3f3eb3f541970b9b63f97be5be",
+   "title": "光模块2027与2028：需求还在涨，钱不一定归可插拔_科技要闻_科技",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KOTIzTXRIamc3YXF6Rk9jZ1p4TDlhRkk5bjMxSTl6NmVCVWxUNWt1VmNQTFliWVVyUVFUSDlZa3dDNV9HaG1mUWd1TV9qa09QQTVhMTNGbEFZU21QV29ydA?oc=5",
+   "source": "GoogleNews·证券之星",
+   "domain": "optical_comm",
+   "published": "2026-11-11",
+   "summary": "",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "0fd93740dd7df1246b69a061ab9c67e2884b0823",
+   "title": "长三角新增对外开放的硅光测试平台，落地浙江绍兴- SEMI大半导体产业网",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOExLVXoySVg1bEc0eXZ3VC1MN0tpalE4R000T0g0SGt1d2xRcHFjRGlmQ2xXSUVBQUlhRllwNTQ3NlVQNE9wcFdCRmVxZEFlbF8yTW5IX0l2Tmtad1NqelVUaGltSFJKRnBUMVlGYUdJSGh2aVNFc1ZtQjV1RWtZbWRkN2NVZw?oc=5",
+   "source": "GoogleNews·www.semi.org.cn",
+   "domain": "optical_comm",
+   "published": "2026-11-10",
+   "summary": "",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "b5831d198774342d5e9fe6e17ef3e6f09009341d",
+   "title": "1.6T光模块，卡在PCB了",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xRXE1RUV2T19aWWtNNDk2eXZsckN5NjZRcER1UmRtN1BVMnNPV2F4V3lZWnRRdUtCa1FhVjNUMXpldmNiLUNLdWNlbnhLZVBFLWxZ?oc=5",
+   "source": "GoogleNews·电子工程专辑EE Times China",
+   "domain": "optical_comm",
+   "published": "2026-11-11",
+   "summary": "",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "e0f4a452e4411ad9c35551b321f2380f4b4847ad",
+   "title": "长江存储330亿募资：国资十年陪跑与存储周期高位的账本错位",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VUDFNdzAtTXVtaHdRZ20tdWUxeWhpcjhlTEhDMTRtYS1Dcy1KVjlvWG9YckQ3b29nWkNPUTA3NWdOR2RSakdmMkFycU9IWlg2?oc=5",
+   "source": "GoogleNews·凤凰网财经",
+   "domain": "memory",
+   "published": "2026-11-10",
+   "summary": "",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "bt": 0,
+   "co": [
+    "长江存储"
+   ]
+  },
+  {
+   "id": "64d8100a1bfcbc9038c525805f902f9ba720899b",
+   "title": "长鑫科技，直线拉升",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wbUJlUERDMm9ELXBJXzQxX2ZiQS10NUY1X3NYOGU2MEZVRDhCZDB0WldqLUhqOU9ZRkUxTFc5b0ZVVHRjSVBKQVlScHhEWmlOb3Rj?oc=5",
+   "source": "GoogleNews·电子工程专辑EE Times China",
+   "domain": "memory",
+   "published": "2026-11-11",
+   "summary": "",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "323cf390d56486c702393cb1b9e567d7e64f405f",
+   "title": "高启全：台积电不会做DRAM，长鑫两年后产能放量！",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOak1YclZhb1hqdGtkeDB2MThGWWtsb0dXdmxicjJsUFRIWEFJZGJXZXY3Rlc5S2JaeVRSZHVEckp2VjU3LTFiM1VKWXZieDduMkd2WGpWXy04YVk1a2g4Mkw1blp5N2RaZUpvYW5lNGJWcllHNGZ6V05lVnhQMVM3M3VGWmJYejZm?oc=5",
+   "source": "GoogleNews·Sohu",
+   "domain": "memory",
+   "published": "2026-11-11",
+   "summary": "",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "4d3301fa658eec0eec7f61a18babe01c3a2d8b70",
+   "title": "存储芯片概念震荡拉升，普冉股份涨超10%",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdFVEQU94b3hPRldDSWhlYzJMajQwN09sRmdCa0ViTVBpNnNudFpUSHdjY2lLWkFodkloX21BV1pSUjRVWGVjN2Q3RVREbGVhdmhBWUhUekc0YURLclQ5WnVpdFJKdnhHNEtmalM4SnEtVDViVzBjTFFWVHk2WTlKVjVWMXFES3RaZ1NBdg?oc=5",
+   "source": "GoogleNews·Sohu",
+   "domain": "memory",
+   "published": "2026-11-11",
+   "summary": "",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "bt": 0,
+   "co": [
+    "普冉股份"
+   ]
   },
   {
    "id": "781817504052dc257afe8f291e5d82126fdf1785",
@@ -2055,7 +2338,7 @@
    "published": "2026-11-06",
    "summary": "",
    "first_seen": "2026-11-06",
-   "last_seen": "2026-11-06",
+   "last_seen": "2026-11-11",
    "bt": 0,
    "co": [
     "长江存储"
@@ -4261,7 +4544,7 @@
    "published": "2026-10-31",
    "summary": "",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-06",
+   "last_seen": "2026-11-11",
    "bt": 2,
    "co": []
   },
@@ -7292,7 +7575,7 @@
    "published": "2026-10-29",
    "summary": "",
    "first_seen": "2026-10-29",
-   "last_seen": "2026-11-07",
+   "last_seen": "2026-11-11",
    "bt": -3,
    "co": []
   },
@@ -7652,7 +7935,7 @@
    "published": "2026-10-27",
    "summary": "",
    "first_seen": "2026-10-28",
-   "last_seen": "2026-11-01",
+   "last_seen": "2026-11-11",
    "bt": 0,
    "co": []
   },
