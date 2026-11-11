@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-11 15:33:06",
- "count": 1608,
+ "updated": "2026-11-11 15:43:13",
+ "count": 1609,
  "items": [
   {
    "id": "2ce8ba5e6ef7f2052698273724bc79461f4fd52d",
@@ -640,6 +640,22 @@
    "last_seen": "2026-11-11",
    "bt": 0,
    "co": []
+  },
+  {
+   "id": "dfc0b36f86634aa712bb7c83de95f6af02b60fc7",
+   "title": "港股异动| 光通信概念升幅居前！剑桥科技升逾13%，公司称将继续推进产能大幅扩张；中际旭创升逾4% 港美股资讯",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1LNVZWSzZyWVRXX3MzMVNaQklsVWVKR09pYzBPVzFrdW91V2E2WkdMVFZVM3U2MjNPLVVWVGR2cWRTcktBNFVCQm9iUGtFMHJoUE5wTHFaU2J4UW1DNkZPMGRB?oc=5",
+   "source": "GoogleNews·华盛通",
+   "domain": "optical_comm",
+   "published": "2026-11-11",
+   "summary": "",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "bt": 0,
+   "co": [
+    "剑桥科技",
+    "中际旭创"
+   ]
   },
   {
    "id": "781817504052dc257afe8f291e5d82126fdf1785",
