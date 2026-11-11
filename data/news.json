@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-11 15:43:13",
- "count": 1609,
+ "updated": "2026-11-11 16:48:09",
+ "count": 1612,
  "items": [
   {
    "id": "2ce8ba5e6ef7f2052698273724bc79461f4fd52d",
@@ -232,6 +232,19 @@
    "domain": "memory",
    "published": "2026-11-11",
    "summary": "",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "f8fc2680b8e5cf25f4b634089695658f5c49ada3",
+   "title": "佳能发布 KrF 半导体光刻机 FPA-6400ES6a，宣称实现高生产率和业界高水平套刻精度",
+   "url": "https://www.ithome.com/1/025/574.htm",
+   "source": "IT之家",
+   "domain": "litho_machine",
+   "published": "2026-11-11",
+   "summary": "IT之家 11 月 11 日消息，11 月 10 日，佳能在日本东京宣布，将于 2026 年 12 月上旬发售面向存储和逻辑芯片的 KrF（IT之家注：氟化氪）扫描式半导体光刻机“FPA-6400ES6a”。▲ KrF 扫描式半导体光刻机“FPA-6400ES6a”官方表示，通过新开发的超高加速度载台缩短驱动时间，这款",
    "first_seen": "2026-11-11",
    "last_seen": "2026-11-11",
    "bt": 2,
@@ -656,6 +669,32 @@
     "剑桥科技",
     "中际旭创"
    ]
+  },
+  {
+   "id": "fb4613714f40748734599811c24d1002fc327add",
+   "title": "华邦电子规划引入EUV设备 目标2030年落地14nm DRAM",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZQnViVi1ldlZJUXpPNmMwemNGZHhTSTJLRTlDb2tkUVBxaHVfTW5YcTVOMlVISHZwSEVEU0FOZ1U0N3dBM09QTzhkSUU1YkdGaVZzVjNFUWk?oc=5",
+   "source": "GoogleNews·驱动之家",
+   "domain": "litho_machine",
+   "published": "2026-11-11",
+   "summary": "",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "583a2f87628f39c86b079a8c72f21725af4d443f",
+   "title": "硅光芯片赛道再获大额融资！",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91NHVVdXJHdmg0MEtTeEdPcmR0RVQzMzhDVUhuVzRvSVlSV0psYi10bkhBaVhOMnpCNVhPMTd0Ul96YnNfbUpLOFdQdHZZU2VqX0J3?oc=5",
+   "source": "GoogleNews·电子工程专辑EE Times China",
+   "domain": "optical_comm",
+   "published": "2026-11-11",
+   "summary": "",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "bt": -3,
+   "co": []
   },
   {
    "id": "781817504052dc257afe8f291e5d82126fdf1785",
