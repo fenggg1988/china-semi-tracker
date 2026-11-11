@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-12 07:27:58",
- "count": 1628,
+ "updated": "2026-11-12 07:29:09",
+ "count": 1629,
  "items": [
   {
    "id": "512c1f792977e5685b303caa9dc56895d70f32b7",
@@ -13,6 +13,19 @@
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-12",
    "bt": 4,
+   "co": []
+  },
+  {
+   "id": "46fb5ddfdd76751ed07b79a7b948bcb7d1d1816c",
+   "title": "我国新一代光刻机模型亮相 展现自主科技突破",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JRFh6THZSQ01qNWRjNUhld04wRTZlY2xIMzFLeGFfMGNKazBQQnVEYzc2anl2c1pwWmhjRUZwVy1ISExsMU8wcUJhQVYzMnV0ZUhNNDhVdFNJRzE1MWx2eFNDa1BLbE1wT1V0cWd6bkg?oc=5",
+   "source": "GoogleNews·中华网",
+   "domain": "litho_machine",
+   "published": "2026-11-08",
+   "summary": "",
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-12",
+   "bt": 2,
    "co": []
   },
   {
@@ -3301,7 +3314,7 @@
    "published": "2026-10-28",
    "summary": "",
    "first_seen": "2026-11-04",
-   "last_seen": "2026-11-04",
+   "last_seen": "2026-11-12",
    "bt": 4,
    "co": [
     "长鑫存储"
@@ -8240,7 +8253,7 @@
    "published": "2026-10-26",
    "summary": "",
    "first_seen": "2026-10-28",
-   "last_seen": "2026-11-11",
+   "last_seen": "2026-11-12",
    "bt": 0,
    "co": []
   },
