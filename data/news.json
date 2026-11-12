@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-12 15:51:50",
- "count": 1647,
+ "updated": "2026-11-12 15:59:33",
+ "count": 1652,
  "items": [
   {
    "id": "2a6a474e88b76c602c6e2b329637ad73fdbac217",
@@ -36,6 +36,19 @@
    "domain": "memory",
    "published": "",
    "summary": "",
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-12",
+   "bt": 4,
+   "co": []
+  },
+  {
+   "id": "dea55f0a8c509b6ca390ea45e21ce57a59b5d348",
+   "title": "消息称 SK 海力士 HBM4 良率已突破 70%，与三星、美光竞争下一代内存市场",
+   "url": "https://www.ithome.com/1/026/105.htm",
+   "source": "IT之家",
+   "domain": "memory",
+   "published": "2026-11-12",
+   "summary": "IT之家 11 月 12 日消息，据 Chosun Biz 今日报道，SK 海力士的 HBM4 内存良率已超过 70%，与三星和美光的竞争将更加激烈。报道称，SK 海力士第六代高带宽内存（HBM4）的产能良率提升至 70% 以上。由于 HBM4 比以往产品更难制造，确保早期产量被视为决定大规模生产竞争力的关键变量。不过",
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-12",
    "bt": 4,
@@ -485,6 +498,61 @@
    "last_seen": "2026-11-12",
    "bt": 0,
    "co": []
+  },
+  {
+   "id": "b73a74ed03059602d1dc3fe716a3ed3133dc9e67",
+   "title": "消息称某厂 2nm 中杯机型备案有顶配 16GB+1TB，预计为小米 18 标准版",
+   "url": "https://www.ithome.com/1/026/059.htm",
+   "source": "IT之家",
+   "domain": "logic",
+   "published": "2026-11-12",
+   "summary": "IT之家 11 月 12 日消息，据微博博主 @数码闲聊站 今日透露，某厂 2nm 中杯机型有顶配 16GB+1TB，配备更强的定制超清屏幕 + 更强 2 亿像素大底影像 + 更大百瓦单电池，重量约 200g，核心配置和档期都不变。后续有用户在评论区表示，小尺寸机型 200g 重量还是有些重。博主回应称，又要堆大电池堆",
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-12",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "b6bcbd28cd1d3830cf57b0b379102ec7df5001ae",
+   "title": "三星电子韩国温阳产区新 HBM 产线动工，总投资额 46 万亿韩元",
+   "url": "https://www.ithome.com/1/026/045.htm",
+   "source": "IT之家",
+   "domain": "memory",
+   "published": "2026-11-12",
+   "summary": "IT之家 11 月 12 日消息，韩国当地时间今日在忠清南道牙山市的三星电子温阳产区新产线动工现场举行忠清圈“超级项目”动工仪式，该国总统李在明出席并致辞。▲ 三星电子温阳产区此次动工建设的三星电子温阳产区新产线为 HBM 后端先进封装设施，包括 5 条生产线，项目总投资达 46 万亿韩元（IT之家注：现汇率约合 2,",
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-12",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "186759ea23440e774b20a41e432d8a13c6a28baa",
+   "title": "光模块砍单传闻再起",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ONm13SFlHR0JLWjFPTFVqQVc5S3lDWHo2ZTROb01HM29aNXZVSHViTGdacXFubW9RRXBqZUk2V0R3M2NFTUkxMmo1NmhCSGtoeEx3?oc=5",
+   "source": "GoogleNews·电子工程专辑EE Times China",
+   "domain": "optical_comm",
+   "published": "2026-11-12",
+   "summary": "",
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-12",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "76aa6737461e1a32cedcab7b311a76d0c89e167e",
+   "title": "存储芯片再涨价，同样的预算可能只能买到缩水配置了|存储芯片|利扬芯片|博杰股份|泰瑞机器|南亚新材|联讯仪器|普冉股份|协创数据|佰维存储|长鑫科技",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1xOElEQmhXZ3k0UmtqaU5QdFRYOEJGMy1rbkk5VkZMcnBmU1pTNFNUaF9RakFFMkRVVTd5QzNDNFZVSjd1RS1uU0RPamhRTEhUeThUbkk5TjdSLVVQY2I5cnpTRQ?oc=5",
+   "source": "GoogleNews·新浪网",
+   "domain": "memory",
+   "published": "2026-11-12",
+   "summary": "",
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-12",
+   "bt": 0,
+   "co": [
+    "普冉股份",
+    "佰维存储"
+   ]
   },
   {
    "id": "2ce8ba5e6ef7f2052698273724bc79461f4fd52d",
@@ -8608,7 +8676,7 @@
    "published": "2026-10-26",
    "summary": "",
    "first_seen": "2026-10-28",
-   "last_seen": "2026-11-04",
+   "last_seen": "2026-11-12",
    "bt": 0,
    "co": []
   },
@@ -10168,7 +10236,7 @@
    "published": "2026-10-24",
    "summary": "",
    "first_seen": "2026-10-26",
-   "last_seen": "2026-11-11",
+   "last_seen": "2026-11-12",
    "bt": 0,
    "co": []
   },
