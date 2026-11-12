@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-12 13:43:44",
- "count": 1638,
+ "updated": "2026-11-12 15:51:50",
+ "count": 1647,
  "items": [
   {
    "id": "2a6a474e88b76c602c6e2b329637ad73fdbac217",
@@ -22,6 +22,19 @@
    "source": "GoogleNews·金融界",
    "domain": "optical_comm",
    "published": "2026-11-11",
+   "summary": "",
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-12",
+   "bt": 4,
+   "co": []
+  },
+  {
+   "id": "d6bb9a7ab883074e93d7f94910bafdadfd5d5b86",
+   "title": "消息称SK海力士HBM4良率突破70%",
+   "url": "https://www.chinaflashmarket.com/a/184407",
+   "source": "闪存市场",
+   "domain": "memory",
+   "published": "",
    "summary": "",
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-12",
@@ -60,6 +73,32 @@
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KVWpGcngyRzB4dUJZem9WTjZvT1ppV3R3b0RSd2g2dTlGemEwMENLMnljYWdGaU43Y3JObXdxNnIxUF9PN3BmNkpBNWd6WTJNY0N3RDcza2VUU2Ju?oc=5",
    "source": "GoogleNews·www.caiwennews.com",
    "domain": "memory",
+   "published": "2026-11-12",
+   "summary": "",
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-12",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "c6cc9b3d1f1cdf56c1c58815a7ee2bb195c22225",
+   "title": "三星新厂动工：瞄准HBM先进封装，目标2028年6月投产",
+   "url": "https://www.chinaflashmarket.com/a/184410",
+   "source": "闪存市场",
+   "domain": "memory",
+   "published": "",
+   "summary": "",
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-12",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "64d75ef5d512c9bceaaed97e85b31adba5963a60",
+   "title": "国产光刻机突破，离“追上ASML”还有多远？",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1IQnlfY05OaTdFZ0hiNG5SVjU3dDMwTUNzbkxGTk1IZGJjRmt4aUpVaUlraldwOER3WF9DXzdsUlVGeGNRY1lqbDZpQ3lRTXNPOGRwc240dGNxUEVLRmJLeGZ5d0I?oc=5",
+   "source": "GoogleNews·DoNews",
+   "domain": "litho_machine",
    "published": "2026-11-12",
    "summary": "",
    "first_seen": "2026-11-12",
@@ -349,6 +388,96 @@
    "title": "隔夜美股存储芯片概念普涨，存储芯片迎来新一轮涨价，中证半导体材料设备主题指数盘中大涨超6%，天弘半导体设备基金聚焦产业链上游供给端",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE94aXFwQ3dTRWVXOEhTSFVTT09DTGo0d0k0amlBRVdkRmMxei00LTBPR2pHem16dmp3cnVnT2pHdUxPa3BEZzVyUDZUa2Fjank3S0hzZTYzcEN6OHV5ZEpPcEtn?oc=5",
    "source": "GoogleNews·证券之星",
+   "domain": "memory",
+   "published": "2026-11-12",
+   "summary": "",
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-12",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "3188f82c60bac3440e9bbe85d848decfa36827f0",
+   "title": "茂莱光学：11月11日融券净卖出200股，连续3日累计净卖出1500股",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1FQ3pyTW05OG0wTERzaERuSU01UWdBemdDMXZsUllwQmNRRGV6Rm5wRURiZmRoUzQ1OTBaUHROSzRBNzFWRm51RDVHajhFb05jSmt6OU5Tb1NQUUNvTGl5Wjhn?oc=5",
+   "source": "GoogleNews·同花顺财经",
+   "domain": "optics",
+   "published": "2026-11-12",
+   "summary": "",
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-12",
+   "bt": 0,
+   "co": [
+    "茂莱光学"
+   ]
+  },
+  {
+   "id": "3c13d67a13fcb7817599646e43a56e748443e799",
+   "title": "港股异动| 芯片股升幅持续扩大！中芯国际升逾4%，将于盘后放榜；PCB板块走高，东山精密升逾9% 港美股资讯",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBybkVuLThHcndGeV8ydTdOcUl6UmJBc193OW1SZEM4TVFHTV9qLTFpY1JNU3JYbUhLRHdTdENGN1FTQ3daTy03X2NjNHVORUNKekN3cnQxelJmVThsRHZJTm1B?oc=5",
+   "source": "GoogleNews·华盛通",
+   "domain": "logic",
+   "published": "2026-11-12",
+   "summary": "",
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-12",
+   "bt": 0,
+   "co": [
+    "中芯国际"
+   ]
+  },
+  {
+   "id": "aac6d73e3e56b16f03e69a12112f7fb1ddf537aa",
+   "title": "港股异动| 光通信、芯片股盘初上行！壁仞科技、剑桥科技升约5%，天数智芯升近4%，中际旭创升近2% 港美股资讯",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE93elRxOE9mYlltZjhOU25Zb3BDVG1abURILWRhM3gwUVp0aHJxOVo4LUNNV2dwdUFtTVE2Z3Z3c2FCeUZ1MVJWcUtpTHV1LWNIdmRyU01pZ1JHOFRXYS1oUDF3?oc=5",
+   "source": "GoogleNews·华盛通",
+   "domain": "optical_comm",
+   "published": "2026-11-12",
+   "summary": "",
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-12",
+   "bt": 0,
+   "co": [
+    "中际旭创",
+    "天数智芯",
+    "壁仞科技"
+   ]
+  },
+  {
+   "id": "adbc91f8eab1467e1befa1e0e9248b6b60a3b4ca",
+   "title": "长江存储PC42Q加持！机械师14 Ultra轻薄本图赏",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE02OWM3Q25xMVAzb0xMc0RnUmJVT3pJRGZ4UzRMdTBXWUdWenN5Q1FxSlNCVVNkWFYyQV9JSGE4Y3ctaklHc0d0UXFtVVNUcXREVmxxeFlzT00?oc=5",
+   "source": "GoogleNews·驱动之家",
+   "domain": "memory",
+   "published": "2026-11-12",
+   "summary": "",
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-12",
+   "bt": 0,
+   "co": [
+    "长江存储"
+   ]
+  },
+  {
+   "id": "fab453150408d1d6a49141dee696043ff836d855",
+   "title": "重燃上市希望！长江存储力争2027年Q1登陆科创板：全球NAND第三地位稳了",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ORnZvbGgyaWxicVdLOHZJZXRQb3FPLXQ1YjNrYzlad0E5MXFKdmJhVTRPcmRpR0ZHTGxOSFQ3STR5Q1cxcUxXREs0eW91cnBtRmlnWG9PenJncEZwN2FBM1FrQWgwM2tKS1lUT2dfZWZqV0VrYU1VSnd1UGU5VEU?oc=5",
+   "source": "GoogleNews·新浪财经",
+   "domain": "memory",
+   "published": "2026-11-12",
+   "summary": "",
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-12",
+   "bt": 0,
+   "co": [
+    "长江存储"
+   ]
+  },
+  {
+   "id": "1c72f0122bb591f21a0e05a90af70365b82aeeed",
+   "title": "长鑫亮相IC China 2026：洞察算力分层，首展三大AI场景存储矩阵",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYWljenN6WDhXRW5MbDZ1ZkhVZkNGYkNqTU9MZE9NTXpFcnBrZ3N1VVIxSklzQlUzWU1RY3pKdGVWbFFiR3ZmcmxBTWRtNFdsNDRkbFZfRTlTRW5wS2lfZVhTMGU5QWtjaVRydDJjVS1vRXNHZmgyNDFhTTFLSUdTaGRnWmZGT2NNVHF1aA?oc=5",
+   "source": "GoogleNews·Sohu",
    "domain": "memory",
    "published": "2026-11-12",
    "summary": "",
