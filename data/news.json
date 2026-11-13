@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-13 14:33:06",
- "count": 1704,
+ "updated": "2026-11-13 15:28:44",
+ "count": 1709,
  "items": [
   {
    "id": "906f8791538c7c7de7eca7c1c08a7a37d7eaa8ab",
@@ -566,6 +566,73 @@
    "source": "GoogleNews·证券之星",
    "domain": "memory",
    "published": "2026-11-13",
+   "summary": "",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "7b6c7c43eeb3db2a72cad3401b8039c37130e89d",
+   "title": "光刻机大战！三星海力士重金争夺EUV！",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSExMOU1IeFk5bUVMT0dxTzgyb1l0UUxKTlM2dEJJdjJlVFNtTWoxdlA4VnNqRTNKdU04d1lvTW5raGFKdHRFWTlrUmpMSmdfc2NHdFlvS1psclFmTTk2WWRjVThiZUJmZ2RkeE1CdnZKQVlDcjN1dk0yU01WTlcwRl9GdVVWRF9fT2IwMg?oc=5",
+   "source": "GoogleNews·Sohu",
+   "domain": "litho_machine",
+   "published": "2026-11-10",
+   "summary": "",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "947a4f14532df3923af2a832f61bb42354f7a5ce",
+   "title": "台积电、三星加码算力芯片，中芯国际吃下成熟制程红利，Q3归母净利大增87.6% - https://www.caiwennews.com/",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE50eGl0UndPRWp5MzIxdVA4TkpvbFFmVmNRWjczVlRjS1gweFBocGV3alFrX1VsdDZxYkZhVUpOaV9kZWU0Z0d0bXFZb3YzVFpTeU5HdDFNaV9Na1Az?oc=5",
+   "source": "GoogleNews·https://www.caiwennews.com/",
+   "domain": "logic",
+   "published": "2026-11-13",
+   "summary": "",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "bt": 0,
+   "co": [
+    "中芯国际"
+   ]
+  },
+  {
+   "id": "97a3c414899e0ec5ff758dd89cc989e5dc9fe665",
+   "title": "长鑫科技：存储进入“分层”时代",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4zZTI0VDdPUmNFcE1GVEFRQUVScnVZYzJsZVhBdUVIcy1iTDhmbm9NaGFrRDFiVDdVUmp6aFZUaXdUTEhTeE1kZXBrVkZYcml0c1JmLTg5b21FaVpKNS0xNGln?oc=5",
+   "source": "GoogleNews·中国经营网",
+   "domain": "memory",
+   "published": "2026-11-13",
+   "summary": "",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "58598ee360cf1f47dd0c51167b22eff6568eed3e",
+   "title": "存储竞争分层，长鑫科技 IC China 亮出 AI 时代“胜负手”",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTExiQkNBa2thOXhzNXJwY2hRaThWTWlWd0FQeGM4NVpueDlQcUJ5MTh4elV0SXYyelNrckhWYVdKdDBmc0FuM2F4VDcxSzNob2Q3dEdkd05mX1BiX2FQcTFlWVVUYmhMQy13Z2swT09kVnhYbGY4dndjMHdiX3p6dk1PTmJCLS05?oc=5",
+   "source": "GoogleNews·Sohu",
+   "domain": "memory",
+   "published": "2026-11-13",
+   "summary": "",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "3d18d50351714b43761d43c59569490cdfac30b7",
+   "title": "存储芯片与AI芯片协同设计：半导体ETF双赛道投资逻辑",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhWHF3VU5FZ3VnMzVXTEczMTZ1SjRRdXRrYkVrck1WZTRQaTFZTkVMQXdmcVg5TWU4SFZxLWY0MGFoOXJhTHJFSDNxeUZ6T3I3Q0lKS2RzUWR0dXdOeGNrOQ?oc=5",
+   "source": "GoogleNews·CSDN",
+   "domain": "memory",
+   "published": "2026-11-12",
    "summary": "",
    "first_seen": "2026-11-13",
    "last_seen": "2026-11-13",
@@ -12945,7 +13012,7 @@
    "published": "2026-10-23",
    "summary": "",
    "first_seen": "2026-10-23",
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-13",
    "bt": 0,
    "co": [
     "新易盛"
