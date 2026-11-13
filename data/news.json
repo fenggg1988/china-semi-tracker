@@ -1,7 +1,51 @@
 {
- "updated": "2026-11-13 00:30:51",
- "count": 1679,
+ "updated": "2026-11-13 14:33:06",
+ "count": 1704,
  "items": [
+  {
+   "id": "906f8791538c7c7de7eca7c1c08a7a37d7eaa8ab",
+   "title": "国产光刻机零部件国产化率突破90%，关键空白被填补|上海微电子装备集团|SMEE|光刻机|国产_新浪新闻",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5oNkcteGxHZG5VM1pLRzVIV1pkTlNWLW1FNm54ZVVaMzFXdi1Nb2xMbC00OGgyMW5BcFZfY3hFWDExLTZPQURmcm1zdG9tOEpDVldGQU0tR3FQOUtUeUl3WWcxaw?oc=5",
+   "source": "GoogleNews·新浪网",
+   "domain": "litho_machine",
+   "published": "2026-11-10",
+   "summary": "",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "bt": 4,
+   "co": [
+    "上海微电子",
+    "SMEE"
+   ]
+  },
+  {
+   "id": "b72edb213e5c0c1bb1d39c4eb5539387f8b11b9b",
+   "title": "俄白联合突破，130nm光刻机样机落地，负责人直言距离量产还很远",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Bb3p3RkdDV3BNT1J6U2lMeHoxSXZLRmtyVWZDcWRZbzd4SjFNbWQzNWhTMlQ3R1lUd1JzLVFySTEzWjVCY2ZNSFQ2aWJqUG9Iai1MUnp3?oc=5",
+   "source": "GoogleNews·腾讯新闻",
+   "domain": "litho_machine",
+   "published": "2026-11-11",
+   "summary": "",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "bt": 4,
+   "co": []
+  },
+  {
+   "id": "7a16f9a0c08c7b2fb7420243e3341ed2a0728f3f",
+   "title": "新易盛交付节奏里的产业信号：订单饱满之后，产能与良率才是真考题",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xeTJKdy1hVi1VWmFCMUVQcVg3dmw0ZkExUzZxelZySDRpWF9HMzd2OHI3OFhIcEJEMktTRHRibmNNWUNWTkdFMG9sSXhlYlVjVE1KcFQ1dUY0cWZGRENMQQ?oc=5",
+   "source": "GoogleNews·同花顺财经",
+   "domain": "optical_comm",
+   "published": "2026-11-12",
+   "summary": "",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "bt": 4,
+   "co": [
+    "新易盛"
+   ]
+  },
   {
    "id": "a75e31f43ed7e26920b15fe749ab0b750b7f728b",
    "title": "新易盛：订单交付需求持续增长 1.6T光模块进入持续放量阶段",
@@ -16,6 +60,61 @@
    "co": [
     "新易盛"
    ]
+  },
+  {
+   "id": "7889c9e1d479206090a81556e8389448b7f3a173",
+   "title": "中国存储芯片长期趋势：物理极限、设备国产化与产业链协同",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qd2JhaWlBcE8yMnZyTHUwUGQzaVhmUGxucURBQ0l1RlBYQ0RZVFlXMmFGaUoya3VtejhUNWJrNUNIR2tUTmVsVDBHWUNhSXVVOUNuRks0bXo4STR3ZlJqeA?oc=5",
+   "source": "GoogleNews·CSDN",
+   "domain": "memory",
+   "published": "2026-11-12",
+   "summary": "",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "105e78c7ab06d4b46afaa7f1d00111add24a3990",
+   "title": "安孚科技11月12日回应硅光芯片话题：易缆微硅光异质集成技术已确立全球领先地位_公司新闻",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGODlVN3hLc0p0OFM2UGxXdS1mV2NfdkpUTkNVWWJONkJnc2F0UC13SUdYVmhONExDeGpiVEZkeHZmSVc2ZFBnNTVqR1R4WFliYXpzeGNYbk9HQnI3Mm1waXZn?oc=5",
+   "source": "GoogleNews·证券之星",
+   "domain": "optical_comm",
+   "published": "2026-11-13",
+   "summary": "",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "c4aeef52ce887b5db134660b02eb0e60c5a857a9",
+   "title": "英伟达量产1.6T 光模块的代工厂Fabrinet，毛利率只有约12%，而中际旭创、新易盛等光模块龙头毛利率却能达…｜长桥证券",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VTVE0ZlJSaXRjelF0OUdrN3VKdUpMX1dJbGFSQlhUdlBjQ3huc29LTVZySGVFRVdVUWlMM2wtUUJ5VzVJQ3ZLMGNPMENYYmdNbVBrSjFPaDFBTFAxZ0Zj?oc=5",
+   "source": "GoogleNews·Longbridge",
+   "domain": "optical_comm",
+   "published": "2026-11-12",
+   "summary": "",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "bt": 2,
+   "co": [
+    "中际旭创",
+    "新易盛"
+   ]
+  },
+  {
+   "id": "637639169f86a0c02b260407ed7e06e874bdd1a3",
+   "title": "三星电子“预计提前一年投产”全新HBM工厂，进一步拉动全球半导体设备成长预期",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PMllzZ1R2bmItTXJwQ1c1OVFUTGdGeGF3d0oxRERNNHh5UHMtQXozSTJvY3pibHdYWXNMTG15djQtZHJBUUVxZE9jaXEyemhjRTlTS3JnUUZYSmNvM1pwTjhBZw?oc=5",
+   "source": "GoogleNews·金融界",
+   "domain": "memory",
+   "published": "2026-11-13",
+   "summary": "",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "bt": 2,
+   "co": []
   },
   {
    "id": "2eaf8a10627710232efa07de071a3e8157004bf0",
@@ -245,6 +344,235 @@
    ]
   },
   {
+   "id": "9184479e403fdee99d6f4ec0aabaec3d08e68e97",
+   "title": "中芯国际赵海军：AI配套芯片供不应求，2027年晶圆供应将非常紧缺",
+   "url": "https://www.laoyaoba.com/n/1140103",
+   "source": "集微网",
+   "domain": "logic",
+   "published": "",
+   "summary": "",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "bt": 0,
+   "co": [
+    "中芯国际"
+   ]
+  },
+  {
+   "id": "90b9fc0b1941470301b0005ab855f3f0afcafef2",
+   "title": "东芯股份：以三大存储芯片自主研发能力，深耕中小容量存储赛道",
+   "url": "https://www.laoyaoba.com/n/1140082",
+   "source": "集微网",
+   "domain": "memory",
+   "published": "",
+   "summary": "",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "bt": 0,
+   "co": [
+    "东芯股份"
+   ]
+  },
+  {
+   "id": "81aca9d703c46baeaf127f49357fd5919143391f",
+   "title": "中芯国际赵海军：AI 算力供不应求，2027 年半导体代工产能将非常紧缺",
+   "url": "https://www.ithome.com/1/026/524.htm",
+   "source": "IT之家",
+   "domain": "logic",
+   "published": "2026-11-13",
+   "summary": "IT之家 11 月 13 日消息，在今天举行的中芯国际 2026 年第三季度业绩会上，中芯国际联合 CEO 赵海军表达了对半导体代工业未来发展的积极正面看法。他认为，目前 AI 发展“方兴未艾”，算力需求供不应求。目前行业共识是，2027 年将是产能非常紧缺的一年，预计持续到 2028 年中期至下半年。2028 年中期",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "bt": 0,
+   "co": [
+    "中芯国际"
+   ]
+  },
+  {
+   "id": "1d714743ac7488a5a52dd7fa09859765b5614218",
+   "title": "EUV光刻机被卡 中国转攻功率芯片！欧洲巨头急了：他们追赶得太快了",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE95bmJ0SWhjbGJDWFdwcGNMZkYxSXdLMmQzck1oRFEwUTdYTkc2RG1lV3AzX29wZlkxbmlneVVzaW50bjIxampEY3hFQVBGNnVKSmZBYjBjcVo?oc=5",
+   "source": "GoogleNews·驱动之家",
+   "domain": "litho_machine",
+   "published": "2026-11-13",
+   "summary": "",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "47805c3e26ecc73b32dc98a4d44e74144aff9fd1",
+   "title": "佳能新光刻机，挑战ASML？_手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tMTVuQi1OclJRbWdMb3NFQXZrOTBlTmZVYzRDc3ZKWjhpREhvNlhvMlJYSDlMQWs2OWVvVVZfaFpva09RWVFHWHNyNkVxNVhqRzc1NGtBZzhGeUE4Q0dSZ29sYUY5anFNc25FNkJGQk5nR1FoaGlwdg?oc=5",
+   "source": "GoogleNews·新浪财经_金融信息服务商",
+   "domain": "litho_machine",
+   "published": "2026-11-13",
+   "summary": "",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "fcfca650fa2299c72084d8994eeee8625eea5459",
+   "title": "光模块不是黑盒子：揭秘光电转换背后的硬核技术",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mOXRTOWczZEpnLVJrZE5ERXQtUUUyU0lhX1oycWpfQUUyM0FQLUp5NGhUTW8yUWdXVkZXR0V2NkZCNVZ0T0RyanRJanhmX3BjZjdtRTRfVENTSVpHQ3hSYw?oc=5",
+   "source": "GoogleNews·CSDN",
+   "domain": "optical_comm",
+   "published": "2026-11-11",
+   "summary": "",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "14a3f4f9d675192f804e40613c5abc5d5b943d4a",
+   "title": "1.6T光传输试验背后：产业链传导的时间差与受益分层",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FcGRHNXlvOHUyY3FzNk1aLVQxd2VuamhpOEk1LWRiUmpGWm9LdW0wUXFlMWxOZE92WXp4RjB6Y3QxU1FZdHJPNzE4ZENnWkdqcGREQmM2NVlsMU5TaDRDTg?oc=5",
+   "source": "GoogleNews·同花顺财经",
+   "domain": "optical_comm",
+   "published": "2026-11-13",
+   "summary": "",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "e57d4b1f67430425929e9ca465d696572539718f",
+   "title": "磷化铟紧缺叙事与1.6T光传输：上游材料的景气逻辑需要分开看",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90aEZtcXFFSklkVWIzYlhucHRoeFVES2w0NzQweVZHdlhwM3ZjTFl3QVBqY0JyMVoxZEdIRnp3dFRTTmhKajExWmE4LXdXTy1wZXo5MGd0TGVPRWdaaXBlTA?oc=5",
+   "source": "GoogleNews·同花顺财经",
+   "domain": "optical_comm",
+   "published": "2026-11-13",
+   "summary": "",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "72eeb20e38fca8168eb674534967cfeab86b8099",
+   "title": "1.6T试验之后，谁先受益、谁后受益：光传输产业链的传导顺序与错配风险",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ZRE1TSGU5ZzVDVFpqOE1odlVSaUxaUGpxUGQwZVZFWm1kX1lqVHM4S1d1dWhfOHZQV2dsZ2IxWmRaM09BTmlLeHRsdU1zQVRaQXU1aHRGREkyRVliMnA3TA?oc=5",
+   "source": "GoogleNews·同花顺财经",
+   "domain": "optical_comm",
+   "published": "2026-11-13",
+   "summary": "",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "0780f4ab795110d1eda7ff5350ac74a0d44278a3",
+   "title": "优迅股份(688807.SH)：积极布局1.6T光模块应用的单波200G速率代际产品",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBlTWU1ZGN6YmdJdWxlZzRWaHdFQWhKOWYxb0h4VmRLWS1qb1YzQUdHQnA5QzBKRnJnY2pnVGFSZm5yck9ZaEdxQmtqbzgyc1ZKNWU5d1U3YTh0d2VYTXl0NWUzZDNiS2dRV2c?oc=5",
+   "source": "GoogleNews·TradingView",
+   "domain": "optical_comm",
+   "published": "2026-11-12",
+   "summary": "",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "aa63994c62d525a402c9bcc9dc1be2f88ea44e11",
+   "title": "Marvell 1.6T光DSP平台获LEAP奖",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4tR3FhTVczR3h0ZVB4ZmM1UXFtQXVoTlZZZXVHZDVrMlkwaS1EbkNWZzl4ci1BYzVST1hCMEFhX05EQVNKbnIyLVJOUE9XWlZ6Rlp0TkhlaXh1RGN6OC1HWU5maHZ1SkF2dkdnOEY2T21BMVBvS3BaQg?oc=5",
+   "source": "GoogleNews·讯石光通讯网",
+   "domain": "optical_comm",
+   "published": "2026-11-13",
+   "summary": "",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "fef2a0cd5fc1e03e33e3c1ff6311cfb4c2c0a78a",
+   "title": "台积电、三星加码算力芯片，中芯国际吃下成熟制程红利，Q3归母净利大增87.6%",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE50eGl0UndPRWp5MzIxdVA4TkpvbFFmVmNRWjczVlRjS1gweFBocGV3alFrX1VsdDZxYkZhVUpOaV9kZWU0Z0d0bXFZb3YzVFpTeU5HdDFNaV9Na1Az?oc=5",
+   "source": "GoogleNews·www.caiwennews.com",
+   "domain": "logic",
+   "published": "2026-11-13",
+   "summary": "",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "bt": 0,
+   "co": [
+    "中芯国际"
+   ]
+  },
+  {
+   "id": "1fba29b4a75eab93d7b3be0f99d843461568f42f",
+   "title": "长鑫科技最新发声！计算超级周期正进入全新的“分层时代” 首展三大AI场景存储矩阵",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9jOUpjOW9hRnRzUTQ4bFJzR3psdE9JYTlmbzYyaXRBblI5aGswS1Q3OFp3TGtHSVBMbEhXcERjcE9MNWxwZ3VPaQ?oc=5",
+   "source": "GoogleNews·财联社",
+   "domain": "memory",
+   "published": "2026-11-12",
+   "summary": "",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "fdec1d7d2121cdc98c72daf8a928106895b886be",
+   "title": "算力超级周期步入分层新阶段，长鑫全场景内存矩阵现身IC China",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wRUdnZENJb2s5SVUyMHBJOUNVeW51bGVlXzVoUXNxVTROaHZ1c3ZwTnBCMTJTYTZybGM1ZTlSUG1nejNaVXE4WG5xYXFCOU5BYkxhYnhheTFZVjJCT3BuamtVVzJPN3g4S2JFTmtrZ2lQcmxjdnFkUU5jOEowd3M?oc=5",
+   "source": "GoogleNews·新浪财经_金融信息服务商",
+   "domain": "memory",
+   "published": "2026-11-13",
+   "summary": "",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "6526dcdbddfa6c61aa6e102e7456dfa33d7b16c7",
+   "title": "长鑫称内存需求进入分层时代 AI场景推动存储变革",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zNnVOSXFwMndtcjNESjF3aHJLMElzY1lrNlZWX202Y2FyYXExaWJqai1hLVVsLXdSanFIOGhvRjdMQmpOcUFETGVPU0RyLXg5MG5BMWI3eXRYc09mcFFzY0E1UHRCR2Zfa2U1ajNYSmU?oc=5",
+   "source": "GoogleNews·中华网",
+   "domain": "memory",
+   "published": "2026-11-13",
+   "summary": "",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "7601cd3ce73519e99cb3f6377acc4e767795d9d3",
+   "title": "存储大变局，长鑫亮剑",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTFZFRWNvQllsQlNGY2xxV25zVHBJZEUyeU5iOEc5Q1owRXRnVTZzRDlmLVNYVmJ4bHRmNzJQdk53Z3B3dGVEUXE5Sm1UdC1WZXJ2Y1I2U0FCc1BXeUw5VVkyOVRKZ1lWdDA5ZGZ6MWJWbG1uR2lrd2QtcE50eUdmXzgydEtxRllRSmpINA?oc=5",
+   "source": "GoogleNews·Sohu",
+   "domain": "memory",
+   "published": "2026-11-13",
+   "summary": "",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "b965f1698478ac36a0699ac94f15ddeb3f041cac",
+   "title": "11月13日证券之星午间消息汇总：长鑫科技发声！算力超级周期迈入分层时代_证券要闻",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5vWlNDcDROTkxtT2Q0OHVFODBZbGx2OVIzNndIcWJhOXRMU2tMemtTb3Z0aENweWszVFJqNjZYbnluSnRqM0d0R0hURDZkYndWVzRXYTF6cThVcmM4cUNDSw?oc=5",
+   "source": "GoogleNews·证券之星",
+   "domain": "memory",
+   "published": "2026-11-13",
+   "summary": "",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "bt": 0,
+   "co": []
+  },
+  {
    "id": "13cb4c515f88a6391581b94da3d2fb8dbe9284c1",
    "title": "中芯国际发布26Q3财报 单季销售收入达31.9亿美元",
    "url": "https://www.laoyaoba.com/n/1139780",
@@ -272,6 +600,21 @@
    "bt": -3,
    "co": [
     "中芯国际"
+   ]
+  },
+  {
+   "id": "076fe13728ada0cb26ddfca6dc6afbc2cc912722",
+   "title": "英伟达人事变动引发链式反应 中际旭创H股跌超7%领跌光通信港股 港美股资讯",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1tNFI1dk5NMHpHRXd5SjJNTzM0NEV1b2thT0l1YnVIRFJTLU1Wa2lvMFMxM1lLdWJOcHBqUFM2T2NhVDZqeXJPUHUxLUlxX3c0Yl9qenN1dGc0WEsxTzlmUUV3?oc=5",
+   "source": "GoogleNews·华盛通",
+   "domain": "optical_comm",
+   "published": "2026-11-13",
+   "summary": "",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "bt": -3,
+   "co": [
+    "中际旭创"
    ]
   },
   {
@@ -720,7 +1063,7 @@
    "published": "2026-11-12",
    "summary": "",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-13",
    "bt": 0,
    "co": [
     "中际旭创",
@@ -1252,7 +1595,7 @@
    "published": "2026-11-10",
    "summary": "",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-11",
+   "last_seen": "2026-11-13",
    "bt": 0,
    "co": [
     "剑桥科技"
@@ -1866,7 +2209,7 @@
    "published": "2026-11-09",
    "summary": "",
    "first_seen": "2026-11-10",
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-13",
    "bt": 0,
    "co": []
   },
@@ -2099,7 +2442,7 @@
    "published": "2026-11-09",
    "summary": "",
    "first_seen": "2026-11-09",
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-13",
    "bt": 4,
    "co": []
   },
@@ -3149,7 +3492,7 @@
    "published": "2026-11-05",
    "summary": "",
    "first_seen": "2026-11-06",
-   "last_seen": "2026-11-10",
+   "last_seen": "2026-11-13",
    "bt": 0,
    "co": []
   },
@@ -3220,7 +3563,7 @@
    "published": "2026-11-05",
    "summary": "",
    "first_seen": "2026-11-06",
-   "last_seen": "2026-11-11",
+   "last_seen": "2026-11-13",
    "bt": 0,
    "co": [
     "长江存储"
@@ -3235,7 +3578,7 @@
    "published": "2026-11-05",
    "summary": "",
    "first_seen": "2026-11-06",
-   "last_seen": "2026-11-08",
+   "last_seen": "2026-11-13",
    "bt": 0,
    "co": [
     "长江存储"
@@ -3610,7 +3953,7 @@
    "published": "2026-10-30",
    "summary": "",
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-11",
+   "last_seen": "2026-11-13",
    "bt": 2,
    "co": []
   },
@@ -3996,7 +4339,7 @@
    "published": "2026-10-28",
    "summary": "",
    "first_seen": "2026-11-04",
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-13",
    "bt": 4,
    "co": [
     "长鑫存储"
@@ -4545,7 +4888,7 @@
    "published": "2026-11-03",
    "summary": "",
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-08",
+   "last_seen": "2026-11-13",
    "bt": 2,
    "co": []
   },
@@ -4718,7 +5061,7 @@
    "published": "2026-11-02",
    "summary": "",
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-11",
+   "last_seen": "2026-11-13",
    "bt": 0,
    "co": [
     "光迅科技"
@@ -5156,7 +5499,7 @@
    "published": "2026-10-26",
    "summary": "",
    "first_seen": "2026-11-02",
-   "last_seen": "2026-11-06",
+   "last_seen": "2026-11-13",
    "bt": 0,
    "co": []
   },
@@ -7756,7 +8099,7 @@
    "published": "2026-10-29",
    "summary": "",
    "first_seen": "2026-10-29",
-   "last_seen": "2026-11-09",
+   "last_seen": "2026-11-13",
    "bt": 4,
    "co": [
     "长鑫存储"
@@ -8935,7 +9278,7 @@
    "published": "2026-10-26",
    "summary": "",
    "first_seen": "2026-10-28",
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-13",
    "bt": 0,
    "co": []
   },
@@ -9039,7 +9382,7 @@
    "published": "2026-10-26",
    "summary": "",
    "first_seen": "2026-10-28",
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-13",
    "bt": 0,
    "co": []
   },
@@ -10599,7 +10942,7 @@
    "published": "2026-10-24",
    "summary": "",
    "first_seen": "2026-10-26",
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-13",
    "bt": 0,
    "co": []
   },
