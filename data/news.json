@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-13 15:52:58",
- "count": 1712,
+ "updated": "2026-11-13 17:02:09",
+ "count": 1716,
  "items": [
   {
    "id": "906f8791538c7c7de7eca7c1c08a7a37d7eaa8ab",
@@ -666,6 +666,45 @@
    "co": []
   },
   {
+   "id": "5d99c43ac7dfd0473f5138a770722a2c639c4c69",
+   "title": "三安光电(600703.SH)：已与全球前十大光模块厂商中的4家客户建立合作_公司新闻",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Ud2tockIwbXdXSWY1Unk5bDk4SzhOcjFHNm4yU1VCR2hvUDFKVkg1MnhjNW8yXzdsSFd1aGUzUlc4NFlNaFV3YkY5LW9mVUN1c25wTjI5aVF1ek9lcFhhWTBKRzI?oc=5",
+   "source": "GoogleNews·证券之星",
+   "domain": "optical_comm",
+   "published": "2026-11-13",
+   "summary": "",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "ed64aaf310e7081d95c50ac7b15b6c9000de46da",
+   "title": "DDR5供不应求！长鑫科技重磅研判：服务器成存储增长绝对主力",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VdWIxRVhUNC1tWFItUk00dmJuX05OYy1SZHVKakpRdmtnT1dDQVYxT3FUdGM4X2xSV2xUOEFtUU1WblktdnFaNDZuZm0wcFBaXzJoWEMyWXU?oc=5",
+   "source": "GoogleNews·驱动之家",
+   "domain": "memory",
+   "published": "2026-11-13",
+   "summary": "",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "0a569aca2c73481e37d4222743e33526d6d5fd65",
+   "title": "直击IC China2026|长鑫科技核心产品矩阵亮相，骆晓东：存储竞争已打入细分场景，培育差异化增长",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBMS3BvcUw3SEpiYUtodG1Wam5JSlV2WklVM2dsOHBFNkpZV21ZcHZFMnZqOXc1UXB3ZWh3eHA2cFotRDZxRzlXYzNLR0I5SGkxZ0ZkOW00Rloyd19za0RyM1BKd25qOEhwWU4wOGN2OWFhdlZy?oc=5",
+   "source": "GoogleNews·金融界",
+   "domain": "memory",
+   "published": "2026-11-13",
+   "summary": "",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "bt": 0,
+   "co": []
+  },
+  {
    "id": "13cb4c515f88a6391581b94da3d2fb8dbe9284c1",
    "title": "中芯国际发布26Q3财报 单季销售收入达31.9亿美元",
    "url": "https://www.laoyaoba.com/n/1139780",
@@ -724,6 +763,19 @@
    "co": [
     "中芯国际"
    ]
+  },
+  {
+   "id": "48acaac9930d546077e47f9a2503f623ddab34ca",
+   "title": "招商证券：首予长鑫科技“增持”评级，厚积成势铸就DRAM新极",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE14RHo1cnFXR0R3TEdBZjlHUDlaXzYtMXJucjY3UUZaRUNjQWR1Z1paUnh0RGdVQjZlUUV4ZDJvY2tTbVVTUlNUUl8xaw?oc=5",
+   "source": "GoogleNews·新浪网",
+   "domain": "memory",
+   "published": "2026-11-13",
+   "summary": "",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "bt": -3,
+   "co": []
   },
   {
    "id": "2a6a474e88b76c602c6e2b329637ad73fdbac217",
@@ -3856,7 +3908,7 @@
    "published": "2026-11-06",
    "summary": "中国最大的DRAM内存芯片制造商长鑫存储（CXMT）在2026年第三季度面临市场份额增长压力。随着三星电子进一步扩大内存芯片产能，以及全球存储市场逐渐向高带宽内存（HBM）倾斜，长鑫存储的DRAM市场份额从第二季度的10%回落至9%。不过，与去年同期相比，其市场份额仍然增加了4个百分点，显示公司仍处于快速扩张阶段。 阅",
    "first_seen": "2026-11-06",
-   "last_seen": "2026-11-11",
+   "last_seen": "2026-11-13",
    "bt": 0,
    "co": [
     "长鑫存储"
