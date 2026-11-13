@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-13 15:39:26",
- "count": 1710,
+ "updated": "2026-11-13 15:52:58",
+ "count": 1712,
  "items": [
   {
    "id": "906f8791538c7c7de7eca7c1c08a7a37d7eaa8ab",
@@ -45,6 +45,19 @@
    "co": [
     "新易盛"
    ]
+  },
+  {
+   "id": "8d054f1b95946966ded30852005e3904072e1262",
+   "title": "攻克Gb级新型存储芯片流片 铭芯启睿以RRAM架构破局算力瓶颈",
+   "url": "https://www.laoyaoba.com/n/1140138",
+   "source": "集微网",
+   "domain": "memory",
+   "published": "",
+   "summary": "",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "bt": 4,
+   "co": []
   },
   {
    "id": "a75e31f43ed7e26920b15fe749ab0b750b7f728b",
@@ -695,6 +708,21 @@
    "bt": -3,
    "co": [
     "中际旭创"
+   ]
+  },
+  {
+   "id": "a448b7a86ef9acc934f8b438cf365d93d4a259d4",
+   "title": "11月5日：中芯国际营收三年断崖，从495亿跌至452亿，没想到",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9HWmlHQU1jb0JZQmhZNTZ5Q2I3NDR5NDF3OWx0Wmx4MmlsYkRkSHVFWVhIbnVoTWhPczVaazd4cXcxYXgxTlZZbVBTdUZfLUd5QXNwWUZfM0JhOTZObGRWejdqaVZlRFRtR1FV?oc=5",
+   "source": "GoogleNews·Sohu",
+   "domain": "logic",
+   "published": "2026-11-05",
+   "summary": "",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "bt": -3,
+   "co": [
+    "中芯国际"
    ]
   },
   {
