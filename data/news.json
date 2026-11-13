@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-13 15:28:44",
- "count": 1709,
+ "updated": "2026-11-13 15:30:50",
+ "count": 1710,
  "items": [
   {
    "id": "906f8791538c7c7de7eca7c1c08a7a37d7eaa8ab",
@@ -633,6 +633,19 @@
    "source": "GoogleNews·CSDN",
    "domain": "memory",
    "published": "2026-11-12",
+   "summary": "",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "2f609be052d3692c614df291272ba2f8da30a057",
+   "title": "佳能新光刻机，挑战ASML？",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFByN3BRTjBOSUx5bVRuODNoN2VHNTM3SXZsVEh2S1NNQjVQRUk4WVpKVmhxdElYaE9aeGo3WGVTTnZiRmFxS0NiYW53eHpla1RtN1lUVlJXbTdZSkREc3Z5a1lJN0xCV2tKYlBtQVIxaGY4T2w0TTY0TA?oc=5",
+   "source": "GoogleNews·中青在线",
+   "domain": "litho_machine",
+   "published": "2026-11-13",
    "summary": "",
    "first_seen": "2026-11-13",
    "last_seen": "2026-11-13",
