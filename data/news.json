@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-13 17:02:09",
- "count": 1716,
+ "updated": "2026-11-13 23:51:14",
+ "count": 1728,
  "items": [
   {
    "id": "906f8791538c7c7de7eca7c1c08a7a37d7eaa8ab",
@@ -122,6 +122,19 @@
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PMllzZ1R2bmItTXJwQ1c1OVFUTGdGeGF3d0oxRERNNHh5UHMtQXozSTJvY3pibHdYWXNMTG15djQtZHJBUUVxZE9jaXEyemhjRTlTS3JnUUZYSmNvM1pwTjhBZw?oc=5",
    "source": "GoogleNews·金融界",
    "domain": "memory",
+   "published": "2026-11-13",
+   "summary": "",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "b318c6e707b681222e7b3fc08a5f7eb6d0c127d6",
+   "title": "消息称Rapidus考虑将2nm先进制程量产推迟至2028财年",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4yWVRYRms0eFB3dnVOTExma3NyUl9aMXBGVFZtZ19pUnJJRmtoOVVBbEFncFFYSGJFY09DbktUdkpaWmxob3dsUlpXcDE?oc=5",
+   "source": "GoogleNews·凤凰网科技",
+   "domain": "logic",
    "published": "2026-11-13",
    "summary": "",
    "first_seen": "2026-11-13",
@@ -705,6 +718,131 @@
    "co": []
   },
   {
+   "id": "cf7e6b3b1f903b0a52d7b38414df2c4f0c22fcc1",
+   "title": "中芯国际三季报：AI配套芯片拉动收入创新高，2027年代工产能预计紧张",
+   "url": "https://www.chinaflashmarket.com/a/184416",
+   "source": "闪存市场",
+   "domain": "logic",
+   "published": "",
+   "summary": "",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "bt": 0,
+   "co": [
+    "中芯国际"
+   ]
+  },
+  {
+   "id": "eec160f9e4554c3c22017e368c6c8bb81fa4c340",
+   "title": "麒麟 8000 系也有份：华为更多机型更新 HarmonyOS 7 系统后补齐沉浸光感粒子动效",
+   "url": "https://www.ithome.com/1/026/991.htm",
+   "source": "IT之家",
+   "domain": "logic",
+   "published": "2026-11-13",
+   "summary": "IT之家 11 月 13 日消息，据多位用户反馈，华为 nova 12 系列、nova Flip、畅享 90 系列、畅享 70X 等机型已开启鸿蒙 HarmonyOS 7.0.0.111 新版本（SP 后缀随机型不同有所区别）升级，新增粒子动效。值得一提的是，此次补齐沉浸光感粒子动效的机型部分搭载的是麒麟 8000 系",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "bt": 0,
+   "co": [
+    "华为"
+   ]
+  },
+  {
+   "id": "8862e4fc68fbcfbe0ba08aedcf27a43ef839bb96",
+   "title": "子公司是否已进入800G/1.6T高速率光模块的供应链？长盈通回应",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSEVpZjBYMDJwUGU4MGs1R25wUXBIblhTdXB6TzYtY3JBOGdnQ01uQ1gtaHpIb184c1hhcTIzTmp1Sl9vaDV0ZzkwbDNKUW1ETmVTbi1idllMMHRqUDhJX0xaeS1jMW16S0FWRHhYV2N0TWkyWjlmWDJrOGd3S0tWelRjZXEtVjV1dy1SSw?oc=5",
+   "source": "GoogleNews·Sohu",
+   "domain": "optical_comm",
+   "published": "2026-11-13",
+   "summary": "",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "e70d19ed79f60916e18df8b8008e18cc59b34a5c",
+   "title": "1.6T光引擎深度拆解：从市场规模到产业链竞争格局",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14WTdGYmhjTXg2cnZ2NS1PeHZ3WTlRdzR3YzkwTGpZa1hXdzBjS1hGcU9QUUdnUnVvRm5vbnJzTHR6bk9VMzRpVnlFOWx2N0NsbHlsNExRQW5pOXBVVzlR?oc=5",
+   "source": "GoogleNews·CSDN",
+   "domain": "optical_comm",
+   "published": "2026-11-03",
+   "summary": "",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "a007c039dabb3e35471073ab68f3fc02f94f2623",
+   "title": "黄仁勋辞职引发链式反应！港股AI硬件股全线走低，胜宏科技、中际旭创领跌 港美股资讯",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1tNFI1dk5NMHpHRXd5SjJNTzM0NEV1b2thT0l1YnVIRFJTLU1Wa2lvMFMxM1lLdWJOcHBqUFM2T2NhVDZqeXJPUHUxLUlxX3c0Yl9qenN1dGc0WEsxTzlmUUV3?oc=5",
+   "source": "GoogleNews·华盛通",
+   "domain": "optical_comm",
+   "published": "2026-11-13",
+   "summary": "",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "bt": 0,
+   "co": [
+    "中际旭创"
+   ]
+  },
+  {
+   "id": "00834b28ea2575ace12590784b8a6a45ff55cf9c",
+   "title": "AI的“侧翼订单”，喂饱了中芯国际",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBGOG1BZ2FQZzdMTUNzY245cVVfVmp0Y25jQ0tCdUJEVDNoZ3NHS21ZSm5peUpZZzVzc1dyV3diRm9wMHRs?oc=5",
+   "source": "GoogleNews·www.or100.cc",
+   "domain": "logic",
+   "published": "2026-11-13",
+   "summary": "",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "bt": 0,
+   "co": [
+    "中芯国际"
+   ]
+  },
+  {
+   "id": "eb449ba964d9f39d0a672cff8067ecb259bf0ef6",
+   "title": "长鑫科技骆晓东 ：算力超级周期迈入“分层时代”",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSU53cVpyZVJTcXFWV0QtY1prSWpnQzB1Y05yRDd4aHNBbHMtejhVZjZoSFRUeXd2azlwMVVGbFlHZjZpTmM1M2ltQnIxeWk0WEZad2JYb3J2MkN5cUM4cC1US2lCNktUV3pKcnNwVHRzclNIU0E0V0phOHJiZmtzakxBVmtaMXFUMHdvOQ?oc=5",
+   "source": "GoogleNews·Sohu",
+   "domain": "memory",
+   "published": "2026-11-13",
+   "summary": "",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "1d87631dcc173932363ccbeb2f7444751d3b1e35",
+   "title": "存储芯片长期趋势：AI驱动、HBM变革与国产破局关键",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGdFI4b3ppc0pSaldFekRUNURlVFpVc1dfWVVBZnlPTlVMN3Y4bHpuZ3dLQUZPN2N6ZkUwQ1UzeXhzUUZRZ0FZSmgwdTZHT2w3WUthZjBwb3dHVGNMbUVR?oc=5",
+   "source": "GoogleNews·CSDN",
+   "domain": "memory",
+   "published": "2026-11-06",
+   "summary": "",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "af178878653f5e2f9fc23888c2d00250d1719ac3",
+   "title": "招商证券首次覆盖长鑫科技并给予“增持”评级",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBYSE9HY0xJcWRJSHRNRjRjai1yY1BwYXhuVk04SUxpTmllVkJrMloxNFFjT3ZiVGxSejgwd1ZtVnF6M28zNEJZazFPSGVaNEFSV1pmdU9WNFR2R0JraEFURlN3?oc=5",
+   "source": "GoogleNews·观点网",
+   "domain": "memory",
+   "published": "2026-11-13",
+   "summary": "",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "bt": -1,
+   "co": []
+  },
+  {
    "id": "13cb4c515f88a6391581b94da3d2fb8dbe9284c1",
    "title": "中芯国际发布26Q3财报 单季销售收入达31.9亿美元",
    "url": "https://www.laoyaoba.com/n/1139780",
@@ -776,6 +914,34 @@
    "last_seen": "2026-11-13",
    "bt": -3,
    "co": []
+  },
+  {
+   "id": "35d4a5665b18441bad149188ee633b3e11f3cd51",
+   "title": "应用材料：DRAM与先进封装设备营收创纪录，预计2027年WFE市场增长超30%",
+   "url": "https://www.chinaflashmarket.com/a/184417",
+   "source": "闪存市场",
+   "domain": "memory",
+   "published": "",
+   "summary": "",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "bt": -3,
+   "co": []
+  },
+  {
+   "id": "9c8b811b9078d61754341d5a293705bb6097e7d7",
+   "title": "英伟达人事变动引发链式反应 中际旭创H股跌超7%领跌光通信港股",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9JdFc4a2tydTc3cV81TFQ2TlNIZDNzYmFycHJiVG9ndW1WM3FxYWh1dmZvbTVpcFZOSFdCUl9KdDlWeUVMVHc?oc=5",
+   "source": "GoogleNews·财联社电报",
+   "domain": "optical_comm",
+   "published": "2026-11-12",
+   "summary": "",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "bt": -3,
+   "co": [
+    "中际旭创"
+   ]
   },
   {
    "id": "2a6a474e88b76c602c6e2b329637ad73fdbac217",
@@ -4210,7 +4376,7 @@
    "published": "2026-11-05",
    "summary": "",
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-11",
+   "last_seen": "2026-11-13",
    "bt": 0,
    "co": []
   },
@@ -16662,7 +16828,7 @@
    "published": "2026-10-19",
    "summary": "",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-11-06",
+   "last_seen": "2026-11-13",
    "bt": 0,
    "co": [
     "长江存储"
