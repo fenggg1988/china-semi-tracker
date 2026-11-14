@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-14 10:09:29",
- "count": 1735,
+ "updated": "2026-11-14 10:13:09",
+ "count": 1736,
  "items": [
   {
    "id": "6e4b18b27c6fa47fdee26be9c39d0f49994ba080",
@@ -65,6 +65,19 @@
    "source": "GoogleNews·Sohu",
    "domain": "memory",
    "published": "2026-11-12",
+   "summary": "",
+   "first_seen": "2026-11-14",
+   "last_seen": "2026-11-14",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "fbb0640a270d6e0bf3294996d04644a0b229b563",
+   "title": "Poly Finger光刻工艺：TOPCon电池提效的关键路径",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9wSzNIWVZRR1picjE2ZzFvUzFPWnJIMnF6dlV5bW8yZjdPamhqMndkenpkNFJQTG4yVkJKeEd4dVdTVkhNM21VZ3FRRDg4anRvdlZVUTFUem1UdFJ2eHlZ?oc=5",
+   "source": "GoogleNews·CSDN",
+   "domain": "litho_machine",
+   "published": "2026-11-05",
    "summary": "",
    "first_seen": "2026-11-14",
    "last_seen": "2026-11-14",
@@ -866,7 +879,7 @@
    "published": "2026-11-03",
    "summary": "",
    "first_seen": "2026-11-13",
-   "last_seen": "2026-11-13",
+   "last_seen": "2026-11-14",
    "bt": 0,
    "co": []
   },
@@ -7492,7 +7505,7 @@
    "published": "2026-10-29",
    "summary": "",
    "first_seen": "2026-10-30",
-   "last_seen": "2026-11-13",
+   "last_seen": "2026-11-14",
    "bt": 4,
    "co": []
   },
