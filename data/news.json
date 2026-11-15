@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15 16:46:52",
- "count": 1762,
+ "updated": "2026-11-15 23:10:05",
+ "count": 1765,
  "items": [
   {
    "id": "b708ee0da06fa3b8e7518e29e6ff16d53ecb68a4",
@@ -184,6 +184,32 @@
    "co": []
   },
   {
+   "id": "2ba1dfbf66fe201ed660b659bf150a93ce6a3b7c",
+   "title": "被诉人为制造 DRAM 短缺，三星、SK 海力士、美光申请撤诉遭美国法院驳回",
+   "url": "https://www.ithome.com/1/027/442.htm",
+   "source": "IT之家",
+   "domain": "memory",
+   "published": "2026-11-15",
+   "summary": "IT之家 11 月 15 日消息，据法律媒体 LitNews 报道，在当地时间 11 月 14 日发布的一项裁决中，美国加利福尼亚北区联邦地区法院法官诺埃尔 · 怀斯（Noël Wise）全盘驳回了三星、美光和 SK 海力士联合提交的驳回起诉动议，裁定原告起诉书就三方违反《谢尔曼法》（Sherman Act）第 1 条",
+   "first_seen": "2026-11-15",
+   "last_seen": "2026-11-15",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "8537c8ff27c965e7f8e29855f234cac29bfdc8d0",
+   "title": "国内需求优先 长鑫拒绝苹果内存压价 _热点资讯",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1GUUJoYjExUHJMQllKZUxyRmVRZllzM3FrZUduVUZBLVlxUGI3bFdSNnA5WGpDVjVMQVFUa3VkSnlZci1TSzBpbg?oc=5",
+   "source": "GoogleNews·安兔兔",
+   "domain": "memory",
+   "published": "2026-10-27",
+   "summary": "",
+   "first_seen": "2026-11-15",
+   "last_seen": "2026-11-15",
+   "bt": 0,
+   "co": []
+  },
+  {
    "id": "0cbf99f44f214353c4d2653037d360e976f84be0",
    "title": "独家对话中芯国际联合创始人谢志峰（下）：长江存储上市后市值有望超过万亿",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1hOXRWaGZoblVrQlVGVjJNUkVNcUNLbFdMSUhDbUY1Y05KQVMzSnREcWE4TDdja2JDQ1dZcV9hRzRfbGtYaUJtUDctM2RudVhTelE?oc=5",
@@ -198,6 +224,19 @@
     "中芯国际",
     "长江存储"
    ]
+  },
+  {
+   "id": "3730b2b064088372c48ed4078df5241239b677fd",
+   "title": "法官驳回三星、美光与SK海力士抗辩请求 DRAM供应操纵反垄断诉讼进入实质审理阶段",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586504.htm",
+   "source": "cnBeta",
+   "domain": "memory",
+   "published": "2026-11-15",
+   "summary": "美国加利福尼亚州联邦法院近日作出重要裁决，一起针对全球三大DRAM内存制造商的集体反垄断诉讼得以继续推进。法院驳回了三星电子、美光科技和SK海力士提出的撤诉请求，认为原告提出的证据和指控具备合理依据，案件将进入后续审理程序。 阅读全文",
+   "first_seen": "2026-11-15",
+   "last_seen": "2026-11-15",
+   "bt": -3,
+   "co": []
   },
   {
    "id": "37a352d552ac7081fd520307c2c306293504c7b5",
@@ -1478,7 +1517,7 @@
    "published": "2026-11-08",
    "summary": "",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-15",
    "bt": 2,
    "co": []
   },
@@ -4908,7 +4947,7 @@
    "published": "2026-11-05",
    "summary": "",
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-10",
+   "last_seen": "2026-11-15",
    "bt": 0,
    "co": []
   },
@@ -6685,7 +6724,7 @@
    "published": "2026-10-31",
    "summary": "",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-15",
    "bt": 2,
    "co": []
   },
@@ -9326,7 +9365,7 @@
    "published": "2026-10-29",
    "summary": "",
    "first_seen": "2026-10-29",
-   "last_seen": "2026-11-04",
+   "last_seen": "2026-11-15",
    "bt": 0,
    "co": []
   },
@@ -10104,7 +10143,7 @@
    "published": "2026-10-28",
    "summary": "",
    "first_seen": "2026-10-28",
-   "last_seen": "2026-11-06",
+   "last_seen": "2026-11-15",
    "bt": 0,
    "co": []
   },
@@ -23935,7 +23974,7 @@
    "published": "2026-09-29",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-17",
+   "last_seen": "2026-11-15",
    "bt": -3,
    "co": [
     "长鑫存储"
