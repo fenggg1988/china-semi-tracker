@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15 15:48:28",
- "count": 1761,
+ "updated": "2026-11-15 16:46:52",
+ "count": 1762,
  "items": [
   {
    "id": "b708ee0da06fa3b8e7518e29e6ff16d53ecb68a4",
@@ -165,6 +165,19 @@
    "domain": "memory",
    "published": "2026-11-02",
    "summary": "",
+   "first_seen": "2026-11-15",
+   "last_seen": "2026-11-15",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "b23e340133410c22378a6b3cb36b8b58bd9930a0",
+   "title": "消息称 SK 海力士加快设备投资进度，进一步扩大 HBM4 产能",
+   "url": "https://www.ithome.com/1/027/392.htm",
+   "source": "IT之家",
+   "domain": "memory",
+   "published": "2026-11-15",
+   "summary": "IT之家 11 月 15 日消息，据韩媒 Etnews 今天报道，尽管英伟达 CEO 更替等因素加剧 AI 行业不确定性，但 SK 海力士仍认为 HBM（IT之家注：高带宽内存）需求强劲。该公司计划重点投资 HBM 封装和测试环节的设备，并计划于明年上半年正式投入使用。据多位半导体设备行业人士透露，SK 海力士正与合作",
    "first_seen": "2026-11-15",
    "last_seen": "2026-11-15",
    "bt": 0,
