@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16 15:56:48",
- "count": 1784,
+ "updated": "2026-11-16 16:56:50",
+ "count": 1785,
  "items": [
   {
    "id": "c4a8d7d11c0667b374e5393c1e9282131c0990c0",
@@ -231,6 +231,19 @@
    "source": "GoogleNews·Sohu",
    "domain": "memory",
    "published": "2026-11-16",
+   "summary": "",
+   "first_seen": "2026-11-16",
+   "last_seen": "2026-11-16",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "7b3d9abbdddcffe0a78c5088d802176575546e31",
+   "title": "为何台积电难以被打败？核心真不是几百台EUV光刻机",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12cHA1eDF2ZEhEUFJtRTM1aFBEWkdJd0ZuM1RVNVpEbXhrVnd5S3BOVHhZejhkVk0zQ0s5em1mbEZwaGpCRmRzdzJtZzJsYThONmNxdWp1dElxc2tNMFh3ag?oc=5",
+   "source": "GoogleNews·Sohu",
+   "domain": "litho_machine",
+   "published": "2026-11-14",
    "summary": "",
    "first_seen": "2026-11-16",
    "last_seen": "2026-11-16",
