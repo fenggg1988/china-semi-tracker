@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16 03:31:02",
- "count": 1768,
+ "updated": "2026-11-16 08:35:12",
+ "count": 1772,
  "items": [
   {
    "id": "2b7ca8b141108fcbc9a728a949fa065be02e2623",
@@ -28,6 +28,62 @@
    "bt": 0,
    "co": [
     "长江存储"
+   ]
+  },
+  {
+   "id": "1aee19707bfdc37226172635ff06a07ad43a436f",
+   "title": "英伟达风波引发两党施压 美国国会酝酿收紧AI芯片对华出口限制",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586514.htm",
+   "source": "cnBeta",
+   "domain": "logic",
+   "published": "2026-11-16",
+   "summary": "美国国会正在酝酿进一步收紧先进人工智能芯片对华出口的限制。随着围绕英伟达前首席执行官黄仁勋及其与新加坡商界人士艾丽丝·黄（Alice Huang）关系的争议持续发酵，美国两党议员开始重新审视现有芯片出口管制政策，并推动将更多限制措施写入法律。 阅读全文",
+   "first_seen": "2026-11-16",
+   "last_seen": "2026-11-16",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "7415d55242bf89b45e18fb3d5b98cf84065c193b",
+   "title": "上海微电子新一代前道光刻机平台模型亮相进博会",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0OHFxbldlYjBIcU92ajRFVnZaYkxLcEdDY3BYaTdDV21ROV9NR2lkekJwcTJJNlZ6R1k2VHE0MV96aXB1UTJVMFhNeHhRdDd6MUxzRERR?oc=5",
+   "source": "GoogleNews·腾讯新闻",
+   "domain": "litho_machine",
+   "published": "2026-11-08",
+   "summary": "",
+   "first_seen": "2026-11-16",
+   "last_seen": "2026-11-16",
+   "bt": 0,
+   "co": [
+    "上海微电子"
+   ]
+  },
+  {
+   "id": "de0e78301c139a339862aa00948f9d21cad41629",
+   "title": "DRAM内存依赖EUV光刻机，但NAND闪存，不需要EUV",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOR1VTek00RklKTGs3ZWU4SWdmblpwa1BucHloTUJVRUFCd3ZYeWY4dEFVajBlN1NTY0ZEQnhKVVpMdHM0STl3U1M4c1QxbVVVVE5tQk1xcnRkaFNyU0s2amlWRHpRam56aDQ0MzNkYVJXeDd1TGtjblVyR2dhcWYteERxOUM4eW5YcnVvYg?oc=5",
+   "source": "GoogleNews·Sohu",
+   "domain": "litho_machine",
+   "published": "2026-11-15",
+   "summary": "",
+   "first_seen": "2026-11-16",
+   "last_seen": "2026-11-16",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "0400097db6830bf56712abaec287737c2c1723ef",
+   "title": "佳能将发售扫描式半导体光刻机，波长光电涨超13%",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObUJCa3RfM3NneWVyUlNWTnpqRURPQ3pCbHB5RnlrSWs2RF9iZUlqQnY2WTVEOFBieUhIOVl6NzhkNkVzSkNHVVJYTGRHWWFxSVVjSlVHWFN4TzNpNmI4TGVrY0tTR2d0ajBKdFU0Zi02TUlXV1ljU09ZaUdDRUI4OGdkbUdoWmU1VWxQTA?oc=5",
+   "source": "GoogleNews·Sohu",
+   "domain": "optics",
+   "published": "2026-11-13",
+   "summary": "",
+   "first_seen": "2026-11-16",
+   "last_seen": "2026-11-16",
+   "bt": 0,
+   "co": [
+    "波长光电"
    ]
   },
   {
@@ -164,7 +220,7 @@
    "published": "2026-11-12",
    "summary": "",
    "first_seen": "2026-11-15",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "bt": 0,
    "co": []
   },
@@ -177,7 +233,7 @@
    "published": "2026-11-14",
    "summary": "",
    "first_seen": "2026-11-15",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "bt": 0,
    "co": [
     "长光华芯"
@@ -1690,7 +1746,7 @@
    "published": "2026-11-11",
    "summary": "",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "bt": 0,
    "co": []
   },
@@ -1770,7 +1826,7 @@
    "published": "2026-11-10",
    "summary": "",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "bt": 0,
    "co": [
     "长江存储"
@@ -1815,7 +1871,7 @@
    "published": "2026-11-11",
    "summary": "",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "bt": 0,
    "co": [
     "长江存储"
@@ -1885,7 +1941,7 @@
    "published": "2026-11-12",
    "summary": "",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-14",
+   "last_seen": "2026-11-16",
    "bt": 0,
    "co": [
     "长江存储"
@@ -2317,7 +2373,7 @@
    "published": "2026-11-10",
    "summary": "",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-11",
+   "last_seen": "2026-11-16",
    "bt": 2,
    "co": []
   },
@@ -2652,7 +2708,7 @@
    "published": "2026-11-11",
    "summary": "",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-11",
+   "last_seen": "2026-11-16",
    "bt": 0,
    "co": []
   },
@@ -2691,7 +2747,7 @@
    "published": "2026-11-11",
    "summary": "",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "bt": 0,
    "co": []
   },
@@ -2817,7 +2873,7 @@
    "published": "2026-11-11",
    "summary": "",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-11",
+   "last_seen": "2026-11-16",
    "bt": 0,
    "co": []
   },
@@ -2830,7 +2886,7 @@
    "published": "2026-11-11",
    "summary": "",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "bt": -3,
    "co": []
   },
@@ -3022,7 +3078,7 @@
    "published": "2026-11-04",
    "summary": "",
    "first_seen": "2026-11-10",
-   "last_seen": "2026-11-11",
+   "last_seen": "2026-11-16",
    "bt": 0,
    "co": []
   },
@@ -4212,7 +4268,7 @@
    "published": "2026-11-05",
    "summary": "据Digitimes报道，全球光刻机巨头ASML在2026年第三季度财报中释放了明确信号：受AI驱动的先进逻辑与存储芯片扩产潮推动，行业供不应求的局面将至少持续到2028年，且ASML自身的产能已成为全产业链的关键瓶颈。 阅读全文",
    "first_seen": "2026-11-06",
-   "last_seen": "2026-11-10",
+   "last_seen": "2026-11-16",
    "bt": 2,
    "co": []
   },
@@ -5643,7 +5699,7 @@
    "published": "2026-11-03",
    "summary": "",
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "bt": 4,
    "co": []
   },
@@ -6431,7 +6487,7 @@
    "published": "2026-11-02",
    "summary": "",
    "first_seen": "2026-11-02",
-   "last_seen": "2026-11-05",
+   "last_seen": "2026-11-16",
    "bt": 0,
    "co": []
   },
@@ -9527,7 +9583,7 @@
    "published": "2026-10-29",
    "summary": "",
    "first_seen": "2026-10-29",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-11-16",
    "bt": 0,
    "co": []
   },
@@ -10236,7 +10292,7 @@
    "published": "2026-10-28",
    "summary": "",
    "first_seen": "2026-10-28",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "bt": 0,
    "co": []
   },
@@ -21340,7 +21396,7 @@
    "published": "2026-10-10",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-11-02",
+   "last_seen": "2026-11-16",
    "bt": 2,
    "co": []
   },
