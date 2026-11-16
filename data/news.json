@@ -1,7 +1,35 @@
 {
- "updated": "2026-11-16 08:35:12",
- "count": 1772,
+ "updated": "2026-11-16 15:28:19",
+ "count": 1784,
  "items": [
+  {
+   "id": "c4a8d7d11c0667b374e5393c1e9282131c0990c0",
+   "title": "Rapidus 社长小池淳义重申企业计划：2027 年末 ~2028 年初启动 2nm 量产",
+   "url": "https://www.ithome.com/1/027/687.htm",
+   "source": "IT之家",
+   "domain": "logic",
+   "published": "2026-11-16",
+   "summary": "IT之家 11 月 16 日消息，据《朝日新闻》当地时间 13 日报道，日本先进半导体制造企业 Rapidus 社长小池淳义同日在东京表示，该企业计划在 2027 年末 ~ 2028 年初启动 2nm 尖端逻辑制程的量产。Rapidus 此前确定了 2027 财年下半期（2027 日历年 10月 ~ 2028 日历年 ",
+   "first_seen": "2026-11-16",
+   "last_seen": "2026-11-16",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "30b2ee831a1cddf2bbeb8b17de4065103faa3322",
+   "title": "上海微电子国产化率破90%，光刻机产业链借势“上桌”",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1BbmVoTnRMem1RTUVvRVNnR01IUWw2NGpfOEdvLVFhcHFNZ1l4YnhTUUZGSzdWWU1RVkpxTHpYSlJsLUhsOFh2NzdEVUtRaFNxRUdWeXVMTU50UC1teUFoTnpIVk4xVzNMME1rQTd3?oc=5",
+   "source": "GoogleNews·中华网财经",
+   "domain": "litho_machine",
+   "published": "2026-11-16",
+   "summary": "",
+   "first_seen": "2026-11-16",
+   "last_seen": "2026-11-16",
+   "bt": 2,
+   "co": [
+    "上海微电子"
+   ]
+  },
   {
    "id": "2b7ca8b141108fcbc9a728a949fa065be02e2623",
    "title": "中芯预警2027产能紧缺！产能充足、布局先进制程的制造封测赛道受益丨大咖星选",
@@ -87,12 +115,148 @@
    ]
   },
   {
+   "id": "d857a4540d814eaf3c4ffc6fb9fd17bc6696bbaf",
+   "title": "华为云：80% 中国具身智能企业选择昇腾云，行业排名第一",
+   "url": "https://www.ithome.com/1/027/690.htm",
+   "source": "IT之家",
+   "domain": "logic",
+   "published": "2026-11-16",
+   "summary": "IT之家 11 月 16 日消息，在今日的华为云 CloudRobo 具身世界模型发布会上，华为云方面透露，华为昇腾云在具身智能市场格局中排行中国第一，已有 80% 的中国具身智能企业选择昇腾云，重点高校基本实现全覆盖。2025 年 6 月，华为云发布 CloudRobo 具身智能平台。华为常务董事、华为云计算 BU ",
+   "first_seen": "2026-11-16",
+   "last_seen": "2026-11-16",
+   "bt": 0,
+   "co": [
+    "华为"
+   ]
+  },
+  {
+   "id": "425a727f9028870a6971c5f88256e674ed331256",
+   "title": "华为云发布并开源昇腾原生具身世界模型 CloudRobo-WM1.2",
+   "url": "https://www.ithome.com/1/027/684.htm",
+   "source": "IT之家",
+   "domain": "logic",
+   "published": "2026-11-16",
+   "summary": "IT之家 11 月 16 日消息，在今日的华为云 CloudRobo 具身世界模型发布会上，华为云“行业 AI 梦工厂”正式发布并开源昇腾原生的具身世界模型 CloudRobo-WM1.2，通过五大核心技术突破，加速具身智能从实验室走向规模化落地。CloudRobo-WM1.2 模型采用共享世界模型骨干网络实现预测增强",
+   "first_seen": "2026-11-16",
+   "last_seen": "2026-11-16",
+   "bt": 0,
+   "co": [
+    "华为"
+   ]
+  },
+  {
+   "id": "af5fd16dbd7938a9e40e00e2b702a5ca69790e97",
+   "title": "华为麒麟 9050 系列芯片智能音视频处理情报公开：低延迟 AI 异构协同计算、率先支持 H.266 解码",
+   "url": "https://www.ithome.com/1/027/574.htm",
+   "source": "IT之家",
+   "domain": "logic",
+   "published": "2026-11-16",
+   "summary": "IT之家 11 月 16 日消息，华为官方今日继续揭秘首款「逻辑折叠」技术 τ 芯片 —— 麒麟 9050 系列更多配置信息，今日最新公开了智能音视频处理能力的情报。据介绍，华为麒麟 9050 系列芯片搭载新一代音视频处理器，音频性能提升 30%，支持新一代音频 DSP、H.266 视频硬解码和低延迟 AI 异构协同计",
+   "first_seen": "2026-11-16",
+   "last_seen": "2026-11-16",
+   "bt": 0,
+   "co": [
+    "华为"
+   ]
+  },
+  {
+   "id": "d723975f1ada8abdf66257f1c341188f4e08f5a6",
+   "title": "粤芯半导体(301660.SZ)：硅光产品目前涵盖400G、800G及1.6T高速可插拔硅光光模块应用_公司新闻_财经",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wZWtGTXRFWTN0RzNxSUJpdjFma1Z0eTV3TS1tUWl4X1I2ZGZzM01uTnF6QzVBVTBCMl96WXdxU2I3VGg2LTJINTNXaW5JRE41TVJVQWJBUHVIeWtDblphMQ?oc=5",
+   "source": "GoogleNews·证券之星",
+   "domain": "optical_comm",
+   "published": "2026-11-16",
+   "summary": "",
+   "first_seen": "2026-11-16",
+   "last_seen": "2026-11-16",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "1dc72d0b9c1e11082d4c3b6cbc8bc26a1c7bc293",
+   "title": "ScaleFibre携手硅光子合作伙伴推出​AI光模块及NPO",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5SNVNBSmpDLVVuRU5xSTBzdUJHdUlINnJSV2htenRXNlJyeXIweWNXQU5xSFZ3NVdoeFZWamVZR211M2k2M3pwckEwdkxLM281SThWbmlsTXBBOVRHQlVydVNRTHBCSVIxR2swRVMxcUhYMHphVkdaNw?oc=5",
+   "source": "GoogleNews·讯石光通讯网",
+   "domain": "optical_comm",
+   "published": "2026-11-16",
+   "summary": "",
+   "first_seen": "2026-11-16",
+   "last_seen": "2026-11-16",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "cfc245a8a9c2d2e5daf11b13bb657883e230e74b",
+   "title": "长鑫科技骆晓东称内存需求进入分层时代车载存储需求年复合增速约30%_滚动新闻_财经",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96Z3hrLUlacHJudm1xcGRTQUF4eFBkOUN1cFZWSWtydGd1cGpBYTVqSTFSTUJLOUhnc3BOUnZRMlp2VzVpU3JHR2FkX1JXNFlSWkJNWDhWQU1fYUhIZDJJeA?oc=5",
+   "source": "GoogleNews·证券之星",
+   "domain": "memory",
+   "published": "2026-11-12",
+   "summary": "",
+   "first_seen": "2026-11-16",
+   "last_seen": "2026-11-16",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "ed58b79c4e1c8e39c73a78c9033198ace13ebae8",
+   "title": "打不过就封杀！美方不许国产存储芯片出海 怕中国同行追上",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5MQ2x6bUNlQ1dkbFQtckJEVmpza3dnQ3RWOUtTMm05d3RubEJCLUgtZHFENWRWenNialJDaXhhUndHek9ROXpUQVlXRlZuR0hLbThaSTV2RWg?oc=5",
+   "source": "GoogleNews·驱动之家",
+   "domain": "memory",
+   "published": "2026-11-16",
+   "summary": "",
+   "first_seen": "2026-11-16",
+   "last_seen": "2026-11-16",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "f2aff2e1116660e8c2df307ecb7611eb6d607c80",
+   "title": "黄仁勋“下野”，芯片收紧成定局，国产GPU又要赢了？",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObkRHMTFsZU9QTnB6ZHdKc09kMEE1bXZ6ZTVWOFYwTUhQTFZGQnd2RlRqbnViX0Z5bkJ6SG1GN2JOZkEwQ1hmXzZ0TUlwVTVrbnk4cUdqeTEybVEtcGhEWW9sc0htZTFmUmJ0MktXbkhHdnBqdzlaZURESllXZVhOM2NSbVRRMWNs?oc=5",
+   "source": "GoogleNews·Sohu",
+   "domain": "logic",
+   "published": "2026-11-16",
+   "summary": "",
+   "first_seen": "2026-11-16",
+   "last_seen": "2026-11-16",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "c65acd6803762517163bd4cb0fd9e2eba9b85620",
+   "title": "国产DDR5新进展，DRAM供不应求态势延续",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMml5MWcxQjZGUDhnY3FzckYwbTdPdmQ2OHlORTBib3ZOem5CaExoNnBtOTZ0ZXBxd0R1YXM4ZktueV9PUklZamJFdzBXRDZVbXp5UjM1bXlKV0JPd0tPLTl4WXZRNU5nQ1ZrOWhNcGI5cl93Wl9MbzAxd3FpT3ZuX2Q2MzZJRHdsZHROdw?oc=5",
+   "source": "GoogleNews·Sohu",
+   "domain": "memory",
+   "published": "2026-11-16",
+   "summary": "",
+   "first_seen": "2026-11-16",
+   "last_seen": "2026-11-16",
+   "bt": 0,
+   "co": []
+  },
+  {
    "id": "0bcb5d6f603e8360df8eab930d41a54f213bfa25",
    "title": "GF：硅光营收目标提前一年 与前十大光收发器供应商中的7家合作",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE54U0NjUC1KNm5RSm9OSWlfLVNBMjFOMTdiY0IxVWs3cGdiRmcyR1RDcVJ6RXUtVGN5NFlmM0psYXRsNEgwM2tjV1RaY0JHTmtFeWtNRnk3RUVGeWpUTEx0cXpBU2xHSVNuRUQySTFrVWtDVEJySVU4?oc=5",
    "source": "GoogleNews·讯石光通讯网",
    "domain": "optical_comm",
    "published": "2026-11-05",
+   "summary": "",
+   "first_seen": "2026-11-16",
+   "last_seen": "2026-11-16",
+   "bt": -3,
+   "co": []
+  },
+  {
+   "id": "369006a391fe6298428c7a492dfda8852471c107",
+   "title": "英伟芯完成数亿元多轮融资，深耕下一代高速光互连",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jcEh4Y1FmajVQb21jRDJ2YklJRDRqMVFOdVlKLVVaemw4ZlRmYXFOeXktSndlZUdaNmlyYTIzUUR2ZUo0UkVMbDhXcGN3bXR0d0E2Wnp3?oc=5",
+   "source": "GoogleNews·投资界",
+   "domain": "optical_comm",
+   "published": "2026-11-16",
    "summary": "",
    "first_seen": "2026-11-16",
    "last_seen": "2026-11-16",
@@ -480,7 +644,7 @@
    "published": "2026-11-13",
    "summary": "",
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "bt": 0,
    "co": []
   },
@@ -650,7 +814,7 @@
    "published": "2026-11-12",
    "summary": "",
    "first_seen": "2026-11-13",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "bt": 4,
    "co": [
     "新易盛"
@@ -678,7 +842,7 @@
    "published": "2026-11-12",
    "summary": "",
    "first_seen": "2026-11-13",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "bt": 2,
    "co": [
     "新易盛"
@@ -1204,7 +1368,7 @@
    "published": "2026-11-13",
    "summary": "",
    "first_seen": "2026-11-13",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "bt": 0,
    "co": []
   },
@@ -2332,7 +2496,7 @@
    "published": "2026-11-10",
    "summary": "",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "bt": 2,
    "co": [
     "剑桥科技"
@@ -2585,7 +2749,7 @@
    "published": "2026-11-10",
    "summary": "",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-11",
+   "last_seen": "2026-11-16",
    "bt": 0,
    "co": []
   },
@@ -8018,7 +8182,7 @@
    "published": "2026-10-30",
    "summary": "",
    "first_seen": "2026-10-30",
-   "last_seen": "2026-11-13",
+   "last_seen": "2026-11-16",
    "bt": 4,
    "co": []
   },
