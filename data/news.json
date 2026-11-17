@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17 01:43:51",
- "count": 1802,
+ "updated": "2026-11-17 08:16:32",
+ "count": 1810,
  "items": [
   {
    "id": "6b12298d43332138aba95479b02bc9ec5b590b7d",
@@ -177,6 +177,114 @@
    "source": "GoogleNews·第一财经",
    "domain": "memory",
    "published": "2026-11-15",
+   "summary": "",
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "5a5a09fba2fe8ac88b4e162f59aeb37e1275412f",
+   "title": "没有EUV光刻机，挡不住中国存储芯片",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zUUhkM2t0a0JuaG1IdEhYTzhFZXpoZTlTcmxRd0RvWHAwa2tyNThjbUN2T2t2ZjNFNFNUa3lmdS1lSFBGbHpMYzd5NWJIaUt4b0E4?oc=5",
+   "source": "GoogleNews·Sohu",
+   "domain": "litho_machine",
+   "published": "2026-11-15",
+   "summary": "",
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "f4ac8c37cae8b44b693ce1d9fbd01ebfa1d1bbe0",
+   "title": "茂莱光学(688502.SH)：“茂莱转债”将于11月23日付息_公司新闻",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVVTNwYUJfNGtMc3ZXZ0EyZ3c4Z0x5YllhdUgwVkxXNVJGdjBybV9Ca2lzVzhSTzNiTzY0TVNhSHZzb0VPUFBfMFVyRldqNi1zeHZHZTdkcXVwcW5ZUEo3Xw?oc=5",
+   "source": "GoogleNews·证券之星",
+   "domain": "optics",
+   "published": "2026-11-16",
+   "summary": "",
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17",
+   "bt": 0,
+   "co": [
+    "茂莱光学"
+   ]
+  },
+  {
+   "id": "656236dc3f52f523f89b99ee9deb3b0682d87bf5",
+   "title": "茂莱光学(688502):“茂莱转债”2026年付息",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mQkJqU1NUakx1M01LMFQ2bkx0dUVibTVwb1VoSXJlS2FQVllZbUk4ZTgzZ1AtclhrdVVQWkx6aXh0ajFwS1B3cmU0dDZ4ajg1N1h1R2lB?oc=5",
+   "source": "GoogleNews·中财网",
+   "domain": "optics",
+   "published": "2026-11-16",
+   "summary": "",
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17",
+   "bt": 0,
+   "co": [
+    "茂莱光学"
+   ]
+  },
+  {
+   "id": "23578ae2ce37157df04432d8b345bbfaeebedd41",
+   "title": "光刻机板块异动拉升",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQk9WWWRGTEhWMFN2YUI4OWltNlpUS1NGY0VuVWk2cU1taW1uOGpYZVNfd3VSdlBvMFRaWUxBZFJ3bjZranRONUNIVkU0ZnZ2eGNvTjU5dUx5M0RaLVVERUlyUVlDX1B2TFZia3V3UE91X1dxaGdfdlVVdlp6Y0JEV29KWU53dEZs?oc=5",
+   "source": "GoogleNews·Sohu",
+   "domain": "litho_machine",
+   "published": "2026-11-16",
+   "summary": "",
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "b9911ee0a8ab69812983221e3cf93428d6b0a621",
+   "title": "金信诺11月16日回应800G光模块话题：800G与1.6T光模块PCB同步研发，中高端产品线已小批量供货",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE81X0pEeFQtLTlpLXdpQkY4WmJSV3NmX1Ywc0VualZVdmNCeHBSWkhiR0tHdXRwLTMwRVZxcG5OaWcycnBnNU5veHVZa09TcUJ5RGhoU0tLLWVkMTRRV3RGeHFR?oc=5",
+   "source": "GoogleNews·证券之星",
+   "domain": "optical_comm",
+   "published": "2026-11-17",
+   "summary": "",
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "f19b7887ac60120703f96a4c869670df4d520a3b",
+   "title": "金信诺披露800G与1.6T光模块PCB同步研发策略",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5yX3FEMEF3ZUtEb2RiMHFCeWd1N3A5Q1I5YzQ2UUJlUTBXRXFkaVVaQWtXMGtsMG41ZnptX2pPVHZDZHVoRFZJSFNueDR0QQ?oc=5",
+   "source": "GoogleNews·观点网",
+   "domain": "optical_comm",
+   "published": "2026-11-16",
+   "summary": "",
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "502cea4189ac60c47b17e918b24b9a587507a517",
+   "title": "超声电子11月16日回应光模块PCB话题：800G、1.6T光模块配套PCB在研究跟进中_公司新闻",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5wVVoxSzJRZE9iVTlNYkxtVTVrdGNQRjBhWDNDcnlub1RHT0RYODZDaDkxc2RDZ09OWXRJeW5HVFdBbmNfZGJlX2dLNG8tWUxmRXhubnBkdlpjRW5kdURTVnhB?oc=5",
+   "source": "GoogleNews·证券之星",
+   "domain": "optical_comm",
+   "published": "2026-11-17",
+   "summary": "",
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "e43a9c9b2ab258b2fd1d3237b201332004c91361",
+   "title": "花旗对话内存行业专家：传统DRAM紧缺延续至明年，HBM短缺最为严峻，NAND或于明年H2转入供给过剩提供者智通财经",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ndE5zRDNDUHVobDJvcUt1dm5vc0doaTF3X1NyME5iSll5eVRUV0VObkh5bzluUGRIejFQRWxyTk9IQmpsdXM5YmM1a3JuTVVWUW1oLXhQc1daV3VaN25pUDVTd1RPWXhXRFpaVzZWako?oc=5",
+   "source": "GoogleNews·英为财情 Investing.com",
+   "domain": "memory",
+   "published": "2026-11-16",
    "summary": "",
    "first_seen": "2026-11-17",
    "last_seen": "2026-11-17",
@@ -479,7 +587,7 @@
    "published": "2026-11-14",
    "summary": "",
    "first_seen": "2026-11-16",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "bt": 0,
    "co": []
   },
@@ -505,7 +613,7 @@
    "published": "2026-11-16",
    "summary": "",
    "first_seen": "2026-11-16",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "bt": -3,
    "co": []
   },
@@ -1694,7 +1802,7 @@
    "published": "2026-11-13",
    "summary": "",
    "first_seen": "2026-11-13",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "bt": 0,
    "co": []
   },
@@ -2037,7 +2145,7 @@
    "published": "2026-11-12",
    "summary": "",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "bt": 2,
    "co": []
   },
@@ -2281,7 +2389,7 @@
    "published": "2026-11-11",
    "summary": "",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "bt": 0,
    "co": [
     "长江存储"
@@ -3157,7 +3265,7 @@
    "published": "2026-11-11",
    "summary": "",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "bt": 0,
    "co": []
   },
@@ -3853,7 +3961,7 @@
    "published": "2026-11-08",
    "summary": "",
    "first_seen": "2026-11-09",
-   "last_seen": "2026-11-11",
+   "last_seen": "2026-11-17",
    "bt": 2,
    "co": []
   },
@@ -10443,7 +10551,7 @@
    "published": "2026-10-11",
    "summary": "",
    "first_seen": "2026-10-28",
-   "last_seen": "2026-10-31",
+   "last_seen": "2026-11-17",
    "bt": 2,
    "co": []
   },
