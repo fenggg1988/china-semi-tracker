@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17 08:16:32",
- "count": 1810,
+ "updated": "2026-11-17 16:41:11",
+ "count": 1828,
  "items": [
   {
    "id": "6b12298d43332138aba95479b02bc9ec5b590b7d",
@@ -13,6 +13,86 @@
    "first_seen": "2026-11-17",
    "last_seen": "2026-11-17",
    "bt": 4,
+   "co": []
+  },
+  {
+   "id": "52d7c58e6216fa2bd8f16d18fa902514dcb2c756",
+   "title": "银河麒麟操作系统推出高质量硬件认证体系 KHQL，覆盖桌面与服务器双平台",
+   "url": "https://www.ithome.com/1/028/271.htm",
+   "source": "IT之家",
+   "domain": "logic",
+   "published": "2026-11-17",
+   "summary": "IT之家 11 月 17 日消息，麒麟软件今日推出面向银河麒麟操作系统 V11 的高质量硬件认证体系 KHQL，覆盖桌面 + 服务器双平台。目前部分厂商可通过平台进行申请，在完成标准化、自动化的测试验证和复测审核后，获取 KHQL 认证证书，并经官方分发体系将硬件驱动交付给客户使用。据官方介绍，KHQL 针对不同硬件品",
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "cfa36cab9a83d9ffed720a0eb83f405cf47519ce",
+   "title": "全球AI眼镜出货量暴涨，相关概念股逆势上涨，茂莱光学涨超7%",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA0d2l6a1Z3WEtOTXZBOTF5T0RyRTZkV0Jqc2NVd1FaNHktWGxrRUU1LWs2WV82SHhBOWNZT2hCZXA3eDdkRGEwZ2l3WTg5Rk5RaGtJdE53OTJuN3lvOTZXX0pmdw?oc=5",
+   "source": "GoogleNews·金融界",
+   "domain": "optics",
+   "published": "2026-11-17",
+   "summary": "",
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17",
+   "bt": 2,
+   "co": [
+    "茂莱光学"
+   ]
+  },
+  {
+   "id": "59b0b7fe7aa8d6523d5775b775da57ad44d18a1e",
+   "title": "南亚新材：公司产品已覆盖800G/1.6T光模块 M10层级材料在海外核心算力终端认证测试",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE91eGlqQkZZSDBFbFVDWjg3VWFwaHNTckJXcHVGb0F0R29BcE9kQjlSbUJibFZvREdoeW83VkRXN3JsQW9NVmdDTk5nTHhETGlybjlnSVBHRVdLQjc5U19HYzhQTFV0UQ?oc=5",
+   "source": "GoogleNews·东方财富",
+   "domain": "optical_comm",
+   "published": "2026-11-17",
+   "summary": "",
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "30651f26f773b372c54a110619d2dbe3cd0fdbf5",
+   "title": "首发｜海归博士做硅光芯片，一轮拿到数亿元",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVUnRkclJfSnZGdlpYSHk2SHdrbUJHSDJwWWloS3ByVXNEYWdmMlNYR1BGMDIyQ2tQeUxkb0czM1V5a2lEUzJjQ1RLeU1OZmVlRmJ5MGlWc3c1Mm1pUFZvSkhhUTJrVGhYRE9B?oc=5",
+   "source": "GoogleNews·投中网",
+   "domain": "optical_comm",
+   "published": "2026-11-06",
+   "summary": "",
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "8995031a4c6a4717ed368db6f1200b83822af91a",
+   "title": "英伟达进入交接过渡期 国产GPU替代迎来关键窗口：市场份额突破41%",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBRRUtjZmp3ZDBaY0RMYWpaSENvb1FDSDRmRzQ1VUpkakJPeEZ2dmNiOWNlRjl5UmdWb0N5T080WGZtVDRYd0xkeTVadEtmVnM?oc=5",
+   "source": "GoogleNews·维科号",
+   "domain": "logic",
+   "published": "2026-11-17",
+   "summary": "",
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "a63ad4abde34b785fff738c4d016e2c0df08915a",
+   "title": "HBM扩产潮叠加日系涨价 光刻胶国产替代迎关键窗口期 多股获融资客抢筹(名单)",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51VThxcklnazdhQVFqd0g2Rk5EaHFHZG9IT0c5eGhITG9HQU9CQ2JLY2JlX2JPSDZSdDZBOWV1RGlzcWFLcnlXRjRLbUdEVGhUX0hwSnU1ZE5BdGZQNklmRmtOa2NuTjRaX1E?oc=5",
+   "source": "GoogleNews·中金在线",
+   "domain": "photoresist",
+   "published": "2026-11-17",
+   "summary": "",
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17",
+   "bt": 1,
    "co": []
   },
   {
@@ -292,6 +372,155 @@
    "co": []
   },
   {
+   "id": "8c32de86862ee9379881902b1a594dfb5b178849",
+   "title": "SK海力士前三季度资本支出超2025年全年，加码HBM与先进制程",
+   "url": "https://www.chinaflashmarket.com/a/184421",
+   "source": "闪存市场",
+   "domain": "memory",
+   "published": "",
+   "summary": "",
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "63472b8590a29c510242d53b0baffc297f8eef09",
+   "title": "消息称华为 Mate X8 大折叠手机将搭载第二代灵珑屏 + 麒麟 N 代旗舰芯，支持 10X 光变巨炮",
+   "url": "https://www.ithome.com/1/028/278.htm",
+   "source": "IT之家",
+   "domain": "logic",
+   "published": "2026-11-17",
+   "summary": "IT之家 11 月 17 日消息，华为 Mate X8 及全场景新品发布会今日官宣定档 11 月 24 日 14:30 举行。届时，华为将发布最新一代大折叠旗舰手机。博主 @数码闲聊站 刚刚发文透露了华为 Mate X8 的核心配置信息：8.15\"+6.5\"± 大尺寸新屏，第二代灵珑屏，麒麟 N 代旗舰芯，6 开头大电",
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17",
+   "bt": 0,
+   "co": [
+    "华为"
+   ]
+  },
+  {
+   "id": "b5997d2ec7c2f903263f26ba760152f496371e33",
+   "title": "Marvell、Penguin 共推业界首款多机架光学 I/O 内存池，提供 HBM 级带宽",
+   "url": "https://www.ithome.com/1/028/261.htm",
+   "source": "IT之家",
+   "domain": "memory",
+   "published": "2026-11-17",
+   "summary": "IT之家 11 月 17 日消息，Marvell、Penguin 双方当地时间昨日宣布面向 AI 内存需求达成战略合作，共同推出 DDR4 CXL 内存扩展卡、业界首款多机架光学 I/O 内存池 MemoryAI Photonic Appliance。这一解决方案使得多个 XPU 能通过光学 I/O 在数米的距离上共享",
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "c41d51813e7488100232aede895709eecfa7791a",
+   "title": "PFN 延续垂直堆叠逻辑与 DRAM 路线，MN-Core L2000 芯片目标倍增内存带宽",
+   "url": "https://www.ithome.com/1/028/240.htm",
+   "source": "IT之家",
+   "domain": "memory",
+   "published": "2026-11-17",
+   "summary": "IT之家 11 月 17 日消息，日本人工智能初创企业 Preferred Networks (PFN) 当地时间今日宣布，其在 AI 推理加速器 MN-Core L2000 上将延续与芯片设计服务企业 SEMIFIVE、芯片合同制造服务商三星电子的合作，继续打造垂直堆叠逻辑芯片与 DRAM 内存的产品。PFN 的 M",
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "9d761ef259babc465ebd019e61d5a7e78e105955",
+   "title": "消息称三星电子为 Meta 开发基于 HBM4E 的定制 HBM，配备 2nm 基础裸片",
+   "url": "https://www.ithome.com/1/028/234.htm",
+   "source": "IT之家",
+   "domain": "memory",
+   "published": "2026-11-17",
+   "summary": "IT之家 11 月 17 日消息，韩媒 the bell 当地时间本月 13 日报道称，三星电子正为 Meta 专有 ASIC 项目开发定制 HBM 内存。这一产品基于标准 HBM4E，但配备定制基础裸片 (Base Die)。三星电子直到 HBM5 才会在通用 HBM 上使用基于自家 2nm 工艺的基础裸片，而 Me",
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "e05a69fcba892386aebf3b3b39536166aece617f",
+   "title": "罕见拟签长期供货协议 苹果将采购三星DRAM锁定供应",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586776.htm",
+   "source": "cnBeta",
+   "domain": "memory",
+   "published": "2026-11-17",
+   "summary": "据报道，三星电子与苹果即将签署一份DRAM半导体长期供货协议（LTA）。苹果作为全球规模最大的消费电子企业，也是头部科技大厂中唯一尚未与三星电子签订长期供货协议的企业。 阅读全文",
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "a71e293d7feb11f614832c319390b6d5765fcdb8",
+   "title": "国科天成：光刻机物镜系统透镜样品批次通过测试暂无批量供应能力",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1fbmRwTDB3ZWQ2MzFnMFE4RE9rc2VxQTBwYXRRRmtKdzJzMUZWUEJKUXFBZ3pzZU5URHdfaWY3UlhGcTJjb29EMlJn?oc=5",
+   "source": "GoogleNews·集微网",
+   "domain": "optics",
+   "published": "2026-11-16",
+   "summary": "",
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "4a7d78b7d0d680314ebbffb2fed4fa8e260cba34",
+   "title": "芯片产业链逆势走强 伟测科技、华虹宏力涨超10%",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE94Rm9ITFFPbFRTclRqRmtaNFNFUGMtMnVrZWxqWGNoN0c0a1lTaVRQb3pTNUYtYWRxaWtuLWJZSlhnbDNqWF9rSnBFblpfYWM0YWxENnlLamE5TUcyLWRvblU4U1B6T2V3TVZtb0JyU2xFUQ?oc=5",
+   "source": "GoogleNews·新浪财经_金融信息服务商",
+   "domain": "logic",
+   "published": "2026-11-17",
+   "summary": "",
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17",
+   "bt": 0,
+   "co": [
+    "华虹"
+   ]
+  },
+  {
+   "id": "30d152c5320c2e2e4de4e1daf3744802e613c6e1",
+   "title": "太平洋：给予彤程新材买入评级_券商研报_数据解析",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFSmx0S1cyREdUWnlWb1NtWVp3VXE3OEtTVFFmLVVmd2xMS1kzdkNheGp1ZlUySmIzUFhpUHRVVTJUanZ1YUR5bkJCQ0QxUFF3akUwTkZWcDh3TW9yRTMxbGxn?oc=5",
+   "source": "GoogleNews·证券之星",
+   "domain": "photoresist",
+   "published": "2026-11-17",
+   "summary": "",
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17",
+   "bt": 0,
+   "co": [
+    "彤程新材"
+   ]
+  },
+  {
+   "id": "02393053f7f595f830b1bae4f981f5cebb0bc5c3",
+   "title": "粤芯半导体：公司的硅光产品目前涵盖400G、800G及1.6T高速可插拔硅光光模块运用_公司新闻",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2ODc2ck9DTjRPWFpYcVY2TW1ueEpvLUlNWW9uYTJLcUxYVW1aN1o1Z0IwSk5mNkhvdFE2VmVDSGFlYUN2eFNBeHR6SDZhTWJhQ0hPdHp4dHk5STZQSDl2SA?oc=5",
+   "source": "GoogleNews·证券之星",
+   "domain": "optical_comm",
+   "published": "2026-11-17",
+   "summary": "",
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "f4684594c9ee144203d0ebeca43a05e87f52bb39",
+   "title": "中国半导体“双长”的十年：在DRAM和NAND领域紧追三星、SK海力士: 中国·国际",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBNWFZCeU9peU1xcjN5dDhUcE9GOEY0U29JTHRONTVTOUI1bGdnd29ZMmVRUF83YlUydjdrV3I4aDdSa1RfYnZfRlJzejZmcUJYMW1wSDI5eE9xOEd6OVp6S3Uwa1E?oc=5",
+   "source": "GoogleNews·韩民族日报",
+   "domain": "memory",
+   "published": "2026-11-17",
+   "summary": "",
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17",
+   "bt": 0,
+   "co": []
+  },
+  {
    "id": "d7ac8d1c3a43ac74aed2e228771396c962f49763",
    "title": "提供全栈国产化高速光互连解决方案，英伟芯完成累计数亿元多轮融资",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6NUl2TDdDRkROaE9SVm92c3BJY0l4NUwzYlhIb2l5eG5tN3I0Q0NmNVlpU21yYTdGdnozN2F2OUhNZXpGQTc1UFFRNWdaSkVCV0ZvZ0s3TjhpM2EtcFY0TjEydjdrWUQ0VVFaZnVSMjgtaTFSRWpoRA?oc=5",
@@ -338,6 +567,19 @@
    "domain": "optical_comm",
    "published": "2026-11-16",
    "summary": "",
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17",
+   "bt": -3,
+   "co": []
+  },
+  {
+   "id": "08d915d64bc6ee5cdf83fa5cf3bb2afcbf787bc9",
+   "title": "黄仁勋离职风波未平 美股芯片存储光通信板块集体跳水",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1586744.htm",
+   "source": "cnBeta",
+   "domain": "optical_comm",
+   "published": "2026-11-17",
+   "summary": "受英伟达CEO黄仁勋辞职事件持续影响，周一美股三大指数集体收跌，截至收盘道琼斯指数跌1.41%报51608.17点，标普500指数跌1.92%报7416.59点，纳斯达克综合指数跌2.49%报24509.76点，纳斯达克100指数收跌2.67%。美股恐慌指数VIX（标普500波动率指数）上涨18.7%报22.91点，收",
    "first_seen": "2026-11-17",
    "last_seen": "2026-11-17",
    "bt": -3,
@@ -751,7 +993,7 @@
    "published": "2026-11-14",
    "summary": "",
    "first_seen": "2026-11-15",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "bt": 0,
    "co": [
     "长光华芯"
@@ -3732,7 +3974,7 @@
    "published": "2026-11-10",
    "summary": "",
    "first_seen": "2026-11-10",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-17",
    "bt": 0,
    "co": []
   },
@@ -6515,7 +6757,7 @@
    "published": "2026-11-02",
    "summary": "",
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-17",
    "bt": 0,
    "co": [
     "光迅科技"
