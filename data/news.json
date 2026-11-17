@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-18 00:13:29",
- "count": 1863,
+ "updated": "2026-11-18 01:16:54",
+ "count": 1866,
  "items": [
   {
    "id": "d9fcf7ff3db1067e5e4c81172215386b7dbdbb97",
@@ -321,6 +321,49 @@
    "co": [
     "长鑫存储"
    ]
+  },
+  {
+   "id": "c31274e27ac331e3cf937f11cd9c43f08204d4a6",
+   "title": "茂莱光学(688502):债券持有人可转债持有比例变动达10%",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OZzJMWWJJVHIwMG5Pam95VnlRaWpfUktNdWo4MGMtM2syeVIwSGp5MkQ5cnZDY0R1TTFyT3hDRkFTbDNLQ3BjMFdnSzlTS21lektQcW9B?oc=5",
+   "source": "GoogleNews·中财网",
+   "domain": "optics",
+   "published": "2026-11-17",
+   "summary": "",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "bt": 0,
+   "co": [
+    "茂莱光学"
+   ]
+  },
+  {
+   "id": "e1e3a81a2f61641e0666213d8eefd9f9cd5a7ddb",
+   "title": "中芯国际，逼近全球第二",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1PaTRFY25vZE5LYWRzVEQyQlR2a2I5ZmNvUm03N2pjMENORjROdk5NM0NHZXJlWU1GU0Z2ZXdZX0N2cmdmcmJzbjEybzJRbS04aXU2ME15RjBXWXlyZVFSQzNyMA?oc=5",
+   "source": "GoogleNews·潮起网",
+   "domain": "logic",
+   "published": "2026-11-17",
+   "summary": "",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "bt": 0,
+   "co": [
+    "中芯国际"
+   ]
+  },
+  {
+   "id": "73125aa441801147cec8b32c03ce58c67db0f89e",
+   "title": "吃过长鑫科技“大肉”之后，国元证券要在合肥下一盘大棋",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR1lKWUpxOTJtMUowNVd1cF9HaFRfSFFmTWwyRnZHU2lWOGlLbC1xa2xLY2ZNOGlOMDg5ZFk5dVNQWEFrUlhHUUxiamdPN0hYZHhYZnc3TXBKYmRhOHo5ZU9Xek1MaE52d3htTzdpd2tmSFZmX3NzXzBHai1rcERCVDBvMTUxck9J?oc=5",
+   "source": "GoogleNews·Sohu",
+   "domain": "memory",
+   "published": "2026-11-17",
+   "summary": "",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "bt": 0,
+   "co": []
   },
   {
    "id": "26efbccf849c0cb9bcdcc042712580b7efc2fdf8",
@@ -927,7 +970,7 @@
    "published": "2026-11-07",
    "summary": "",
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-17",
+   "last_seen": "2026-11-18",
    "bt": 0,
    "co": []
   },
@@ -3207,7 +3250,7 @@
    "published": "2026-11-12",
    "summary": "",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-17",
+   "last_seen": "2026-11-18",
    "bt": 0,
    "co": [
     "中芯国际"
@@ -25294,7 +25337,7 @@
    "published": "2026-09-29",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-11-17",
+   "last_seen": "2026-11-18",
    "bt": -3,
    "co": [
     "长鑫存储"
