@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17 16:41:11",
- "count": 1828,
+ "updated": "2026-11-17 16:52:09",
+ "count": 1831,
  "items": [
   {
    "id": "6b12298d43332138aba95479b02bc9ec5b590b7d",
@@ -512,6 +512,45 @@
    "title": "中国半导体“双长”的十年：在DRAM和NAND领域紧追三星、SK海力士: 中国·国际",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBNWFZCeU9peU1xcjN5dDhUcE9GOEY0U29JTHRONTVTOUI1bGdnd29ZMmVRUF83YlUydjdrV3I4aDdSa1RfYnZfRlJzejZmcUJYMW1wSDI5eE9xOEd6OVp6S3Uwa1E?oc=5",
    "source": "GoogleNews·韩民族日报",
+   "domain": "memory",
+   "published": "2026-11-17",
+   "summary": "",
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "e2142dab4563526beb8bbeac5fc09730bf86e72a",
+   "title": "APEC看深圳硬科技：云豹智能算力芯片撑起国家算力网络",
+   "url": "https://www.laoyaoba.com/n/1141187",
+   "source": "集微网",
+   "domain": "logic",
+   "published": "",
+   "summary": "",
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "0705c4f5f28b4384cc608e478292f56511561fa7",
+   "title": "消息称苹果破例与三星洽谈 DRAM 长期供货协议，已启动最后磋商",
+   "url": "https://www.ithome.com/1/028/325.htm",
+   "source": "IT之家",
+   "domain": "memory",
+   "published": "2026-11-17",
+   "summary": "IT之家 11 月 17 日消息，据韩国《每日经济》援引半导体行业消息称，三星电子与苹果即将达成 DRAM 内存芯片长期供货协议。苹果是全球最大的消费电子企业，也是大型科技公司中唯一尚未与三星电子签订长期供货协议的企业。消息称双方正就一份为期 4 至 5 年的长期供货协议进行最后磋商，计划从明年上半年开始供货。协议将规",
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "1bf5613657d0a4aaceb43ac76cbde01d88db70e7",
+   "title": "吃过长鑫科技“大肉”之后，国元证券要在合肥下一盘大棋_公司新闻_财经",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1hSUhtbmE0Q2VTQlJMbjV3anB4cEo5YjJSUDZGQVh0bmMxeG5qdUZ5cndxTGJZZklBaFQtSUE2WWxLVVFEb2lCZmVyNF9lcVpDMjl4dUwzTGZlZVdpNjBFNA?oc=5",
+   "source": "GoogleNews·证券之星",
    "domain": "memory",
    "published": "2026-11-17",
    "summary": "",
@@ -9920,7 +9959,7 @@
    "published": "2026-10-29",
    "summary": "",
    "first_seen": "2026-10-29",
-   "last_seen": "2026-11-04",
+   "last_seen": "2026-11-17",
    "bt": 2,
    "co": [
     "长鑫存储"
