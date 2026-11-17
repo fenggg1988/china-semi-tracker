@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17 17:10:30",
- "count": 1832,
+ "updated": "2026-11-17 18:03:06",
+ "count": 1836,
  "items": [
   {
    "id": "6b12298d43332138aba95479b02bc9ec5b590b7d",
@@ -566,6 +566,58 @@
    "source": "GoogleNews·腾讯新闻",
    "domain": "litho_machine",
    "published": "2026-11-07",
+   "summary": "",
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "b73764d7d1dcf5f8d24b14b045bec39da9d2394f",
+   "title": "传三星电子确定内存未来发展方向：HBM5 使用 D0a DRAM Die",
+   "url": "https://www.ithome.com/1/028/418.htm",
+   "source": "IT之家",
+   "domain": "memory",
+   "published": "2026-11-17",
+   "summary": "IT之家 11 月 17 日消息，韩媒 THE ELEC 当地时间今日报道称，三星电子近期已确认了 DRAM 内存技术的未来发展方向，多条技术路线将并行推进。三星电子目前最为先进的 DRAM 工艺为第 6 代 10nm 级的 1c nm (D1c)，采用传统的 6F² 结构和制造工艺。后续的常规迭代 D1d 将用于 L",
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "7a373d62eac5122f98afce0893ece13ba60fcc68",
+   "title": "三科创深耕精密PCBA与光器件封装 服务光通信产品规模化制造",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5wYXd1MDVNSTZJc0V1aFlJSjBHTi1kWVY1LXg4R2NfUTk2VjRxOVFtVi16ZjA3YWxvVmJEYndhaFRpOEM1LTlZQmFmczItOG1jRmJTUm9XLUVpVERkaVdOM1VhYXZSU0k4Uy0zbU5pZGwzNEpaWDVqVQ?oc=5",
+   "source": "GoogleNews·讯石光通讯网",
+   "domain": "optical_comm",
+   "published": "2026-11-17",
+   "summary": "",
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "7655f0647d8abb286115b407f164651d778a6c8e",
+   "title": "长鑫科技曹堪宇：端侧AI存储需求增速高于其他细分赛道",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5XeUh3bmVWMlkzdTlRX0M2cTFNT2JFM0c0YXM3TVhXWFg1RjNOZnBsZy1LdXZqRFU3ZVRkNXRVbVBwUlJlTjRMcHl0MGFXaG04LWtEQV9pZDl2LUhmM0o1U1JR?oc=5",
+   "source": "GoogleNews·观点网",
+   "domain": "memory",
+   "published": "2026-11-17",
+   "summary": "",
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "48470f5b752138a00e43beb53045aca7f1e7d972",
+   "title": "直击长鑫科技业绩会：DRAM产品供给紧缺格局延续 看好AI终端普及带来的内存增量空间",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVUt6SHpsV1RENkl4cVh0QUlSMTg1ZjFBTHdwajZ4YU5GWWhTUFY0MmhST0s1M1BlcTFsWUpVcVY0Yy10ekRxZ2VNSm16ZXFQbkotMU5XOE9zNDJlSWtVakxEYkRiTUhGM2VlTklWQmsxUEtGZTBFd3c4RHdwZ1NkSTlGb1M5WEp0TkFkZDRUMDZ0RnZJS1JRYlFvUS1KYlZRbE9TbHlrRVlvVEhzMUtoS3JMTlNzMHlk?oc=5",
+   "source": "GoogleNews·Moomoo",
+   "domain": "memory",
+   "published": "2026-11-17",
    "summary": "",
    "first_seen": "2026-11-17",
    "last_seen": "2026-11-17",
@@ -24425,7 +24477,7 @@
    "published": "2026-10-12",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "bt": 0,
    "co": [
     "长鑫存储"
