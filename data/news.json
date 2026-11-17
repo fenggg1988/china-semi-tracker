@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-18 00:02:59",
- "count": 1862,
+ "updated": "2026-11-18 00:13:29",
+ "count": 1863,
  "items": [
   {
    "id": "d9fcf7ff3db1067e5e4c81172215386b7dbdbb97",
@@ -306,6 +306,21 @@
    "last_seen": "2026-11-18",
    "bt": 0,
    "co": []
+  },
+  {
+   "id": "4212d0557e1e301c58ff3ce3810145f9a647f348",
+   "title": "长鑫存储2024招聘全解析：Fab厂岗位需求与面试准备指南",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YclVrSUJHSzZpN29yczFzOHdJWG5xMWlEX1h5MDlhdTlqRkRrY2tQbjFRRmNGXzhZbHU0T05xUzFKdm9MRngtS3BocFJlaFNWOXg4dkdRN2JWQjlCRDV3?oc=5",
+   "source": "GoogleNews·CSDN",
+   "domain": "memory",
+   "published": "2026-11-08",
+   "summary": "",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "bt": 0,
+   "co": [
+    "长鑫存储"
+   ]
   },
   {
    "id": "26efbccf849c0cb9bcdcc042712580b7efc2fdf8",
@@ -10657,7 +10672,7 @@
    "published": "2026-10-29",
    "summary": "",
    "first_seen": "2026-10-29",
-   "last_seen": "2026-11-04",
+   "last_seen": "2026-11-18",
    "bt": 0,
    "co": []
   },
