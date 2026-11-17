@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17 16:52:09",
- "count": 1831,
+ "updated": "2026-11-17 17:10:30",
+ "count": 1832,
  "items": [
   {
    "id": "6b12298d43332138aba95479b02bc9ec5b590b7d",
@@ -553,6 +553,19 @@
    "source": "GoogleNews·证券之星",
    "domain": "memory",
    "published": "2026-11-17",
+   "summary": "",
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "d7d2c9b24379c279c5ac729397bcd6e777040ef3",
+   "title": "上海微新一代光刻机，亮相进博会",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA5cE9kemw1Q0tVZHdTZHQ4ZkJ0TlRwVXYzMXdDNERxRTU2Q1dYSGVWLTk4SXZPTFRLNUNZWXYxc2VOcTcwcmlLVHhWT2FUdllwZGpLallR?oc=5",
+   "source": "GoogleNews·腾讯新闻",
+   "domain": "litho_machine",
+   "published": "2026-11-07",
    "summary": "",
    "first_seen": "2026-11-17",
    "last_seen": "2026-11-17",
