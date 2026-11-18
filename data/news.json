@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-18 16:16:29",
- "count": 1888,
+ "updated": "2026-11-18 16:30:09",
+ "count": 1889,
  "items": [
   {
    "id": "23d7357356f0191a781a28251fa79e669ff5f1fc",
@@ -630,6 +630,19 @@
    "domain": "memory",
    "published": "2026-11-11",
    "summary": "",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "2cdb3a5a89eb04769837a02215714262b8e664fc",
+   "title": "瑞芯微 RK1860 规格曝光：64TOPS 稠密 INT8 算力，集成至多 10GB DRAM",
+   "url": "https://www.ithome.com/1/028/874.htm",
+   "source": "IT之家",
+   "domain": "memory",
+   "published": "2026-11-18",
+   "summary": "IT之家 11 月 18 日消息，开源硬件制造商 Radxa 此前分享了瑞芯微 (Rockchip) 端侧 AI 协处理器 RK1860 的规格信息。这一芯片的 NPU 单元具备 64TOPS 稠密 INT8 算力，集成至多 10GB 内存，提供 64-bit LPDDR4 / LPDDR5 外部内存接口。此外，其拥有",
    "first_seen": "2026-11-18",
    "last_seen": "2026-11-18",
    "bt": 0,
