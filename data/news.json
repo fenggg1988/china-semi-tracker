@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-18 16:04:20",
- "count": 1885,
+ "updated": "2026-11-18 16:05:19",
+ "count": 1887,
  "items": [
   {
    "id": "23d7357356f0191a781a28251fa79e669ff5f1fc",
@@ -588,6 +588,32 @@
    "title": "机构：先进封装与HBM仍是算力供给端的硬约束，英伟达业绩是检验美需求斜率的首个节点",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5sVUM5VHJCVk93NzhUMlFCSVZ5dDJySnhaYnNoUFVHOEZCeENuSWpMVWpMR0dRMWpMUElPTEo3NTQ5eGdWOUtsa0pjSG84SGhrY1Fjc3R6b0ljbjJ4?oc=5",
    "source": "GoogleNews·www.caiwennews.com",
+   "domain": "memory",
+   "published": "2026-11-11",
+   "summary": "",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "618db289b7bdbd753ebf0ac7feb4e99ac284ca9c",
+   "title": "美论坛热议：中国为何敢在未获允许下自主研发DUV光刻机",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rZWhjYnRwNVdtQlhCdHUyaWNULWluekhkMlpKdlhJUUN4ZDZrZmZLVzVXN3ZmNzJNMWotbzN1RW9NcjdaeEVnQVRMUjNoRTFXNFBzdEQwWmZXcGtjckFnaA?oc=5",
+   "source": "GoogleNews·Sohu",
+   "domain": "litho_machine",
+   "published": "2026-11-17",
+   "summary": "",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "d02a1068d1205e99906a943516bd8994b5ceaa7e",
+   "title": "“DRAM教父”：台积电不可能跨足DRAM",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WNGdORXFPMU5OelZLQXJka0tEeHBjOUttdDFsemMwTHdnYU5DSnI1Q2FJM2haRWJkcXhHUDNER0hJcFJFekZIUUswZU5Qak9wZDlrWlBKWnRaWWU4WHZ3NQ?oc=5",
+   "source": "GoogleNews·东方财富",
    "domain": "memory",
    "published": "2026-11-11",
    "summary": "",
@@ -6136,7 +6162,7 @@
    "published": "2026-11-06",
    "summary": "",
    "first_seen": "2026-11-06",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-18",
    "bt": 0,
    "co": [
     "长江存储"
