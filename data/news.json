@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-18 14:20:40",
- "count": 1875,
+ "updated": "2026-11-18 16:04:20",
+ "count": 1885,
  "items": [
   {
    "id": "23d7357356f0191a781a28251fa79e669ff5f1fc",
@@ -452,6 +452,144 @@
    "source": "GoogleNews·凤凰网",
    "domain": "memory",
    "published": "2026-11-17",
+   "summary": "",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "a2bf531a610aed11b8ed7fdce42b168f271cd991",
+   "title": "长鑫科技：DRAM 供给紧缺格局将在四季度延续，长协锁单与债务优化推进中",
+   "url": "https://www.ithome.com/1/028/819.htm",
+   "source": "IT之家",
+   "domain": "memory",
+   "published": "2026-11-18",
+   "summary": "IT之家 11 月 18 日消息，据证券时报，国产 DRAM 龙头长鑫科技 11 月 17 日举办第三季度业绩说明会，公司高管预计 DRAM 供给紧缺格局将在四季度延续，毛利率有望保持稳定，公司已与多家头部客户协商长期供货协议，锁定中长期确定性需求，持续推动产品高端化升级。长鑫科技高级副总裁、财务负责人黄丹阳表示，公司",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "9fc0ce8f3b92fd3810aa8deb3485963412d387f2",
+   "title": "TrendForce 预测：NAND 价格 2027Q2 有望下跌，通用 DRAM 价格仍维持上行",
+   "url": "https://www.ithome.com/1/028/814.htm",
+   "source": "IT之家",
+   "domain": "memory",
+   "published": "2026-11-18",
+   "summary": "IT之家 11 月 18 日消息，据韩媒 ZDNET Korea 报道，研调机构 TrendForce 当地时间今日在韩国首尔举行的活动上发布了对 2027 年存储半导体市场的展望。该机构认为，随着新的 NAND 产能逐步开出，闪存价格有望从明年第 2 季度开始下行；另一方面，由于新增产能有限、HBM 挤压供给，通用 ",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "7e1ac6545ec89fc08669d025804cfbfc3ba2b9f2",
+   "title": "全国首个昇腾 950DT 词元出海算力集群在汕头启用：华为、中国电信、天亿马三方合作",
+   "url": "https://www.ithome.com/1/028/811.htm",
+   "source": "IT之家",
+   "domain": "logic",
+   "published": "2026-11-18",
+   "summary": "IT之家 11 月 18 日消息，汕头市人民政府门户网站 11 月 16 日宣布全国首个基于华为昇腾 950DT 芯片的词元出海算力集群 11 月 13 日在广东汕头正式启用。据介绍，该算力集群由中国电信汕头分公司、广东天亿马信息产业股份有限公司和华为技术有限公司联合建设，依托中国电信汕头国际海缆登陆站提供跨境网络连接",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "bt": 0,
+   "co": [
+    "华为"
+   ]
+  },
+  {
+   "id": "fd542098aab0978048d51adb9c09f36fc481d926",
+   "title": "茂莱光学披露 前三季度半导体收入占比62.37%",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAxa1hlTWtxNUFyTXZLR2RzemlxYWFFd3pDMzhtY3dMbkJrWUpmYnFYLTQ4ZHNfTGtRNEtUYUw1ODRUaURJTUFVd3RmRUItdU1fTnpsYjdySFRTb3JEQW1tRHpB?oc=5",
+   "source": "GoogleNews·观点网",
+   "domain": "optics",
+   "published": "2026-11-18",
+   "summary": "",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "bt": 0,
+   "co": [
+    "茂莱光学"
+   ]
+  },
+  {
+   "id": "4e6d0f0ec5cbaccbbf93da3bcc849444d7441790",
+   "title": "重磅突袭，特朗普政府拟推进光收发器进口限制 云厂商陷入困境",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41Qk50VXFXbDhFakJQRnoxNEw0SThlWTUyeGMyMGZ5WXN0SFExcU9BT3VnczhXSDRYYzEtdWZWYlkwdS1zMW4xNDBvbVV5ZEhIX2hselJJd2FrZW1LSzdsM0dTYnFYQWhuVjVZSHVYWHY?oc=5",
+   "source": "GoogleNews·中华军事",
+   "domain": "optical_comm",
+   "published": "2026-11-18",
+   "summary": "",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "3eadc0c84be7578e868c698ee0826deafae0fef8",
+   "title": "长三角新增对外开放的硅光测试平台，落地浙江绍兴",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBRNkE1TzVuWElFYXM0YXJoRlRsZXZpX0VKelUyZjRhTkotVmt2b2pVaHduS05mV2YyVnZjNkQ3dFZJbDFxalFoUHctd2drZTFZb2lzY0cwbE9wT1BCb29XQUIteTZlNVdQOVJMS0J1bmFqYlZJakZ3?oc=5",
+   "source": "GoogleNews·讯石光通讯网",
+   "domain": "optical_comm",
+   "published": "2026-11-10",
+   "summary": "",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "131293ed37c97f5e2b9e8c82e32e775a1b21a533",
+   "title": "中际旭创订单能见度延伸至2028年 高速光模块与下一代技术双线推进",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5QMDYxTVZUUTBuQ0xlVHFVVWwzVEZ0NFh4Mno1YTh5Sno1QjQ5aHR3RmVhX0RqQXNnUDZfU05zT00xZDdsVTlIb1ZQdGRRZzllYnhDX21XeXdiQWx5ZzZNbDItVFo1QQ?oc=5",
+   "source": "GoogleNews·东方财富",
+   "domain": "optical_comm",
+   "published": "2026-11-18",
+   "summary": "",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "bt": 0,
+   "co": [
+    "中际旭创"
+   ]
+  },
+  {
+   "id": "bd40f494671e0398a50b218f3bd50e537ab80e9d",
+   "title": "长江存储PC550加持！零刻SER9 350迷你主机图赏",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SUGNpaGNweG9aeGZsNVVwYkNVcTQ1SW1mN3gtWDV3a2ZGTnRDUTBwUHRwcEpxVHhkb2QzaV8ydDl5TkI0VEFxMFBpZV9DY3NQTjFmZWpuazg?oc=5",
+   "source": "GoogleNews·驱动之家",
+   "domain": "memory",
+   "published": "2026-11-18",
+   "summary": "",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "bt": 0,
+   "co": [
+    "长江存储"
+   ]
+  },
+  {
+   "id": "4a1368fc52f67c06ba64c128a10676132c7cb69a",
+   "title": "长鑫科技业绩会详解：技术迭代如何转化为产品竞争力",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBvX2VKQTZkWUhVUzBaam1YWi1tOGtfYlZiTHU4OHlCYU03R1JrTnZMcEdueDNka0VVc1N6dlVPX1pWUEpCWE5MZg?oc=5",
+   "source": "GoogleNews·品玩",
+   "domain": "memory",
+   "published": "2026-11-18",
+   "summary": "",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "8d7d57f68696357a0e50de3840ee3a166f5a1e31",
+   "title": "机构：先进封装与HBM仍是算力供给端的硬约束，英伟达业绩是检验美需求斜率的首个节点",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5sVUM5VHJCVk93NzhUMlFCSVZ5dDJySnhaYnNoUFVHOEZCeENuSWpMVWpMR0dRMWpMUElPTEo3NTQ5eGdWOUtsa0pjSG84SGhrY1Fjc3R6b0ljbjJ4?oc=5",
+   "source": "GoogleNews·www.caiwennews.com",
+   "domain": "memory",
+   "published": "2026-11-11",
    "summary": "",
    "first_seen": "2026-11-18",
    "last_seen": "2026-11-18",
@@ -2669,7 +2807,7 @@
    "published": "2026-11-13",
    "summary": "",
    "first_seen": "2026-11-13",
-   "last_seen": "2026-11-17",
+   "last_seen": "2026-11-18",
    "bt": 0,
    "co": []
   },
@@ -3983,7 +4121,7 @@
    "published": "2026-11-08",
    "summary": "",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-11",
+   "last_seen": "2026-11-18",
    "bt": 0,
    "co": [
     "SMEE"
