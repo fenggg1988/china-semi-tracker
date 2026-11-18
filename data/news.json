@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19 00:53:13",
- "count": 1903,
+ "updated": "2026-11-19 04:04:39",
+ "count": 1906,
  "items": [
   {
    "id": "d154c6c3b0d176edf076809e63c698f61f2e2a23",
@@ -181,6 +181,47 @@
    "first_seen": "2026-11-19",
    "last_seen": "2026-11-19",
    "bt": 0,
+   "co": []
+  },
+  {
+   "id": "e2e6eae87693224a39ff9f12bf83f0c78776370a",
+   "title": "新易盛(300502):公司近期生产经营情况",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00ZDJVSDZvMG5WYTNMaTdKOHVTQmItRG9CTGtUSUV6bjFrdWdTdG5LYmVxeXJnWXFWNC10QmxxUUk4R00zaDBYREh1QXVpdU1EOFhQakZR?oc=5",
+   "source": "GoogleNews·中财网",
+   "domain": "optical_comm",
+   "published": "2026-11-18",
+   "summary": "",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19",
+   "bt": 0,
+   "co": [
+    "新易盛"
+   ]
+  },
+  {
+   "id": "4000b059a92ef13b31ba6fb375dba6b3296f9f19",
+   "title": "HBM4价格明年预计翻倍 三星、SK海力士业务迎利好",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcUhNYlkyN1IzeGJrZEllUWw5bEE4VnF4emxNRzBmb21PYUdlbjY2Sm9GcU41TWNMRmd5MW9RN25nSEFtdGtvTFB4ZGtGdlZOTnJZVF8wai0zUTREc1ZKMm1DbTNIZUlKWjFMZlJxM3FoUlN4Q0dMMjcwNmVreGlhOW5Wa2g1bWVU?oc=5",
+   "source": "GoogleNews·Sohu",
+   "domain": "memory",
+   "published": "2026-11-18",
+   "summary": "",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "e5390804f29ffb4045eefcdbef7adb4862d668d3",
+   "title": "估值已至历史低位，光模块龙头齐发公告",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdXNzM0dNcmVaRWNWRTdmQkI0QXp6ZEVtdmlvZDRjRXhTUnZEU1pDOXk3eDhfcXZFRlB5WGFSMXg5elU2eEdGX1BtZ3NOUXFuekMtM1BLS1pzZ1ZCeEFQNXZndU5aLU1WWmI1NDl2Z2Y3OXllRUpaNE11azV3c1QtRm80cm1zQloxVlE?oc=5",
+   "source": "GoogleNews·广州日报新花城",
+   "domain": "optical_comm",
+   "published": "2026-11-18",
+   "summary": "",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19",
+   "bt": -3,
    "co": []
   },
   {
@@ -525,7 +566,7 @@
    "published": "2026-11-16",
    "summary": "",
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "bt": 0,
    "co": []
   },
@@ -3055,7 +3096,7 @@
    "published": "2026-11-13",
    "summary": "",
    "first_seen": "2026-11-13",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "bt": 0,
    "co": []
   },
@@ -3398,7 +3439,7 @@
    "published": "2026-11-12",
    "summary": "",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-17",
+   "last_seen": "2026-11-19",
    "bt": 2,
    "co": []
   },
@@ -23610,7 +23651,7 @@
    "published": "2026-09-28",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-19",
    "bt": 0,
    "co": []
   },
