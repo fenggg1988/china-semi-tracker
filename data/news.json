@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19 04:04:39",
- "count": 1906,
+ "updated": "2026-11-19 07:58:44",
+ "count": 1910,
  "items": [
   {
    "id": "d154c6c3b0d176edf076809e63c698f61f2e2a23",
@@ -41,6 +41,34 @@
    "bt": 2,
    "co": [
     "上海微电子"
+   ]
+  },
+  {
+   "id": "055da8fa977ffaaf83393d8000fa246ca303e7d3",
+   "title": "佳能发售KrF半导体光刻机“FPA-6400ES6a” 实现高生产率和业界高水平套刻精度",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0Y3g1VDNVV3RfY09uVDFyU1NzcHFuVjVidzJEUkNYaHgxRFRDM29PVUt3TjkzWlo1TmR4dnhKVlVmTHhZd1gzV1c0eF9yc2E5cVZOVmlJYWp0Zw?oc=5",
+   "source": "GoogleNews·www.bqweekly.com",
+   "domain": "litho_machine",
+   "published": "2026-11-10",
+   "summary": "",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "c9fc754cab9923e47ea9f21e6e418261eca4c7e5",
+   "title": "中国SMEE公布光刻机核心零部件自主技术，声称已投入量产: 国际 : 财经日报",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBRN0F5MU1vTTFaWG5RcWhGQS1fRHhKdlJvV1ZQSExfT1ZmQ1lMVUpYdFlUb0JIai1pRUQ2TTNVSlVZc2hPZVFqNkJZSHhaRkhrMzZQRDJTUEFUck5pTzZ5a2Zn?oc=5",
+   "source": "GoogleNews·재경일보",
+   "domain": "litho_machine",
+   "published": "2026-11-09",
+   "summary": "",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19",
+   "bt": 2,
+   "co": [
+    "SMEE"
    ]
   },
   {
@@ -210,6 +238,34 @@
    "last_seen": "2026-11-19",
    "bt": 0,
    "co": []
+  },
+  {
+   "id": "2ce47bbafab02695c558db6f0ee11ecb3c9c2878",
+   "title": "迈威尔收购Lumentum达成光、电整合，有望重塑光通信产业格局",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wVUJDZlUwcHpqVkc0WUFRSDlqLWtZZTRCVEdVeUJNV1VjVzVnbmNkSnVVOEZfYnpkNnJkOFM0ZjhhYjhBQkt4aTcwaG1rWDMzdHI0?oc=5",
+   "source": "GoogleNews·搜狐网",
+   "domain": "optical_comm",
+   "published": "2026-11-03",
+   "summary": "",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "7acc53aff5462f703b488efc21a855d7ba477445",
+   "title": "新易盛：800G和1.6T光模块为公司今年主力产品 CPO等技术已作储备布局",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5BNm9zT2xpZ2VYVTNQRkVwUzRuTWdDT0VPXzN0T3R1NXhPYkpZdkNYVTZ6MGdfNFdNcDh1cXlBRzRXX3dxdjRkcjJmWWw1aWdWbk5oVDBuTDlKd3oxbkh5a3NSX1I5UQ?oc=5",
+   "source": "GoogleNews·东方财富",
+   "domain": "optical_comm",
+   "published": "2026-11-18",
+   "summary": "",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19",
+   "bt": 0,
+   "co": [
+    "新易盛"
+   ]
   },
   {
    "id": "e5390804f29ffb4045eefcdbef7adb4862d668d3",
@@ -784,7 +840,7 @@
    "published": "2026-11-18",
    "summary": "",
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "bt": 0,
    "co": [
     "中际旭创"
@@ -853,7 +909,7 @@
    "published": "2026-11-11",
    "summary": "",
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "bt": 0,
    "co": []
   },
@@ -1581,7 +1637,7 @@
    "published": "2026-11-16",
    "summary": "",
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "bt": -1,
    "co": []
   },
@@ -4724,7 +4780,7 @@
    "published": "2026-11-09",
    "summary": "",
    "first_seen": "2026-11-10",
-   "last_seen": "2026-11-11",
+   "last_seen": "2026-11-19",
    "bt": 4,
    "co": []
   },
