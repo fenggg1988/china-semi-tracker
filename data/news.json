@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19 07:58:44",
- "count": 1910,
+ "updated": "2026-11-19 14:18:17",
+ "count": 1915,
  "items": [
   {
    "id": "d154c6c3b0d176edf076809e63c698f61f2e2a23",
@@ -266,6 +266,75 @@
    "co": [
     "新易盛"
    ]
+  },
+  {
+   "id": "635bd3e8493887547abcb9af4cd17c13f13fdefb",
+   "title": "英特尔晶圆代工业务取得关键进展 18A-P先进制程迎来首个外部客户",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587070.htm",
+   "source": "cnBeta",
+   "domain": "logic",
+   "published": "2026-11-19",
+   "summary": "英特尔在先进制程代工业务上终于取得了一项重要突破。当地时间11月18日，英特尔首席执行官陈立武（Lip-Bu Tan）在美国得克萨斯州奥斯汀举行的TomorrowX峰会上宣布，公司已经签署首份采用18A先进制程的外部客户合同。这意味着英特尔的先进制造技术首次获得外部客户的正式订单，为其挑战台积电的晶圆代工业务提供了新的",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "816c60029e70e664e59f4b493ab5f1e8f34a3186",
+   "title": "茂莱光学：1至9月半导体领域收入占比为62.37%",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BVkhmY1VqOXdGeUwzMlhveFF6TDJJT2IxWmZBcndqV0IzeWVZczR0Z2ktTnBBQ1YyenNUeEl2eGJ6cU5yem9UUTZEbHd5VFhibkhHSnZ2Z2J5YUNi?oc=5",
+   "source": "GoogleNews·Moomoo",
+   "domain": "optics",
+   "published": "2026-11-18",
+   "summary": "",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19",
+   "bt": 0,
+   "co": [
+    "茂莱光学"
+   ]
+  },
+  {
+   "id": "a34e7fd9a39c9de10a8fcc30c60c003fcbf2fd3e",
+   "title": "集微咨询发布《AI产业系列报告之光互连芯片（2026）》",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNM3RIOWZnY3pKWXIwbXhtSGpOSnBRNTFZNFA0ZWM1c3h3Yy12SmFRWVlkLV9uWjg5MlBpVzJCQU1XRkh4dWZJUmpRcFJPQUtTYTFnN3lib3RsRTlZa1R3Y0M5S2JiVHdoRVpRcWluVXNHTmtYUGJOSlg5UVQ1M0ZPbG12cXNWRlk?oc=5",
+   "source": "GoogleNews·微博",
+   "domain": "optical_comm",
+   "published": "2026-11-18",
+   "summary": "",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "e49ec08454c84d23492d2db029adf6ca1ed4a9f1",
+   "title": "新易盛：在手订单充足 1.6T光模块进入大规模放量阶段",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yZDVrY21Ub0x0UGt2cmhheGR4R25TWlBCcjlmem9hdV9NNDdMaFY5Q2w2alN3aGNqTEphVTdyVkFrNExwWWNJSVFaNVJySldvaGkwdVpPd2tIUC1nZTI4cG1R?oc=5",
+   "source": "GoogleNews·观点网",
+   "domain": "optical_comm",
+   "published": "2026-11-19",
+   "summary": "",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19",
+   "bt": 0,
+   "co": [
+    "新易盛"
+   ]
+  },
+  {
+   "id": "7f47fcf2588ff4a296ee0c5b356ce3c6f083c7e1",
+   "title": "长鑫科技业绩会透视：技术驱动产品升级，多维矩阵锚定市场机遇",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5LNGl5S0xJcWtsbmc1dWVLc2ZtT2c2M3k0Zm5fZHZ3SFNvNnZmRFBiREw3U1F4QmhSRjlvWkZxM1RpOEhf?oc=5",
+   "source": "GoogleNews·芯智讯",
+   "domain": "memory",
+   "published": "2026-11-17",
+   "summary": "",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19",
+   "bt": 0,
+   "co": []
   },
   {
    "id": "e5390804f29ffb4045eefcdbef7adb4862d668d3",
@@ -706,7 +775,7 @@
    "published": "2026-11-18",
    "summary": "",
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "bt": 0,
    "co": []
   },
@@ -3852,7 +3921,7 @@
    "published": "2026-11-12",
    "summary": "",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "bt": 0,
    "co": [
     "中芯国际"
@@ -4008,7 +4077,7 @@
    "published": "2026-11-12",
    "summary": "",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-19",
    "bt": 0,
    "co": []
   },
@@ -4918,7 +4987,7 @@
    "published": "2026-11-09",
    "summary": "",
    "first_seen": "2026-11-10",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-19",
    "bt": 0,
    "co": [
     "上海微电子"
