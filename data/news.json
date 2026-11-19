@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19 16:27:52",
- "count": 1918,
+ "updated": "2026-11-19 16:44:35",
+ "count": 1931,
  "items": [
   {
    "id": "d154c6c3b0d176edf076809e63c698f61f2e2a23",
@@ -70,6 +70,19 @@
    "co": [
     "SMEE"
    ]
+  },
+  {
+   "id": "e45e4e53c0eaae4ea7d60a2caeff662c90df0796",
+   "title": "港股异动| 海光芯正(01191)涨超17% 自研硅光芯片“灵缇”亮相进博会已完成对芯成汉奇战略投资",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1HMHR0NFJIZ2MxUGVzNDNBZmx4alBEVVFZTDE0dm5BdlVvMmszOWxrSW40X3R1NjEtdWRlNlZTRUxLQjFuWjlRQ2JyRW4?oc=5",
+   "source": "GoogleNews·凤凰网",
+   "domain": "optical_comm",
+   "published": "2026-11-11",
+   "summary": "",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19",
+   "bt": 2,
+   "co": []
   },
   {
    "id": "ce64ca17be27c4bed61b7ca06070f4e12e3dcf16",
@@ -376,6 +389,127 @@
    "co": []
   },
   {
+   "id": "402c9ee7111f2395d3a0a1495c3fa255f11f7b35",
+   "title": "2999 元：腾龙 16-50mm F2.8 A 镜头尼康 Z 卡口版发售",
+   "url": "https://www.ithome.com/1/029/523.htm",
+   "source": "IT之家",
+   "domain": "optics",
+   "published": "2026-11-19",
+   "summary": "IT之家 11 月 19 日消息，腾龙 16-50mm F2.8 A 镜头尼康 Z 卡口版（B091Z）现已在京东开售。新品适配 APS-C 画幅相机，售价 2999 元。该镜头具备防滴构造与抗污涂层，内部采用 10 组 14 片光学结构。全焦段恒定 F2.8 光圈，配有 7 片圆形光圈叶片，最小光圈 F16，搭载 V",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "02ef05d7fe5dc126b2419d8f95b6d0e800a7a45d",
+   "title": "英伟达展示下一代CPO技术，光通信的竞争开始转向芯片封装",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1kS2I4UEtpbFdzeUM3MFJNaU5nSHhQVC1ZNXMzVm5VOHVCbHczTFlnZ3VjS3JSejhHdVlwNEhjM2ZtaXZKNXBXR0FiVXQ3X3FvZHJNSjJoZw?oc=5",
+   "source": "GoogleNews·麻省理工科技评论",
+   "domain": "optical_comm",
+   "published": "2026-11-01",
+   "summary": "",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "c63f829825795abe34e5256d6b204dbcb0bc3f81",
+   "title": "科技资本局｜芯片巨头鲸吞光器件之王，中国光通信的护城河还在吗？",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9XTFpEVlB5TUJ1XzFUR2JQLVdmcy1wbXhQWlYzQTh1ejhLUWxYY2drRHV6VU9CVmdSeTRraWRYVUxkQ25SWVhNYjVDUkxnWEQ1Y1NwWVRzNk9hNkNhY0E?oc=5",
+   "source": "GoogleNews·湖北日报传媒集团",
+   "domain": "optical_comm",
+   "published": "2026-11-04",
+   "summary": "",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "50df866dc1fa075c3354ae262ebd13950d261a34",
+   "title": "利扬芯片3.06亿控股众望达，光芯片测试的并购路径浮出",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IYXdkRU10SW95Q2l4QXYxWnlCQ2xiblljUlhVSUxWaERRU0VDblNYY0hFTmpuYUtNYTd4aU9jaUE0ZGFVSnJJa0p3dm43SWE4LWQxSXFzSTdWNXh0N3VlTg?oc=5",
+   "source": "GoogleNews·同花顺财经",
+   "domain": "optical_comm",
+   "published": "2026-11-14",
+   "summary": "",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "1648f357e74286e36e61b4e9ecee81dc9bfa6685",
+   "title": "2026全球光芯片最具竞争力企业10强：美国占据6席，华为排名第三",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wRWdvYTBkYTlFbHI4UmJmSDVMUDR2bkRYVlM5V2RKNVhkanhvenNfX00xdXBYcVk5LTAxRWliVzhYeDJQZk9BekpOck8tWV9uR2RB?oc=5",
+   "source": "GoogleNews·Sohu",
+   "domain": "optical_comm",
+   "published": "2026-11-02",
+   "summary": "",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19",
+   "bt": 0,
+   "co": [
+    "华为"
+   ]
+  },
+  {
+   "id": "577c85d6771cd6c41ff3d8b03ad5376b8d594cb7",
+   "title": "17.44 亿！源杰科技光芯片斩获大单",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pOFVVN3gyNjcxS2oxOGhqa2xoTDQ0b3A3R1lkS0ZDUm1QZXhMN3VfYzlLaUlEZG8tQU5lZEpzVS04SHptYk9mRkdaRFVLWnc2WnJv?oc=5",
+   "source": "GoogleNews·电子工程专辑EE Times China",
+   "domain": "optical_comm",
+   "published": "2026-11-16",
+   "summary": "",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19",
+   "bt": 0,
+   "co": [
+    "源杰科技"
+   ]
+  },
+  {
+   "id": "883e29849db3d09e404aceeffee6be7a2cb485b2",
+   "title": "从“显示光”到“连接光”：光峰科技投资布局“光互联”",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbnZQUkp0MWwtaDRiNjR5dWJpVTVTTlpGVnlMNF9YaENOa0pmQjF5OGNiem1rMTd5b3MxSmQzaHVCLVljR1N0bndIOUxScm9Yd3NkN1BPVFo4clNLUDM5MjZ0VGpwZnh2N25kVkRBQzBIU0ZDZldVVVZoMmxYVjRHV1NJQy1Qc3VM?oc=5",
+   "source": "GoogleNews·Sohu",
+   "domain": "optical_comm",
+   "published": "2026-11-12",
+   "summary": "",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "c95e15cb7bb50720a12716a4e8cc11d421011966",
+   "title": "光引科技便携式肌光仪亮相进博会，硅光技术加速走向消费市场",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9XdTk0cnZlNm5UaG1HckpBRWdHTzlmbXRSTkZGRjBrLWdlWmx0cmhuZ2wweVJWNUl4TjMtQmE1YUZSN0djaHpVMndYeHFrM0pOSm8ydWVONEczdll3aXZQWml0aFRnclJNRUV2RVFGTlMwSjZERHJJ?oc=5",
+   "source": "GoogleNews·讯石光通讯网",
+   "domain": "optical_comm",
+   "published": "2026-11-09",
+   "summary": "",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "604a00808f1d3a80f919758d4e58f886a4a45e40",
+   "title": "经纬辉开(300120.SZ)：铱加的CPO、硅光产品匹配公司算力业务的高速互联需求_公司新闻_财经",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LMmMwV3RRQmF3VWFrMVA0ZG9za3BwSjA3dk84ckh1WWR5Z0g1TEpCdW8yVGRUVkxaWk5ZSjc5dzZVLWdpRUl5X180aXRZbUNyZE44TnB0MWhIUm1VYWhnZA?oc=5",
+   "source": "GoogleNews·证券之星",
+   "domain": "optical_comm",
+   "published": "2026-11-17",
+   "summary": "",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19",
+   "bt": 0,
+   "co": []
+  },
+  {
    "id": "e5390804f29ffb4045eefcdbef7adb4862d668d3",
    "title": "估值已至历史低位，光模块龙头齐发公告",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdXNzM0dNcmVaRWNWRTdmQkI0QXp6ZEVtdmlvZDRjRXhTUnZEU1pDOXk3eDhfcXZFRlB5WGFSMXg5elU2eEdGX1BtZ3NOUXFuekMtM1BLS1pzZ1ZCeEFQNXZndU5aLU1WWmI1NDl2Z2Y3OXllRUpaNE11azV3c1QtRm80cm1zQloxVlE?oc=5",
@@ -387,6 +521,49 @@
    "last_seen": "2026-11-19",
    "bt": -3,
    "co": []
+  },
+  {
+   "id": "a898022842dc0f960fae22f07508d3f18c005d34",
+   "title": "源杰科技：公告获新订单17.44亿元，约为2025年营收6.01亿的2.9倍",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5oVk1vc2xTemZuYmxMX2huY2EtVk9wVmlNZDVEZVk3TlN5WXZpOE5ocjJNNnp0aWxCSU5lTTFqcE5mcGdCZmZBdmlYcWlIeHZu?oc=5",
+   "source": "GoogleNews·凤凰网财经",
+   "domain": "optical_comm",
+   "published": "2026-11-14",
+   "summary": "",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19",
+   "bt": -3,
+   "co": [
+    "源杰科技"
+   ]
+  },
+  {
+   "id": "5d3e3d5b5ebade1660d3632916a8a751c71c829d",
+   "title": "光互连企业量引科技完成Pre-A轮融资，光峰科技等参投",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85b2FmQTRMempTOThtaDgyTDhRUnhucnVfUFVYNmlrNGJrVGlfemx0VHo4ZkpYLWFTOFRJekE4eGl5SEprZW5rRlpWQ3B6ZGsxV3lNV0w4M19sb2lNQmx4RHl1cEtGY1dHRmc?oc=5",
+   "source": "GoogleNews·static.nfnews.com",
+   "domain": "optical_comm",
+   "published": "2026-11-07",
+   "summary": "",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19",
+   "bt": -3,
+   "co": []
+  },
+  {
+   "id": "0e3bfdc2cdd4d14169b5614aac98a7a7b5380a09",
+   "title": "17亿大单、82%毛利率，挡不住光模块退潮？源杰科技5个月市值跌没1673亿",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FcWNJVWVqVldmMmdqeWt0UU5GQlJ2V2VVN0dIWFZ3Z2dkVXp2OGJzT3lKTWI5OVRjUm9QM2hJVDBtSWsxV2drVTZYdkFWQ2lLUmxrRXZ5aGhSUUlXX0QtUg?oc=5",
+   "source": "GoogleNews·Sohu",
+   "domain": "optical_comm",
+   "published": "2026-11-16",
+   "summary": "",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19",
+   "bt": -3,
+   "co": [
+    "源杰科技"
+   ]
   },
   {
    "id": "23d7357356f0191a781a28251fa79e669ff5f1fc",
@@ -1980,7 +2157,7 @@
    "published": "2026-11-16",
    "summary": "",
    "first_seen": "2026-11-16",
-   "last_seen": "2026-11-17",
+   "last_seen": "2026-11-19",
    "bt": 0,
    "co": []
   },
@@ -6947,7 +7124,7 @@
    "published": "2026-11-04",
    "summary": "",
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-08",
+   "last_seen": "2026-11-19",
    "bt": 0,
    "co": [
     "华为"
@@ -7309,7 +7486,7 @@
    "published": "2026-11-04",
    "summary": "",
    "first_seen": "2026-11-04",
-   "last_seen": "2026-11-09",
+   "last_seen": "2026-11-19",
    "bt": 0,
    "co": []
   },
@@ -8217,7 +8394,7 @@
    "published": "2026-11-01",
    "summary": "",
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-19",
    "bt": 0,
    "co": [
     "光迅科技"
@@ -9147,7 +9324,7 @@
    "published": "2026-11-01",
    "summary": "",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-01",
+   "last_seen": "2026-11-19",
    "bt": 0,
    "co": [
     "光迅科技"
