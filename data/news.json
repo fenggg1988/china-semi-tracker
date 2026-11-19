@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19 16:44:35",
- "count": 1931,
+ "updated": "2026-11-19 17:47:42",
+ "count": 1933,
  "items": [
   {
    "id": "d154c6c3b0d176edf076809e63c698f61f2e2a23",
@@ -508,6 +508,34 @@
    "last_seen": "2026-11-19",
    "bt": 0,
    "co": []
+  },
+  {
+   "id": "61a2efa493653573ecadffd68bdc7e05f6075218",
+   "title": "松下开发全新电动变焦镜头，为远程制作场景打造",
+   "url": "https://www.ithome.com/1/029/532.htm",
+   "source": "IT之家",
+   "domain": "optics",
+   "published": "2026-11-19",
+   "summary": "IT之家 11 月 19 日消息，松下近日在 Lumix SHX1 电影摄影机新闻稿发布时透露，公司正开发一款全新电动变焦镜头，面向远程制作场景打造。作为参考，松下 Lumix SHX1 是首款冠以 Lumix 品牌的紧凑型电影摄影机。该机配备 6K 全画幅部分堆栈式 CMOS 图像传感器，支持双原生 ISO 和动态范",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "9765cf424bf5ef50ae7d0b71cf17cbe5542ffed8",
+   "title": "回应“砍单”传闻，新易盛主动披露经营情况！1.6T光模块进入放量周期",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50eFk0c1hKNnpTOGdOMHFsZDAzS0lJNHJrenF4MVFjV0xXX3VkTmkyUFpvdFpUYlh3MDZ6eTdMQ21XbXJjVnc4cUdpNHNJUWk3anhMYlU5UW85MG1DNXlXdnBDUWtJU1E3U3c?oc=5",
+   "source": "GoogleNews·中金在线",
+   "domain": "optical_comm",
+   "published": "2026-11-19",
+   "summary": "",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19",
+   "bt": 0,
+   "co": [
+    "新易盛"
+   ]
   },
   {
    "id": "e5390804f29ffb4045eefcdbef7adb4862d668d3",
@@ -3383,7 +3411,7 @@
    "published": "2026-11-13",
    "summary": "",
    "first_seen": "2026-11-13",
-   "last_seen": "2026-11-13",
+   "last_seen": "2026-11-19",
    "bt": 0,
    "co": [
     "中芯国际"
@@ -5732,7 +5760,7 @@
    "published": "2026-11-08",
    "summary": "",
    "first_seen": "2026-11-09",
-   "last_seen": "2026-11-09",
+   "last_seen": "2026-11-19",
    "bt": 0,
    "co": [
     "上海微电子"
