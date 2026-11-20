@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20 16:08:44",
- "count": 1985,
+ "updated": "2026-11-20 16:29:59",
+ "count": 1989,
  "items": [
   {
    "id": "c993b405bb15aa6ad89f1ae9d91cdb66d2175930",
@@ -144,6 +144,34 @@
    "last_seen": "2026-11-20",
    "bt": 2,
    "co": []
+  },
+  {
+   "id": "70dde24649cb47030796821fbcd46575708b2bd8",
+   "title": "国产化率超90%！中国新一代光刻机亮相进博会",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE92S3JjelVER1R4Z0tuYmxfemZTNWFVd0dvN19SM19SNlZNSHRpTktIWHhmT040RS1WRVBJS3E2SWpIYUp1dnRXZ1QtSjlDbEpZaTVYN2c3WEMyOU9oSUc5Tm1B?oc=5",
+   "source": "GoogleNews·腾讯新闻",
+   "domain": "litho_machine",
+   "published": "2026-11-09",
+   "summary": "",
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "c02bd66350b095a72806a2b66bad785861ba1af5",
+   "title": "A股异动丨全球AI眼镜出货量暴涨，相关概念股逆势上涨，茂莱光学涨超7%",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5HbFhRRFFIVDFxXzdxWGVJa2otRl94dGd0N1FSNDljTEg3MkRzbmp2R2pnN0doaUJYX2ZOYzZaY2NSeTVIY1Z0MldDeVlqdlo1Y0dTZ0s4SHBBV1c1RVlWdEctS2Z0SDRxY0E?oc=5",
+   "source": "GoogleNews·TradingView",
+   "domain": "optics",
+   "published": "2026-11-17",
+   "summary": "",
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20",
+   "bt": 2,
+   "co": [
+    "茂莱光学"
+   ]
   },
   {
    "id": "f90edd0807b5b257fbe78c9cbd65b9178a0bae81",
@@ -657,6 +685,34 @@
     "北方华创",
     "中芯国际",
     "寒武纪"
+   ]
+  },
+  {
+   "id": "f86414ac748a6d1539b76be1605bc3af7842b9d6",
+   "title": "订单排到2030年，光刻机需求井喷!",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pSDRLd3V0ZDY1dmFjNnUxTDVSNlJ3dGJOVTkyWGZ5ckplNjBEdldueGJPRU82cVU5MjhrTXJzOHpzUjlFekpQZWIzWnl6UHRfSDVEeVd6eUpNYW5qdnhleQ?oc=5",
+   "source": "GoogleNews·Sohu",
+   "domain": "litho_machine",
+   "published": "2026-11-13",
+   "summary": "",
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "890c9b45c9690653e913f8759260df523aebae8c",
+   "title": "官宣！阿里芯片子公司拟分拆上市！源杰科技涨近9%，科创芯片ETF汇添富(588750)最新单日吸金超7000万元！国产芯片迈入加速期",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9vME5oWUltbVJIMWZpZmZLOXVNaXhfNEV1RDV1eTVpenMyX2xyaF83Y2hXbmhCdXE1ZEd3RloycndYTjduVlFVeHk5eGRCREZ4a1owcE1DQl8?oc=5",
+   "source": "GoogleNews·Jiemian.com",
+   "domain": "optical_comm",
+   "published": "2026-11-10",
+   "summary": "",
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20",
+   "bt": 0,
+   "co": [
+    "源杰科技"
    ]
   },
   {
@@ -4137,7 +4193,7 @@
    "published": "2026-11-13",
    "summary": "",
    "first_seen": "2026-11-13",
-   "last_seen": "2026-11-13",
+   "last_seen": "2026-11-20",
    "bt": 0,
    "co": []
   },
@@ -5265,7 +5321,7 @@
    "published": "2026-11-10",
    "summary": "",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-20",
    "bt": 2,
    "co": []
   },
@@ -6322,7 +6378,7 @@
    "published": "2026-11-08",
    "summary": "",
    "first_seen": "2026-11-09",
-   "last_seen": "2026-11-11",
+   "last_seen": "2026-11-20",
    "bt": 2,
    "co": []
   },
