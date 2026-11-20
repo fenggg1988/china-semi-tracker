@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20 16:29:59",
- "count": 1989,
+ "updated": "2026-11-20 17:35:08",
+ "count": 2009,
  "items": [
   {
    "id": "c993b405bb15aa6ad89f1ae9d91cdb66d2175930",
@@ -171,6 +171,50 @@
    "bt": 2,
    "co": [
     "茂莱光学"
+   ]
+  },
+  {
+   "id": "e0a9eab9a5957205a0d06d951e6a577a1eb3cf75",
+   "title": "美光新加坡 HBM 先进封装厂首台设备进驻，预计 2027 年初首批产出",
+   "url": "https://www.ithome.com/1/030/130.htm",
+   "source": "IT之家",
+   "domain": "memory",
+   "published": "2026-11-20",
+   "summary": "IT之家 11 月 20 日消息，当地时间 11 月 19 日，美光位于新加坡的高带宽内存（HBM）先进封装厂举行了首台设备搬入仪式，庆祝第一台制造设备搬入厂内无尘室。美光科技全球封装与测试高级副总裁陈国兴表示，该 HBM 先进封装厂的建设进展顺利，预计将于 2027 年初实现首批产出。2025 年 1 月，美光新加坡",
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "d6c782d265a71654cade575e56fc5494001ea985",
+   "title": "中芯国际单季收入增33.9%且产能利用率升至97.3%，晶圆厂扩产与国产设备订单相互印证",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZlRnQXVXWncydXdXenFlaXdmZEJ0TkdMTmEwa3JucnBCOVRaRUVsdmp5QXZya0dlb0FIVkM2Y0R0WGg5V1M4N2UzLUtqYjh0QmtBc2Y3Zm9HNEEtSkF1SDRuTk1vTk84VkNmMU1nUHhuMHNNeVFmSFJpUDAwZE51T2tsWlRscVVzZ05Icg?oc=5",
+   "source": "GoogleNews·Sohu",
+   "domain": "logic",
+   "published": "2026-11-17",
+   "summary": "",
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20",
+   "bt": 2,
+   "co": [
+    "中芯国际"
+   ]
+  },
+  {
+   "id": "8c45b1ba3c74a3fd6c580f870ffa43963c156c58",
+   "title": "港股异动| 涨价利好叠加国产化重新定价华虹宏力(01347)一度涨超6% 中芯国际(00981)涨超5%",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBYWUh5eVlPVUY3VFBlSVhBZVAzMHB2YkpVRFI3Zk5wTE51dm95QlotSnlPLV9zbGhVM01vVzdJQU5sandiY2UwNHJXaWo?oc=5",
+   "source": "GoogleNews·凤凰网",
+   "domain": "logic",
+   "published": "2026-11-19",
+   "summary": "",
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20",
+   "bt": 2,
+   "co": [
+    "中芯国际",
+    "华虹"
    ]
   },
   {
@@ -714,6 +758,239 @@
    "co": [
     "源杰科技"
    ]
+  },
+  {
+   "id": "25104b4fb724b23767220fb5d09df80e751372de",
+   "title": "铭匠 AF 50mm F1.8 Neo 全画幅镜头新增扎古绿、金刚钛配色，399 元",
+   "url": "https://www.ithome.com/1/030/133.htm",
+   "source": "IT之家",
+   "domain": "optics",
+   "published": "2026-11-20",
+   "summary": "IT之家 11 月 20 日消息，铭匠 AF 50mm F1.8 Neo 全画幅镜头今日新增扎古绿、金刚钛配色，提供索尼 E 卡口、尼康 Z 卡口、L 卡口，标价 499 元，到手价 399 元。这款镜头采用 8 组 12 片玻璃镜片，包含两片超低色散 ED 镜片；搭载 STM 步进马达，最近对焦距离 0.48m；重约",
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "836cb3608f304924c79e6b19db3f4d72ea112003",
+   "title": "华为星芒刘赫：得麒麟芯者得天下，OSTA O1 Pro 搭载麒麟 9030S 旗舰 τ 芯片",
+   "url": "https://www.ithome.com/1/030/085.htm",
+   "source": "IT之家",
+   "domain": "logic",
+   "published": "2026-11-20",
+   "summary": "IT之家 11 月 20 日现场消息，在今天下午的鸿蒙智行享界 V8 及星芒品牌发布会上，华为 OSTA 星芒品牌总经理刘赫登台，介绍了华为星芒开山之作 —— OSTA O1 Pro 的详细信息。刘赫表示，江湖上有句古话，得麒麟芯者得天下。OSTA O1 Pro 搭载麒麟 9030S 旗舰 τ 芯片，支持软硬芯云垂直整",
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20",
+   "bt": 0,
+   "co": [
+    "华为"
+   ]
+  },
+  {
+   "id": "9967a360df01afe06878cfe938144bed73e40a9a",
+   "title": "消息称谷歌调整 TPU 供应链策略：与联发科分工设计，绕过博通直接与内存厂采购 HBM",
+   "url": "https://www.ithome.com/1/030/066.htm",
+   "source": "IT之家",
+   "domain": "memory",
+   "published": "2026-11-20",
+   "summary": "IT之家 11 月 20 日消息，据韩媒 Chosun Biz 消息，随着人工智能基础设施投资的增加，美国大型科技企业正逐步调整芯片采购策略。为降低对英伟达 GPU 的依赖，这些企业一方面采用自研 AI 芯片或推进供应商多元化，另一方面选择直接采购高带宽内存（HBM）以削减中间环节成本。据半导体业界 18 日消息，这一",
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "35b686fbf26cee26f4f4d8e74ff1eea003969911",
+   "title": "【每日收评】上证50探底回升小幅收红，全市场超4800股飘绿，光刻胶、先进封装概念逆势活跃",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8yd2xTd0xoc2FMX1ZFWmNXZjBUZEpBVTRSY2E1eHNONUJYN2NTZ1l0MzBNTDZsV1NyZEwyUXRKMmZwUmN6T1E5Tg?oc=5",
+   "source": "GoogleNews·财联社",
+   "domain": "photoresist",
+   "published": "2026-11-19",
+   "summary": "",
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "299f8a0d4c2fd2ce82de47603eb06dc2e60abac8",
+   "title": "11月19日主题复盘 | 半导体设备集体大涨，光刻胶再度走强，小家电股完成反包",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQkpLRl95ZVQ0VEtIZDYyN0xRWG13NE1odThsSkZvaFhTVnU1TFdDWFpzaFdqWVFheXotUHVsYzZqVXFhWV9KQXZWbXF1NWR0LTFHXzM4RTd3UzBmV2ctVFdSRTA1bE1zS3k2b0JBT2Q1OFNSd2t2UGFSMTVoT1Q4QjJKVlpHeW9O?oc=5",
+   "source": "GoogleNews·Sohu",
+   "domain": "photoresist",
+   "published": "2026-11-19",
+   "summary": "",
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "7ead6480d2b300774e7bfeaac71b47b38f8a7f30",
+   "title": "97％产能打满之后，中芯国际三季报究竟说明了什么？",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA5bGwycmpULTR2SmVNMEZTVFBreURUSGpPQkFMUG85SHlRRUN3OG1qVmFBTHp3VHZmR0lEUFdvYnRvNmIxNEVPZERuZjVERGwwV3FSdVBhWUtWRzZURXdlRVpKckY4TmpqRU5LQXVWMA?oc=5",
+   "source": "GoogleNews·新浪财经_金融信息服务商",
+   "domain": "logic",
+   "published": "2026-11-16",
+   "summary": "",
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20",
+   "bt": 0,
+   "co": [
+    "中芯国际"
+   ]
+  },
+  {
+   "id": "2d22d6903dd0825dea2fe69198bc872a46ceedb3",
+   "title": "美国新规生效，台积电与三星暂停部分中国客户先进制程订单",
+   "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxNbzZhZmY2RjVfbU9nLVp6MWFBMENLM0RsVHZFd0xoU2d1Tm9tdnd1ODBOeHpwRm1aRVJ3UmlMd2dBcjFuWFhIbzhzc0tCMFdVMWVFcHFCLUdRRFlBVWhNamt4TGlfVUptLTFMY0lSeDRpejFaWGVmTThFN1c3UlZJd3pPNi1BbVJRZWlnVzZhMGdWLUJiaWZNakR6QkZCcEJ2ZlNia013Q1BJbjBYMjNDVWRoY1lPNkVBREtnaS1HNXV6Nlh3MHlVaEFfUFRuRDlUQlNlTUxJb01Mc2JkcEg3bFVQWXZsMHhaVThHOGU1d29lek5VMFZLWkQ0Tkd5dFl5aTk5cWI2U0RhWG9aVjhQamdySHpKcVlOVFJxai1MSUJzM09EdHQzZ1h4NmxublBodUlKOVBla0ZSWGtCN1J6NkxCZlN5a01QN0RNeGhRR1VvU01sTE9aTC1UcnRnQWM4dGVwNWx0alFRU2tOOGZuVWJwemxLR1k2Rm1yc2YwTm4zbzNiTmNLb1BOUlllYk1vN2lxR2N3c3diSUtlWkhvU28xNA?oc=5",
+   "source": "GoogleNews·RFI",
+   "domain": "logic",
+   "published": "2026-11-19",
+   "summary": "",
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "83f2b5effbefeb8ac0545fef49ff3c054100b748",
+   "title": "晶圆代工异军突起，国产双雄齐升，主力大举买入！科创芯片逆市3连涨",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xX2QxQVY5RUtVWW52Mk03Vy1KRS1oczBlR2NZM2VmUlVmOHpzdVIxMmxPV3RCMUxDcW5LUGQxY2d5T1BzNWVsZlNUUEliaTZuMS0tYnhTUkk?oc=5",
+   "source": "GoogleNews·Jiemian.com",
+   "domain": "logic",
+   "published": "2026-11-19",
+   "summary": "",
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "4023bf8bb564b56ce3dc108949fab99c18485da6",
+   "title": "港股概念追踪 | 晶圆代工再度调价预示需求火热 涨价红利或延续至2027年(附概念股)",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1zSm5yQnltbXFXZXBDT1NOVl9KX1pybk9RM0lWR1ZSaE5OODZfRlZRNXhqRWJ3eVZNWlhKT3F6U1pLY1NLejdHVlhWYkYyOWxRREFUTkNId2tFdUtmUlNhVmFiNkpKeVJuaUdFSHh1bjNhczhJ?oc=5",
+   "source": "GoogleNews·金融界",
+   "domain": "logic",
+   "published": "2026-11-18",
+   "summary": "",
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "ff1c0115aa7cc169ccb16c3acc5b6e053f4311de",
+   "title": "中芯国际盘中涨超5%",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5BNnQ2QVpxalFPX2JxM3J1d1ZvekNHbU9jd0pJamJ6WWFSQ1NOd2N2SWFUNGFQUWxBVEFsVDZTSFgydDBBX1AtQ0ZBUFZ6YnppYmlaNXFfVFNidVkz?oc=5",
+   "source": "GoogleNews·www.caiwennews.com",
+   "domain": "logic",
+   "published": "2026-11-19",
+   "summary": "",
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20",
+   "bt": 0,
+   "co": [
+    "中芯国际"
+   ]
+  },
+  {
+   "id": "9e02ad3f568ac9c63a6af19e7352df79d8502447",
+   "title": "【百强透视】晶圆代工双雄上涨，华虹宏力（01347.HK）大涨超7%",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ3BocG8zVTRha3NucmhXVGtfNVhfWWNhZTVpY3FkeDB4Vk5oamlEMV9jcm45TVlySDVEY2p0cnNBc29ILWJhZFJ0aDFRdmpmdGh6U3BiZk5ZZTFrZ0FaaXhpTGJLcFhWMFJLSHJFWEtLaFc3azVhbHBGeXhCSXdWNGxIY1pTbVNV?oc=5",
+   "source": "GoogleNews·Sohu",
+   "domain": "logic",
+   "published": "2026-11-19",
+   "summary": "",
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20",
+   "bt": 0,
+   "co": [
+    "华虹"
+   ]
+  },
+  {
+   "id": "589a8243b1ffd414d8a30f86b931f8ad68bbf7cb",
+   "title": "中芯国际之父张汝京：虽然我是美籍，但我是中国人，回国无需理由",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56dHFXYnlXX050MHQ5YnU4bjQ0clRDbTh6MHpoN21NRmRlTU1TdnR1V2FQQjkwUTdYY05UblpMNUYyUTRBWC1DUmZfbVlpVXAxTmFnM09R?oc=5",
+   "source": "GoogleNews·腾讯新闻",
+   "domain": "logic",
+   "published": "2026-11-06",
+   "summary": "",
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20",
+   "bt": 0,
+   "co": [
+    "中芯国际"
+   ]
+  },
+  {
+   "id": "91689235f844d909920ebae9a707a98c88ac0887",
+   "title": "美国新规生效，台积电与三星暂停部分中国客户先进制程订单| 零新聞",
+   "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxPZnpkd0JPbE1YUDlPWDJKVlROcTVsWVVvOF9rNEFHSlZ5UjZmZnZxaEF5dnAtZTNjc25RUEtfanF2ejZHU0p0ek96SkJTQjlqUWJzRHlnZ3JhNFhlT0I3anNaZWZ0NE9iSzhqMGd2c2pnbDlGYXhXMVV5OURSdWlDS0NNQnJHdDFXV3pRMGlDa1RqcFY5Y19EeWlZN3dxODluMlJQWWhUVVpBbDFTWFJ2dTlhMHhWNGU5SHlMU3lTQ2hvSUxmdUFMbzJiYjg3MU95dnpvOTNFb21fbllFZ1BsLVpCSUFOMzN2OGVrQjNXUUJJMng4NlphWUktMWVEazFxZnJtZmM4a2J3cng5SFBsbEtTZ1dyMVh2QU92QWlvV3dmYjZDekdCRl96YWhuT2NwZnE2ZHJIb0c5cHVnQTFRcDNtaVowZUZkZ2ZHZFhQa2l2U2ExbXQwdnA2TWtKMVRmZk5LamFuQ2Y1SUJ6aUZhQXcySWoxQ3pvTWRCTVJGOG5fWGRFQ05nYk81ZHNrd2txRGpab1VNYU9FSVg2R2c?oc=5",
+   "source": "GoogleNews·GitHub",
+   "domain": "logic",
+   "published": "2026-11-19",
+   "summary": "",
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "5b4df381197e2a079d5601a0df12b44f8c0da745",
+   "title": "中芯国际(688981)：AI需求外溢推动2Q指引超预期- Futubull",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNHdQaE1iWUhVSWpYSGIwSTdmeS1nQUZaMmRiUEhXd1ozUURxM1g4LUVBS28yY3RCeEdYeE5kRURzNFNxZnBVWkpiNGRpaUFwa0Rrc3ByX0pTRERfZEFsLVUybzR4NEppYnlfTXhqZnJmY3dfZkNydWRmODEzRW9QT0pwTk5uTEJfLXpUVUdaTkVOYmhEMF9Sd0ZWbVdFcGtrN2c?oc=5",
+   "source": "GoogleNews·富途牛牛",
+   "domain": "logic",
+   "published": "2026-11-15",
+   "summary": "",
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20",
+   "bt": 0,
+   "co": [
+    "中芯国际"
+   ]
+  },
+  {
+   "id": "351d2446ed18d6e9a55993d4be01fb1906417625",
+   "title": "中国AI芯片行业出现分化：市场将美国新出口管制解读为利好本土半导体厂商",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNmoyUG9BMEpyVF9RZUVNMUY2di0yZXZGWk9NQzBiU3hlQUNCZWliXzhnS1BYTnNCUGxqdllVcHZDMEVXdTZMNjJaUEZWcHdZUkk1dUVteGN5YU1oRnVXREk5b0JDdlVCZWVLMkRBQVpLLVpjVUlGNEJVeHZOeHdqRElOcFJLazFIOGZVWjB3?oc=5",
+   "source": "GoogleNews·希图科技",
+   "domain": "logic",
+   "published": "2026-11-18",
+   "summary": "",
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "34b14e66327f68a2bdbe6d9bc168b45874c60e82",
+   "title": "合肥复制“长鑫模式”-36氪",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jZk9DSmcxY1ROVG54MTdDY3VNekVWSG45ZGg4bmJJRC16TV92SEZucUxLTW9POWFMQ2pVTEhxVVhva0tKR2Q0bGRsdW1hSUU?oc=5",
+   "source": "GoogleNews·36kr",
+   "domain": "memory",
+   "published": "2026-11-18",
+   "summary": "",
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "749a1d67deccd2b1cfd993b6a6f8799060107bab",
+   "title": "合肥复制“长鑫模式” 打造产业升级新标杆",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE40MkJRcEhrS3N1Wk9scUxEQlhBQTFqTjByWGtPSnk3Zl9XajZxc0FzNThkQTN2Y3A2Nm1FdmtMa1dPTUtuNHZITEtmUkpxRF9PcEw0?oc=5",
+   "source": "GoogleNews·eu.36kr.com",
+   "domain": "memory",
+   "published": "2026-11-18",
+   "summary": "",
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20",
+   "bt": 0,
+   "co": []
   },
   {
    "id": "39f0277b4101ca3412ade681626e1a31e31cdd2e",
@@ -3084,7 +3361,7 @@
    "published": "2026-11-13",
    "summary": "",
    "first_seen": "2026-11-15",
-   "last_seen": "2026-11-17",
+   "last_seen": "2026-11-20",
    "bt": 2,
    "co": []
   },
@@ -3428,7 +3705,7 @@
    "published": "2026-11-13",
    "summary": "",
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-20",
    "bt": 0,
    "co": []
   },
@@ -3554,7 +3831,7 @@
    "published": "2026-11-12",
    "summary": "",
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-17",
+   "last_seen": "2026-11-20",
    "bt": -3,
    "co": [
     "中芯国际"
@@ -4694,7 +4971,7 @@
    "published": "2026-11-11",
    "summary": "",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-20",
    "bt": 0,
    "co": []
   },
@@ -5916,7 +6193,7 @@
    "published": "2026-11-09",
    "summary": "",
    "first_seen": "2026-11-10",
-   "last_seen": "2026-11-17",
+   "last_seen": "2026-11-20",
    "bt": 2,
    "co": []
   },
@@ -6311,7 +6588,7 @@
    "published": "2026-11-10",
    "summary": "",
    "first_seen": "2026-11-10",
-   "last_seen": "2026-11-13",
+   "last_seen": "2026-11-20",
    "bt": -3,
    "co": [
     "中芯国际"
@@ -6827,7 +7104,7 @@
    "published": "2026-11-08",
    "summary": "",
    "first_seen": "2026-11-08",
-   "last_seen": "2026-11-13",
+   "last_seen": "2026-11-20",
    "bt": 0,
    "co": []
   },
