@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21 17:09:20",
- "count": 2031,
+ "updated": "2026-11-21 23:51:25",
+ "count": 2039,
  "items": [
   {
    "id": "63f6918b73bda6ccc8521b77b86b058602905e82",
@@ -40,6 +40,49 @@
    "last_seen": "2026-11-21",
    "bt": 2,
    "co": []
+  },
+  {
+   "id": "e10ac72eefda76ba146679aec0772a9891e14e26",
+   "title": "腾景科技：在光通信、半导体设备等重点应用领域的订单交付能力持续提升",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tZzRJb1Y1eHU0Vkp1OFczWjVCZ2ZXREt1NjJUUUZZX1E2cGU5VkhscGQ5X2tCTExLZ3hQSHo4T0hIaG1mNC0tZkc2RlVhRzZDR21WQ2tyejZrR05h?oc=5",
+   "source": "GoogleNews·www.caiwennews.com",
+   "domain": "optics",
+   "published": "2026-11-20",
+   "summary": "",
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "bt": 2,
+   "co": [
+    "腾景科技"
+   ]
+  },
+  {
+   "id": "f03fc81f2405859d921d311f21c492d8748999df",
+   "title": "电子特气行业量价齐升，国产替代进阶份额提升",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ284UUFLTmhfQWc3eW8teUc1NERmZTlqS0RHc2dTdjNEek41aEZxWFBOaFJFOEhFWWdWQk1OclA5NV9BT09fU3hMWkJpRS1OcFVOM2tZYVBQUnhJeEl0d2Y4ZnQxTDEzUXZtcjFiUlNidmJuNklaMGV4QTJIVHc4ZU1OWTlhS0tW?oc=5",
+   "source": "GoogleNews·Sohu",
+   "domain": "photoresist",
+   "published": "2026-11-13",
+   "summary": "",
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "79868cd5c099bc8643096c97c32a24e1d54150b4",
+   "title": "海外算力通道收紧，国产替代逻辑加强！华虹宏力涨超9%，科创50ETF汇添富(588870)指数涨近1%，单日净流入超1.8亿元！",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQd2o5NUxtT2dSMXNVTWxlTmx6YlJkZkR6ZDNXOTdRUkJ0di1NODhrLXhfczhjR2RUOWNnVERjTG1zT1dkVk84Qm9rcjVUV1dUbUYyNFRsUmYzV2R1eGwwYjZsQXk3c0dNTjVaUXZhYmhYNHhXXzZ4MGhVWUlFeGktNEFMZDBNYVVOM2txYQ?oc=5",
+   "source": "GoogleNews·Sohu",
+   "domain": "logic",
+   "published": "2026-11-17",
+   "summary": "",
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "bt": 2,
+   "co": [
+    "华虹"
+   ]
   },
   {
    "id": "8fdeee498476d6cb00054a5fefec53ec3e72a8e9",
@@ -262,6 +305,75 @@
    "source": "GoogleNews·证券之星",
    "domain": "optical_comm",
    "published": "2026-11-17",
+   "summary": "",
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "adc957fe91a261f3c4ab9248e325826d5aec6e46",
+   "title": "曝三星未来三年大部分存储芯片产能已被锁定，有客户希望供货保障至 2031 年",
+   "url": "https://www.ithome.com/1/030/475.htm",
+   "source": "IT之家",
+   "domain": "memory",
+   "published": "2026-11-21",
+   "summary": "IT之家 11 月 21 日消息，韩媒 Economy Tribune 今天（21 日）下午爆料称，三星电子 2027 年至 2029 年的大部分存储芯片产能都已被合同预订。随着 AI 数据中心投资持续扩大，存储芯片供应短缺长期难以缓解，部分客户开始要求签订长期供货协议（LTA），希望将供货保障期限延长至 2031 年",
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "55f2482640eb54bfc848ef902138069536f06987",
+   "title": "消息称华为 Mate 90 Air 手机搭载麒麟 9020 芯片，厚 6.58mm",
+   "url": "https://www.ithome.com/1/030/439.htm",
+   "source": "IT之家",
+   "domain": "logic",
+   "published": "2026-11-21",
+   "summary": "IT之家 11 月 21 日消息，华为本周已官宣旗下最薄 Mate 直板机 —— 华为 Mate 90 Air，新机将于 11 月 24 日 14:30 举行的 HUAWEI Mate X8 及全场景新品发布会发布。博主 @熊猫很禿然 今日爆料，称“这代 Mate 90 Air 提升十分有限”：K9020A / K90",
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "bt": 0,
+   "co": [
+    "华为"
+   ]
+  },
+  {
+   "id": "c4664d59baf0e891f2527648138c05795671680d",
+   "title": "看好中国光通信、半导体等科技领域长期发展！源杰科技、联讯仪器集体发声",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwdExHV2hWUEtuR0lEc0RtajR5OGhVYVY5a0prLWZsLTVDN3p3b1Bqd0dVSnRveTVxQ1lDRGRyUE1sOTJRUWxES292U2VjaXR6bjJFcmVIWllFampD?oc=5",
+   "source": "GoogleNews·www.caiwennews.com",
+   "domain": "optical_comm",
+   "published": "2026-11-18",
+   "summary": "",
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "bt": 0,
+   "co": [
+    "源杰科技"
+   ]
+  },
+  {
+   "id": "749d5813066a06a728e0ca30d67023b254110171",
+   "title": "毛利率逼近贵州茅台，长鑫科技预计2026年第四季度保持稳定",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBYdmd5Y1NHbndibHpNcF9hbHRqLUtweXdnb3plMVpITXlzRnpOUXRLRmdGeVFmU3REa01GZ0ZPUUZyUzFFNzBtYzFQWTNhTENxVkt0R0JsSXZOMUJteXVhbmV6WWRVRGFFUkZyZTlDS0E5bmxoeVpGNDZR?oc=5",
+   "source": "GoogleNews·中国基金报",
+   "domain": "memory",
+   "published": "2026-11-17",
+   "summary": "",
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "bd371a25385d8f1b0efb108471e853a983d17024",
+   "title": "昨日收绿今日修复，11.18 周三小阳线里藏着硬科技主线|爱股人|A 股市场|HBM 存储|国产算力|6G 通信_新浪新闻",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE95ejNxaTY5T1M4c1o1UV84YlVuQ1U2RXc3N0pCZjRYMWhZbzlNYXplYmtVWHQtUHltVVNNa2tjajNyeDlNTW1wSTR3cW5mMWx6X3haeTBxMnNQTElsSTRPLWRmQQ?oc=5",
+   "source": "GoogleNews·手机新浪网",
+   "domain": "memory",
+   "published": "2026-11-18",
    "summary": "",
    "first_seen": "2026-11-21",
    "last_seen": "2026-11-21",
@@ -974,7 +1086,7 @@
    "published": "2026-11-18",
    "summary": "",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-21",
    "bt": 0,
    "co": [
     "新易盛"
@@ -989,7 +1101,7 @@
    "published": "2026-11-16",
    "summary": "",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-21",
    "bt": 0,
    "co": []
   },
@@ -1002,7 +1114,7 @@
    "published": "2026-11-18",
    "summary": "",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-21",
    "bt": 0,
    "co": [
     "新易盛"
@@ -3681,7 +3793,7 @@
    "published": "2026-11-15",
    "summary": "",
    "first_seen": "2026-11-15",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-21",
    "bt": 2,
    "co": [
     "长江存储"
@@ -4643,7 +4755,7 @@
    "published": "2026-11-13",
    "summary": "",
    "first_seen": "2026-11-13",
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-21",
    "bt": 0,
    "co": []
   },
@@ -4911,7 +5023,7 @@
    "published": "2026-11-13",
    "summary": "",
    "first_seen": "2026-11-13",
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-21",
    "bt": 0,
    "co": [
     "中际旭创"
@@ -5081,7 +5193,7 @@
    "published": "2026-11-12",
    "summary": "",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-21",
    "bt": 6,
    "co": []
   },
@@ -5431,7 +5543,7 @@
    "published": "2026-11-12",
    "summary": "",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-21",
    "bt": 0,
    "co": []
   },
@@ -5604,7 +5716,7 @@
    "published": "2026-11-12",
    "summary": "",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-21",
    "bt": 0,
    "co": []
   },
@@ -6078,7 +6190,7 @@
    "published": "2026-11-10",
    "summary": "",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-21",
    "bt": 0,
    "co": []
   },
@@ -7960,7 +8072,7 @@
    "published": "2026-11-05",
    "summary": "",
    "first_seen": "2026-11-06",
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-21",
    "bt": 0,
    "co": []
   },
@@ -9012,7 +9124,7 @@
    "published": "2026-11-04",
    "summary": "",
    "first_seen": "2026-11-04",
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-21",
    "bt": 0,
    "co": [
     "中际旭创"
@@ -9531,7 +9643,7 @@
    "published": "2026-11-03",
    "summary": "",
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-21",
    "bt": 0,
    "co": []
   },
@@ -9628,7 +9740,7 @@
    "published": "2026-11-03",
    "summary": "",
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-08",
+   "last_seen": "2026-11-21",
    "bt": 0,
    "co": []
   },
@@ -9654,7 +9766,7 @@
    "published": "2026-11-03",
    "summary": "美国针对中国先进半导体技术的出口管制再次暴露出新的漏洞。据The Information调查报道，一些走私者正在利用特殊的芯片封装方式，将高带宽内存（HBM）与低端服务器处理器组合在一起，以普通计算芯片的名义出口，随后再将整套组件运往中国，在当地拆解并回收其中的高端HBM内存。 阅读全文",
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-04",
+   "last_seen": "2026-11-21",
    "bt": 0,
    "co": []
   },
@@ -9967,7 +10079,7 @@
    "published": "2026-11-02",
    "summary": "",
    "first_seen": "2026-11-02",
-   "last_seen": "2026-11-04",
+   "last_seen": "2026-11-21",
    "bt": 0,
    "co": []
   },
