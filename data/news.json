@@ -1,7 +1,33 @@
 {
- "updated": "2026-11-21 00:33:41",
- "count": 2011,
+ "updated": "2026-11-21 15:54:08",
+ "count": 2022,
  "items": [
+  {
+   "id": "63f6918b73bda6ccc8521b77b86b058602905e82",
+   "title": "韩媒：没有EUV光刻机，中国HBM内存良率低，不足为虑！",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeWI2ZXpRNTR0UjBheEM5RnhOaERQeFVUR1hIajUxdUtOWnhlOTJyNnZSSTJXb0hZSUVLY3phZ3pZbFBRdnE3cWNEQ3ZiS2dSSzJGS1RtbGxaZ0dCWXBTQWNhT2NQNTZNVzIwQnVpbUhRd05RamR0blpDVmhIelRXU21sbTNtREQ2djV3RQ?oc=5",
+   "source": "GoogleNews·Sohu",
+   "domain": "litho_machine",
+   "published": "2026-11-21",
+   "summary": "",
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "f1b248b74e3adf5d7cb9c633550d4d01bdde3248",
+   "title": "海光芯正盘中跌超6%，自研硅光芯片亮相并完成战略投资",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PckdSQVl6UFkxa2x3QXBzQ19kLVNHeldoX0pfQldjbzJMU0lteFUzWU9ENm90eFRjX2ZqSnA4ZlZVV1QyOG9nSXJ3R2duTE5vZWxRdkhPX3FTNmRr?oc=5",
+   "source": "GoogleNews·www.caiwennews.com",
+   "domain": "optical_comm",
+   "published": "2026-11-16",
+   "summary": "",
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "bt": 2,
+   "co": []
+  },
   {
    "id": "8fdeee498476d6cb00054a5fefec53ec3e72a8e9",
    "title": "明基 AK900ST AI 高尔夫投影机发售：6000lm 亮度、短焦镜头设计，52999 元",
@@ -27,6 +53,129 @@
    "last_seen": "2026-11-21",
    "bt": 0,
    "co": []
+  },
+  {
+   "id": "59ee21c6ab0bfc694770a840077f3a8bf544c4ad",
+   "title": "欧洲卡住光刻机不卖中国，中国反问：欧洲为啥还想要中国新能源？",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNW1OSC15N0JVczF3cl9mdEF5THdPeUc5TnFuUVBuWHFUU19yYndBalNMNEtITW15M2JlV3FkVzBidThGTHgzSTVYYzQ5YWs4V3BPOVNXUUJlN3ZZcnlyZWw3dEZBMG1aWnZ2ZnN1Nzd3elczM1Q1Vk9Kekd2cWd5Z2l3?oc=5",
+   "source": "GoogleNews·网易新闻客户端",
+   "domain": "litho_machine",
+   "published": "2026-11-20",
+   "summary": "",
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "e51aa72f912b4e41ba0cd584136e6714f6842a63",
+   "title": "鼎龙股份(SZ300054)_鼎龙股份怎么样 - 热门讨论",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1yb0VER1JVd2hlYlZXc2xxaU1ZTkJ0ZVhkMW85OTZmaWtzaUdvWFNvTjNhaFplOXFnWTMyUHRjRG9WMnhyaUtLMnFR?oc=5",
+   "source": "GoogleNews·雪球",
+   "domain": "photoresist",
+   "published": "2026-11-20",
+   "summary": "",
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "bt": 0,
+   "co": [
+    "鼎龙股份"
+   ]
+  },
+  {
+   "id": "6e0e2b814377947c880d20b30504697931f8f578",
+   "title": "光刻胶，国产良品率达99%！",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQZU8wV2RjNURXM3JlMms1YlNVMGZOekpPVXYyRjUyTjdkTHU2VVdiZENMX0gxMGp0ZFdoOXAxbnpHTXpxaVJnSjJ6Vmd4STQ4ckFYQmhMa0hvaTZBaGlPZw?oc=5",
+   "source": "GoogleNews·Sohu",
+   "domain": "photoresist",
+   "published": "2026-11-18",
+   "summary": "",
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "8a8bec0fddacbeb1fb0882e45dbcbaffa8038e76",
+   "title": "粤芯半导体：已成功推出12英寸硅光工艺技术平台_公司新闻",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZa3A4R2owc3gxR3BuUG9BeE9ZS0U4dTI5dE50M2V2aWRUSTNsMmhfbkFseVNyYmFESGdHdE5BR2ZHUFJISVMtOWtqN1VWUUtGd09oZjFHOWVIZ3huUGh2eEln?oc=5",
+   "source": "GoogleNews·证券之星",
+   "domain": "optical_comm",
+   "published": "2026-11-20",
+   "summary": "",
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "980012b83f253df74ee417ff6479d2617f189d8f",
+   "title": "长鑫存储在西安招人了！还有中通、京东集团热招职位",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1scVludGNCS1dHWGstZ29nbUVzekV5cF9tbWZiMG1LdU5CT1d5WGI1SENrZHhULWtTdzJOOXZ0SXpmclpyWEFVczItWm8?oc=5",
+   "source": "GoogleNews·凤凰网",
+   "domain": "memory",
+   "published": "2026-11-20",
+   "summary": "",
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "bt": 0,
+   "co": [
+    "长鑫存储"
+   ]
+  },
+  {
+   "id": "cab3f4c137c27dc65093339102e77ae9a639a33b",
+   "title": "长鑫科技：四季度DRAM产品供给紧缺格局将延续",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBUZGhNb3BsUVVZWkk1V2xlRUsxUnZabllRM1FBeGJISV9WWEFpN1EwZS13R3lNUk1uc0NwSFJReW03NXRnRTBtTTNXY2RMbGRBZGNsM0lIc01RRENIai1pS2o2ZWcyUQ?oc=5",
+   "source": "GoogleNews·东方财富",
+   "domain": "memory",
+   "published": "2026-11-18",
+   "summary": "",
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "2bcf8c2023641d6069ccbff06a5a433d454b6a19",
+   "title": "长鑫科技公布国际专利申请：“半导体结构及其形成方法、存储器”_公司新闻",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5UdUlJVmNaVEZxbGdPSjNDbDBDSXl5OWZuQ2VldFBseWFNS21RV3NkYmJNN2YtZUZPT2pISktSYlU5NGVzZmdBT19jWE0zX2RxLUk2Q0luWUNCNzExRkYySE1R?oc=5",
+   "source": "GoogleNews·证券之星",
+   "domain": "memory",
+   "published": "2026-11-21",
+   "summary": "",
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "87d17a03e4342c4d5ecc61f823215e40e4c0739b",
+   "title": "长鑫科技发声 与多家头部客户协商长期供货协议",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ZQmd2TUVxSGtXb1IyUFgwYS1abmE0QWlkLXQ2Z3AxeFhNN25yOElBX3YtckxNc3dvbzJBdWg0QTVLaVRKbVo2N2ZrSTI4cEhFdTRvOHdiX3VUeTY0UlF6Yg?oc=5",
+   "source": "GoogleNews·东方财富网",
+   "domain": "memory",
+   "published": "2026-11-17",
+   "summary": "",
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "1ce9402e4e945518d87cc8d5fe36f8cd1d7c6a98",
+   "title": "长江存储如果上市，市值能到6-8万亿",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zOFpVR3Vkd3JJUkltWGxIUVBwbUw2MXp1ZXUydFh1dlRGb2hFZnByU0dWMndoOXBkRlAtOVZob0tVWU4tTGJabHJEMjRTazN3VXdsZDVn?oc=5",
+   "source": "GoogleNews·腾讯新闻",
+   "domain": "memory",
+   "published": "2026-11-20",
+   "summary": "",
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "bt": -3,
+   "co": [
+    "长江存储"
+   ]
   },
   {
    "id": "c993b405bb15aa6ad89f1ae9d91cdb66d2175930",
@@ -102,7 +251,7 @@
    "published": "2026-11-20",
    "summary": "",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-21",
    "bt": 2,
    "co": []
   },
@@ -1135,7 +1284,7 @@
    "published": "2026-11-09",
    "summary": "",
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-21",
    "bt": 2,
    "co": [
     "SMEE"
@@ -1778,7 +1927,7 @@
    "published": "2026-11-08",
    "summary": "",
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-21",
    "bt": 0,
    "co": []
   },
@@ -1804,7 +1953,7 @@
    "published": "2026-11-17",
    "summary": "",
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-21",
    "bt": 0,
    "co": []
   },
@@ -4403,7 +4552,7 @@
    "published": "2026-11-12",
    "summary": "",
    "first_seen": "2026-11-13",
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-21",
    "bt": 0,
    "co": []
   },
@@ -5678,7 +5827,7 @@
    "published": "2026-11-11",
    "summary": "",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-21",
    "bt": 2,
    "co": []
   },
@@ -7735,7 +7884,7 @@
    "published": "2026-11-05",
    "summary": "",
    "first_seen": "2026-11-06",
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-21",
    "bt": 0,
    "co": [
     "长江存储"
@@ -8989,7 +9138,7 @@
    "published": "2026-11-02",
    "summary": "",
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-21",
    "bt": 2,
    "co": [
     "长鑫存储"
@@ -10479,7 +10628,7 @@
    "published": "2026-11-01",
    "summary": "",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-13",
+   "last_seen": "2026-11-21",
    "bt": 0,
    "co": [
     "光迅科技"
