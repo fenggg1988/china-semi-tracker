@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21 16:14:48",
- "count": 2023,
+ "updated": "2026-11-21 17:09:20",
+ "count": 2031,
  "items": [
   {
    "id": "63f6918b73bda6ccc8521b77b86b058602905e82",
@@ -22,6 +22,19 @@
    "source": "GoogleNews·www.caiwennews.com",
    "domain": "optical_comm",
    "published": "2026-11-16",
+   "summary": "",
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "a5d926b873f3e536cf347a89ee13660cca17ef2e",
+   "title": "汇绿生态：控股子公司钧恒科技800G产品正在上量",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBBREtkVXEwdUI3RTllaGtxVXZvcmk0ejVKZ1NjRTZYZE1iM3Z5MDJIZzBfSUtfdEFUeWRMSVFsaklKeU1FMTByM1dIRklRdw?oc=5",
+   "source": "GoogleNews·观点网",
+   "domain": "optical_comm",
+   "published": "2026-11-06",
    "summary": "",
    "first_seen": "2026-11-21",
    "last_seen": "2026-11-21",
@@ -176,6 +189,86 @@
    "co": []
   },
   {
+   "id": "4cab82502ff1bc293640a31028783aabbab364b2",
+   "title": "剑桥科技：拟于2027年底前将高速光模块产品的年产能再扩充至少1000万支",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxON2I5aldYdm13ajI2R2o4N3BGRzRuaTdmOURxdnpTSDY2RWdjbi1vNk5pZ2diNkpqUVBnZVpSYUtfbjM0TDRXM20yV1liYVg2VGFlOHdBY1dVRm0wRTB3OTU5UFV0dlRnakJvSk90TzB6LWxQSW9ISUR0LVR6aWtBdzhYalV2dGF4?oc=5",
+   "source": "GoogleNews·Sohu",
+   "domain": "optical_comm",
+   "published": "2026-11-10",
+   "summary": "",
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "bt": 0,
+   "co": [
+    "剑桥科技"
+   ]
+  },
+  {
+   "id": "69edaedcb2eab5f63e25788175565a51b5d0aae6",
+   "title": "以 “创新” 作答 APEC：专访万福达：聚焦高精度封装装备，助力高速光模块制造升级",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5OQlExS3dHQ3VoanJ4TUpDcks5Z2ZPQXNnZ05ETGpmU0tvM29GVjh2cXZVY0JFSE9xN3VnTGVWSHI2SzZPcWlET1BsZ1IzYnkwUDlHQ3JJSlVONDR3VmRTVjI2UzJMZkRxTkVjZGs3bUczUUZRdFlF?oc=5",
+   "source": "GoogleNews·讯石光通讯网",
+   "domain": "optical_comm",
+   "published": "2026-11-17",
+   "summary": "",
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "8ce4b4c072eecd15cc184f23fdfd5d9f9f274ba2",
+   "title": "粤芯半导体(301660.SZ)：硅光产品目前涵盖400G、800G及1.6T高速可插拔硅光光模块应用",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5JZmMwM3MzZzVuRXhGY29xaEdNSUxLWE5jMTliSW04bjJtTll1TENaSW53Z2RHRFE0ZFp6N0llUGU5NWxIWGJfM3VqRzV1T0VpelhfTHdKbUpXSGdrZ0xUUWdOdE9icmVIRHpj?oc=5",
+   "source": "GoogleNews·TradingView",
+   "domain": "optical_comm",
+   "published": "2026-11-16",
+   "summary": "",
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "5d6445a2b254b95def1e73b09750008aab8dd94e",
+   "title": "磷化铟光芯片衬底材料产业链分析！",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HaHZvVFpWV1Q1WlIwWlFocV8xcE5UUDlrZm00bXI1N0xyaVBHZkFWclV1RGdPdUNoc1ExbWZudFhQZlppNUpOelBtXzh4ZFFnamo0?oc=5",
+   "source": "GoogleNews·电子工程专辑EE Times China",
+   "domain": "optical_comm",
+   "published": "2026-11-13",
+   "summary": "",
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "047c8648f69afcb7bba49f4ab66aa94ea4fb6cd9",
+   "title": "光模块厂商转向，上游硅晶圆产能被疯抢到2029年",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONDhfR0FxT3dkZFNQcldQN3JHaVNvUnVPUk1oLTNwRVNpekdWQm5DeV95cTAwZUtud2xHWTJXNXIzbzY4Tm96V2hFWWJLM0QxOExheXFJNkUtWWRWQTh3VUZlLTItVzBxcU1tVEt5LTl4Y0RJa2liQm5mZGRVNEI1NF9IcmQxVk9abm9abQ?oc=5",
+   "source": "GoogleNews·Sohu",
+   "domain": "optical_comm",
+   "published": "2026-11-18",
+   "summary": "",
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "db69801501c6bdf5006887ffe53c33591e928fa7",
+   "title": "经纬辉开(300120.SZ)：铱加的CPO、硅光产品匹配公司算力业务的高速互联需求_公司新闻",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mR2k1YlJvYTNwd1VQb1prMmpnWHlFVTcyU2RaWVJNSW5zQ01CUlpDU0NZcU5XQkRlSnNCeEZVQjhob0FCXzV0dXhGTEVqTlNSSnhCVmlHLUx2WXl3UlpCWGJtaHQ?oc=5",
+   "source": "GoogleNews·证券之星",
+   "domain": "optical_comm",
+   "published": "2026-11-17",
+   "summary": "",
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "bt": 0,
+   "co": []
+  },
+  {
    "id": "1ce9402e4e945518d87cc8d5fe36f8cd1d7c6a98",
    "title": "长江存储如果上市，市值能到6-8万亿",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zOFpVR3Vkd3JJUkltWGxIUVBwbUw2MXp1ZXUydFh1dlRGb2hFZnByU0dWMndoOXBkRlAtOVZob0tVWU4tTGJabHJEMjRTazN3VXdsZDVn?oc=5",
@@ -189,6 +282,19 @@
    "co": [
     "长江存储"
    ]
+  },
+  {
+   "id": "0f96a15a6b221a217249f6bf8906e8dd945d489c",
+   "title": "Coherent：市值腰斩，光模块“全能王”被错杀了吗？",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5vRWNHNkdzYVoxMjhuM2RxMm5yM0otMGFKQXQzVTN5Nk03YklsSEhpclN5U3JGLWd0ZS1HRll3TERORXpJYW40MU4wNGhHZw?oc=5",
+   "source": "GoogleNews·36氪",
+   "domain": "optical_comm",
+   "published": "2026-11-09",
+   "summary": "",
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "bt": -3,
+   "co": []
   },
   {
    "id": "c993b405bb15aa6ad89f1ae9d91cdb66d2175930",
@@ -290,7 +396,7 @@
    "published": "2026-11-19",
    "summary": "",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-21",
    "bt": 2,
    "co": []
   },
@@ -620,7 +726,7 @@
    "published": "2026-11-13",
    "summary": "",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-21",
    "bt": 0,
    "co": []
   },
@@ -633,7 +739,7 @@
    "published": "2026-11-13",
    "summary": "",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-21",
    "bt": 0,
    "co": []
   },
@@ -646,7 +752,7 @@
    "published": "2026-11-10",
    "summary": "",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-21",
    "bt": 0,
    "co": []
   },
@@ -659,7 +765,7 @@
    "published": "2026-11-08",
    "summary": "",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-21",
    "bt": 0,
    "co": []
   },
@@ -672,7 +778,7 @@
    "published": "2026-11-06",
    "summary": "",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-21",
    "bt": 0,
    "co": []
   },
@@ -685,7 +791,7 @@
    "published": "2026-11-10",
    "summary": "",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-21",
    "bt": 0,
    "co": [
     "中际旭创",
@@ -1023,7 +1129,7 @@
    "published": "2026-11-16",
    "summary": "",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-21",
    "bt": 0,
    "co": [
     "中芯国际"
@@ -1284,7 +1390,7 @@
    "published": "2026-11-10",
    "summary": "",
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-21",
    "bt": 2,
    "co": []
   },
@@ -1338,7 +1444,7 @@
    "published": "2026-11-18",
    "summary": "",
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-21",
    "bt": 0,
    "co": []
   },
@@ -1642,7 +1748,7 @@
    "published": "2026-11-01",
    "summary": "",
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-21",
    "bt": 0,
    "co": []
   },
@@ -1655,7 +1761,7 @@
    "published": "2026-11-04",
    "summary": "",
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-21",
    "bt": 0,
    "co": []
   },
@@ -1724,7 +1830,7 @@
    "published": "2026-11-09",
    "summary": "",
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-21",
    "bt": 0,
    "co": []
   },
@@ -1806,7 +1912,7 @@
    "published": "2026-11-07",
    "summary": "",
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-21",
    "bt": -3,
    "co": []
   },
@@ -1819,7 +1925,7 @@
    "published": "2026-11-16",
    "summary": "",
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-21",
    "bt": -3,
    "co": [
     "源杰科技"
@@ -2627,7 +2733,7 @@
    "published": "2026-11-17",
    "summary": "",
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-21",
    "bt": 2,
    "co": []
   },
@@ -3221,7 +3327,7 @@
    "published": "2026-11-16",
    "summary": "",
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-21",
    "bt": -3,
    "co": []
   },
@@ -3344,7 +3450,7 @@
    "published": "2026-11-13",
    "summary": "",
    "first_seen": "2026-11-16",
-   "last_seen": "2026-11-17",
+   "last_seen": "2026-11-21",
    "bt": 0,
    "co": [
     "波长光电"
@@ -3417,7 +3523,7 @@
    "published": "2026-11-16",
    "summary": "",
    "first_seen": "2026-11-16",
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-21",
    "bt": 0,
    "co": []
   },
@@ -3508,7 +3614,7 @@
    "published": "2026-11-16",
    "summary": "",
    "first_seen": "2026-11-16",
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-21",
    "bt": -3,
    "co": []
   },
@@ -3633,7 +3739,7 @@
    "published": "2026-11-12",
    "summary": "",
    "first_seen": "2026-11-15",
-   "last_seen": "2026-11-17",
+   "last_seen": "2026-11-21",
    "bt": 0,
    "co": []
   },
@@ -4200,7 +4306,7 @@
    "published": "2026-11-11",
    "summary": "",
    "first_seen": "2026-11-13",
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-21",
    "bt": 0,
    "co": []
   },
@@ -4960,7 +5066,7 @@
    "published": "2026-11-12",
    "summary": "",
    "first_seen": "2026-11-13",
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-21",
    "bt": -3,
    "co": [
     "中际旭创"
@@ -5172,7 +5278,7 @@
    "published": "2026-11-10",
    "summary": "",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-21",
    "bt": 0,
    "co": []
   },
@@ -5702,7 +5808,7 @@
    "published": "2026-11-10",
    "summary": "",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-21",
    "bt": 2,
    "co": [
     "剑桥科技"
@@ -5944,7 +6050,7 @@
    "published": "2026-11-10",
    "summary": "",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-13",
+   "last_seen": "2026-11-21",
    "bt": 0,
    "co": [
     "剑桥科技"
@@ -6325,7 +6431,7 @@
    "published": "2026-11-09",
    "summary": "",
    "first_seen": "2026-11-10",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-21",
    "bt": 4,
    "co": []
   },
@@ -6517,7 +6623,7 @@
    "published": "2026-11-09",
    "summary": "",
    "first_seen": "2026-11-10",
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-21",
    "bt": 0,
    "co": []
   },
@@ -8384,7 +8490,7 @@
    "published": "2026-11-04",
    "summary": "",
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-21",
    "bt": 0,
    "co": [
     "华为"
@@ -8746,7 +8852,7 @@
    "published": "2026-11-04",
    "summary": "",
    "first_seen": "2026-11-04",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-21",
    "bt": 0,
    "co": []
   },
@@ -9833,7 +9939,7 @@
    "published": "2026-11-02",
    "summary": "",
    "first_seen": "2026-11-02",
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-21",
    "bt": 0,
    "co": [
     "光迅科技"
@@ -10301,7 +10407,7 @@
    "published": "2026-11-01",
    "summary": "",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-04",
+   "last_seen": "2026-11-21",
    "bt": 2,
    "co": [
     "光迅科技"
