@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21 15:54:08",
- "count": 2022,
+ "updated": "2026-11-21 16:02:44",
+ "count": 2023,
  "items": [
   {
    "id": "63f6918b73bda6ccc8521b77b86b058602905e82",
@@ -156,6 +156,19 @@
    "source": "GoogleNews·东方财富网",
    "domain": "memory",
    "published": "2026-11-17",
+   "summary": "",
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "7a0e6ce86d0a830d6efa231474c332ca4a0bfc4c",
+   "title": "ASML CEO：如果我们撤出中国，立马失去对自己光刻机的控制",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNXRveEZpQWcyU1dEMkpHenY2aDNsaWZUc3dYWE9udWtzRDZLR1lzZjlLLVdELU9vNzFjQU1tRU03YWMySC11Rm1UMDVZNkR0MW41ZnFNVW1QOU52eU5IQzB1d0RSZGg0RUExTWVKVU80RGs1RGhpMTdJSDBZZjI4TkRYdXVMbDlSQWU0bA?oc=5",
+   "source": "GoogleNews·Sohu",
+   "domain": "litho_machine",
+   "published": "2026-11-21",
    "summary": "",
    "first_seen": "2026-11-21",
    "last_seen": "2026-11-21",
@@ -329,7 +342,7 @@
    "published": "2026-11-09",
    "summary": "",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-21",
    "bt": 2,
    "co": []
   },
@@ -6791,7 +6804,7 @@
    "published": "2026-11-09",
    "summary": "",
    "first_seen": "2026-11-09",
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-21",
    "bt": 4,
    "co": []
   },
