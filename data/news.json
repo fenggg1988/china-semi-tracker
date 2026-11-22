@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22 17:16:15",
- "count": 2061,
+ "updated": "2026-11-22 23:51:20",
+ "count": 2063,
  "items": [
   {
    "id": "d9ede2a5537e9c05de007e84e035ea99cc529d7d",
@@ -287,6 +287,32 @@
    "source": "GoogleNews·21财经",
    "domain": "memory",
    "published": "2026-11-10",
+   "summary": "",
+   "first_seen": "2026-11-22",
+   "last_seen": "2026-11-22",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "15c0e07a1d682b3a614ac71dacdfbafddf06170c",
+   "title": "远程算力被卡，光刻胶为何先涨？",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1oOHQzNURvRlZHS0tXSVVVRXdObzljMmpVT1hPWWJVYVRUUEN4clJUVmNYU3VtOEJkNmdDY1Nnb2pPWW1UazVlN25STUo2aGIybjVxcm9GUjJScTZDME5RWk1keUNuSEdYVzlN?oc=5",
+   "source": "GoogleNews·财富号",
+   "domain": "photoresist",
+   "published": "2026-11-17",
+   "summary": "",
+   "first_seen": "2026-11-22",
+   "last_seen": "2026-11-22",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "0e841b0b0df230e99ab2f2b920ed4fa0cde603a3",
+   "title": "海光芯正：全栈硅光能否跑出下一个光模块巨头？",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWGlQZzBCMUhwY0h1UW9ra0FUS2RUTmtqNFhiSjBONFpLbFZua2pfbTNOd3lHY3YtY2I1eTdGWFVYZmRjcU1LVVkxaUQzbzBoOURzNm9nWnRMOXlZTGU0Q0hDRk16dERyRUpRTVczb05UcjVfdFF6RmdxTkZlZjJqQUpfVEdvNmt2M09HUA?oc=5",
+   "source": "GoogleNews·Sohu",
+   "domain": "optical_comm",
+   "published": "2026-11-22",
    "summary": "",
    "first_seen": "2026-11-22",
    "last_seen": "2026-11-22",
@@ -1465,7 +1491,7 @@
    "published": "2026-11-10",
    "summary": "",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-22",
    "bt": 0,
    "co": [
     "源杰科技"
@@ -2397,7 +2423,7 @@
    "published": "2026-11-18",
    "summary": "",
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-22",
    "bt": 2,
    "co": [
     "中际旭创"
@@ -2503,7 +2529,7 @@
    "published": "2026-11-17",
    "summary": "",
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "bt": 0,
    "co": []
   },
@@ -8125,7 +8151,7 @@
    "published": "2026-11-06",
    "summary": "",
    "first_seen": "2026-11-07",
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-22",
    "bt": -3,
    "co": []
   },
