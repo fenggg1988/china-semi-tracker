@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23 16:57:51",
- "count": 2080,
+ "updated": "2026-11-23 18:11:54",
+ "count": 2084,
  "items": [
   {
    "id": "fc6bbdd457f6fc9dbea45ce19268de311fd49cdf",
@@ -35,6 +35,19 @@
    "source": "集微网",
    "domain": "optical_comm",
    "published": "",
+   "summary": "",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "8093cbe1e858c32cf5624475750c88583e7bfa6e",
+   "title": "CMP抛光材料行业观察：42亿美元市场国产替代提速",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTkhZREl5dWpoWEQxZFFuNEEyNHVZUGIxWTJMREVDLXZQQV9oSmJNNXNDLW85UGdqY1g5MEN3ZHY4eDVfSEYyMDlaREFJRGJiekJhQ19ScXlTeFBmZDFVdU96djRyUk1lYzYxMmdXOFhZTWwza0dmQUFOcW9uT1pBTFJuVGdxQXpJ?oc=5",
+   "source": "GoogleNews·Sohu",
+   "domain": "photoresist",
+   "published": "2026-11-23",
    "summary": "",
    "first_seen": "2026-11-23",
    "last_seen": "2026-11-23",
@@ -236,6 +249,45 @@
    "co": [
     "源杰科技"
    ]
+  },
+  {
+   "id": "4c4c394bb6228f369380cefecc7eb6edca6a93f0",
+   "title": "消息称 SK 海力士计划优先批量采购 Besi 混合键合设备，服务未来 HBM 内存生产需求",
+   "url": "https://www.ithome.com/1/031/040.htm",
+   "source": "IT之家",
+   "domain": "memory",
+   "published": "2026-11-23",
+   "summary": "IT之家 11 月 23 日消息，韩媒《首尔经济日报》当地时间 20 日报道称，在早期设备评估后，SK 海力士计划将首份混合键合设备批量采购订单交付荷兰企业 Besi，而不是韩国本土半导体设备制造商。Besi 在上月下旬的 2026Q3 财报电话会议上表示，其收到了一家领先存储器客户的混合键合设备（与新一代热压键合设备",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "84b896f5e6f15cdfaa4ca51cdff886902254ea74",
+   "title": "AI内存涨价三倍，英伟达却开始砍用量，HBM还会越堆越高吗？",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFByZHloRXpNS2xIMlloWWItcWxDbmc1VlRmOTNjTmFTRXMxaU1jajFNYXFMTUlpNXRpMXlmQ0lNUmxTS2NrRUtSUlczZnlIUQ?oc=5",
+   "source": "GoogleNews·36氪",
+   "domain": "memory",
+   "published": "2026-11-23",
+   "summary": "",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "1877cd992f0501de1a26f2e46a6f9235a31debdd",
+   "title": "不仅英伟达显卡断供了，12nm以下的芯片台积电也断了，玄戒，麒麟，自驾芯片，AI芯片全部受阻了，哎[柯基] ​",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA3RGFCUFVoU3Y4RTI4bElLSUpVUllQNy1ZTGttV0VfLUYwRzV1NnZybklQTlVBUVNhdUVwVEFGZ2U2YU9lWGdEVU0tT2dqV2hyUktZazgwXzJZWDFfWkZsZDdyYw?oc=5",
+   "source": "GoogleNews·手机新浪网",
+   "domain": "logic",
+   "published": "2026-11-19",
+   "summary": "",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23",
+   "bt": 0,
+   "co": []
   },
   {
    "id": "d9ede2a5537e9c05de007e84e035ea99cc529d7d",
@@ -645,7 +697,7 @@
    "published": "2026-11-17",
    "summary": "",
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-22",
+   "last_seen": "2026-11-23",
    "bt": 2,
    "co": [
     "华虹"
@@ -3412,7 +3464,7 @@
    "published": "2026-11-17",
    "summary": "",
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-22",
+   "last_seen": "2026-11-23",
    "bt": 2,
    "co": []
   },
@@ -9406,7 +9458,7 @@
    "published": "2026-11-05",
    "summary": "",
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-22",
+   "last_seen": "2026-11-23",
    "bt": -3,
    "co": [
     "长江存储"
