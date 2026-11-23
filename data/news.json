@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23 12:51:33",
- "count": 2073,
+ "updated": "2026-11-23 16:26:14",
+ "count": 2078,
  "items": [
   {
    "id": "fc6bbdd457f6fc9dbea45ce19268de311fd49cdf",
@@ -22,6 +22,19 @@
    "source": "GoogleNews·驱动之家",
    "domain": "memory",
    "published": "2026-11-23",
+   "summary": "",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "240d304e1759899d0b9afd7049e595e88192a796",
+   "title": "上海映芯：以MEMS光交换技术突破赋能AI智算中心全光互连",
+   "url": "https://www.laoyaoba.com/n/1145008",
+   "source": "集微网",
+   "domain": "optical_comm",
+   "published": "",
    "summary": "",
    "first_seen": "2026-11-23",
    "last_seen": "2026-11-23",
@@ -132,6 +145,62 @@
    "source": "GoogleNews·21财经",
    "domain": "optical_comm",
    "published": "2026-11-23",
+   "summary": "",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23",
+   "bt": 0,
+   "co": [
+    "新易盛"
+   ]
+  },
+  {
+   "id": "978f5ec52bd770163e1898745a5190b5758103d0",
+   "title": "上海微电子与中芯聚源在无锡成立1.2亿元股权投资基金_公司新闻_财经",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wdnBEMjJwTHZFNWJISENyNGNwYnB5OFhhdThONU5YU0RvMzBlZkNQaXFEZGtqM3ZZN1FGRjR3VmREVF92S3NPd2dsSk5SRVRjbFUycUNkSFN6ZE1iOTc0dg?oc=5",
+   "source": "GoogleNews·证券之星",
+   "domain": "litho_machine",
+   "published": "2026-11-23",
+   "summary": "",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23",
+   "bt": 0,
+   "co": [
+    "上海微电子"
+   ]
+  },
+  {
+   "id": "8b836539d37fac7b39d0a1b0a1062c2f45693683",
+   "title": "光刻机+光刻胶：这10家公司正在加速签单",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zbFNuWWdmRDRiSURmMFltLThNc19uMTB1bHBRVWhOQ0kxbElvQXVkWENjb2dUQXdBQ0JXWFB1QkZwSHRfY0ZrZVJHczJXMEtBZE5WbDBnNklNTW9WX1B2ck9FUGt1M2g1dXdR?oc=5",
+   "source": "GoogleNews·财富号",
+   "domain": "photoresist",
+   "published": "2026-11-18",
+   "summary": "",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "0f86a1be1829d1a8d867e2838880e204505465d1",
+   "title": "光刻机里的这面镜子，离三体人的水滴还有多远？",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BUlNwZWlYT3BZWEx6VEd4VGQzbGUtRGNqVnpCcS1XYmZ1YnpSZmlTSGl1VFFxU1REYUJLR3dPMTVxb0xsYnJiVE1Gd3g5T1c2LWE4S1lR?oc=5",
+   "source": "GoogleNews·腾讯新闻",
+   "domain": "litho_machine",
+   "published": "2026-11-22",
+   "summary": "",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "497dbdb2e0a92a1de0130d3cd43633a823ad4314",
+   "title": "“砍单”传闻下 新易盛主动“交底”",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tZGNlYW53ZzJveDZVcmNoRUJVaUdFVXJMcVhtQl9QU3hKRk1QY1dKOERpNFdYZDEzTnRqTWt6bWE2d1dYWVZTaHRzbjVNOGtuRkFyOEc2eHFfVmN5SmlfalotZl9TQXUxV1BrVlk2d1I?oc=5",
+   "source": "GoogleNews·金融投资报",
+   "domain": "optical_comm",
+   "published": "2026-11-21",
    "summary": "",
    "first_seen": "2026-11-23",
    "last_seen": "2026-11-23",
@@ -285,7 +354,7 @@
    "published": "2026-11-09",
    "summary": "",
    "first_seen": "2026-11-22",
-   "last_seen": "2026-11-22",
+   "last_seen": "2026-11-23",
    "bt": 0,
    "co": []
   },
@@ -1043,7 +1112,7 @@
    "published": "2026-11-17",
    "summary": "",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-22",
+   "last_seen": "2026-11-23",
    "bt": 2,
    "co": [
     "茂莱光学"
@@ -1616,7 +1685,7 @@
    "published": "2026-11-13",
    "summary": "",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-22",
+   "last_seen": "2026-11-23",
    "bt": 0,
    "co": []
   },
@@ -2153,7 +2222,7 @@
    "published": "2026-11-18",
    "summary": "",
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-23",
    "bt": 0,
    "co": [
     "新易盛"
@@ -2654,7 +2723,7 @@
    "published": "2026-11-17",
    "summary": "",
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-22",
+   "last_seen": "2026-11-23",
    "bt": 0,
    "co": []
   },
@@ -3710,7 +3779,7 @@
    "published": "2026-11-17",
    "summary": "",
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-23",
    "bt": 0,
    "co": [
     "华虹"
@@ -5318,7 +5387,7 @@
    "published": "2026-11-10",
    "summary": "",
    "first_seen": "2026-11-13",
-   "last_seen": "2026-11-22",
+   "last_seen": "2026-11-23",
    "bt": 0,
    "co": []
   },
@@ -6474,7 +6543,7 @@
    "published": "2026-11-10",
    "summary": "",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-22",
+   "last_seen": "2026-11-23",
    "bt": 2,
    "co": []
   },
@@ -7492,7 +7561,7 @@
    "published": "2026-11-09",
    "summary": "",
    "first_seen": "2026-11-09",
-   "last_seen": "2026-11-22",
+   "last_seen": "2026-11-23",
    "bt": 4,
    "co": []
   },
@@ -8289,7 +8358,7 @@
    "published": "2026-11-06",
    "summary": "",
    "first_seen": "2026-11-07",
-   "last_seen": "2026-11-22",
+   "last_seen": "2026-11-23",
    "bt": -3,
    "co": []
   },
