@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23 06:46:29",
- "count": 2068,
+ "updated": "2026-11-23 12:51:33",
+ "count": 2073,
  "items": [
   {
    "id": "fc6bbdd457f6fc9dbea45ce19268de311fd49cdf",
@@ -9,6 +9,19 @@
    "source": "GoogleNews·CSDN",
    "domain": "optical_comm",
    "published": "2026-11-10",
+   "summary": "",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "7562a61adc68f0a7086889421060d9e0ce8e129c",
+   "title": "离谱！被指操纵内存价格 三大存储巨头一起甩锅中国：长鑫疯狂扩产带来竞争压力",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9XMTd4ZE1hZURkNmxFQ2tZTFJMYTZ2dElXbGQ5N2hkNDlMcDBnT2UxWU1SOVc4ZTJPYVE0QUIzRVJFXzEyMDJWdGFCaThSQnREa1I4dnpURFk?oc=5",
+   "source": "GoogleNews·驱动之家",
+   "domain": "memory",
+   "published": "2026-11-23",
    "summary": "",
    "first_seen": "2026-11-23",
    "last_seen": "2026-11-23",
@@ -68,6 +81,64 @@
    "last_seen": "2026-11-23",
    "bt": 0,
    "co": []
+  },
+  {
+   "id": "0569865d878d2c20985efbf5700fc6ab30e1e259",
+   "title": "华为 Mate 90 Air 手机影像配置曝光：50Mp 主摄 +8Mp 超广角 +12Mp 长焦 + 红枫镜头",
+   "url": "https://www.ithome.com/1/030/750.htm",
+   "source": "IT之家",
+   "domain": "optics",
+   "published": "2026-11-23",
+   "summary": "IT之家 11 月 23 日消息，微博博主 @数码闲聊站 今日曝光华为 Mate 90 Air 手机的参数详情。该机预计将搭载麒麟 9020 芯片，采用 7 英寸 1.5K+120Hz 等深四曲屏。影像方面，这款手机或采用 5000 万像素后置主摄 +800 万像素超广角 +1200 万像素长焦以及红枫镜头，前摄为 1",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23",
+   "bt": 0,
+   "co": [
+    "华为"
+   ]
+  },
+  {
+   "id": "23769d1caa01f16c839908a30d3b023eb13cd2ce",
+   "title": "上海微电子、中芯聚源等在无锡成立股权投资基金",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPejdhWnR0QlZITk56bTV6ZGZJXzZIaXFNWW5HbFA4eUZCXzlTQUFrcmRrOTFWMDJ4R1BOaDBiOGZVd3o2LUFBTlVLQWk4Z0wyOXp5ZVpDVVd0R1Q0R2RWUHI4aVpGU0luRlNXdldSRUE5MkVLTUY0X0NrRnhyU2Z1dzFGcjJMVnZTWElDNQ?oc=5",
+   "source": "GoogleNews·Sohu",
+   "domain": "litho_machine",
+   "published": "2026-11-23",
+   "summary": "",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23",
+   "bt": 0,
+   "co": [
+    "上海微电子"
+   ]
+  },
+  {
+   "id": "1bfcadd042927f1f0fd8b398374abaa1c4ddd9b3",
+   "title": "光模块收发方向与参数解析：从800G部署到链路稳定性",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ubGFaZUc1T0FsZ3JrRWNIaEI3RzdmX2lRMENvQ0hrMXR0Vjd6Vm9oSUllY0xqcmJHdm85WTMzOUlxTDMtY0xVYVJlZHVWRFY1UmFubHFiaDRjQmU5c0U1aQ?oc=5",
+   "source": "GoogleNews·CSDN",
+   "domain": "optical_comm",
+   "published": "2026-11-10",
+   "summary": "",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "c90d6190430da9efb94e3044bc5c2f00f131163f",
+   "title": "光模块，逆市爆拉超2%！新易盛飙升7.26%领涨光模三杰，什么信号？",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOVBnNWl4eW5mSVdCakdoVjlCUU54VmVUUUYybG42b0RjZ1V1ck9WV18tX0JsRDNWRVpTaUxXU1FjaHhFNVR1cGRsenJadHd6a19IV0pyVEI1ZXc0azRjZnEyUnZuVV9yc0dqVDBaTEZUMDBOMVM1bnZvTFZrMWpkaGNvdEhiTEYzWnBDdUp6cw?oc=5",
+   "source": "GoogleNews·21财经",
+   "domain": "optical_comm",
+   "published": "2026-11-23",
+   "summary": "",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23",
+   "bt": 0,
+   "co": [
+    "新易盛"
+   ]
   },
   {
    "id": "d9ede2a5537e9c05de007e84e035ea99cc529d7d",
@@ -369,7 +440,7 @@
    "published": "2026-11-17",
    "summary": "",
    "first_seen": "2026-11-22",
-   "last_seen": "2026-11-22",
+   "last_seen": "2026-11-23",
    "bt": 0,
    "co": []
   },
@@ -3002,7 +3073,7 @@
    "published": "2026-11-18",
    "summary": "",
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-22",
+   "last_seen": "2026-11-23",
    "bt": 0,
    "co": [
     "中际旭创"
@@ -3326,7 +3397,7 @@
    "published": "2026-11-16",
    "summary": "",
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-23",
    "bt": 0,
    "co": []
   },
@@ -4389,7 +4460,7 @@
    "published": "2026-11-05",
    "summary": "",
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-23",
    "bt": 2,
    "co": []
   },
@@ -7460,7 +7531,7 @@
    "published": "2026-11-08",
    "summary": "",
    "first_seen": "2026-11-09",
-   "last_seen": "2026-11-22",
+   "last_seen": "2026-11-23",
    "bt": 2,
    "co": []
   },
