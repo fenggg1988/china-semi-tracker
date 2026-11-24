@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24 18:35:48",
- "count": 2130,
+ "updated": "2026-11-24 18:43:09",
+ "count": 2135,
  "items": [
   {
    "id": "a09d652fb1f9319fb05327a6d66b147da43b76d1",
@@ -41,6 +41,21 @@
    "bt": 2,
    "co": [
     "雅克科技"
+   ]
+  },
+  {
+   "id": "918d285497c6a0a29d002b1eec6ad1faaadc17ff",
+   "title": "三星要在西安扩产闪存，在华份额被长江存储反超",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sUmJPNWQwdnQwbXRPbHc2dmVUUGJHdG5VVXRZUjhrSDVZNjNBblk2WmZnRjBVNUVqci13dko3MjBBZHNkT1hsLTZFQWhoTFl4bTEzbm9YbnBudjRyUnktVXFaZ0xSdGNkam4xeTVzdkw?oc=5",
+   "source": "GoogleNews·手机新浪网",
+   "domain": "memory",
+   "published": "2026-11-24",
+   "summary": "",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "bt": 2,
+   "co": [
+    "长江存储"
    ]
   },
   {
@@ -600,6 +615,62 @@
    "co": []
   },
   {
+   "id": "0955ce41a47eeafc858d6899f6176793a22109bb",
+   "title": "从15W到600W！绕开专利墙，国产EUV光源技术路线差异性在哪儿？",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9iaU0xWVpCVzZLWWl0RllzYklCc3pRSjF3RE1uYUNBaTZSaDhzWGhQVDBiakxJVlRaaHJqZERFUWk0bkdkS0REaGlfb2tDS0ZUSk9R?oc=5",
+   "source": "GoogleNews·电子工程专辑EE Times China",
+   "domain": "litho_power",
+   "published": "2026-11-24",
+   "summary": "",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "c757cce53f2117f674edf634e31fa6d78cbb0b6d",
+   "title": "中芯国际(00981)_中芯国际怎么样 - 热门讨论",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE56c2NITWNmVTNwVXh5RFpwR2FjbFZuZXhzRWw1WFNIbkpESXhIelh0ZUswdFR3MEoxY2tWSFQxeTMtVjR3SHc?oc=5",
+   "source": "GoogleNews·雪球",
+   "domain": "logic",
+   "published": "2026-11-23",
+   "summary": "",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "bt": 0,
+   "co": [
+    "中芯国际"
+   ]
+  },
+  {
+   "id": "567c4a5f4e3cb921c6cd9ad1bcd203cbadd82a7e",
+   "title": "中芯国际三季度净利增87.6% 晶圆代工酝酿新一轮涨价",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSXNwc1VDTHBwdmF4cXItVDl1bkN5cVpmM2xIRUczeXkwSnJTYlNXTUc2X1FTZ1JvbEtWTmx6bV9LelZUcFA4cFY1R2FKTzJHMmhBX0hZeGtoLV9vSGZtM0RxdGVsMHlFdE5MWHp0aEo2OW4yNmdCUFhBRTJOS3E3YkxrMm5jX0lPSWEtaGNMWDNrZw?oc=5",
+   "source": "GoogleNews·Taobao",
+   "domain": "logic",
+   "published": "2026-11-19",
+   "summary": "",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "bt": 0,
+   "co": [
+    "中芯国际"
+   ]
+  },
+  {
+   "id": "a09eb02d4b7025ffc2be464d14b4ae934cd31c5f",
+   "title": "软银万亿收购SK海力士传闻背后：AI算力竞争为何卡在HBM",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNTUxdGhTMHVPVWZtZHByVGNHRGxLWVpUdmtCYi1TZEVKZHhPeHlXem9mNUpsMmw1aUdqQjNQUGxpcDhJVzdhZGRZdV83dU93SDlhVmJlc2h2d2JBekxwLXZmVTh5c1RTMmVwcmNZV1hBYkZFRmRNVEJYeFNJMUZxQlFlRHFpbEU?oc=5",
+   "source": "GoogleNews·微博",
+   "domain": "memory",
+   "published": "2026-11-21",
+   "summary": "",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "bt": 0,
+   "co": []
+  },
+  {
    "id": "88a23c3d6bbe5817d3720a9268087309f5b42e43",
    "title": "不受黄仁勋离职影响，英伟达CPO按计划推进",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Va0NiejVlbzVJeWZSNnBDanhnekpqOUdiSWZNNnhGNl9hblZiMV9weFFET0dfZVdDWFZoR3NPTzBTOERQaF85alpudEFudk1NY3cyVjJPRjJBOGNsc1VBdw?oc=5",
@@ -673,7 +744,7 @@
    "published": "2026-11-23",
    "summary": "",
    "first_seen": "2026-11-23",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "bt": 2,
    "co": []
   },
@@ -1320,7 +1391,7 @@
    "published": "2026-11-17",
    "summary": "",
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "bt": 2,
    "co": [
     "华虹"
@@ -4087,7 +4158,7 @@
    "published": "2026-11-17",
    "summary": "",
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "bt": 2,
    "co": []
   },
@@ -4376,7 +4447,7 @@
    "published": "2026-11-16",
    "summary": "",
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-17",
+   "last_seen": "2026-11-24",
    "bt": 0,
    "co": []
   },
@@ -8236,7 +8307,7 @@
    "published": "2026-11-10",
    "summary": "",
    "first_seen": "2026-11-10",
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-24",
    "bt": -3,
    "co": [
     "中芯国际"
