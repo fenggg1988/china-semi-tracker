@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24 18:43:09",
- "count": 2135,
+ "updated": "2026-11-24 18:53:13",
+ "count": 2140,
  "items": [
   {
    "id": "a09d652fb1f9319fb05327a6d66b147da43b76d1",
@@ -671,6 +671,47 @@
    "co": []
   },
   {
+   "id": "4e78587d75823d06df45a9057766455edce266a5",
+   "title": "11月10日：美国卡死韩国在华工厂不许升级，长江存储市占率猛冲，韩国终于拍案而起",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1BYTZvTng3SXJtTnhfQ3hual9ueFhZWHFjeGJvbUE1Z0RfbDkyeXMxM2RiRVdyb1JlRDgyTTJQU0tackxhYUE5d2ZEV2lyTXNGd3JN?oc=5",
+   "source": "GoogleNews·Sohu",
+   "domain": "memory",
+   "published": "2026-11-10",
+   "summary": "",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "bt": 0,
+   "co": [
+    "长江存储"
+   ]
+  },
+  {
+   "id": "ee7298ff35b077f7d39067a7faf8ec842320095b",
+   "title": "长鑫9亿成立产业投资新公司",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4cWZfdVFwdVFMeElic2UxYmVENWlwU05hZmJ0dElmQ3ZEZ3psUzZJTk85VU9JVnR1SFZwazM2M0FYRGdYQ1dCQXZHeGVhUHpLWFREUXl3?oc=5",
+   "source": "GoogleNews·腾讯新闻",
+   "domain": "memory",
+   "published": "2026-11-08",
+   "summary": "",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "dee4e900b725329fc3f92e923346158947798354",
+   "title": "11.18盘前持仓分析：长鑫科技",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNVU9JdjhGTFpDSl9qOW5Sd0lmSHI1TWhvNWdUUTEyUWp6aG9yTFU2UGpkYnZEOF9nUFE1LUVxaEkxazNfVjlRbUsydmdwZGx3TmkyWVdncXhSVFBrdFdMcndERmZ4MDUtWFRF?oc=5",
+   "source": "GoogleNews·财富号",
+   "domain": "memory",
+   "published": "2026-11-18",
+   "summary": "",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "bt": 0,
+   "co": []
+  },
+  {
    "id": "88a23c3d6bbe5817d3720a9268087309f5b42e43",
    "title": "不受黄仁勋离职影响，英伟达CPO按计划推进",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Va0NiejVlbzVJeWZSNnBDanhnekpqOUdiSWZNNnhGNl9hblZiMV9weFFET0dfZVdDWFZoR3NPTzBTOERQaF85alpudEFudk1NY3cyVjJPRjJBOGNsc1VBdw?oc=5",
@@ -690,6 +731,35 @@
    "source": "GoogleNews·36Kr",
    "domain": "optics",
    "published": "2026-11-24",
+   "summary": "",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "bt": -3,
+   "co": []
+  },
+  {
+   "id": "bcf381e537a7afc1442b294ed582de6ffd7e1ce0",
+   "title": "独家对话中芯国际联合创始人谢志峰：长江存储上市后市值有望超过万亿",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pbVBGeHJ6X2dMMzNmRGNqY2UxcjE1LW9oMW9ndTZXN21NNmNoNWhJODdPaDNld1M3eENmQkhrYjV6dWFuMElCTVBtYjlYWFZaQWdN?oc=5",
+   "source": "GoogleNews·Sohu",
+   "domain": "memory",
+   "published": "2026-11-15",
+   "summary": "",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "bt": -3,
+   "co": [
+    "中芯国际",
+    "长江存储"
+   ]
+  },
+  {
+   "id": "d6f3616114204acd23ee410f5238e265da0c8283",
+   "title": "V观财报｜长鑫科技最新发声，端侧AI对存储的需求正快速攀升，DRAM供给紧缺将延续",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9uck9RRXVYSDZDRUpXX0FoQUgtd0ZYTkxaWkM3aXVWZ1U1aEd0OTBkck51Vjc4VkZ6RVJEdDl5SzFYaU5PVEQzczg5eTBuNk9oYWVtb3MtWC1semt5SkJhWQ?oc=5",
+   "source": "GoogleNews·东方财富",
+   "domain": "memory",
+   "published": "2026-11-18",
    "summary": "",
    "first_seen": "2026-11-24",
    "last_seen": "2026-11-24",
@@ -1717,7 +1787,7 @@
    "published": "2026-11-09",
    "summary": "",
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-24",
    "bt": -3,
    "co": []
   },
@@ -2759,7 +2829,7 @@
    "published": "2026-11-20",
    "summary": "",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "bt": -3,
    "co": [
     "德明利"
@@ -4974,7 +5044,7 @@
    "published": "2026-11-16",
    "summary": "",
    "first_seen": "2026-11-16",
-   "last_seen": "2026-11-17",
+   "last_seen": "2026-11-24",
    "bt": 0,
    "co": []
   },
@@ -5039,7 +5109,7 @@
    "published": "2026-11-16",
    "summary": "",
    "first_seen": "2026-11-16",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-24",
    "bt": -3,
    "co": []
   },
@@ -5800,7 +5870,7 @@
    "published": "2026-11-12",
    "summary": "",
    "first_seen": "2026-11-13",
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-24",
    "bt": 0,
    "co": []
   },
@@ -5826,7 +5896,7 @@
    "published": "2026-11-12",
    "summary": "",
    "first_seen": "2026-11-13",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-24",
    "bt": 0,
    "co": []
   },
@@ -6800,7 +6870,7 @@
    "published": "2026-11-11",
    "summary": "",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-24",
    "bt": 0,
    "co": [
     "长江存储"
@@ -8102,7 +8172,7 @@
    "published": "2026-11-09",
    "summary": "",
    "first_seen": "2026-11-10",
-   "last_seen": "2026-11-22",
+   "last_seen": "2026-11-24",
    "bt": 0,
    "co": [
     "长江存储"
@@ -8875,7 +8945,7 @@
    "published": "2026-11-08",
    "summary": "",
    "first_seen": "2026-11-08",
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-24",
    "bt": 0,
    "co": []
   },
@@ -9488,7 +9558,7 @@
    "published": "2026-11-05",
    "summary": "",
    "first_seen": "2026-11-06",
-   "last_seen": "2026-11-09",
+   "last_seen": "2026-11-24",
    "bt": 0,
    "co": []
   },
@@ -9572,7 +9642,7 @@
    "published": "2026-11-06",
    "summary": "",
    "first_seen": "2026-11-06",
-   "last_seen": "2026-11-08",
+   "last_seen": "2026-11-24",
    "bt": 0,
    "co": [
     "长江存储"
@@ -9958,7 +10028,7 @@
    "published": "2026-11-05",
    "summary": "",
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-08",
+   "last_seen": "2026-11-24",
    "bt": 0,
    "co": [
     "长江存储"
@@ -10055,7 +10125,7 @@
    "published": "2026-11-05",
    "summary": "",
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-06",
+   "last_seen": "2026-11-24",
    "bt": 0,
    "co": [
     "长江存储"
