@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24 08:54:23",
- "count": 2110,
+ "updated": "2026-11-24 18:33:48",
+ "count": 2128,
  "items": [
   {
    "id": "a09d652fb1f9319fb05327a6d66b147da43b76d1",
@@ -27,6 +27,21 @@
    "last_seen": "2026-11-24",
    "bt": 2,
    "co": []
+  },
+  {
+   "id": "49b9cf1abb139b272fe1c8afff53841014eba72d",
+   "title": "雅克科技深度报告：平台型材料龙头，受益于存储扩产大周期_公司研究_研报",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1oU3dfQ3Npc1FxcmxrRl9WQnBkV1JOcGtHLVV3ZDA5Tl9BYnJDYlBRRWZYZkJOSTA1OTJBNHFHVENGR2Znd1lWRTltUHh3TnZTTDV1Nm5GVlpYcmdYN2dCZ1VB?oc=5",
+   "source": "GoogleNews·证券之星",
+   "domain": "photoresist",
+   "published": "2026-11-24",
+   "summary": "",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "bt": 2,
+   "co": [
+    "雅克科技"
+   ]
   },
   {
    "id": "317c2a1bb48be1b8688c48d44f41bb3008a389ef",
@@ -339,12 +354,243 @@
    "co": []
   },
   {
+   "id": "7d16164dc91b0645ce56b4899915082c7c03c8ab",
+   "title": "关于新增部分DDR5 SODIMM及UFS产品报价的通知",
+   "url": "https://www.chinaflashmarket.com/a/184447",
+   "source": "闪存市场",
+   "domain": "memory",
+   "published": "",
+   "summary": "",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "f231548c8d29dfbc4e4cc1990fb44d376eb5e3ad",
+   "title": "九州风神推出新款冰元素 360 ARGB GT 水冷散热器：冷头可选透镜 / 无限镜风格、一体框联排风扇，399 元",
+   "url": "https://www.ithome.com/1/031/606.htm",
+   "source": "IT之家",
+   "domain": "optics",
+   "published": "2026-11-24",
+   "summary": "IT之家 11 月 24 日消息，九州风神现已推出新款冰元素 360 ARGB GT 水冷，采用全新水泵，配备一体框联排风扇，黑白双色售价均为 399 元，提供三年质保服务。该产品冷头尺寸为 82 x 93×50mm，预装磁吸可替换铭牌，按压即可拆卸，可选透镜 / 无限镜风格。铭牌自带重力旋转功能，可根据不同平台及机箱",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "6aa9dba9a99b5496c5bb3c37a4d1835092703dd1",
+   "title": "14999 元起华为首款鸿蒙小折叠电脑 MateBook Fold S 正式发布：14.7 英寸 OLED 内屏、麒麟 XE90 芯片",
+   "url": "https://www.ithome.com/1/031/537.htm",
+   "source": "IT之家",
+   "domain": "logic",
+   "published": "2026-11-24",
+   "summary": "IT之家 11 月 24 日现场消息，在目前正在进行的华为 Mate X8 及全场景新品发布会中，华为首款鸿蒙小折叠电脑 MateBook Fold S 正式发布，定价 14999 元起，IT之家整理 SKU 如下：16GB + 256GB（含键盘 + 内胆包）：14999 元16GB + 512GB（含键盘 + 内胆",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "bt": 0,
+   "co": [
+    "华为"
+   ]
+  },
+  {
+   "id": "5a39c27e93dc56a0cbe12448c9d27def3ebcc0df",
+   "title": "4999 元起：华为 Mate 90 Air 手机发布，7 英寸轻薄大屏 + 麒麟 9020 处理器",
+   "url": "https://www.ithome.com/1/031/527.htm",
+   "source": "IT之家",
+   "domain": "logic",
+   "published": "2026-11-24",
+   "summary": "IT之家 11 月 24 日现场消息，华为今日召开新品发布会，推出 Mate 90 Air 手机。新品主打大屏幕 + 轻薄设计，机身中框薄至 3.7mm，重量 208g，提供皓月银、玫瑰金、曜石黑三种配色，搭载麒麟 9020 处理器，售价 4999 元起，即日起开启预售，12 月 4 日 10:08 正式开售。IT之家",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "bt": 0,
+   "co": [
+    "华为"
+   ]
+  },
+  {
+   "id": "2bb26ece6b8f3ed42a86d2601e65b6acdccc5d8e",
+   "title": "三星 Galaxy S27 Ultra 手机影像爆料：恐同时砍掉 3x 长焦镜头和激光对焦模块",
+   "url": "https://www.ithome.com/1/031/523.htm",
+   "source": "IT之家",
+   "domain": "optics",
+   "published": "2026-11-24",
+   "summary": "IT之家 11 月 24 日消息，数码博主 @i冰宇宙 今天（11 月 24 日）发布博文，爆料称三星将调整 Galaxy S27 Ultra 旗舰手机的后置影像配置，不仅将取消 3 倍长焦镜头，还会移除激光对焦模块。IT之家附上微博原文内容如下：我来继续爆料已确认，Galaxy S27 Ultra 将取消激光对焦模块",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "4c3ae39cdbaebd72297af548467c477b4ee49dba",
+   "title": "华为 Mate X8 大折旗舰机发布：麒麟 9050 Pro 逻辑折叠 τ 芯片、内屏亮度比肩双层 OLED，12,999 元起",
+   "url": "https://www.ithome.com/1/031/517.htm",
+   "source": "IT之家",
+   "domain": "logic",
+   "published": "2026-11-24",
+   "summary": "IT之家 11 月 24 日现场消息，在今天下午的 HUAWEI Mate X8 及全场景新品发布会上，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东正式发布了 Mate X8 大折叠旗舰手机，定价 12,999 元起。华为 Mate X8 大折叠手机各规格版本售价如下：12GB+256GB：12,99",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "bt": 0,
+   "co": [
+    "华为"
+   ]
+  },
+  {
+   "id": "91570e76ff197143c288d0e35d1e4a69acb2f6b8",
+   "title": "ASML CEO：就算撤走DUV工程师 中国晶圆厂照样转",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1587812.htm",
+   "source": "cnBeta",
+   "domain": "litho_machine",
+   "published": "2026-11-24",
+   "summary": "在硅谷与世界论坛上，ASML总裁兼CEO克里斯托夫・富凯，当着美国副国务卿赫尔伯格表达观点，反对切断对华DUV光刻机售后维护服务。他认为即便ASML工程师撤出国内晶圆厂，设备也不会停摆，很快会有其他技术人员接手维修工作。 阅读全文",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "1d5e929c4976541d011b0921eb4706b3aaa2b421",
+   "title": "ASML CEO当众泼冷水：就算撤走DUV工程师 中国晶圆厂照样转",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9OUG1WZTB2aTM3Wkw2bEdkcXR6UjFnZUlFaER2WHZ6cVhiRjZiWHBFaF8yZDM4X0RIMTNkWkptS2tEWFpnN3FsNzV4ZzJMTVpBM1N4VThHVmE?oc=5",
+   "source": "GoogleNews·驱动之家",
+   "domain": "litho_machine",
+   "published": "2026-11-24",
+   "summary": "",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "74f63e5088556e39e27121cfd7f536b3a35b2cc9",
+   "title": "光互连，迎来大变局",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5wUXdSV1hhODBDalpDNVBWM3o5emhrQkRJdkk0WWpFRjJqVkdRSklka2ZmYWphUmFTM0lUOGJRMm1ma1Z3d3RNZG01WF9EZw?oc=5",
+   "source": "GoogleNews·36氪",
+   "domain": "optical_comm",
+   "published": "2026-11-23",
+   "summary": "",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "53ef0c2dfa6431944ea43e1d2f152b8e040338f8",
+   "title": "CPO把价值推向封装与耦合：光器件环节的增量从哪来、被谁拿走",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4tUlVablFkZlNRdURKOEU0TmUxRTh2YTVoeVhOeTlRdDNoeHZ4dWthcDhFY1c0bGVmYXRjelJEOHlmTTJfYWllQTNVOWFUbmc5Y3B1QVlaekNxVWRPQkJtTg?oc=5",
+   "source": "GoogleNews·同花顺",
+   "domain": "optical_comm",
+   "published": "2026-11-24",
+   "summary": "",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "23c0517c3fc328d6bf9cffc89b18284f112b727b",
+   "title": "消费电子材料商光大同创5亿押注硅光模块 超募资金增资子公司",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lbGVuRjlSQXpTNzU1SVdqeFllWEMtbHZWMXhRQjNGZk43b2p5WV80TFBJQ3hXU1ZHNVJDSEY4ZlNMM21xd0syTTZPVkgyUC1KQ0pnM29HaFpmZW9GVlE?oc=5",
+   "source": "GoogleNews·同花顺",
+   "domain": "optical_comm",
+   "published": "2026-11-23",
+   "summary": "",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "188070b37c794a65278ac9d41db4970ef718aed9",
+   "title": "新易盛(300502.SZ)：当前客户对光模块的需求指引明确，目前不存在需求预期下修或砍单情形",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RNWFVRWVJRm5sUXhETERuYXR4VWhCZzNmUDJFMmpickRhWHJYTkJ1dzlkXzB4UFFqXzRsdkF4ZWtBUXR6QW0tYzhBNTZXTWNkSVVrOVhqMUJkT3VGcEtSV3BJSEdmalNLN2c?oc=5",
+   "source": "GoogleNews·TradingView",
+   "domain": "optical_comm",
+   "published": "2026-11-18",
+   "summary": "",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "bt": 0,
+   "co": [
+    "新易盛"
+   ]
+  },
+  {
+   "id": "993458c27da9278f81330b97d870a5129f3dae0d",
+   "title": "切入AI算力赛道 光大同创拟投5亿元建高速硅光模块基地",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUVh4elNZYnJ1QmpPVXFSMzNXSVB6eGl0QlpuYVQySGpaRGQ0OUJDWWNZRUlJSjkyQllZc01malZzMmtQZ0F1ZFpXY1ZsZEFPREFfamtTTU5keWtWYW4zYk5sbkV6ZDRDUFQzT1g4QzhTZWxOQnpsdEp0d0hnNndqWGpfU0hiTWZfY1I5cA?oc=5",
+   "source": "GoogleNews·Sohu",
+   "domain": "optical_comm",
+   "published": "2026-11-23",
+   "summary": "",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "119f6d417ab655c107e4caed02b7bd376645e49b",
+   "title": "美股光通信逆势上涨 机构紧盯多只CPO概念股",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5lUllqWTNMMUtFdjhMTnJMWTJuN2s3bW1jSTJQUzJTWDF0VkRGNmhSd2FwUWotd1JBS2ttOWxtOXpwNldRY3RiY3gxV25kSGRxaWZB?oc=5",
+   "source": "GoogleNews·Sohu",
+   "domain": "optical_comm",
+   "published": "2026-11-18",
+   "summary": "",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "ee94083e77c7182e2f6498fe615caf7a021aa19f",
+   "title": "A股存储芯片股集体上涨，佰维存储涨超6%，长鑫科技涨超5%",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbGZ5NklTbElGQ1Z0cnlIb01GZEQ2eWpFRVVGSlNaMllMUWd4TXBLeGc3OXRMdHA5ZEZ1S3V2NldpNl85eWk2UzhYVE1fSmpOUUEwU0hxd0JKMm5TbjNrd1AzZWNCMlc4cjBzSEp3RnpCbUdNYmJ3MlZYVVl4NVFDUQ?oc=5",
+   "source": "GoogleNews·新浪财经",
+   "domain": "memory",
+   "published": "2026-11-24",
+   "summary": "",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "bt": 0,
+   "co": [
+    "佰维存储"
+   ]
+  },
+  {
+   "id": "04f33b804488ce4fa8d692941e9b939cc7fbbf3b",
+   "title": "AI芯片竞争从算力转向内存，奎芯科技押注新方向",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9RejNOc2hjSkVoYVF6cWFGcTRIbVpTVlE2MlVXSkRnYm41ZUdyUWs1Yi1TdFRLblJwejhiakNLci1Wa2l3YzNXNU5Sb3c4QVNSaVl6YUVuS1NfdWQyOTYySm11TQ?oc=5",
+   "source": "GoogleNews·电子工程世界（EEWorld）",
+   "domain": "logic",
+   "published": "2026-11-24",
+   "summary": "",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "bt": 0,
+   "co": []
+  },
+  {
    "id": "88a23c3d6bbe5817d3720a9268087309f5b42e43",
    "title": "不受黄仁勋离职影响，英伟达CPO按计划推进",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Va0NiejVlbzVJeWZSNnBDanhnekpqOUdiSWZNNnhGNl9hblZiMV9weFFET0dfZVdDWFZoR3NPTzBTOERQaF85alpudEFudk1NY3cyVjJPRjJBOGNsc1VBdw?oc=5",
    "source": "GoogleNews·Sohu",
    "domain": "optical_comm",
    "published": "2026-11-18",
+   "summary": "",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "bt": -3,
+   "co": []
+  },
+  {
+   "id": "c33410051f99adc2fcd7c62a68aed0eeaa48a5e1",
+   "title": "「亿优威光」完成约 5000 万元 Pre-A 轮融资，稀缺 “流体力学 + 精密光学” 团队攻坚 EUV 光源",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE13Uy1uTS1CdzF2Rml2SVRZLVVZbEVPTV9GaHNLUEJwMkluYmZXNnNaQWRZTGZ3WVR2Z1ljYTFWdU4xYlVtM2Q2aDBJSQ?oc=5",
+   "source": "GoogleNews·36Kr",
+   "domain": "optics",
+   "published": "2026-11-24",
    "summary": "",
    "first_seen": "2026-11-24",
    "last_seen": "2026-11-24",
@@ -360,7 +606,7 @@
    "published": "2026-11-10",
    "summary": "",
    "first_seen": "2026-11-23",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "bt": 2,
    "co": []
   },
@@ -509,7 +755,7 @@
    "published": "2026-11-23",
    "summary": "",
    "first_seen": "2026-11-23",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "bt": 0,
    "co": [
     "新易盛"
@@ -524,7 +770,7 @@
    "published": "2026-11-23",
    "summary": "",
    "first_seen": "2026-11-23",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "bt": 0,
    "co": [
     "上海微电子"
@@ -580,7 +826,7 @@
    "published": "2026-11-10",
    "summary": "",
    "first_seen": "2026-11-23",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "bt": 0,
    "co": []
   },
@@ -593,7 +839,7 @@
    "published": "2026-11-16",
    "summary": "",
    "first_seen": "2026-11-23",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "bt": 0,
    "co": [
     "源杰科技"
@@ -899,7 +1145,7 @@
    "published": "2026-11-12",
    "summary": "",
    "first_seen": "2026-11-22",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "bt": 0,
    "co": []
   },
@@ -1087,7 +1333,7 @@
    "published": "2026-11-20",
    "summary": "",
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-22",
+   "last_seen": "2026-11-24",
    "bt": 0,
    "co": []
   },
@@ -1208,7 +1454,7 @@
    "published": "2026-11-10",
    "summary": "",
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "bt": 0,
    "co": [
     "剑桥科技"
@@ -1236,7 +1482,7 @@
    "published": "2026-11-16",
    "summary": "",
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "bt": 0,
    "co": []
   },
@@ -1249,7 +1495,7 @@
    "published": "2026-11-13",
    "summary": "",
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-24",
    "bt": 0,
    "co": []
   },
@@ -1316,7 +1562,7 @@
    "published": "2026-11-18",
    "summary": "",
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "bt": 0,
    "co": [
     "源杰科技"
@@ -1450,7 +1696,7 @@
    "published": "2026-11-20",
    "summary": "",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "bt": 2,
    "co": []
   },
@@ -1463,7 +1709,7 @@
    "published": "2026-11-09",
    "summary": "",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-24",
    "bt": 2,
    "co": []
   },
@@ -1476,7 +1722,7 @@
    "published": "2026-11-19",
    "summary": "",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "bt": 2,
    "co": []
   },
@@ -1639,7 +1885,7 @@
    "published": "2026-11-19",
    "summary": "",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "bt": 0,
    "co": [
     "天孚通信",
@@ -1806,7 +2052,7 @@
    "published": "2026-11-13",
    "summary": "",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "bt": 0,
    "co": []
   },
@@ -1845,7 +2091,7 @@
    "published": "2026-11-08",
    "summary": "",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "bt": 0,
    "co": []
   },
@@ -1858,7 +2104,7 @@
    "published": "2026-11-06",
    "summary": "",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "bt": 0,
    "co": []
   },
@@ -2082,7 +2328,7 @@
    "published": "2026-11-18",
    "summary": "",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "bt": 0,
    "co": [
     "新易盛"
@@ -2196,7 +2442,7 @@
    "published": "2026-11-19",
    "summary": "",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-24",
    "bt": 0,
    "co": []
   },
@@ -2401,7 +2647,7 @@
    "published": "2026-11-20",
    "summary": "",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-24",
    "bt": -3,
    "co": []
   },
@@ -2567,7 +2813,7 @@
    "published": "2026-11-18",
    "summary": "",
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "bt": 0,
    "co": [
     "新易盛"
@@ -2949,7 +3195,7 @@
    "published": "2026-11-19",
    "summary": "",
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "bt": 0,
    "co": [
     "新易盛"
@@ -3204,7 +3450,7 @@
    "published": "2026-11-17",
    "summary": "",
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "bt": 0,
    "co": []
   },
@@ -3545,7 +3791,7 @@
    "published": "2026-11-18",
    "summary": "",
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "bt": 0,
    "co": []
   },
@@ -3787,7 +4033,7 @@
    "published": "2026-11-17",
    "summary": "",
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "bt": 2,
    "co": []
   },
@@ -4735,7 +4981,7 @@
    "published": "2026-11-13",
    "summary": "",
    "first_seen": "2026-11-15",
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-24",
    "bt": 2,
    "co": []
   },
@@ -5386,7 +5632,7 @@
    "published": "2026-11-11",
    "summary": "",
    "first_seen": "2026-11-13",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "bt": 0,
    "co": []
   },
@@ -5723,7 +5969,7 @@
    "published": "2026-11-13",
    "summary": "",
    "first_seen": "2026-11-13",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "bt": 0,
    "co": []
   },
@@ -5991,7 +6237,7 @@
    "published": "2026-11-13",
    "summary": "",
    "first_seen": "2026-11-13",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "bt": 0,
    "co": [
     "中际旭创"
@@ -6146,7 +6392,7 @@
    "published": "2026-11-12",
    "summary": "",
    "first_seen": "2026-11-13",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "bt": -3,
    "co": [
     "中际旭创"
@@ -6161,7 +6407,7 @@
    "published": "2026-11-12",
    "summary": "",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "bt": 6,
    "co": []
   },
@@ -6358,7 +6604,7 @@
    "published": "2026-11-10",
    "summary": "",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "bt": 0,
    "co": []
   },
@@ -6511,7 +6757,7 @@
    "published": "2026-11-12",
    "summary": "",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "bt": 0,
    "co": []
   },
@@ -6684,7 +6930,7 @@
    "published": "2026-11-12",
    "summary": "",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "bt": 0,
    "co": []
   },
@@ -6817,7 +7063,7 @@
    "published": "2026-11-09",
    "summary": "",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "bt": 6,
    "co": []
   },
@@ -7158,7 +7404,7 @@
    "published": "2026-11-10",
    "summary": "",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "bt": 0,
    "co": []
   },
@@ -7567,7 +7813,7 @@
    "published": "2026-11-09",
    "summary": "",
    "first_seen": "2026-11-10",
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-24",
    "bt": 2,
    "co": []
   },
@@ -7703,7 +7949,7 @@
    "published": "2026-11-09",
    "summary": "",
    "first_seen": "2026-11-10",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "bt": 0,
    "co": []
   },
@@ -9040,7 +9286,7 @@
    "published": "2026-11-05",
    "summary": "",
    "first_seen": "2026-11-06",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "bt": 0,
    "co": []
   },
@@ -9255,7 +9501,7 @@
    "published": "2026-11-06",
    "summary": "",
    "first_seen": "2026-11-06",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "bt": 0,
    "co": [
     "长江存储"
@@ -26438,7 +26684,7 @@
    "published": "2026-09-28",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-11-22",
+   "last_seen": "2026-11-24",
    "bt": 0,
    "co": []
   },
