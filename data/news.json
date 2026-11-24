@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24 18:53:13",
- "count": 2140,
+ "updated": "2026-11-24 19:58:25",
+ "count": 2142,
  "items": [
   {
    "id": "a09d652fb1f9319fb05327a6d66b147da43b76d1",
@@ -710,6 +710,34 @@
    "last_seen": "2026-11-24",
    "bt": 0,
    "co": []
+  },
+  {
+   "id": "53438321c35eab54675f1669db3cdf3cbf124e24",
+   "title": "行业及渠道SSD、DDR4内存条价格调降，本周起新增2Tb QLC及行业DDR5内存条现货价、UFS3.1/4.0合约价",
+   "url": "https://www.chinaflashmarket.com/a/184448",
+   "source": "闪存市场",
+   "domain": "memory",
+   "published": "",
+   "summary": "",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "d62f5e9ac2604b65786b324e16d6f8db4b80ec71",
+   "title": "容大感光(300576):2026年度向特定对象发行股票发行方案的论证分析报告（修订稿）",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xTktuWF9mcEt3RHE5VS03LXpHUUt3dHR4Nm03VVFCTWtjaEt3MW9RT05tQzk0bzM1azNQOFlmaWxLNkVSRU9rVWE1RXpZcHIxVjBkMThB?oc=5",
+   "source": "GoogleNews·中财网",
+   "domain": "photoresist",
+   "published": "2026-11-24",
+   "summary": "",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "bt": 0,
+   "co": [
+    "容大感光"
+   ]
   },
   {
    "id": "88a23c3d6bbe5817d3720a9268087309f5b42e43",
@@ -8418,7 +8446,7 @@
    "published": "2026-11-09",
    "summary": "",
    "first_seen": "2026-11-09",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "bt": 4,
    "co": []
   },
