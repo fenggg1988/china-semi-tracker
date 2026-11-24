@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24 18:33:48",
- "count": 2128,
+ "updated": "2026-11-24 18:35:48",
+ "count": 2130,
  "items": [
   {
    "id": "a09d652fb1f9319fb05327a6d66b147da43b76d1",
@@ -565,6 +565,34 @@
    "source": "GoogleNews·电子工程世界（EEWorld）",
    "domain": "logic",
    "published": "2026-11-24",
+   "summary": "",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "c52be1e95cf44422c0571b72c190269f3e536b2f",
+   "title": "直面行业砍单传闻，新易盛主动披露经营情况，1.6T光模块进入放量周期",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBTSkJ5c1FLa1RHT0F5bldXZWlNNHo0LWJ5Z3MwbFc1aDJJRF9JX0toZXJlRGZ0U0dIclJlczBta3RHaVY4cGQyNnVTclZXQQ?oc=5",
+   "source": "GoogleNews·川观新闻",
+   "domain": "optical_comm",
+   "published": "2026-11-19",
+   "summary": "",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "bt": 0,
+   "co": [
+    "新易盛"
+   ]
+  },
+  {
+   "id": "5a5428719b092f6bc2f97993a7ec5e80295f0c15",
+   "title": "英伟达CEO辞职！国产算力打开右侧行情，半导体设备ETF招商(561980)CPU/GPU、晶圆代工、设备材料“三足鼎立”！",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5MOE9PT1RIV0k1dzZXVkc1a08wdWRzRUl2VVNmMXN1QUJDZDUzZXF1bnE5S01SelhFOWxPWC1vYVhIdVpJNHBaTnNRdG04a3ItaUtv?oc=5",
+   "source": "GoogleNews·FX168",
+   "domain": "logic",
+   "published": "2026-11-13",
    "summary": "",
    "first_seen": "2026-11-24",
    "last_seen": "2026-11-24",
@@ -1469,7 +1497,7 @@
    "published": "2026-11-17",
    "summary": "",
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-22",
+   "last_seen": "2026-11-24",
    "bt": 0,
    "co": []
   },
@@ -2897,7 +2925,7 @@
    "published": "2026-11-18",
    "summary": "",
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "bt": 0,
    "co": [
     "新易盛"
@@ -3817,7 +3845,7 @@
    "published": "2026-11-18",
    "summary": "",
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "bt": 0,
    "co": [
     "中际旭创"
@@ -6876,7 +6904,7 @@
    "published": "2026-11-12",
    "summary": "",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "bt": 0,
    "co": [
     "长江存储"
