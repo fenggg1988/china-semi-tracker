@@ -1,7 +1,199 @@
 {
- "updated": "2026-11-25 18:50:30",
- "count": 2195,
+ "updated": "2026-11-26 02:21:22",
+ "count": 2209,
  "items": [
+  {
+   "id": "83d61166d780d88d17129ce24430fd90c14259e0",
+   "title": "SK 海力士计划 4 至 5 年内量产 3D DRAM，首款产品采用 100 层堆叠",
+   "url": "https://www.ithome.com/1/032/496.htm",
+   "source": "IT之家",
+   "domain": "memory",
+   "published": "2026-11-25",
+   "summary": "IT之家 11 月 25 日消息，据 The Elec 报道，SK 海力士资深工程师崔康植（Choi Kang-sik）在首尔大学 AI 半导体论坛上透露，公司目标在 4 至 5 年内实现 3D DRAM 量产，首款商用产品将采用 100 层垂直堆叠存储单元。他介绍，想要达到当前 10nm 级 DRAM 同等密度，大约",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "5d4224af4a1902ef581e04b8258e18802e695921",
+   "title": "面向三大AI场景，长鑫存储矩阵首次集中亮相",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5FdTJpUW8wTWJEUmFoOVBPQlFhc0VLYmpvZExrZWFXaUxJNHpkQzYtVXZ3ZlFFeFFueEUtSzNLejBvV0trYWtWTUhNNA?oc=5",
+   "source": "GoogleNews·智东西",
+   "domain": "memory",
+   "published": "2026-11-12",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 2,
+   "co": [
+    "长鑫存储"
+   ]
+  },
+  {
+   "id": "6d4e32e608a7ca03c7ba1c08bd9ccdd720146459",
+   "title": "华为将在ISSCC 2027展示自研HBM、逻辑堆叠等技术",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9KS1puSFZIOU5jaXZxaFVCalVUbXktelZsRXpVaHNDdmRIM2ZZQmx4VDdIa0Y1Y0lRVXYwTzdnRm5ZUTl2NHpBellRNXlwaTBBNS1iZUFEeXBEbEpObVpmLWRwaw?oc=5",
+   "source": "GoogleNews·手机新浪网",
+   "domain": "memory",
+   "published": "2026-11-26",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 2,
+   "co": [
+    "华为"
+   ]
+  },
+  {
+   "id": "c0b524541123496e46f240facaf238617daaff8c",
+   "title": "三星HBM4E单引脚速率提升至17Gbps，进入英伟达要求的性能区间",
+   "url": "https://www.chinaflashmarket.com/a/184452",
+   "source": "闪存市场",
+   "domain": "memory",
+   "published": "",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "4739b4d076384e29f1d3443c407afd78bf679e04",
+   "title": "Counterpoint：2026 年 Q3 全球纯晶圆代工市场同比增长 36%，台积电份额扩大至 75%",
+   "url": "https://www.ithome.com/1/032/477.htm",
+   "source": "IT之家",
+   "domain": "logic",
+   "published": "2026-11-25",
+   "summary": "IT之家 11 月 25 日消息，Counterpoint 今日发布数据显示，2026 年第三季度，纯晶圆代工行业同比增长 36%，环比增长 13%，原因是人工智能对先进制程和先进封装的需求持续超过供给，同时晶圆价格上涨进一步推高了营收。其中，台积电在纯晶圆代工市场的份额扩大至 75%，高于前两个季度各 73% 的水平",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "dc3b5e40c0eaa743f2daea1c315db8a05e5ecf55",
+   "title": "摩根大通解读LightCounting预测 数据中心光模块2030年规模上调至880亿美元",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFByclFleVNjSXNXVHFCZ0dUVW5sM0ZaMzZoOFpxdXRqOWJlWXRCX1lFMER5VldfZUZ1a19GSU5tejJ4VUZEOFNjMzdSV1hqRVVJbGRtaUxwVnJSVDYxcGJBVnZ3?oc=5",
+   "source": "GoogleNews·观点网",
+   "domain": "optical_comm",
+   "published": "2026-11-25",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "47dd756d0b15f2ee01aad27983007aa6da0a9283",
+   "title": "相干光模块市场展望2035：数据中心互联需求支撑15%复合年增长率 - 新闻和统计",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNb3lHdGo5cFdzRTlvYmUyd1k3RWoxdnlqcDRfVkRKdTJ0bE4ySnJLdHF6SWZJdU5GWEc2THFWdWU3RHZQbDVFd3Uxel9DM21RN1RVYl9YeU8wTWhvOHprdEFZaFQ0WGw0YWNWaWVSYzJXY0tHLXpuMU1RTTFLVS1RTWI3X3QtT28wMVJNM1NwQUlYN1I4XzNiak93a1EtVjdSQjFMeXBFVUFKaUVzUEg1WW81WGxGRy1iTHZPd1NVZTFacmNWUlFBYnlLYzBIQQ?oc=5",
+   "source": "GoogleNews·IndexBox",
+   "domain": "optical_comm",
+   "published": "2026-11-25",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "c209fa933d1df98e208a791b7df54ebefe8449a7",
+   "title": "多空辩论更新：共进股份国资赋能与硅光并购计划浮现，利润拐点与现金流背离待验",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE10cXVmM2tvaVVjWUZTcEdqbnpmRDFBdi1PUnZIcHZ0Mlg3THJod0JCRFYwQ05xUllpd2lPcXdzZnVZSU8wVTJicmk2azBFWFJ4RUxWbnpTekRwNVg2ODZSbHl3?oc=5",
+   "source": "GoogleNews·证券之星",
+   "domain": "optical_comm",
+   "published": "2026-11-25",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "2819316ba7a2f77698c430ddbb12ba055159670e",
+   "title": "Counterpoint：台积电晶圆代工份额扩大至75%",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5vTzZ4YnhoeDNZcHhjZ2ozMEFhTVNkSjIyMlhncWNoc1VDSEFyeEJUd2VOaHNWd25ILUxFTkZrTVpuQ2p5VlBLMUd0RG4?oc=5",
+   "source": "GoogleNews·www.itsdw.cn",
+   "domain": "logic",
+   "published": "2026-11-25",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "ef743200bc6318dd99d5f287a2a309860c3e84b5",
+   "title": "凯龙股份(002783.SZ)：暂未布局AI相关业务、未进入长江存储产业链_公司新闻_财经",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1bkZoaWQydGprWjNNNF96LUJPWWIyTDNJYXB1YXRUUDBHMjE0WkhiNUthdDd3Q1I0NExodnpEb2xMT1lDVm1yRHJmUzNzb2VoU1NBenIwbmlGX1hibkJaZw?oc=5",
+   "source": "GoogleNews·证券之星",
+   "domain": "memory",
+   "published": "2026-11-25",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 0,
+   "co": [
+    "长江存储"
+   ]
+  },
+  {
+   "id": "f4610daf0ba2d9688661f530eb5b7031c70ad817",
+   "title": "三星电子和 SK 海力士将采用长江存储的芯片堆叠技术三星电子和 SK",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8wVlktMlYzR1FRN205X2hkNzdfTnRzNFhldmFTVGh6N0V5b05lSWpCUURkSG1iVTJIbkxNa2J2MHpPYlZqbUI1cUhjaUpmcGxHYnJXNlpkUXRScURUNmdDMGo4WFhIUnZVX185cFN30gFzQVVfeXFMT2lyR2gwNF9yNXIzWHNKemN0bjBUT1pRTFNGSVVBeHMxbEczYUdiX0VtbWt1NElCQlJwZ1V3OXNjZHRlbzZXOV9mdklnX3ctWEF3ekdBd2VDWkNsajRZODRiUHY3d2dwZTg2QUJOZ3NRZUlLZw?oc=5",
+   "source": "GoogleNews·禁闻网",
+   "domain": "memory",
+   "published": "2026-11-25",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 0,
+   "co": [
+    "长江存储"
+   ]
+  },
+  {
+   "id": "34a3430d0c8ded651c0dc50a71f9b1aba2bdc618",
+   "title": "“如果黄仁勋要买长鑫，你答应吗”",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tUmpoVm9SUmtHYmdGaVhGRUwybFRxa3M2R0d5U05QZ0g5ZDh1WlluVkJyZGtVbjFQaWRsbkdjRDZDd0wwQzd3d0dnR0FpMnhBb3pMVGFQZUFwcm5CQjNTeEIwX3hNbDhRZHZvcQ?oc=5",
+   "source": "GoogleNews·投中网",
+   "domain": "memory",
+   "published": "2026-11-25",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "fb52e9157c6ae9b6c39b378494c2d4c908fccd03",
+   "title": "存储超级周期：上游长鑫单季赚544亿，下游模组江波龙净利环比腰斩",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Fam90Y210OUdtQmQ3bzFuZGJaRlc0NGZabUxMXzU4Sy1XR0UtajZVbGFMelU0WU1WVktxUndtRnNxeU53V2p6NmRnZlpnc1g4?oc=5",
+   "source": "GoogleNews·雪球",
+   "domain": "memory",
+   "published": "2026-11-25",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 0,
+   "co": [
+    "江波龙"
+   ]
+  },
+  {
+   "id": "a71ece27f2e8c33408da06d3f2f3eb0439575874",
+   "title": "知名服装品牌实控人，近9亿元押注长鑫科技",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBqS001My1IT0pia0VvUjJFcmh6MTJvTzFhX25VanN3VmVWcTRXc2ZsenJGQTBzSVdpekZuQmxOUmNsdFdNeXpqR2VjdEJ3RFFyeWtGOXZYREx3Yk5mdG1rTlFKMzRYNnBoamRKLVRiMWljVWdST1hTT1o5cHo?oc=5",
+   "source": "GoogleNews·新浪财经",
+   "domain": "memory",
+   "published": "2026-11-25",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 0,
+   "co": []
+  },
   {
    "id": "73c1771fd069a035c80551cb7b74217d2ae46bfa",
    "title": "CXMT、YMTC扩产提速：DRAM份额升至9%，YMTC NAND按出货量计份额超Kioxia",
@@ -11,7 +203,7 @@
    "published": "2026-11-24",
    "summary": "",
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 4,
    "co": []
   },
@@ -24,7 +216,7 @@
    "published": "2026-11-25",
    "summary": "",
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 4,
    "co": []
   },
@@ -50,7 +242,7 @@
    "published": "2026-11-24",
    "summary": "",
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 2,
    "co": []
   },
@@ -63,7 +255,7 @@
    "published": "2026-11-24",
    "summary": "",
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 2,
    "co": [
     "华为"
@@ -78,7 +270,7 @@
    "published": "2026-11-25",
    "summary": "三星电子正计划在中国西安的第二座晶圆厂大幅提升V9 NAND闪存的生产规模，但新增产能预计主要服务于AI数据中心所需的企业级SSD，而非普通消费级存储产品。据《首尔经济日报》援引业内人士消息，三星计划在2027年底前，将西安X2厂V9 NAND的月产量提高至目前的大约五倍。 阅读全文",
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 2,
    "co": []
   },
@@ -91,7 +283,7 @@
    "published": "2026-11-25",
    "summary": "",
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 2,
    "co": [
     "华为"
@@ -134,7 +326,7 @@
    "published": "2026-11-25",
    "summary": "",
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 2,
    "co": [
     "长江存储"
@@ -149,7 +341,7 @@
    "published": "2026-11-24",
    "summary": "",
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": [
     "容大感光"
@@ -164,7 +356,7 @@
    "published": "2026-11-24",
    "summary": "",
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -177,7 +369,7 @@
    "published": "2026-11-22",
    "summary": "",
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -203,7 +395,7 @@
    "published": "2026-11-25",
    "summary": "",
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -231,7 +423,7 @@
    "published": "2026-11-25",
    "summary": "",
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -244,7 +436,7 @@
    "published": "2026-11-20",
    "summary": "",
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -257,7 +449,7 @@
    "published": "",
    "summary": "",
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -270,7 +462,7 @@
    "published": "",
    "summary": "",
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -324,7 +516,7 @@
    "published": "2026-11-25",
    "summary": "",
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -337,7 +529,7 @@
    "published": "2026-11-25",
    "summary": "",
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -350,7 +542,7 @@
    "published": "2026-11-19",
    "summary": "",
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -363,7 +555,7 @@
    "published": "2026-11-25",
    "summary": "",
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -376,7 +568,7 @@
    "published": "2026-11-16",
    "summary": "",
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -389,7 +581,7 @@
    "published": "2026-11-25",
    "summary": "",
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -402,7 +594,7 @@
    "published": "2026-11-25",
    "summary": "",
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -415,7 +607,7 @@
    "published": "2026-11-25",
    "summary": "",
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -428,7 +620,7 @@
    "published": "2026-11-25",
    "summary": "",
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -441,7 +633,7 @@
    "published": "2026-11-24",
    "summary": "",
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -454,7 +646,7 @@
    "published": "2026-11-25",
    "summary": "",
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -467,7 +659,7 @@
    "published": "2026-11-24",
    "summary": "",
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": [
     "长鑫存储"
@@ -508,7 +700,7 @@
    "published": "2026-11-25",
    "summary": "",
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -521,7 +713,7 @@
    "published": "2026-11-18",
    "summary": "",
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -534,7 +726,7 @@
    "published": "2026-11-25",
    "summary": "",
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -547,7 +739,7 @@
    "published": "2026-11-24",
    "summary": "",
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -560,7 +752,7 @@
    "published": "2026-11-25",
    "summary": "",
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -586,7 +778,7 @@
    "published": "2026-11-25",
    "summary": "",
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": [
     "兆易创新"
@@ -601,7 +793,7 @@
    "published": "2026-11-23",
    "summary": "",
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -640,7 +832,7 @@
    "published": "2026-11-25",
    "summary": "",
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -653,7 +845,7 @@
    "published": "2026-11-25",
    "summary": "",
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -681,7 +873,7 @@
    "published": "2026-11-24",
    "summary": "",
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": -3,
    "co": []
   },
@@ -694,7 +886,7 @@
    "published": "2026-11-25",
    "summary": "",
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": -3,
    "co": []
   },
@@ -707,7 +899,7 @@
    "published": "2026-11-25",
    "summary": "",
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": -3,
    "co": []
   },
@@ -720,7 +912,7 @@
    "published": "2026-11-23",
    "summary": "",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 4,
    "co": []
   },
@@ -746,7 +938,7 @@
    "published": "2026-11-24",
    "summary": "",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 2,
    "co": [
     "雅克科技"
@@ -804,7 +996,7 @@
    "published": "2026-11-24",
    "summary": "",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -817,7 +1009,7 @@
    "published": "2026-11-23",
    "summary": "",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -843,7 +1035,7 @@
    "published": "2026-11-24",
    "summary": "",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -856,7 +1048,7 @@
    "published": "2026-11-23",
    "summary": "",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -895,7 +1087,7 @@
    "published": "2026-11-18",
    "summary": "",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -908,7 +1100,7 @@
    "published": "2026-11-18",
    "summary": "",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -921,7 +1113,7 @@
    "published": "2026-11-17",
    "summary": "",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -949,7 +1141,7 @@
    "published": "2026-11-17",
    "summary": "",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -975,7 +1167,7 @@
    "published": "2026-11-17",
    "summary": "",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": [
     "中芯国际",
@@ -991,7 +1183,7 @@
    "published": "2026-11-18",
    "summary": "",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -1004,7 +1196,7 @@
    "published": "2026-11-22",
    "summary": "",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -1017,7 +1209,7 @@
    "published": "2026-11-23",
    "summary": "",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": [
     "长鑫存储"
@@ -1032,7 +1224,7 @@
    "published": "2026-11-13",
    "summary": "",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": [
     "长鑫存储"
@@ -1060,7 +1252,7 @@
    "published": "2026-11-12",
    "summary": "",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -1086,7 +1278,7 @@
    "published": "",
    "summary": "",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -1196,7 +1388,7 @@
    "published": "2026-11-23",
    "summary": "",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -1235,7 +1427,7 @@
    "published": "2026-11-18",
    "summary": "",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": [
     "新易盛"
@@ -1263,7 +1455,7 @@
    "published": "2026-11-18",
    "summary": "",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -1276,7 +1468,7 @@
    "published": "2026-11-24",
    "summary": "",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": [
     "佰维存储"
@@ -1291,7 +1483,7 @@
    "published": "2026-11-24",
    "summary": "",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -1332,7 +1524,7 @@
    "published": "2026-11-24",
    "summary": "",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -1345,7 +1537,7 @@
    "published": "2026-11-23",
    "summary": "",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": [
     "中芯国际"
@@ -1375,7 +1567,7 @@
    "published": "2026-11-21",
    "summary": "",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -1416,7 +1608,7 @@
    "published": "2026-11-18",
    "summary": "",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -1429,7 +1621,7 @@
    "published": "",
    "summary": "",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -1470,7 +1662,7 @@
    "published": "2026-11-24",
    "summary": "",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": -3,
    "co": []
   },
@@ -1483,7 +1675,7 @@
    "published": "2026-11-15",
    "summary": "",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": -3,
    "co": [
     "中芯国际",
@@ -1499,7 +1691,7 @@
    "published": "2026-11-18",
    "summary": "",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": -3,
    "co": []
   },
@@ -1512,7 +1704,7 @@
    "published": "2026-11-10",
    "summary": "",
    "first_seen": "2026-11-23",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 2,
    "co": []
   },
@@ -1577,7 +1769,7 @@
    "published": "2026-11-13",
    "summary": "",
    "first_seen": "2026-11-23",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -1590,7 +1782,7 @@
    "published": "2026-11-18",
    "summary": "",
    "first_seen": "2026-11-23",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": [
     "中芯国际"
@@ -1633,7 +1825,7 @@
    "published": "2026-11-23",
    "summary": "",
    "first_seen": "2026-11-23",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": [
     "上海微电子"
@@ -1648,7 +1840,7 @@
    "published": "2026-11-10",
    "summary": "",
    "first_seen": "2026-11-23",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -1676,7 +1868,7 @@
    "published": "2026-11-23",
    "summary": "",
    "first_seen": "2026-11-23",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": [
     "上海微电子"
@@ -1691,7 +1883,7 @@
    "published": "2026-11-18",
    "summary": "",
    "first_seen": "2026-11-23",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -1704,7 +1896,7 @@
    "published": "2026-11-22",
    "summary": "",
    "first_seen": "2026-11-23",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -1732,7 +1924,7 @@
    "published": "2026-11-10",
    "summary": "",
    "first_seen": "2026-11-23",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -1827,7 +2019,7 @@
    "published": "2026-11-10",
    "summary": "",
    "first_seen": "2026-11-22",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 2,
    "co": []
   },
@@ -1866,7 +2058,7 @@
    "published": "",
    "summary": "",
    "first_seen": "2026-11-22",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -1894,7 +2086,7 @@
    "published": "2026-11-21",
    "summary": "",
    "first_seen": "2026-11-22",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": [
     "茂莱光学"
@@ -1909,7 +2101,7 @@
    "published": "2026-11-22",
    "summary": "",
    "first_seen": "2026-11-22",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -1922,7 +2114,7 @@
    "published": "2026-11-10",
    "summary": "",
    "first_seen": "2026-11-22",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -1935,7 +2127,7 @@
    "published": "2026-11-09",
    "summary": "",
    "first_seen": "2026-11-22",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -1948,7 +2140,7 @@
    "published": "2026-11-17",
    "summary": "",
    "first_seen": "2026-11-22",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": [
     "中芯国际"
@@ -1963,7 +2155,7 @@
    "published": "2026-11-19",
    "summary": "",
    "first_seen": "2026-11-22",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": [
     "中芯国际"
@@ -2051,7 +2243,7 @@
    "published": "2026-11-12",
    "summary": "",
    "first_seen": "2026-11-22",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -2064,7 +2256,7 @@
    "published": "2026-11-07",
    "summary": "",
    "first_seen": "2026-11-22",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -2077,7 +2269,7 @@
    "published": "2026-11-10",
    "summary": "",
    "first_seen": "2026-11-22",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -2090,7 +2282,7 @@
    "published": "2026-11-17",
    "summary": "",
    "first_seen": "2026-11-22",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -2103,7 +2295,7 @@
    "published": "2026-11-22",
    "summary": "",
    "first_seen": "2026-11-22",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -2131,7 +2323,7 @@
    "published": "2026-11-21",
    "summary": "",
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 2,
    "co": []
   },
@@ -2226,7 +2418,7 @@
    "published": "2026-11-20",
    "summary": "",
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -2267,7 +2459,7 @@
    "published": "2026-11-18",
    "summary": "",
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -2280,7 +2472,7 @@
    "published": "2026-11-20",
    "summary": "",
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -2293,7 +2485,7 @@
    "published": "2026-11-20",
    "summary": "",
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": [
     "长鑫存储"
@@ -2308,7 +2500,7 @@
    "published": "2026-11-18",
    "summary": "",
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -2347,7 +2539,7 @@
    "published": "2026-11-21",
    "summary": "",
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -2360,7 +2552,7 @@
    "published": "2026-11-10",
    "summary": "",
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": [
     "剑桥科技"
@@ -2483,7 +2675,7 @@
    "published": "2026-11-17",
    "summary": "",
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -2496,7 +2688,7 @@
    "published": "2026-11-18",
    "summary": "",
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-22",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -2576,7 +2768,7 @@
    "published": "2026-11-11",
    "summary": "",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 2,
    "co": []
   },
@@ -2589,7 +2781,7 @@
    "published": "2026-11-20",
    "summary": "",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 2,
    "co": []
   },
@@ -2602,7 +2794,7 @@
    "published": "2026-11-20",
    "summary": "",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 2,
    "co": []
   },
@@ -2615,7 +2807,7 @@
    "published": "2026-11-09",
    "summary": "",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 2,
    "co": []
   },
@@ -2628,7 +2820,7 @@
    "published": "2026-11-19",
    "summary": "",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 2,
    "co": []
   },
@@ -2667,7 +2859,7 @@
    "published": "2026-11-12",
    "summary": "",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 2,
    "co": []
   },
@@ -2680,7 +2872,7 @@
    "published": "2026-11-09",
    "summary": "",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 2,
    "co": []
   },
@@ -2807,7 +2999,7 @@
    "published": "2026-11-19",
    "summary": "",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -2889,7 +3081,7 @@
    "published": "2026-11-20",
    "summary": "",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": [
     "长江存储"
@@ -2904,7 +3096,7 @@
    "published": "2026-11-19",
    "summary": "",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -2917,7 +3109,7 @@
    "published": "2026-11-19",
    "summary": "",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -2930,7 +3122,7 @@
    "published": "2026-11-19",
    "summary": "",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -2958,7 +3150,7 @@
    "published": "2026-11-13",
    "summary": "",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -3083,7 +3275,7 @@
    "published": "2026-11-18",
    "summary": "",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -3109,7 +3301,7 @@
    "published": "2026-11-17",
    "summary": "",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -3152,7 +3344,7 @@
    "published": "2026-11-17",
    "summary": "",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -3266,7 +3458,7 @@
    "published": "2026-11-13",
    "summary": "",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -3361,7 +3553,7 @@
    "published": "2026-11-16",
    "summary": "",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": [
     "中芯国际"
@@ -3376,7 +3568,7 @@
    "published": "2026-11-19",
    "summary": "",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -3389,7 +3581,7 @@
    "published": "2026-11-19",
    "summary": "",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -3430,7 +3622,7 @@
    "published": "2026-11-19",
    "summary": "",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": [
     "华虹"
@@ -3460,7 +3652,7 @@
    "published": "2026-11-19",
    "summary": "",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -3527,7 +3719,7 @@
    "published": "2026-11-20",
    "summary": "",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": -1,
    "co": []
   },
@@ -3540,7 +3732,7 @@
    "published": "2026-11-18",
    "summary": "",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-26",
    "bt": -3,
    "co": []
   },
@@ -3566,7 +3758,7 @@
    "published": "2026-11-20",
    "summary": "",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": -3,
    "co": [
     "德明利"
@@ -3581,7 +3773,7 @@
    "published": "2026-11-18",
    "summary": "",
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 4,
    "co": []
   },
@@ -3622,7 +3814,7 @@
    "published": "2026-11-10",
    "summary": "",
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 2,
    "co": []
   },
@@ -3635,7 +3827,7 @@
    "published": "2026-11-09",
    "summary": "",
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 2,
    "co": [
     "SMEE"
@@ -3676,7 +3868,7 @@
    "published": "2026-11-18",
    "summary": "",
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -3704,7 +3896,7 @@
    "published": "2026-11-18",
    "summary": "",
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": [
     "新易盛"
@@ -3734,7 +3926,7 @@
    "published": "2026-11-18",
    "summary": "",
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": [
     "中芯国际"
@@ -3749,7 +3941,7 @@
    "published": "2026-11-18",
    "summary": "",
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -3844,7 +4036,7 @@
    "published": "2026-11-18",
    "summary": "",
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": [
     "新易盛"
@@ -3900,7 +4092,7 @@
    "published": "2026-11-19",
    "summary": "",
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": [
     "新易盛"
@@ -3915,7 +4107,7 @@
    "published": "2026-11-17",
    "summary": "",
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -4034,7 +4226,7 @@
    "published": "2026-11-16",
    "summary": "",
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": [
     "源杰科技"
@@ -4157,7 +4349,7 @@
    "published": "2026-11-16",
    "summary": "",
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": -3,
    "co": [
     "源杰科技"
@@ -4185,7 +4377,7 @@
    "published": "2026-11-17",
    "summary": "",
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 2,
    "co": []
   },
@@ -4198,7 +4390,7 @@
    "published": "2026-11-17",
    "summary": "",
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 2,
    "co": []
   },
@@ -4226,7 +4418,7 @@
    "published": "2026-11-17",
    "summary": "",
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 1,
    "co": []
   },
@@ -4265,7 +4457,7 @@
    "published": "2026-11-17",
    "summary": "",
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -4304,7 +4496,7 @@
    "published": "2026-11-17",
    "summary": "",
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -4330,7 +4522,7 @@
    "published": "2026-11-16",
    "summary": "",
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -4343,7 +4535,7 @@
    "published": "2026-11-17",
    "summary": "",
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -4356,7 +4548,7 @@
    "published": "2026-11-17",
    "summary": "",
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -4399,7 +4591,7 @@
    "published": "2026-11-17",
    "summary": "",
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": [
     "长鑫存储"
@@ -4414,7 +4606,7 @@
    "published": "2026-11-17",
    "summary": "",
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -4427,7 +4619,7 @@
    "published": "2026-11-17",
    "summary": "",
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -4505,7 +4697,7 @@
    "published": "2026-11-16",
    "summary": "",
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -4548,7 +4740,7 @@
    "published": "2026-11-17",
    "summary": "",
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": [
     "中芯国际"
@@ -4576,7 +4768,7 @@
    "published": "2026-11-17",
    "summary": "",
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -4589,7 +4781,7 @@
    "published": "2026-11-18",
    "summary": "",
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -4602,7 +4794,7 @@
    "published": "2026-11-18",
    "summary": "",
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -4615,7 +4807,7 @@
    "published": "2026-11-18",
    "summary": "",
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -4682,7 +4874,7 @@
    "published": "2026-11-18",
    "summary": "",
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": [
     "茂莱光学"
@@ -4697,7 +4889,7 @@
    "published": "2026-11-18",
    "summary": "",
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -4723,7 +4915,7 @@
    "published": "2026-11-18",
    "summary": "",
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": [
     "中际旭创"
@@ -4738,7 +4930,7 @@
    "published": "2026-11-18",
    "summary": "",
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": [
     "长江存储"
@@ -4753,7 +4945,7 @@
    "published": "2026-11-18",
    "summary": "",
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -4779,7 +4971,7 @@
    "published": "2026-11-17",
    "summary": "",
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -4859,7 +5051,7 @@
    "published": "2026-11-17",
    "summary": "",
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": -3,
    "co": []
   },
@@ -4885,7 +5077,7 @@
    "published": "2026-11-18",
    "summary": "",
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": -3,
    "co": []
   },
@@ -4898,7 +5090,7 @@
    "published": "2026-11-14",
    "summary": "",
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 4,
    "co": []
   },
@@ -4924,7 +5116,7 @@
    "published": "2026-11-17",
    "summary": "",
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 2,
    "co": [
     "茂莱光学"
@@ -4939,7 +5131,7 @@
    "published": "2026-11-17",
    "summary": "",
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 2,
    "co": []
   },
@@ -4965,7 +5157,7 @@
    "published": "2026-11-17",
    "summary": "",
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 2,
    "co": []
   },
@@ -4978,7 +5170,7 @@
    "published": "2026-11-17",
    "summary": "",
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 1,
    "co": []
   },
@@ -5047,7 +5239,7 @@
    "published": "2026-11-16",
    "summary": "",
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -5086,7 +5278,7 @@
    "published": "2026-11-14",
    "summary": "",
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": [
     "中芯国际"
@@ -5116,7 +5308,7 @@
    "published": "2026-11-06",
    "summary": "",
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": [
     "长江存储"
@@ -5146,7 +5338,7 @@
    "published": "2026-11-15",
    "summary": "",
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -5159,7 +5351,7 @@
    "published": "2026-11-15",
    "summary": "",
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -5228,7 +5420,7 @@
    "published": "2026-11-16",
    "summary": "",
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -5241,7 +5433,7 @@
    "published": "2026-11-17",
    "summary": "",
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -5403,7 +5595,7 @@
    "published": "2026-11-17",
    "summary": "",
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -5507,7 +5699,7 @@
    "published": "2026-11-17",
    "summary": "",
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -5669,7 +5861,7 @@
    "published": "2026-11-15",
    "summary": "",
    "first_seen": "2026-11-16",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -5742,7 +5934,7 @@
    "published": "2026-11-16",
    "summary": "",
    "first_seen": "2026-11-16",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -5781,7 +5973,7 @@
    "published": "2026-11-16",
    "summary": "",
    "first_seen": "2026-11-16",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -5900,7 +6092,7 @@
    "published": "2026-11-15",
    "summary": "",
    "first_seen": "2026-11-15",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 2,
    "co": []
   },
@@ -5913,7 +6105,7 @@
    "published": "2026-11-15",
    "summary": "",
    "first_seen": "2026-11-15",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 2,
    "co": [
     "长江存储"
@@ -5999,7 +6191,7 @@
    "published": "2026-11-06",
    "summary": "",
    "first_seen": "2026-11-15",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": [
     "长江存储"
@@ -6151,7 +6343,7 @@
    "published": "2026-11-06",
    "summary": "",
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -6205,7 +6397,7 @@
    "published": "",
    "summary": "",
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -6313,7 +6505,7 @@
    "published": "2026-11-14",
    "summary": "",
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": [
     "北方华创",
@@ -6329,7 +6521,7 @@
    "published": "2026-11-14",
    "summary": "",
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": -3,
    "co": [
     "中芯国际"
@@ -6357,7 +6549,7 @@
    "published": "2026-11-12",
    "summary": "",
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": -3,
    "co": [
     "中芯国际"
@@ -6372,7 +6564,7 @@
    "published": "2026-11-10",
    "summary": "",
    "first_seen": "2026-11-13",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 4,
    "co": [
     "上海微电子",
@@ -6538,7 +6730,7 @@
    "published": "2026-11-11",
    "summary": "",
    "first_seen": "2026-11-13",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -6594,7 +6786,7 @@
    "published": "2026-11-12",
    "summary": "",
    "first_seen": "2026-11-13",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -6607,7 +6799,7 @@
    "published": "2026-11-12",
    "summary": "",
    "first_seen": "2026-11-13",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -6620,7 +6812,7 @@
    "published": "2026-11-12",
    "summary": "",
    "first_seen": "2026-11-13",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -6633,7 +6825,7 @@
    "published": "2026-11-12",
    "summary": "",
    "first_seen": "2026-11-13",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -6646,7 +6838,7 @@
    "published": "2026-11-12",
    "summary": "",
    "first_seen": "2026-11-13",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -6739,7 +6931,7 @@
    "published": "",
    "summary": "",
    "first_seen": "2026-11-13",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": [
     "中芯国际"
@@ -6784,7 +6976,7 @@
    "published": "2026-11-13",
    "summary": "",
    "first_seen": "2026-11-13",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -6903,7 +7095,7 @@
    "published": "2026-11-12",
    "summary": "",
    "first_seen": "2026-11-13",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -6981,7 +7173,7 @@
    "published": "2026-11-13",
    "summary": "",
    "first_seen": "2026-11-13",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": [
     "中芯国际"
@@ -6996,7 +7188,7 @@
    "published": "2026-11-13",
    "summary": "",
    "first_seen": "2026-11-13",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -7009,7 +7201,7 @@
    "published": "2026-11-13",
    "summary": "",
    "first_seen": "2026-11-13",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -7035,7 +7227,7 @@
    "published": "2026-11-13",
    "summary": "",
    "first_seen": "2026-11-13",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -7117,7 +7309,7 @@
    "published": "2026-11-13",
    "summary": "",
    "first_seen": "2026-11-13",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -7186,7 +7378,7 @@
    "published": "2026-11-06",
    "summary": "",
    "first_seen": "2026-11-13",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -7326,7 +7518,7 @@
    "published": "2026-11-11",
    "summary": "",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 4,
    "co": []
   },
@@ -7458,7 +7650,7 @@
    "published": "2026-11-11",
    "summary": "",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -7510,7 +7702,7 @@
    "published": "2026-11-10",
    "summary": "",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -7536,7 +7728,7 @@
    "published": "2026-11-11",
    "summary": "",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -7562,7 +7754,7 @@
    "published": "2026-11-11",
    "summary": "",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": [
     "长江存储"
@@ -7577,7 +7769,7 @@
    "published": "2026-11-10",
    "summary": "",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": [
     "长江存储"
@@ -7592,7 +7784,7 @@
    "published": "2026-11-11",
    "summary": "",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": [
     "长江存储"
@@ -7607,7 +7799,7 @@
    "published": "2026-11-11",
    "summary": "",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": [
     "长江存储"
@@ -7622,7 +7814,7 @@
    "published": "2026-11-11",
    "summary": "",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": [
     "长江存储"
@@ -7767,7 +7959,7 @@
    "published": "2026-11-12",
    "summary": "",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": [
     "长江存储"
@@ -7782,7 +7974,7 @@
    "published": "2026-11-12",
    "summary": "",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": [
     "长江存储"
@@ -7797,7 +7989,7 @@
    "published": "2026-11-12",
    "summary": "",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -7891,7 +8083,7 @@
    "published": "2026-11-12",
    "summary": "",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -7904,7 +8096,7 @@
    "published": "2026-11-11",
    "summary": "",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -7917,7 +8109,7 @@
    "published": "2026-11-12",
    "summary": "",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -7956,7 +8148,7 @@
    "published": "2026-11-11",
    "summary": "",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 6,
    "co": []
   },
@@ -7969,7 +8161,7 @@
    "published": "2026-11-09",
    "summary": "",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 6,
    "co": []
   },
@@ -8124,7 +8316,7 @@
    "published": "2026-11-10",
    "summary": "",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 2,
    "co": []
   },
@@ -8137,7 +8329,7 @@
    "published": "2026-11-11",
    "summary": "",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 2,
    "co": [
     "鼎龙股份"
@@ -8165,7 +8357,7 @@
    "published": "2026-11-11",
    "summary": "",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 2,
    "co": []
   },
@@ -8178,7 +8370,7 @@
    "published": "2026-11-11",
    "summary": "",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 2,
    "co": []
   },
@@ -8230,7 +8422,7 @@
    "published": "2026-11-10",
    "summary": "",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -8256,7 +8448,7 @@
    "published": "2026-11-10",
    "summary": "",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -8269,7 +8461,7 @@
    "published": "2026-11-10",
    "summary": "",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -8349,7 +8541,7 @@
    "published": "2026-11-08",
    "summary": "",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": [
     "SMEE"
@@ -8377,7 +8569,7 @@
    "published": "2026-11-11",
    "summary": "",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -8444,7 +8636,7 @@
    "published": "2026-11-11",
    "summary": "",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": [
     "华卓精科"
@@ -8485,7 +8677,7 @@
    "published": "2026-11-10",
    "summary": "",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -8498,7 +8690,7 @@
    "published": "2026-11-11",
    "summary": "",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -8539,7 +8731,7 @@
    "published": "2026-11-11",
    "summary": "",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -8663,7 +8855,7 @@
    "published": "2026-11-09",
    "summary": "",
    "first_seen": "2026-11-10",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 4,
    "co": []
   },
@@ -8676,7 +8868,7 @@
    "published": "2026-11-09",
    "summary": "",
    "first_seen": "2026-11-10",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 2,
    "co": [
     "海思"
@@ -8691,7 +8883,7 @@
    "published": "2026-11-09",
    "summary": "",
    "first_seen": "2026-11-10",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 2,
    "co": []
   },
@@ -8760,7 +8952,7 @@
    "published": "2026-11-10",
    "summary": "",
    "first_seen": "2026-11-10",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 2,
    "co": [
     "上海微电子"
@@ -8816,7 +9008,7 @@
    "published": "2026-11-09",
    "summary": "",
    "first_seen": "2026-11-10",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -8896,7 +9088,7 @@
    "published": "2026-11-09",
    "summary": "",
    "first_seen": "2026-11-10",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -8909,7 +9101,7 @@
    "published": "2026-11-09",
    "summary": "",
    "first_seen": "2026-11-10",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": [
     "长江存储"
@@ -8993,7 +9185,7 @@
    "published": "2026-11-10",
    "summary": "",
    "first_seen": "2026-11-10",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -9086,7 +9278,7 @@
    "published": "2026-11-10",
    "summary": "",
    "first_seen": "2026-11-10",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -9129,7 +9321,7 @@
    "published": "2026-11-09",
    "summary": "",
    "first_seen": "2026-11-09",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 4,
    "co": []
   },
@@ -9142,7 +9334,7 @@
    "published": "2026-11-09",
    "summary": "",
    "first_seen": "2026-11-09",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 4,
    "co": []
   },
@@ -9168,7 +9360,7 @@
    "published": "2026-11-09",
    "summary": "",
    "first_seen": "2026-11-09",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 2,
    "co": []
   },
@@ -9194,7 +9386,7 @@
    "published": "2026-11-08",
    "summary": "",
    "first_seen": "2026-11-09",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 2,
    "co": []
   },
@@ -9207,7 +9399,7 @@
    "published": "2026-11-09",
    "summary": "",
    "first_seen": "2026-11-09",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 2,
    "co": []
   },
@@ -9272,7 +9464,7 @@
    "published": "2026-11-09",
    "summary": "",
    "first_seen": "2026-11-09",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -9285,7 +9477,7 @@
    "published": "2026-11-09",
    "summary": "",
    "first_seen": "2026-11-09",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": [
     "上海微电子"
@@ -9330,7 +9522,7 @@
    "published": "2026-11-08",
    "summary": "",
    "first_seen": "2026-11-09",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": [
     "上海微电子"
@@ -9386,7 +9578,7 @@
    "published": "2026-11-09",
    "summary": "",
    "first_seen": "2026-11-09",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -9548,7 +9740,7 @@
    "published": "2026-11-08",
    "summary": "",
    "first_seen": "2026-11-08",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 2,
    "co": []
   },
@@ -9561,7 +9753,7 @@
    "published": "2026-11-08",
    "summary": "",
    "first_seen": "2026-11-08",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 2,
    "co": [
     "上海微电子"
@@ -9630,7 +9822,7 @@
    "published": "2026-11-08",
    "summary": "",
    "first_seen": "2026-11-08",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -9656,7 +9848,7 @@
    "published": "2026-11-07",
    "summary": "",
    "first_seen": "2026-11-08",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -9695,7 +9887,7 @@
    "published": "2026-11-08",
    "summary": "IT之家 11 月 8 日消息，第九届中国国际进口博览会于 11 月 5 日在国家会展中心（上海）开幕。本次展会上，上海微电子装备（集团）股份有限公司（简称 SMEE）携自主研发的新一代前道干式光刻机通用技术平台模型正式亮相，展示我国前道光刻装备自主化的阶段性成果。据介绍，SMEE 成立于 2002 年，是国内唯一具备",
    "first_seen": "2026-11-08",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": [
     "上海微电子"
@@ -9764,7 +9956,7 @@
    "published": "2026-11-07",
    "summary": "",
    "first_seen": "2026-11-07",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 4,
    "co": [
     "上海微电子"
@@ -9900,7 +10092,7 @@
    "published": "2026-11-07",
    "summary": "",
    "first_seen": "2026-11-07",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -9913,7 +10105,7 @@
    "published": "2026-11-06",
    "summary": "",
    "first_seen": "2026-11-07",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -9939,7 +10131,7 @@
    "published": "2026-11-06",
    "summary": "",
    "first_seen": "2026-11-07",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": -3,
    "co": []
   },
@@ -9952,7 +10144,7 @@
    "published": "2026-11-07",
    "summary": "",
    "first_seen": "2026-11-07",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": -3,
    "co": []
   },
@@ -9980,7 +10172,7 @@
    "published": "2026-11-06",
    "summary": "",
    "first_seen": "2026-11-07",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": -3,
    "co": []
   },
@@ -10060,7 +10252,7 @@
    "published": "2026-11-06",
    "summary": "",
    "first_seen": "2026-11-06",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 2,
    "co": []
   },
@@ -10334,7 +10526,7 @@
    "published": "2026-11-06",
    "summary": "中国最大的NAND闪存制造商长江存储（YMTC）正在进一步提高半导体生产设备的国产化比例。路透社11月6日援引两名知情人士报道称，长江存储计划在武汉建设的第四座晶圆厂中，将国产设备采购比例提高至至少60%，目标甚至达到70%。这将明显高于公司第三座工厂目前略高于50%的国产设备占比。 阅读全文",
    "first_seen": "2026-11-06",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": [
     "长江存储"
@@ -10364,7 +10556,7 @@
    "published": "2026-11-06",
    "summary": "",
    "first_seen": "2026-11-06",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": [
     "长江存储"
@@ -10379,7 +10571,7 @@
    "published": "2026-11-06",
    "summary": "",
    "first_seen": "2026-11-06",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": [
     "长江存储"
@@ -10394,7 +10586,7 @@
    "published": "2026-11-06",
    "summary": "",
    "first_seen": "2026-11-06",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -10435,7 +10627,7 @@
    "published": "2026-11-06",
    "summary": "中国最大的DRAM内存芯片制造商长鑫存储（CXMT）在2026年第三季度面临市场份额增长压力。随着三星电子进一步扩大内存芯片产能，以及全球存储市场逐渐向高带宽内存（HBM）倾斜，长鑫存储的DRAM市场份额从第二季度的10%回落至9%。不过，与去年同期相比，其市场份额仍然增加了4个百分点，显示公司仍处于快速扩张阶段。 阅",
    "first_seen": "2026-11-06",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": [
     "长鑫存储"
@@ -10515,7 +10707,7 @@
    "published": "2026-11-06",
    "summary": "",
    "first_seen": "2026-11-06",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": [
     "长江存储"
@@ -11000,7 +11192,7 @@
    "published": "2026-11-03",
    "summary": "",
    "first_seen": "2026-11-04",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 4,
    "co": []
   },
@@ -13572,7 +13764,7 @@
    "published": "2026-10-31",
    "summary": "",
    "first_seen": "2026-10-31",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -14401,7 +14593,7 @@
    "published": "",
    "summary": "",
    "first_seen": "2026-10-30",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -23189,7 +23381,7 @@
    "published": "2026-10-19",
    "summary": "",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": [
     "长江存储"
@@ -24930,7 +25122,7 @@
    "published": "2026-10-15",
    "summary": "",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 2,
    "co": []
   },
@@ -26622,7 +26814,7 @@
    "published": "2026-11-04",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 2,
    "co": []
   },
@@ -27320,7 +27512,7 @@
    "published": "",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -27372,7 +27564,7 @@
    "published": "",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -27590,7 +27782,7 @@
    "published": "2026-09-28",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -28691,7 +28883,7 @@
    "published": "2026-10-10",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": [
     "中芯国际",
@@ -28921,7 +29113,7 @@
    "published": "2026-10-11",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": [
     "长鑫存储"
@@ -29615,7 +29807,7 @@
    "published": "",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": -3,
    "co": [
     "长鑫存储"
@@ -29822,7 +30014,7 @@
    "published": "2026-09-29",
    "summary": "",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": -3,
    "co": [
     "长鑫存储"
