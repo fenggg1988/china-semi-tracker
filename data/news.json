@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25 17:47:59",
- "count": 2189,
+ "updated": "2026-11-25 18:50:30",
+ "count": 2195,
  "items": [
   {
    "id": "73c1771fd069a035c80551cb7b74217d2ae46bfa",
@@ -9,6 +9,19 @@
    "source": "GoogleNews·디지털투데이",
    "domain": "memory",
    "published": "2026-11-24",
+   "summary": "",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25",
+   "bt": 4,
+   "co": []
+  },
+  {
+   "id": "e2a5718277ab40cc6d2b07b70f9fdec1a884e669",
+   "title": "多空辩论更新：红板科技调研确认光模块批量供货，扩产竞争待验证",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA4aHpSYTF5ZlFsb0d4ck1jRHU2SC10Z3Z1RmlVNldRRXgyUG5NRHJzSy1ZZ19VeTVUSERYQlhBMGRoaWpEdkFUbEJQMG1wOEVPLU9kalluc2k4Z3p4Mlg0bUJ3?oc=5",
+   "source": "GoogleNews·证券之星",
+   "domain": "optical_comm",
+   "published": "2026-11-25",
    "summary": "",
    "first_seen": "2026-11-25",
    "last_seen": "2026-11-25",
@@ -591,6 +604,73 @@
    "last_seen": "2026-11-25",
    "bt": 0,
    "co": []
+  },
+  {
+   "id": "9bd0eeee09815c57e8d2e270cb4266156064f06a",
+   "title": "三星电子计划 2027 年初出样 CXL 3.2 内存模组 MD310：基于 DDR5，最大 256GB",
+   "url": "https://www.ithome.com/1/032/376.htm",
+   "source": "IT之家",
+   "domain": "memory",
+   "published": "2026-11-25",
+   "summary": "IT之家 11 月 25 日消息，据韩媒 THE ELEC 报道，三星电子 DS（设备解决方案）部存储器业务高级副总裁 심호준 在当地时间今日举行的一场论坛上表示，计划 2027 年初出样 CXL 3.2 内存模组 CMM-D MD310 的样品。MD310 基于 DDR5-7200 DRAM Die，采用 EDSFF",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "180b697dad2fcc6a90e6a23eaeca98957045353d",
+   "title": "没有EUV的长鑫，在DRAM内存工艺上，落后三星们有2年左右",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxT215OHQxcTU2MVVoZkc0dV9yZkdpeVF5MmM3TktRaHZXTEtuOFBoSzBQSmR5RlF1WnM2bjJVLWlJMHdyS2tfNXRRcnBKMHdkQ3dz?oc=5",
+   "source": "GoogleNews·Sohu",
+   "domain": "memory",
+   "published": "2026-11-19",
+   "summary": "",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "daae476a1d04c38fa88d7cc13804e2da77fddb4a",
+   "title": "800G上修之后，光模块的增长接力棒在2028年交给谁",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCR3ZUYTZacDBOTFprOE9PcWpCVER4Z3dCeV90RW80ekRlSF9uZ3paSHlXUW84U25relVjY0FrQzdHSFdLLWYtV1l1N2VmSnFhY0xaVG1IUlhBX19Zc3BLdQ?oc=5",
+   "source": "GoogleNews·同花顺财经",
+   "domain": "optical_comm",
+   "published": "2026-11-25",
+   "summary": "",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "94a51cbf3dfeabb57abd525b65a14a57db3eddbc",
+   "title": "CPO反弹能外溢到哪一层：从光模块龙头到相关板块，中间隔着三道边界",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PMDQtZDlUZlFTZEtXUHRfLWo5S3V5dGpYakhhT05VTENVbHJxb1RNajlYNVRkdE1GNjRyVXdtcUZuVzhjR1o3WkkwdkdTVWdtTGtvTU42Zld1SGpVSjBGNg?oc=5",
+   "source": "GoogleNews·同花顺财经",
+   "domain": "optical_comm",
+   "published": "2026-11-25",
+   "summary": "",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "af6480b8eff0d4fe7baab1c2580eef81e11f0a62",
+   "title": "传三星和SK海力士与长江存储达成交叉授权协议：获得混合键合技术授权",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUmx4X1BhRlB2bWxxbGdtZ3JuX0ROMWdjQkFnVFk2MjA2STJ4OUZSb2g2ZlFHck80UklDT25zeHFkM0xITk1MZkJPX2xzV3JYWG1nOHViQW5ScGZURmhTX21qTW0zSlU5MUhPdE1lWFF2YjBaODJoWS1GUG4zSENVZUs4WjlkMW1sbVVubA?oc=5",
+   "source": "GoogleNews·Sohu",
+   "domain": "memory",
+   "published": "2026-11-25",
+   "summary": "",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25",
+   "bt": 0,
+   "co": [
+    "长江存储"
+   ]
   },
   {
    "id": "a60bd10c752d95560f47ef7af4be81ea2c6a4ac1",
@@ -3501,7 +3581,7 @@
    "published": "2026-11-18",
    "summary": "",
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-25",
    "bt": 4,
    "co": []
   },
@@ -4509,7 +4589,7 @@
    "published": "2026-11-18",
    "summary": "",
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-25",
    "bt": 0,
    "co": []
   },
