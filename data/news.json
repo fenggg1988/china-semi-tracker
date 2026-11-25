@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25 03:16:52",
- "count": 2149,
+ "updated": "2026-11-25 08:21:05",
+ "count": 2154,
  "items": [
   {
    "id": "163f11031bedb7b07d0ad1415c253f1f016a517c",
@@ -78,6 +78,73 @@
    "source": "GoogleNews·CSDN",
    "domain": "memory",
    "published": "2026-11-22",
+   "summary": "",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "42856e2634dc1ce3151277e338baf98445b49757",
+   "title": "98.6%的光伏板靠中国供货，欧洲却把光刻机锁进保险柜，中国外交官一句反问，让欧洲哑口无言",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TRWFzY3dnSXBkajNCR0hScnpmQUk4MFJGcVg2RFFmakwwSi1QanZtYXVaN3R6cERpQ2N3RTRxSDNJRU03Qi1jRmpzeWROMDZMcjdIdlFJMUU3NUp5Tkl5Rw?oc=5",
+   "source": "GoogleNews·Sohu",
+   "domain": "litho_machine",
+   "published": "2026-11-18",
+   "summary": "",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "e8da7cd6c97adf390b3b3d8f3c9d00307a98a574",
+   "title": "主业做染发剂原料 鼎龙科技靠5.51%光刻胶参股拿下两连板",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOR25YTk1Sc2pHeVlTbFRHdUwwT3REVFRJdlFHZW1Fb2haQ3pYRV96RTVwUF94bWdheDNUYnZnU08yUmtUNnBUUVFPX1FMMXM5UFdqdjltdU9Sc3dRR3NuU2ZXaUxkX01sU29XWTFsY1pEX2hZRnJmM1RrV3lkSEFBakdR?oc=5",
+   "source": "GoogleNews·杭州网",
+   "domain": "photoresist",
+   "published": "2026-11-25",
+   "summary": "",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "40c21004db49ac9c1a59a2dcad6a243a415a8296",
+   "title": "华虹宏力盘中涨超10%",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqblVGR3JVcHN4VEZPU1ZMMnRhVmlvU0VzZ0tQYlJJTDVDSzFad0Foa18tNlJWVHdZTDBwS2VVRjhnRmNZRWNvM1hMWEc3c3FlSkVxbWkzRGl6eHlM?oc=5",
+   "source": "GoogleNews·www.caiwennews.com",
+   "domain": "logic",
+   "published": "2026-11-19",
+   "summary": "",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25",
+   "bt": 0,
+   "co": [
+    "华虹"
+   ]
+  },
+  {
+   "id": "34c184a62cbf6781818e5a0c6a2148d8632b43e5",
+   "title": "[中国冲击，悬崖边的韩国产业｜半导体]③中国发展到哪一步了？DRAM差距仅2年、NAND仅1年，设备也将很快被赶上",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE83VlV6TEdRaDhwY1RfeTlsRHFGZjZWaklRR2NXSjZab29na0pxai1kSWk0RGRzNW5OOWMyT3owZVR6Z2lTd0VZcXFIMFZROVdieGhyRFJONGlFM2RQalN5eGJBQUc?oc=5",
+   "source": "GoogleNews·아시아경제",
+   "domain": "memory",
+   "published": "2026-11-25",
+   "summary": "",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "59f993007e14e61a43ad18e3190b1712261a70e0",
+   "title": "《股市简讯》中国存储芯片巨头长鑫科技挫4.8%，创上市以来新低",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBxem9zVU40bE1MTzZaWHREQVJkMVpjS3pPSDZEYm1WRHRXZ1J3aE9Kb3FjQjV3QWJKdlFpQ2VtTW80MmhZMVdRdTBDODdtSWpJR0VUa0o3SWxfRDNsQThrVDlEcTZWRkZWTlFCYklmcWFQZEs1Q3ZV?oc=5",
+   "source": "GoogleNews·TradingView",
+   "domain": "memory",
+   "published": "2026-11-20",
    "summary": "",
    "first_seen": "2026-11-25",
    "last_seen": "2026-11-25",
@@ -335,7 +402,7 @@
    "published": "2026-11-17",
    "summary": "",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "bt": 0,
    "co": []
   },
@@ -1489,7 +1556,7 @@
    "published": "2026-11-22",
    "summary": "",
    "first_seen": "2026-11-22",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "bt": 0,
    "co": []
   },
@@ -4746,7 +4813,7 @@
    "published": "2026-11-17",
    "summary": "",
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "bt": 0,
    "co": [
     "华虹"
@@ -5167,7 +5234,7 @@
    "published": "2026-11-16",
    "summary": "",
    "first_seen": "2026-11-16",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "bt": 0,
    "co": []
   },
@@ -7763,7 +7830,7 @@
    "published": "2026-11-11",
    "summary": "",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "bt": 0,
    "co": []
   },
@@ -9750,7 +9817,7 @@
    "published": "2026-11-06",
    "summary": "",
    "first_seen": "2026-11-06",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "bt": 0,
    "co": [
     "长江存储"
