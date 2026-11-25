@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25 17:37:14",
- "count": 2187,
+ "updated": "2026-11-25 17:47:59",
+ "count": 2189,
  "items": [
   {
    "id": "73c1771fd069a035c80551cb7b74217d2ae46bfa",
@@ -557,6 +557,34 @@
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAxMUtrcDFtMVAyS3R2dWExeTUyRm1ucTJOSVJKUVdsaEt4NU1Qak1heFRyYUt4dHVMX3BBU2VYeUk0RnBZaHVzMUdLc3Q1TTljbEd4dFJCRWgycmJ2d0FUVV9BR0lIbUhNNzlJ?oc=5",
    "source": "GoogleNews·TradingView",
    "domain": "optical_comm",
+   "published": "2026-11-23",
+   "summary": "",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "02338bf2e079eaa44037f19d08e143603ef16aa1",
+   "title": "A股异动丨多重硬核利好！存储芯片股继续强势，兆易创新涨超6%",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RcmN6ZzJjclVZSTNIUEFBZTdrbUhmTVlRMGttQV9IVXJOdVFLZjJKLXBpRzdhZmFmQV9iQUFlQW8wN0hfS2ZJQ1ZjT1NzajBzNWV4OWFQQ2RMbjNySEwxTEpoNVF1US1PY0E?oc=5",
+   "source": "GoogleNews·TradingView",
+   "domain": "memory",
+   "published": "2026-11-25",
+   "summary": "",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25",
+   "bt": 0,
+   "co": [
+    "兆易创新"
+   ]
+  },
+  {
+   "id": "3f45d4c79a5a8e998a13d8571b56548b33f100ba",
+   "title": "AI内存涨价三倍，英伟达却开始砍用量，HBM还会越堆越高吗？-36氪",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YakpPZXNZZ2lhbHRYbi11dUIyMlBQYjhwYnY3WkQ2WVJYNFhwMHJmXy1pRmYtd0ZJX1JDZkVDTkUzUjhOSVhNQk1icEx1Vk0?oc=5",
+   "source": "GoogleNews·www.36kr.com",
+   "domain": "memory",
    "published": "2026-11-23",
    "summary": "",
    "first_seen": "2026-11-25",
@@ -1168,7 +1196,7 @@
    "published": "2026-11-24",
    "summary": "",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "bt": 0,
    "co": [
     "佰维存储"
@@ -1280,7 +1308,7 @@
    "published": "2026-11-10",
    "summary": "",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "bt": 0,
    "co": [
     "长江存储"
@@ -2822,7 +2850,7 @@
    "published": "2026-11-19",
    "summary": "",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-25",
    "bt": 0,
    "co": []
   },
@@ -7689,7 +7717,7 @@
    "published": "2026-11-12",
    "summary": "",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-25",
    "bt": 0,
    "co": []
   },
@@ -8516,7 +8544,7 @@
    "published": "2026-11-11",
    "summary": "",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-25",
    "bt": 0,
    "co": []
   },
