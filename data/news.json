@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26 17:28:33",
- "count": 2281,
+ "updated": "2026-11-26 18:22:55",
+ "count": 2287,
  "items": [
   {
    "id": "93e274cdb5c790edee39aeb6f2e9a8f5de630727",
@@ -201,6 +201,19 @@
    "source": "GoogleNews·news.qq.com",
    "domain": "litho_machine",
    "published": "2026-11-24",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "59bc9584dd3e3ef3ca4a645809d6b1a73c7e303d",
+   "title": "今年订单破亿 “成都造”光刻机集中出货",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBtZ0dObUxCYzZLc3ZwQzd1ZE03SDBPQzlEOV8xRHhYTTFobzNJSHpvUUxUazBTUkNsNWUzdUJBQXcwaUtfQkxpLXBZSQ?oc=5",
+   "source": "GoogleNews·手机新浪网",
+   "domain": "litho_machine",
+   "published": "2026-11-26",
    "summary": "",
    "first_seen": "2026-11-26",
    "last_seen": "2026-11-26",
@@ -1192,6 +1205,73 @@
    "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
+  },
+  {
+   "id": "b73042a62476f769153be7e7415c1755453eba02",
+   "title": "惠科百亿级M-LED芯片项目新进展：首批 7 台光刻机发货",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JNkxRTzZQb2NxUkVncFE5NDNnRkZvc2Z4STBBTlhQRkNWSFNtVXFleVJCUFl4VERJVWh5cjVMTGRPZFdrbG83NUh3LXJwNUhhS0RUaW13cFZPZVU?oc=5",
+   "source": "GoogleNews·投影时代",
+   "domain": "litho_machine",
+   "published": "2026-11-25",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "72e79d1bb4c73245a9138d55c8c3f1178b521c84",
+   "title": "有研新材：公司暂无针对光刻机相关领域开展专门的研发项目和合作计划_董秘互动_数据解析",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJYjFYZFU2d1ZJMndnOEVoYVFHZnkwX3lIY0toRmo0N043cE9hVG9lS0pCVFpqZkZLWDFETmVQMlhoOWVDSjZIdDZxYXhBSThFMmpJeWk0QWUtNjBpNU52cEZn?oc=5",
+   "source": "GoogleNews·证券之星",
+   "domain": "litho_machine",
+   "published": "2026-11-25",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "819a9696e1e266422fea567852965f359b435ef3",
+   "title": "雷声大雨点小！美国对华光模块进口禁令终究难以落地",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA1MnFIU2syeFpRd200Z0JJdGFiSFNjWjk1clRpQUx4d19IaDFOc2VQa0drUUhlZ0JLSlVEanNMNnQ2MEdvTUN5SS10b2M?oc=5",
+   "source": "GoogleNews·wenxuan.news",
+   "domain": "optical_comm",
+   "published": "2026-11-22",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "ef2b0beed49712a4ffc0e88f615239a3bafe066d",
+   "title": "长鑫科技的十大流通股东名单大换血",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zSWpMWWhwVUJpOUZxdXJlSXRJckJGWHE5Y2NYX0FaNzg2OU1yZWxLY0dvWUpma1h1OUYwU05sQXhTcjhFU2x6djVNQTEzSnJmSUNSblAwekMyb0Jmb0tyQXNBRQ?oc=5",
+   "source": "GoogleNews·手机新浪网",
+   "domain": "memory",
+   "published": "2026-11-26",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "b369f9be17756ed64a0e47712e7b167dc8574d5b",
+   "title": "华为、长鑫靠近先进存储核心地带",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5allSOTZWZW5jbktETUgtTkxFTjlrb3FCQjRrMGdsTzNnbVB3RDc4dDlrdm1ZWDNxc1FZSDI4ZDhNODBtUXdVM2cwV3J5TU1EVmRjb2tzZDVUTEJmblBCSUtJUmZmeEFFNWZPYVFn0gFzQVVfeXFMT1V2a01ZQ3ZwT1pyaGIzMkJIYUVkMXFIZFEzem5Nb0E4T2RzY1hSZThpeFFaVUE0X0otamxfdkw1WGJ4Zld1Sm5LbThrdTJmWTEwUHkxWGxjZ0hNQU00QWtVdVliU0thMlFHLTh2WDFvSmJlWQ?oc=5",
+   "source": "GoogleNews·禁闻网",
+   "domain": "memory",
+   "published": "2026-11-26",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 0,
+   "co": [
+    "华为"
+   ]
   },
   {
    "id": "73c1771fd069a035c80551cb7b74217d2ae46bfa",
