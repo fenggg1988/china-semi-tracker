@@ -1,7 +1,22 @@
 {
- "updated": "2026-11-26 10:25:22",
- "count": 2229,
+ "updated": "2026-11-26 17:01:45",
+ "count": 2268,
  "items": [
+  {
+   "id": "93e274cdb5c790edee39aeb6f2e9a8f5de630727",
+   "title": "华为、长鑫放大招！中国芯片论文首次突破100篇：3D堆叠和HBM成焦点",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8yMHQ5Y2NyMXFCNW5VOGlCU2JFTDhMNXpHb2x4YUU1S2V3QkU0SGl5WURTdkFqU19QdlZYUi1CUk5aU295cXpRSGtsR1c4SVk4eVFkRC0tVmM?oc=5",
+   "source": "GoogleNews·驱动之家",
+   "domain": "memory",
+   "published": "2026-11-26",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 4,
+   "co": [
+    "华为"
+   ]
+  },
   {
    "id": "83d61166d780d88d17129ce24430fd90c14259e0",
    "title": "SK 海力士计划 4 至 5 年内量产 3D DRAM，首款产品采用 100 层堆叠",
@@ -98,6 +113,73 @@
    "last_seen": "2026-11-26",
    "bt": 2,
    "co": []
+  },
+  {
+   "id": "1f05243540c53a9cd1c9a292793b595993fee93c",
+   "title": "7台国产光刻机交付惠科",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kWUQydlRLdDUtTGVpMWxHV3FOd1RZa2dsZ1N4WUZtNUd3dDJCaXVTV3AyV0xEZ1VVUlBJbi1HM3lFdkhGbTRnNFNhcTVpZ080UXp4SlJkTzJQcmNqX2w1ak4wUHZ5RElfTFRyNkx6ZEtnMHZu?oc=5",
+   "source": "GoogleNews·新浪财经",
+   "domain": "litho_machine",
+   "published": "2026-11-25",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "5ac7bff208b82eceee2e57062b3f1b5a2ed846b1",
+   "title": "杭华股份(688571.SH)：目前子公司浙江迪克部分特定型号的绿色、红色光刻胶色浆已进入量产阶段并收获小批量的吨级订单",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45ZVRaYjhLZ29lZ2l0V25IRXk3UF9Md1NQaXRETzdYZnJmdmFPWHc4d1daMWRlNjdFMUluNmt4VGRkdnJvUHRiX092aGg4NUgwVDBLZm9LM3NzQURaUnZoTjl3VTE2QThCOGY4RlM4OERPTk5SQ25nMA?oc=5",
+   "source": "GoogleNews·新浪财经",
+   "domain": "photoresist",
+   "published": "2026-11-26",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "eba2f1eb8a68539cdefdd685eff218e427e660d5",
+   "title": "集微咨询发布《AI产业系列报告之光互连芯片（2026）》：CPO量产元年开启",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TYzZzbE9TSGFNeDJyamkzbW12RXBqRlRuZS1YVkRHUzI1QnJCNFNDa2dtRWZCOWtMVVk2QnRsXzZsNjNpWXd1d1dRa3J2eWczWW1tX29ab19GOHBrcjQyQXUtLThvcC12V01V?oc=5",
+   "source": "GoogleNews·财富号",
+   "domain": "optical_comm",
+   "published": "2026-11-18",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "5d8dc0aa53ac0f8478fc8ccf473d1ae8299bb6f9",
+   "title": "36氪首发丨牛津博士团队绕开光刻机用玻璃做高维光计算芯片，获英诺基金独家天使投资",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE83N1BqQnBWd1podk1ONDZWOXhwamw4WDNmWUI1ZjhGMUJ5ZlVreFhkdUNPUEZBbVpOcGdPckh6VE8xYVVJV3AtTUVTUDR6Zw?oc=5",
+   "source": "GoogleNews·36Kr",
+   "domain": "litho_machine",
+   "published": "2026-11-25",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "4715e0f7fbab3e48d35aa023d97284ed11741117",
+   "title": "半导体工程学会：“中国长鑫存储(CXMT)的4F平方技术难以实现商业化……也可能直接转向3D DRAM”",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43X01OTW05OGwzUDJIX19kYkVwU2tVUU5GWVd0d1J0VmJua3JNTEJ6cUdWenBRTWUyNGhEMWNjUFR1bXpqa3R5Mkp1S0Z4T0Y0Wmlj?oc=5",
+   "source": "GoogleNews·매일경제",
+   "domain": "memory",
+   "published": "2026-11-26",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 2,
+   "co": [
+    "长鑫存储"
+   ]
   },
   {
    "id": "c0b524541123496e46f240facaf238617daaff8c",
@@ -464,6 +546,470 @@
    "title": "ISSCC 2027中国境内论文入选逾百篇 华为、长鑫聚焦3D整合与高速存储器",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeHR2YWZiWGVISFJ5UHBINTRyelY4dlo3TnBQM0RDOW1uSHRFSzYyU2ZjUTBLSlB3b0JzWWpRazBOVXBMM0FvYlVSTHVEdVBES19VWVhiTGxmMFZqTFJWeUJaamZDQkd0cm9LTlItTEY2OUVFbXlpOVBqTzJSYUlqVGpwbjMybm1ZT1ZYZFljaGFxVlpXQjVPNDNxRTN6aXA0WEtJX1hMTQ?oc=5",
    "source": "GoogleNews·DIGITIMES",
+   "domain": "memory",
+   "published": "2026-11-26",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 0,
+   "co": [
+    "华为"
+   ]
+  },
+  {
+   "id": "6411e5140b2e6c2a4382469d6c5da1eb712b2330",
+   "title": "成都华微：以“4+N+1”产品体系，筑牢集成电路自主设计底座",
+   "url": "https://www.laoyaoba.com/n/1146258",
+   "source": "集微网",
+   "domain": "logic",
+   "published": "",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "a45536ed29aee26b58dc8e89cc8b83631b37e05d",
+   "title": "SK海力士披露3D DRAM路线图：2031年商业化，首款产品100层起步",
+   "url": "https://www.chinaflashmarket.com/a/184456",
+   "source": "闪存市场",
+   "domain": "memory",
+   "published": "",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "5767ae795a603521de6d331e8ca7a3e4754f19cf",
+   "title": "三星电子CXL内存路线图：2028年将用LPDDR5X替代DDR5",
+   "url": "https://www.chinaflashmarket.com/a/184455",
+   "source": "闪存市场",
+   "domain": "memory",
+   "published": "",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "3f3e6e0db21a18f012a66a9cd6194408a24aa33d",
+   "title": "三星电子将在 ISSCC 2027 展示 5XX 层超高堆叠 3D NAND",
+   "url": "https://www.ithome.com/1/032/832.htm",
+   "source": "IT之家",
+   "domain": "memory",
+   "published": "2026-11-26",
+   "summary": "IT之家 11 月 26 日消息，根据 2027 IEEE ISSCC 官方预告，三星电子将于明年 2 月 14~18 日在这场举行于旧金山的产学会议上展示 5XX 层超高堆叠 3D NAND。三星电子在 FMS 2026 上官宣了 4XX 层的第 10 代 V-NAND。即将展示的 5XX 层 NAND 依旧采用晶圆",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "d133afda3fb1a5c98ec5e6d9c5f56fd02261bf83",
+   "title": "联合化学(301209.SZ)：上海微电子不是启辰半导体的客户_公司新闻",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Pc19QcFU3aFZwSWNnTEtuaEw5SGtkek9EU012M0I3SnR5N0pIRHFLb1N3akswa2x0R0dtbUJJSXRPU1dLVDVFLWZ5Y3MxMGFiejhPWlBFUWw1ZVFqOExFa3FKTHI?oc=5",
+   "source": "GoogleNews·证券之星",
+   "domain": "litho_machine",
+   "published": "2026-11-26",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 0,
+   "co": [
+    "上海微电子"
+   ]
+  },
+  {
+   "id": "a86e169769d45a8aa7e61b8073f50ba278bcf181",
+   "title": "联合化学：上海微电子不是控股子公司启辰半导体客户",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93a1FTbHlWcFJoQW5vS0djaEZkblowZHpsYThCZTVRQUR5WFVRamd1MlJLeklERFhWVS1Qb05UV3VvMlNvMUF0QnptcjRXR2p6OURVWmdDVUVNck0?oc=5",
+   "source": "GoogleNews·36Kr",
+   "domain": "litho_machine",
+   "published": "2026-11-25",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 0,
+   "co": [
+    "上海微电子"
+   ]
+  },
+  {
+   "id": "7ccd9c16f83af01f0b0378a1a38395bad35fd448",
+   "title": "联合化学：上海微电子不是启辰半导体的客户",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Wa3NFZTJKcWhoV3hsd3RqUFUtUmwxQzRkZms1RXp3LS1VbXc2Smgxa05ZZUkyY0t4WHA5V1dGaEVUdjBOVU9LR3Iycw?oc=5",
+   "source": "GoogleNews·手机新浪网",
+   "domain": "litho_machine",
+   "published": "2026-11-26",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 0,
+   "co": [
+    "上海微电子"
+   ]
+  },
+  {
+   "id": "eaa82f91c5af07b18801f69e34ca2efb89e4118b",
+   "title": "日本想用光刻胶卡住中国, 没想到中国开始拆日本半导体的护城河了!",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbm1acXBrYzlucHA1cWtlcjZoWFozUUdJMUFyR3dGWVYtN2ZzMlVxLVhOTjFTckNxNndqS2IyU0NSUVNBTS1kMF9ramVBaDhVREctZTZOeG04d0ZUUHNTY2VKSnVPbzF2Ni16OGtISWwzenE0cGJyeDVScVBxZklRYmktR0VuVEN2aktWbQ?oc=5",
+   "source": "GoogleNews·Sohu",
+   "domain": "photoresist",
+   "published": "2026-11-26",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "420468effb0b20de913722c3ac927094486d5d0e",
+   "title": "局势彻底反转！欧盟禁止对华出售光刻机，中方就此反问：既然欧洲惧怕技术流出，又凭什么索要中国稀土和顶尖技术？引发舆论热议",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQlhtY3dDcldwd3dqN2lQeWNQWWRqRndLY2JHc2hWVXJZTVdmSDdnZEJoRTBvWldLbi1PV19pX3Z0QzFQZWdpcC1sTUhrb09maUFQMV9GNm1helZHa1lZVG5fMzdpR0xqRG1uZGJtc1ZhdDMtTVV3M1kwR0lnTGJTU2ZheUF4b2FvSm81NQ?oc=5",
+   "source": "GoogleNews·Sohu",
+   "domain": "litho_machine",
+   "published": "2026-11-26",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "0a49c33543542f8b8355e126e82f4e954e2577ed",
+   "title": "由于日本出口限制令芯片制造商处境艰难，中国竞相开发国产光刻胶",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPc2ZoUUhhWlk0SDNUUF90SmdlZWdNTnYxMjRrdG50cTBueENmVmtZdFY3NVRGQ2QySVpxclFVYm8tM1RXQ3NFYW53OVFkXzE4eVBGblJMNUowTHBIYWpZVjhCN09HWGFzYUxFc1hqUjktQ25oYXVQSHF3VWlEWk0tS2tTTkZhdUJNUjhvTA?oc=5",
+   "source": "GoogleNews·Sohu",
+   "domain": "photoresist",
+   "published": "2026-11-26",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "14c5445cac869cc228fb8f6c8597ab40dc089f45",
+   "title": "应用光电签超大规模客户15亿美元800G光模块采购协议",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE50UVpiMVBiZWs4aGxval9IellmNGhQc0YxbWpRWS1wTkxxenhubGhibXNCcVFXSXZ5dDRadm5LOVBjclZxb0JDRThjY0l0cGc1NHN2LUdoeVlJQ1dkamFiRzl3?oc=5",
+   "source": "GoogleNews·观点网",
+   "domain": "optical_comm",
+   "published": "2026-11-26",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "bd2715d9f46bf37cd52579dd6ee7289cc78ec220",
+   "title": "“站在光里”的应用光电(AAOI.US)再签长约! 云巨头锁定15亿美元800G Wedbush调研揭示光模块供给仍紧张",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzcWthSDlhemtiNU4xeDFtVEZXendkNWc4VWlpdDdFYWN4aGJVSEh2ZEZsZEFWMzFHQnZPaHctb3N4YkxMc2s1a1JweUpKMHpHdGM5czVrc2dOZDRTa3ZCTjJPajc?oc=5",
+   "source": "GoogleNews·证券之星",
+   "domain": "optical_comm",
+   "published": "2026-11-26",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "e7c649001e4b65a460ccc407a82eb0855c25f1a8",
+   "title": "美股讯号 | 摩根大通上调光模块市场预期至880亿美元，800G产品预估大幅提升 ｜#美股资讯# #光通信# #市场动态#",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVlF0TDg3alhmaEtiVFNYMXdCOE0tOC1HRHdqcGlqU0k2TUdsTVNxcS1BRERJX3gycHhvbEdKNGhSZExGQnlqVUVTQkJoWUlKVWRMUm5OdzdhRWREejJMdEpUY2xwZ1BmUTdwNk1FU0h6TmNtWlJKZWFKZjBpNUZBd29haUNqZW9iQUZjVw?oc=5",
+   "source": "GoogleNews·Sohu",
+   "domain": "optical_comm",
+   "published": "2026-11-26",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "8474fd24ab4163c5e84916cafcde54bcfed6ec11",
+   "title": "CPO：数据中心光互连的物理层重构与工程落地",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5xNlg5cGJkWGhzbk80eWx0S04ySFo5RXdQOG9zNkE5YS1jMUpfV0dScmlzc01lc2dRY2NkQThRNFRHZVpzNGJoQ2Y2U05tN1p1ZVJ6WE50aU5HWklK?oc=5",
+   "source": "GoogleNews·CSDN",
+   "domain": "optical_comm",
+   "published": "2026-11-11",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "944a306d4cc018b7cf7a46ddb3d88e4ffa4c494c",
+   "title": "国产CPO全栈方案：光引擎如何集成到芯片封装中",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YcDBsdzBGbExYTUF3Rmw5M0hjX2ZHUUNyZUdRd1Jsc1l0ajlwc25HLWQybnF2c0hlRFJBbHUxTV90MlppQ3VrdWtWWkIxajV3MlRvNV85SnZYclJLVk5ySQ?oc=5",
+   "source": "GoogleNews·CSDN",
+   "domain": "optical_comm",
+   "published": "2026-11-11",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "a93c09cf49a06574465a4eab48d1c383bab7bf29",
+   "title": "黄仁勋的“光”：详解AI算力背后的光通信产业链、英伟达赌注与技术博弈-36氪",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBNSWlLa2ttbTA2b0IzWG1GUU1XYk5sc2NGSTJjYV9NNzRNTXhVRjNCa2JsNG5Ed21fak9VQ1FwMm5PYmRWdkFiM3ZIa2pDQVU?oc=5",
+   "source": "GoogleNews·www.36kr.com",
+   "domain": "optical_comm",
+   "published": "2026-11-25",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "3d4612af9eece68023db3090bd222bc6ca6c42f7",
+   "title": "“光芯片”概念：最正宗的18家公司（附名单）",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTnowU1VNb1QxUXp4MXJRMlVZdFltblc2dWZJMk91TGhkcHdQOUZuZlhoV0FzU2hkZ3dJdGRWS0RYaENVTkh3VVZpbWFxcVdiNDFad2hwT0dIbGRuUGZHaDg4SU1jSmpvTnhDaDNGZUxja0lTYzEtQnd0YUJwblhfXzg1Y3VDVkE4amRGRQ?oc=5",
+   "source": "GoogleNews·Sohu",
+   "domain": "optical_comm",
+   "published": "2026-11-26",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "6db32fc08f995ceb8ef98ae1706174d3512a6247",
+   "title": "香港交易所（00388.HK）披露股份代号01191.HK公司投资者活动 聚焦硅光技术与产能规划-证券之星",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBqbkZyS0hjcUx6dkpSYVZyWTl6Y3VFNUxEYS1JeE01di0tMHUwQ20tdUN2aW54LTFDekNvZVVvRkc2R05OdzRXdEVsSEpFWU8wVDBwTHhiWkRlME1Ienc?oc=5",
+   "source": "GoogleNews·证券之星",
+   "domain": "optical_comm",
+   "published": "2026-11-26",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "a3dbf0308a4f5856557340e799e206077fe1ac9e",
+   "title": "中芯国际距离超越三星代工再进一步！全球晶圆代工市场最新排名",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAwV1FpUkVpZ2VCS1d5ak5DYjZZS1hQWjR3QW9RQ3dSb1hGdzdoQWxOX2NZSmM1VkJaZlZNMU1veXVrRzIzV25PQjdwdGQ4enRERWJ5NjJGelFNeDdHSENkc0VZWDRkVUQ5T3FTdm1pN3QzSDJWSXc?oc=5",
+   "source": "GoogleNews·新浪财经",
+   "domain": "logic",
+   "published": "2026-11-26",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 0,
+   "co": [
+    "中芯国际"
+   ]
+  },
+  {
+   "id": "0893f1acad3c3698ce3c73677f24f252e288e1ad",
+   "title": "全球晶圆代工最新排名出炉！中芯国际稳居全球第三：距离三星仅差1.4个百分点",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9JNmpNQWhOY0hTTzVIcENvaVV1VUVnN3JIQkk4eHhjTWhjdDNaVHJRZ28zcDI2RG1PZGVhS0xzT1lTd1I1OFlrM2tDZjAwMTB0LXZCa1V6N1I?oc=5",
+   "source": "GoogleNews·驱动之家",
+   "domain": "logic",
+   "published": "2026-11-26",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 0,
+   "co": [
+    "中芯国际"
+   ]
+  },
+  {
+   "id": "5de431e29cd08b24fc953cfd17f79051f05f0658",
+   "title": "2026年Q3全球纯晶圆代工市场同比增长36%，中芯国际创纪录守住第三",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8yaWU0Q3UwQV9qQmZtQlBMcXRNZ0tVZDZzNDVURGh5bnptSDFfUkNLS2RCc0RsNkJNbGE0UjdFOXplR2dGRVFKYmJaQVBMeUFTb1lNcGVGTUp4YkNw?oc=5",
+   "source": "GoogleNews·电子工程专辑EE Times China",
+   "domain": "logic",
+   "published": "2026-11-26",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 0,
+   "co": [
+    "中芯国际"
+   ]
+  },
+  {
+   "id": "1d6d14eb63687c54035e798fa8102d67c77cc03c",
+   "title": "晶圆代工双雄逆市走高，华虹宏力涨超7%、中芯国际涨超4%",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RUEZCM1pXMExkQlBSZDZGVWlmOWNCaDV6WU9ob0ZwbnFBSUp5WVpqRHVidEZXdkxzUTQ1QmxLWU1MSUUyckR3QS1Ybk0yOE4xaVJtWGlB?oc=5",
+   "source": "GoogleNews·Tiger Brokers",
+   "domain": "logic",
+   "published": "2026-11-19",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 0,
+   "co": [
+    "中芯国际",
+    "华虹"
+   ]
+  },
+  {
+   "id": "02deef6be35ca3a842a9eb0d270ec11c869dd73d",
+   "title": "技术面临瓶颈，韩国双雄找长江存储要授权",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1fUVBCeWxYLW12d19wd1g1TnYydE1uMHgyTzh0T0hjek5JOS1QajJYRG1JVWVvbVl1U3hWdGlfSnkwQmFGWVJ4R193Z2dPaUYwa3NwQy1GT2M5S1cxNEJiMkxnZ1ZxMnRCTmtCbk1Hdm9mNkVC?oc=5",
+   "source": "GoogleNews·观察者网",
+   "domain": "memory",
+   "published": "2026-11-26",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 0,
+   "co": [
+    "长江存储"
+   ]
+  },
+  {
+   "id": "e86bd04314ce2cede241b380cb51122c05a7bdf9",
+   "title": "三星SK海力士交叉授权长江存储Xtacking技术，混合键合成为400层NAND主流选择",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBM1djOGhnVS1aZVdIMVFIYm1rOW83TGxpM2tfU25pRlVJTTRTMGltcHN6NG50X1JGOU5BYXVMY2U2N2Q0dnE3Y2lyZm54VkU4OW1jS09aNnVpMFdp?oc=5",
+   "source": "GoogleNews·电子工程专辑EE Times China",
+   "domain": "memory",
+   "published": "2026-11-26",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 0,
+   "co": [
+    "长江存储"
+   ]
+  },
+  {
+   "id": "e172a5f012ba03d333a9194528dd30681a92b304",
+   "title": "三星SK海力士经交叉许可采用长江存储Xtacking技术",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4teG0xSkFEUlUxSjFaanlXOWxOZGtPeWlHUjI5aEcyZTVEYkJ0YzZzei1YMFNnY1ZkNlVEWVpWSTlOQ2JWemFJOHl1cTI?oc=5",
+   "source": "GoogleNews·www.itsdw.cn",
+   "domain": "memory",
+   "published": "2026-11-26",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 0,
+   "co": [
+    "长江存储"
+   ]
+  },
+  {
+   "id": "a9bd00baa998c1979182b4d98c6514dc1e8c70e2",
+   "title": "长江存储专利布局见效，三星、SK海力士寻求授权",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpdzRYRXd5aDVGMVNtaEJOc2hkbzFRMjBxQTd5RlZlQkd3RktQdUhHbTk1MXJ5T1Q2Ri05ZnJjbkk2RlFoSFh2NF9aMWh6X1duNm9mQS1WZUxyNGJIejRnM1d5YW42TFpPLTZuekFaa0VQUQ?oc=5",
+   "source": "GoogleNews·手机新浪网",
+   "domain": "memory",
+   "published": "2026-11-26",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 0,
+   "co": [
+    "长江存储"
+   ]
+  },
+  {
+   "id": "342f7ee0020fa2f6b977fd7a6c5ca5fb0027af8a",
+   "title": "华为、长鑫“挑战”三星、SK海力士",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5YRV9VQkhiQlZNMFNSNVgzWldidXd6UENURlBFbFhDVFZFVTlnWHlSdk9NWXIxc2JwRkd6TWM1S2hfeTFMTEhmUEZMT3c3dkFEY1RlY1N5LVhPRUZ6b2dpUFBfaFM5REZMcWZYYU12MWMtWFQwMlE?oc=5",
+   "source": "GoogleNews·新浪财经",
+   "domain": "memory",
+   "published": "2026-11-26",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 0,
+   "co": [
+    "华为"
+   ]
+  },
+  {
+   "id": "9c110232b20e121f9051ccc3b1b5aad5cf9f0b94",
+   "title": "长鑫存储招聘简章解读：半导体工艺与设备岗位的能力要求与面试准备",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9abDIwaVJXcEhqc1Y3ZXNZbjdrakJXUlZOMUI5WHF2TzNsWHlZS2JWX0p4eTRxZmNDUGctVmxTSUNVVnlhdHNGTlFiTU5CY3ZWTk15Zmt2dmZMcXBBbFFj?oc=5",
+   "source": "GoogleNews·CSDN",
+   "domain": "memory",
+   "published": "2026-11-08",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 0,
+   "co": [
+    "长鑫存储"
+   ]
+  },
+  {
+   "id": "a86d64fef1cda81b9c0aa4698555921af9c95ede",
+   "title": "向存储技术核心区靠近！华为、长鑫将与三星、SK海力士正面交锋",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkcVBQcVVCb09mUmFTMnBVbHFONzE3WUZKQUppeTU1bkRZLTBTMlBiY2dTVDl2UWExclFYUl9XZjV2VjgyM1Vza2xIQ3draHFmYXpjTWkxZk0?oc=5",
+   "source": "GoogleNews·Jiemian.com",
+   "domain": "memory",
+   "published": "2026-11-26",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 0,
+   "co": [
+    "华为"
+   ]
+  },
+  {
+   "id": "ea6161239c83379ae7766539bb2a0d1f46cd0bdd",
+   "title": "华为、长鑫将与三星、SK海力士正面交锋",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fd0tnT09oMWpzX2hoZ0NCS2tybWJ2T2JPbDFFRGVVcTdOSjJBR0lSV2Faemhid1ZvNExmX3kxSXNNdjBkaFJJLUx1N0xVOFpLYlY0NURmRU1CV3NsTjRvbm80a0UtWkl6a09qQ21mS1B3TDJKVWV3QVlxSDlER0E?oc=5",
+   "source": "GoogleNews·Sohu",
+   "domain": "memory",
+   "published": "2026-11-26",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 0,
+   "co": [
+    "华为"
+   ]
+  },
+  {
+   "id": "c843735b1397a42f4c408f1f7080aa4d71c628b3",
+   "title": "华为、长鑫靠近先进存储核心地带，向三星、SK海力士发起挑战",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHRFZUMmFXanJNNXlWUUFiSDVIOU1VVEt4OVB4eFVKSHFKa2c1cVdhRm5tZDdfcThUbWMxZ250SzMyeGt0aXFRcDJrb3NhdlNmanJZSkdB?oc=5",
+   "source": "GoogleNews·QQ News",
+   "domain": "memory",
+   "published": "2026-11-26",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 0,
+   "co": [
+    "华为"
+   ]
+  },
+  {
+   "id": "3012f6d9aca8650734f3a57b3f057ae2eb003814",
+   "title": "中芯、长鑫、三星连放重磅！半导体设备ETF招商(561980)强势4连升",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04aE10SlFwQ2IxWmRJU2o1bzljdmdaLTVTOWxYbmZqLVlxSnBjLTMydV9PcHNHVWJEZ2JObDlidG52S0hqUGhaajRPZC1Od3o1QTJlRjFMQlF0aEF5eUJQWHQ4TmdlU0xDYnJr?oc=5",
+   "source": "GoogleNews·财富号",
+   "domain": "memory",
+   "published": "2026-11-14",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "35af6420d8d0269cc3c39b0657511731645c76dc",
+   "title": "华为定制HBM方案曝光：4096个数据接口，五层混合键合 - https://www.mrjjxw.com/",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5OajF4YnphRnhGQ0ZtMFE0eDRnamZBcUFidzFsVE8yeFU3Q1BvV1lKd00xMmNWRTh3Vktmc2N2TGhNYVdwUWR1cmZ5N0FHZkg0LWZTSlJKblJvQTBuWVpKQkF4MUlaZw?oc=5",
+   "source": "GoogleNews·https://www.mrjjxw.com/",
    "domain": "memory",
    "published": "2026-11-26",
    "summary": "",
@@ -1045,7 +1591,7 @@
    "published": "2026-11-23",
    "summary": "",
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -1434,7 +1980,7 @@
    "published": "2026-11-23",
    "summary": "",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -2873,7 +3419,7 @@
    "published": "2026-11-13",
    "summary": "",
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -2886,7 +3432,7 @@
    "published": "2026-11-18",
    "summary": "",
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -2899,7 +3445,7 @@
    "published": "2026-11-17",
    "summary": "",
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -3874,7 +4420,7 @@
    "published": "2026-11-18",
    "summary": "",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -4534,7 +5080,7 @@
    "published": "2026-11-09",
    "summary": "",
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -4616,7 +5162,7 @@
    "published": "2026-11-07",
    "summary": "",
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": -3,
    "co": []
   },
@@ -4644,7 +5190,7 @@
    "published": "2026-11-18",
    "summary": "",
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 4,
    "co": []
   },
@@ -6031,7 +6577,7 @@
    "published": "2026-11-16",
    "summary": "",
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": -3,
    "co": []
   },
@@ -6318,7 +6864,7 @@
    "published": "2026-11-16",
    "summary": "",
    "first_seen": "2026-11-16",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": -3,
    "co": []
   },
@@ -6443,7 +6989,7 @@
    "published": "2026-11-12",
    "summary": "",
    "first_seen": "2026-11-15",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -7144,7 +7690,7 @@
    "published": "2026-11-12",
    "summary": "",
    "first_seen": "2026-11-13",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -8402,7 +8948,7 @@
    "published": "2026-11-12",
    "summary": "",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
