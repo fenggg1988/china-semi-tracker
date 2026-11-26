@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26 17:01:45",
- "count": 2268,
+ "updated": "2026-11-26 17:03:21",
+ "count": 2278,
  "items": [
   {
    "id": "93e274cdb5c790edee39aeb6f2e9a8f5de630727",
@@ -180,6 +180,19 @@
    "co": [
     "长鑫存储"
    ]
+  },
+  {
+   "id": "253ad66629b247b842744df30fab79bad32a1f90",
+   "title": "太平洋：首次覆盖长鑫科技给予买入评级_券商研报_数据解析",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ld1ZPdXhYX2VWOXpOTmdMMDZGbGxaaTM3QmVFbXZKX19HSHRDMWJQbnZMamhSRDZ1QWFuemMwbkc1VTkxT2pYUVdXYWgwRUZkakVIbFRRTnI5bkoyWE44M09B?oc=5",
+   "source": "GoogleNews·证券之星",
+   "domain": "memory",
+   "published": "2026-11-26",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 2,
+   "co": []
   },
   {
    "id": "c0b524541123496e46f240facaf238617daaff8c",
@@ -1021,6 +1034,127 @@
    ]
   },
   {
+   "id": "4b41938bcf6cfeed1bf3c8ef43040d89acb16f99",
+   "title": "光刻机巨头早意识到，中国造不成光刻机，但要造一个光刻工厂！",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA4UWJINUdiZUU3MFNnMnVIcE0yVWJjUGJERFBNWUVkQWxFNjZ2ZkgteC1Va1NVdGtNUWN4R0ZUNlRwT3NXbmEzYWhsYUotWV8tTnNjMzhZS3Zzc1VYUUJtQnZn?oc=5",
+   "source": "GoogleNews·手机网易网",
+   "domain": "litho_machine",
+   "published": "2026-11-25",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "84adea09792373f2cfa69e86c8b6e3d9796de2c5",
+   "title": "佳能时隔24年更新ArF干式光刻机，满足成熟制程与特色工艺需求",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RUlRzdWJiaHBHd1dyWFQ1OE82Mk1BanJyMUtwQ3BJQkdxMEZfYmdpOFFSbDVOYnlLeFRoR09QbkVpU08tSFFoY2g4VnZjN09MSmc?oc=5",
+   "source": "GoogleNews·国际电子商情",
+   "domain": "litho_machine",
+   "published": "2026-11-26",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "ba94b437fabdc56813f0de221e57ed02576bb5ed",
+   "title": "三星电子和SK海力士采用长江存储芯片堆叠技术",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LTXdMMlFKRDVOY3Fpa19KN2ZEeUcteWowYjZzSU9UT0J4N3lfTVBnNU9vMmRxZkplOWJyMzV5TTZla2J3ckdNNnRfMzh6NFJ3T041UFR3WGJ3Ui14ZHQySDlpUGc?oc=5",
+   "source": "GoogleNews·星岛环球网",
+   "domain": "memory",
+   "published": "2026-11-26",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 0,
+   "co": [
+    "长江存储"
+   ]
+  },
+  {
+   "id": "c6b0752b612339764f7a7e9146f671544f51658c",
+   "title": "中国长江存储放量……“NAND寒冬”比预想更早到来",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WR0J6M2d4Zy01M1BsanRXOTZtVUN3TDhJTnNQYi1pbGtYNTZOU2tscVhCdmpfQmFiSVVWTUZfYXU5M3VnY3FsSTdSM3lRbk9takFr?oc=5",
+   "source": "GoogleNews·매일경제",
+   "domain": "memory",
+   "published": "2026-11-25",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 0,
+   "co": [
+    "长江存储"
+   ]
+  },
+  {
+   "id": "3f16bddfc91ff1e3e572d2194618869db69e2b60",
+   "title": "指数通道渐次打开，长鑫科技资本底盘加速成形",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBlb1MzdGloejJHUTQyUlBhYmRiOU9RNGZBcS1OOG5fTTZ3RkdMdUFaTC0waUV6R3FFRjYwb2ZsQk5NNUV5QmlJanF1b0h3Q0RTbGo2b1pYc1ZYNlZaQVE?oc=5",
+   "source": "GoogleNews·北京商报",
+   "domain": "memory",
+   "published": "2026-11-26",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "02a79d4aec51bc8282150dbbce5761505ec31a5f",
+   "title": "长鑫科技股东结构多元演进：指数化配置渐次铺开，长期资金加速汇聚",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OVjNfNk4yVG81NC1DcldZWC1hTGIxLWF2QTJhaXJGZ3dSdTVWbHFlUVpDS0VxTVI4U3dXaGNFRVlkamltd1l1SzUwc3VrU2dCYkZZa3YyMFdMUQ?oc=5",
+   "source": "GoogleNews·TOM财经",
+   "domain": "memory",
+   "published": "2026-11-26",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "f2e9f56f7c095ae8caa71fa1398e506305643d95",
+   "title": "长鑫科技，跌超6%",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBOMDVPdzlKSlVTc2NRX0RUUWVNc094TnpmeENyWkFXTEt4REFaUU52X01ZUS1ZQjdrc2dQbTE0MjMwbm5GeXE4elFIZGh4bDNUcFI5MWpmOUdGcU8xZndIZ0hfOA?oc=5",
+   "source": "GoogleNews·东方财富",
+   "domain": "memory",
+   "published": "2026-11-25",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "0cd2954af8261a199d6c33e9e5ed90fcf7fd2c3e",
+   "title": "全红婵来了也要甘拜下风，长鑫科技这跳水姿势太绝了",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE95RmE0ZC1MM19MckFzN1dZdGJmbEE2bzBrUWRRR0VTdi10UTZSVHBKbUEtWjZDb2pkczFEeWFSdDFDNEVfZk9jMzFNZXFfY0lpWGE5Nmc2eEhaX1lVLUVWSHYxbw?oc=5",
+   "source": "GoogleNews·手机新浪网",
+   "domain": "memory",
+   "published": "2026-11-26",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "3ff30ca61862b87b4a7340c76364859e0b486d80",
+   "title": "科创芯片ETF华安（588290）跟踪指数涨近5%，国产AI芯片自给进程提速",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE00M2pOdU0zTXhUYlEzTjlJcUpzbXRnR0lpd0dybFZlUUJSb09KZGRGdjBKZTMwV0twdDBLakEta0lJcWliTVBpVmpnWVlqcUE3R1dQUWl5djBLN1NsQlNGcnBR?oc=5",
+   "source": "GoogleNews·手机网易网",
+   "domain": "logic",
+   "published": "2026-11-24",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 0,
+   "co": []
+  },
+  {
    "id": "73c1771fd069a035c80551cb7b74217d2ae46bfa",
    "title": "CXMT、YMTC扩产提速：DRAM份额升至9%，YMTC NAND按出货量计份额超Kioxia",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMUI4c1lzT3JaRWtyVUpIZW5NMU5FQmpteEpjLVVkdDNYX043Ukg5SXhqZWpwa2REbW8tRjNQOFBIMG9OR1FoWDBWdjltbjJScXZNd2VrWXVTcHdxQ2tRNXh2cXVKaFM3NFN1QllWd211cHFxZzVnWGVtNWROSUE1aUlYaW1nalVfbnNvd1VR?oc=5",
@@ -1124,7 +1258,7 @@
    "published": "2026-11-25",
    "summary": "",
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 2,
    "co": [
     "雅克科技"
@@ -2830,7 +2964,7 @@
    "published": "2026-11-07",
    "summary": "",
    "first_seen": "2026-11-22",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 4,
    "co": [
     "上海微电子"
@@ -3961,7 +4095,7 @@
    "published": "2026-11-13",
    "summary": "",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": [
     "鼎龙股份"
