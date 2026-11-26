@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26 17:03:21",
- "count": 2278,
+ "updated": "2026-11-26 17:14:00",
+ "count": 2281,
  "items": [
   {
    "id": "93e274cdb5c790edee39aeb6f2e9a8f5de630727",
@@ -188,6 +188,19 @@
    "source": "GoogleNews·证券之星",
    "domain": "memory",
    "published": "2026-11-26",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "4c5e21896b677cc766c0f86d0ba6bb18516982d2",
+   "title": "价值上千万！7台“双流造”光刻机出货！",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50N0RVam5oZ3VBVkc2X1p2SGdWS0VZaGpKMGsxZ3JaVnYtZzVSTVJGRTdEQ2FqdGJhX0o5Z1RHWU5fQjJHZ3VuUDJqYnVTUWUzLTFsaWZR?oc=5",
+   "source": "GoogleNews·news.qq.com",
+   "domain": "litho_machine",
+   "published": "2026-11-24",
    "summary": "",
    "first_seen": "2026-11-26",
    "last_seen": "2026-11-26",
@@ -1155,6 +1168,32 @@
    "co": []
   },
   {
+   "id": "0070c759cb6b6345b1159c9aecbf7a1de5ad2e45",
+   "title": "摩根大通上调2030年数据中心光模块市场规模预测至880亿美元，AAOI签22亿美元长期协议",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVVHFvcFhOQ3NveUhYSlJiZkNqWXlqbUpnWDRzYkh3T2lWeHVBRnNoS1M5azBZTnJkVkUxaEZyS1BhcU9tX2dGQTB1NXMyUTMwdVFpZ1kyN0hRYThDTE1uWVlmQWc3d2xUT2duUjAzbXpMaGVo?oc=5",
+   "source": "GoogleNews·金融界",
+   "domain": "optical_comm",
+   "published": "2026-11-26",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "5301ed90375f42e9748bd7e221f20e1e964dba17",
+   "title": "Omdia：800G波长服务将于2027-2028年快速起量",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5hbktfSFZ4MmNTZVpaRUNvVXA5dlhrMEh6QWRJS3BXN0pjeDI3ZXdWWUhoRkZ2VWptYmQtV3pNRnFFakVjcWtSZFVyRU1hYnNBNWwwd1dZREJlMGlaTlB6MmdNeWVSeEZFWDhBZWwtYjFoMEpZakRLTw?oc=5",
+   "source": "GoogleNews·讯石光通讯网",
+   "domain": "optical_comm",
+   "published": "2026-11-26",
+   "summary": "",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "bt": 0,
+   "co": []
+  },
+  {
    "id": "73c1771fd069a035c80551cb7b74217d2ae46bfa",
    "title": "CXMT、YMTC扩产提速：DRAM份额升至9%，YMTC NAND按出货量计份额超Kioxia",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMUI4c1lzT3JaRWtyVUpIZW5NMU5FQmpteEpjLVVkdDNYX043Ukg5SXhqZWpwa2REbW8tRjNQOFBIMG9OR1FoWDBWdjltbjJScXZNd2VrWXVTcHdxQ2tRNXh2cXVKaFM3NFN1QllWd211cHFxZzVnWGVtNWROSUE1aUlYaW1nalVfbnNvd1VR?oc=5",
@@ -1818,7 +1857,7 @@
    "published": "2026-11-25",
    "summary": "",
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": [
     "长江存储"
@@ -2951,7 +2990,7 @@
    "published": "2026-11-08",
    "summary": "",
    "first_seen": "2026-11-22",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 6,
    "co": []
   },
@@ -3404,7 +3443,7 @@
    "published": "2026-11-20",
    "summary": "",
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": [
     "鼎龙股份"
@@ -4149,7 +4188,7 @@
    "published": "2026-11-08",
    "summary": "",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
@@ -9678,7 +9717,7 @@
    "published": "2026-11-11",
    "summary": "",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "bt": 0,
    "co": []
   },
