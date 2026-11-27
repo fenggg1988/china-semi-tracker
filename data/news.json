@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27 17:17:48",
- "count": 2335,
+ "updated": "2026-11-27 17:21:27",
+ "count": 2339,
  "items": [
   {
    "id": "7e444f516191ac0f4d47320c92c94a12c1bd1a6b",
@@ -199,6 +199,19 @@
    "co": [
     "剑桥科技"
    ]
+  },
+  {
+   "id": "3887e37aa7464cbd2a7e6ab2770abc2e20115fe4",
+   "title": "国产自研HBM方案亮相！全球PCB供应链拉响缺货警报，元件板块走强，东山精密、三环集团双双涨超4%！消费电子ETF汇添富(159178)指数涨超1%",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xb0Z3Skc1Y1MzMS13UFQ1NHE5blNVMkg4elNhaGM2dEtSblhVQ291T0ExanlYMmZfVkxFQ3YtWEhwREtWYTlPcWEtYjBxMFFOcG9r?oc=5",
+   "source": "GoogleNews·FX168财经",
+   "domain": "memory",
+   "published": "2026-11-26",
+   "summary": "",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27",
+   "bt": 2,
+   "co": []
   },
   {
    "id": "ec867be3ff2922ab210cc52fd31b9ff89ea0e631",
@@ -645,12 +658,53 @@
    "co": []
   },
   {
+   "id": "e5e04182afc2f86e45d8a8c3b742ee6874c1ee5d",
+   "title": "剑桥科技港股盘中涨超11%，高速光模块产能扩张",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA1cFE4Uy0tZ2JfUDZzZExGYVBBWm1INkY4UDN2WXlSN1JMNU56VjN3VmViRGk0T1U1azYwbTN0Ukw0a2RRbW82RGVvWDVLWmZ2YW8tc1VLdFhWYTdG?oc=5",
+   "source": "GoogleNews·www.caiwennews.com",
+   "domain": "optical_comm",
+   "published": "2026-11-11",
+   "summary": "",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27",
+   "bt": 0,
+   "co": [
+    "剑桥科技"
+   ]
+  },
+  {
+   "id": "4b58e092cdbfc3c0566c3a3691fca9563458234f",
+   "title": "重磅！半导体板块集体拉升，聚集设备、制造与算力芯片三条主线",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VNm14dFNjRng4dTZyOC1IdGlxeUtzXzUwRzYyRGRIVElHV0Yzc2ZQd0JBd1I4ampMa3o3NEpxNHFGUUF0R2E1eHJMYlVQeVZGVElJUzJ1S1M3Ui1McThkM3ZGSQ?oc=5",
+   "source": "GoogleNews·金融界",
+   "domain": "logic",
+   "published": "2026-11-27",
+   "summary": "",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27",
+   "bt": 0,
+   "co": []
+  },
+  {
    "id": "6b456adf771cd2a3ad68cf9f6d5605fabedec5dd",
    "title": "胜宏科技脱水研报：1.6T光模块放量与H股募资扩产并进，营收高增而利润转化滞后",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54TEVpOHMtcDEzenphMzNhdXZJU1FNNTdCNnpoWUZqN0U0MUhNdEN4MFJpZW94TXhZeXl2QWFTMjFwVjgza2FsLW9MdUNCYVZodWdEN1JhbU1BaUtZQ1hNS050SG9JY3ptcjhOby1SZw?oc=5",
    "source": "GoogleNews·新浪财经",
    "domain": "optical_comm",
    "published": "2026-11-26",
+   "summary": "",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27",
+   "bt": -1,
+   "co": []
+  },
+  {
+   "id": "13855d199a7fc537c20b366d48095dd6c70e0335",
+   "title": "方正科技：Q3净利润同比超3倍增长，AI服务器、1.6T相关PCB已批量出货",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54VFNYbkpPS216SW1kS1dXZHdpa2FWelR6M3hsVGNUM3NSUHk2N2d3aGVrS2ZPSDhldUdIbUd2UEhXQklsUXBmdjFsanVfYWc3SDdGS0pKUTduWl9s?oc=5",
+   "source": "GoogleNews·www.caiwennews.com",
+   "domain": "optical_comm",
+   "published": "2026-11-13",
    "summary": "",
    "first_seen": "2026-11-27",
    "last_seen": "2026-11-27",
@@ -5518,7 +5572,7 @@
    "published": "2026-11-20",
    "summary": "",
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "bt": -3,
    "co": [
     "德明利"
@@ -9343,7 +9397,7 @@
    "published": "2026-11-12",
    "summary": "",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-13",
+   "last_seen": "2026-11-27",
    "bt": 2,
    "co": []
   },
@@ -11282,7 +11336,7 @@
    "published": "2026-11-08",
    "summary": "",
    "first_seen": "2026-11-09",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "bt": 0,
    "co": [
     "上海微电子"
