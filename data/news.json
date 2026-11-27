@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27 17:21:27",
- "count": 2339,
+ "updated": "2026-11-27 17:29:18",
+ "count": 2342,
  "items": [
   {
    "id": "7e444f516191ac0f4d47320c92c94a12c1bd1a6b",
@@ -686,6 +686,32 @@
    "co": []
   },
   {
+   "id": "66a0dc2b81e0bc79f91c5f8b7390e9fbbfec176e",
+   "title": "阿斯麦赢得台积电和三星承诺 新一代EUV光刻机获强力“护航”",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE91TmJySUFNcTRUaXVDWEY1SlZKRFhVVDBvS2c5a2dnMFZIdXlRTmlzalJMeHVaU2x6UWE2YTJiYl9PS3cyWDdaVw?oc=5",
+   "source": "GoogleNews·财联社",
+   "domain": "litho_machine",
+   "published": "2026-11-27",
+   "summary": "",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "69be5c95761fc1c11562d07813f5c9056e9ebe27",
+   "title": "美国欲再卡光刻机 荷兰又演“先硬后软”？",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE50ZVNpQm1LUWNHV0o5THpzakRYNnFwdEV2Nmt0QV9RN3M2bnZ3ZUxUOUVCSks1S3NqSktpZHktVWFOcVBCRWRjZFgtZUE5OW9WdTFneUkxMnZGSWc0?oc=5",
+   "source": "GoogleNews·网易新闻客户端",
+   "domain": "litho_machine",
+   "published": "2026-11-27",
+   "summary": "",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27",
+   "bt": 0,
+   "co": []
+  },
+  {
    "id": "6b456adf771cd2a3ad68cf9f6d5605fabedec5dd",
    "title": "胜宏科技脱水研报：1.6T光模块放量与H股募资扩产并进，营收高增而利润转化滞后",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54TEVpOHMtcDEzenphMzNhdXZJU1FNNTdCNnpoWUZqN0U0MUhNdEN4MFJpZW94TXhZeXl2QWFTMjFwVjgza2FsLW9MdUNCYVZodWdEN1JhbU1BaUtZQ1hNS050SG9JY3ptcjhOby1SZw?oc=5",
@@ -705,6 +731,19 @@
    "source": "GoogleNews·www.caiwennews.com",
    "domain": "optical_comm",
    "published": "2026-11-13",
+   "summary": "",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27",
+   "bt": -1,
+   "co": []
+  },
+  {
+   "id": "215e208138219a75c2e2a0cf5fd7cad726cf30b7",
+   "title": "23%营收来自中国！阿斯麦反对DUV禁令：封锁只会加速国产替代- 产业链",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBPMHBXNy1INkozT0J3dUk2X1dFeWNOMTZEU2puUUZzNktoSkw5YlJNVkVmYU5pVEx0dkJVazVlYWt5RnI0NFNrZ0lndVk5SlRWcUZvWFQwcw?oc=5",
+   "source": "GoogleNews·光通信Pro",
+   "domain": "litho_machine",
+   "published": "2026-11-20",
    "summary": "",
    "first_seen": "2026-11-27",
    "last_seen": "2026-11-27",
@@ -1514,7 +1553,7 @@
    "published": "2026-11-11",
    "summary": "",
    "first_seen": "2026-11-26",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "bt": 0,
    "co": []
   },
@@ -1540,7 +1579,7 @@
    "published": "2026-11-25",
    "summary": "",
    "first_seen": "2026-11-26",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "bt": 0,
    "co": []
   },
@@ -10915,7 +10954,7 @@
    "published": "2026-11-09",
    "summary": "",
    "first_seen": "2026-11-10",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "bt": 0,
    "co": [
     "长江存储"
