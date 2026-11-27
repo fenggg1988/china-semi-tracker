@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27 17:38:49",
- "count": 2344,
+ "updated": "2026-11-27 18:28:34",
+ "count": 2349,
  "items": [
   {
    "id": "7e444f516191ac0f4d47320c92c94a12c1bd1a6b",
@@ -738,6 +738,73 @@
    "co": [
     "中芯国际"
    ]
+  },
+  {
+   "id": "ffd8037ca4a06258a77ce1f1236d8ca09bb697df",
+   "title": "曝谷歌第 10 代 TPU 芯片将配备 512GB 定制 HBM5 内存",
+   "url": "https://www.ithome.com/1/033/624.htm",
+   "source": "IT之家",
+   "domain": "memory",
+   "published": "2026-11-27",
+   "summary": "IT之家 11 月 27 日消息，韩媒 Economy Tribune 当地时间今日爆料称，Google（谷歌）计划为其第 10 代 TPU 芯片配备 512GB 的定制 HBM5 内存。谷歌 TPU 是当前最主要的 AI ASIC 产品，其规格可作为窥视未来 AI 芯片竞争的窗口。从各位消息人士的近期泄露来看，TPU",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "8cdaab846b0cc66d2f9240d0d5556cbe4dfb6d71",
+   "title": "摩根大通上调2030年光模块市场预期至880亿美元，光通信产业链迎多重催化",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LOGM2aVBNZ0xlZWsxVU5pd2loVGRVcVJISkEtenBuNHk2dERMUUNVUTB6WExuSk0wR09CWXV0eHZPRHhReFprRUJQeHRfMC1GbnJDU3E5eW9sUGw4QmVVRExITG0wdkhjbzVoaUVlb2RkTDA?oc=5",
+   "source": "GoogleNews·手机新浪网",
+   "domain": "optical_comm",
+   "published": "2026-11-27",
+   "summary": "",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "66e1b891af3991b6b8a2d93dad91ef7618713740",
+   "title": "景旺电子：拟26.8亿元投建高阶mSAP精密线路板项目面向800G、1.6T/3.2T光模块PCB等市场_7x24快讯_新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE00aF9iYWd3NVJFOW1nc3BMSmtnWU5VOWUzejEzMm1pdDNHTjl2dHFkUVp3OFI2X1R2eFpCR2J0WXdhOTd6NjBlX2xCQQ?oc=5",
+   "source": "GoogleNews·新浪网",
+   "domain": "optical_comm",
+   "published": "2026-11-27",
+   "summary": "",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27",
+   "bt": 0,
+   "co": []
+  },
+  {
+   "id": "dd74f95a9c8e49f25cb4e39ddf663a4fdd92d3b4",
+   "title": "新易盛：1.6T产品今年逐步放量，四季度更为明显_7x24快讯_新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBNbzFmUnhfTDlRWFRnYzZjLVVyM2tfRFkxTnZnNFlLYVhpbGM3R1JpTnlHdHUxVTYyRl9JMVFtS25QemJsdlpwWV9IOA?oc=5",
+   "source": "GoogleNews·新浪网",
+   "domain": "optical_comm",
+   "published": "2026-11-27",
+   "summary": "",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27",
+   "bt": 0,
+   "co": [
+    "新易盛"
+   ]
+  },
+  {
+   "id": "9e4078a873f600160a35f0308dee79dd530c98fc",
+   "title": "长鑫上市，雷军李斌各自狂赚超7亿！",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFByXzR3Q3ZIS2VJQXA3RlNlTTVkUlpHRXdXUmNSOWJtYXVUZmlZc21MYnZHbEFRZ2JrWWhVNTgwSVRocTQ5Mkc5OUt3cUN5ZUVUMHgtNnV4dnlQT2c?oc=5",
+   "source": "GoogleNews·汽车之家",
+   "domain": "memory",
+   "published": "2026-11-25",
+   "summary": "",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27",
+   "bt": 0,
+   "co": []
   },
   {
    "id": "6b456adf771cd2a3ad68cf9f6d5605fabedec5dd",
