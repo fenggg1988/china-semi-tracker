@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-28 16:55:32",
- "count": 2385,
+ "updated": "2026-11-28 17:45:10",
+ "count": 2388,
  "items": [
   {
    "id": "771811585d4b9b004785c135bdd40faaf5d2d61d",
@@ -87,6 +87,19 @@
    "source": "GoogleNews·新浪网",
    "domain": "optical_comm",
    "published": "2026-11-09",
+   "summary": "",
+   "first_seen": "2026-11-28",
+   "last_seen": "2026-11-28",
+   "bt": 2,
+   "co": []
+  },
+  {
+   "id": "b40bf8c0a1d4a35a8453f323e8be2b5ab0ee3baf",
+   "title": "一滴水实现技术破局，多方联手攻关，EUV成为芯片核心装备",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbWpsUVQxOFRkSjBpS2JjSmJDbjBKT01vaEdpS0UxUDJmZGFjMm5QMkdQa1MxRU85WlhhY3pUaUtyc3JyZVdXRk1JN2p1RFB5UWVrT1ZNT3hJaEN1YXBSVGpmU1VqaEZSUTFobkZmQ3p2YTZ6TFg2b1hjZWk2VnZacHhsR3hkbEszcjE2Sg?oc=5",
+   "source": "GoogleNews·Sohu",
+   "domain": "litho_machine",
+   "published": "2026-11-28",
    "summary": "",
    "first_seen": "2026-11-28",
    "last_seen": "2026-11-28",
@@ -477,6 +490,34 @@
    "co": [
     "长江存储"
    ]
+  },
+  {
+   "id": "a8cbe6f9ef6b5ac548cbe3ff77a455eae316d27c",
+   "title": "将星闪联接、端侧 AI、超高清音视频融入开源鸿蒙，上海海思介绍 Hi-OHOS 平台",
+   "url": "https://www.ithome.com/1/033/928.htm",
+   "source": "IT之家",
+   "domain": "logic",
+   "published": "2026-11-28",
+   "summary": "IT之家 11 月 28 日消息，2026 开源鸿蒙技术大会今日在南京举行。此次大会上，上海海思重点介绍了基于开源鸿蒙构建的统一 OS 平台 —— Hi-OHOS。官方表示，重构百亿 IoT 终端，需要一套系统原生的能力：有联接 —— 分布式软总线结合星闪硬总线，兑现设备跨品牌跨品类互联互通；有计算 ——AI 能力内建",
+   "first_seen": "2026-11-28",
+   "last_seen": "2026-11-28",
+   "bt": 0,
+   "co": [
+    "海思"
+   ]
+  },
+  {
+   "id": "398aa8c5a393e439f2ca38ef1e1d18e02cbbe0c5",
+   "title": "永诺 16mm F1.8 DA DSM APS-C 镜头新增尼康 Z 卡口，1299 元",
+   "url": "https://www.ithome.com/1/033/923.htm",
+   "source": "IT之家",
+   "domain": "optics",
+   "published": "2026-11-28",
+   "summary": "IT之家 11 月 28 日消息，永诺今日宣布推出 YN16mm F1.8Z DA DSM Z 卡口 APS-C 画幅广角镜头，该镜头此前已推出索尼 E 卡口版本，新品首发价 1299 元。这款镜头等效全画幅 24mm 焦段，重约 273g；拥有 Fn-A、Fn-B 两个自定义按键；支持控制环操作，可根据使用需求分配光",
+   "first_seen": "2026-11-28",
+   "last_seen": "2026-11-28",
+   "bt": 0,
+   "co": []
   },
   {
    "id": "4a94eac5a52e555c07ef3d72363e36da9e019ce1",
@@ -7220,7 +7261,7 @@
    "published": "2026-11-18",
    "summary": "",
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-28",
    "bt": 0,
    "co": []
   },
